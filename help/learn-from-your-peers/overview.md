@@ -10,8 +10,6 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;! --- <img alt="エクスペリエンスメーカー同士から学ぶ" src="./assets/skill-exchange.png" /> --->
-
 Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法を学びます。 実践者向けにトピックを選択した場合、 _作成者_ 実践者を対象としたインタラクティブセッションでは、「可能な限りの技術」のユースケース、ベストプラクティス、ヒントとテクニックを紹介しています。
 
 >[!TIP]
