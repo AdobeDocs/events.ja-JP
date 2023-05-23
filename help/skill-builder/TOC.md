@@ -44,8 +44,6 @@ ht-degree: 47%
       + [B2B および B2C における顧客ジャーニーの動向と革新](customer-journeys/2022/keynote.md)
       + [連携して機能強化 - Adobe Marketo Engage と Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Marketo Engage と Adobe Experience Cloud による B2B エクスペリエンス](customer-journeys/2022/b2b-experiences.md)
-&lt;!---    + 
-[Adobe Campaign Classic V7 と V8 の比較](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + データとインサイト {#data-and-insights}
    + [概要](data-and-insights/overview.md)
    + 2022年 {#2022}
