@@ -4,9 +4,9 @@ description: Eclipse 用 AEM 開発者ツールは、AEM アプリケーショ�
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,7 @@ Eclipse 用 AEM 開発者ツールは、AEM アプリケーションの開発を
 
 ## 関連リンク {#related-links}
 
-* [Eclipse 用 AEM 開発者ツール - ドキュメント](http://docs.adobe.com/docs/ja/dev-tools/aem-eclipse.html)
+* [Eclipse 用 AEM 開発者ツール - ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html?lang=ja)
 * [AEM 開発者ツールダウンロードサイト](http://eclipse.adobe.com/aem/dev-tools/)
 * [Sling IDE ツール](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [ディスカッションおよび質問のフォーラム](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)

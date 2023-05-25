@@ -12,9 +12,9 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7341
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '195'
 ht-degree: 11%
 
 ---
@@ -32,7 +32,7 @@ Dynamic Mediaを使用して、すべてのチャネルと画面のアセット�
 *[Dynamic Mediaビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[リッチメディア戦略キックスタートガイド](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[リッチメディア戦略画像プリセットガイド](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[Image is Eylthing Blog Series](https://blog.adobe.com/en/2019/04/11/image-is-everything-part-1-has-your-rich-media-strategy-expired.html#gs.iou0ek)
+*[Image is Eylthing Blog Series](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## シリーズ録画
 

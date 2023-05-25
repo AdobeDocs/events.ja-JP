@@ -10,9 +10,9 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -28,8 +28,7 @@ Java や Sling などの従来の Experience Manager スキルが必要なく、
 このウェビナーは 2022年3月23日（PT）に実施され、ソフトウェア開発エンジニアの Duy Nguyen が発表しました
 
 >[!MORELIKETHIS]
->
->* [対応する Adobe Experience Manager ユーザーグループのイベントページ](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
 >* [対応するコンテキストスレッド](https://adobe.ly/3LkSWdm)
 >* 今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
 
