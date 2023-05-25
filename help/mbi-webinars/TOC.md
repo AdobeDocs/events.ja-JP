@@ -2,7 +2,7 @@
 user-guide-title: MBI イベント
 breadcrumb-title: MBI イベント
 user-guide-description: MBI Events(MBI Events) は、専門家や同業者がAdobe Commerceに関する考えやアイデアを共有するビデオライブラリーです。
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 37%
@@ -13,8 +13,8 @@ ht-degree: 37%
 # MBI イベント  {#mbi-webinars-recordings}
 
 + [概要](overview.md)
-+ 2022年 {#2022}
-   + [MBI でのデータセットの管理](2021-22/manage-data-sets.md)
++ 2023年 {#2023}
+   + [MBI でのデータセットの管理](2023/manage-data-sets.md)
 + 2021年 {#2021}
    + [MBI 使用の手引き](2021-22/getting-started.md)
    + [MBI Data Warehouse の最適化](2021-22/optimize-data-warehouse.md)
