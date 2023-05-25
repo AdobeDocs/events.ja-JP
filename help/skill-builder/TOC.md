@@ -1,10 +1,10 @@
 ---
 user-guide-title: スキルビルダー
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 47%
+source-wordcount: '170'
+ht-degree: 45%
 
 ---
 
@@ -44,6 +44,8 @@ ht-degree: 47%
       + [B2B および B2C における顧客ジャーニーの動向と革新](customer-journeys/2022/keynote.md)
       + [連携して機能強化 - Adobe Marketo Engage と Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Marketo Engage と Adobe Experience Cloud による B2B エクスペリエンス](customer-journeys/2022/b2b-experiences.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + データとインサイト {#data-and-insights}
    + [概要](data-and-insights/overview.md)
    + 2022年 {#2022}
