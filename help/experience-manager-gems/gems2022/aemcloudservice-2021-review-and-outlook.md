@@ -10,10 +10,11 @@ role: User
 level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -29,7 +30,7 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [対応する Adobe Experience Manager ユーザーグループのイベントページ](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [対応する Adobe Experience Manager ユーザーグループのイベントページ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
 >* [対応するコンテキストスレッド](https://adobe.ly/3rqbSOz)
 >* 今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
 

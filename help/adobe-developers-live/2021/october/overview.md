@@ -2,7 +2,8 @@
 title: Adobe Developers Live2021 年 10 月
 description: Adobe Developers Liveイベントの一部として提供される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
 sub-product: sites, content-services
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 31%
@@ -94,6 +95,6 @@ Adobe Experience Cloud、Document Cloud、Creative Cloudの各Adobe製品チー�
 
 ### App Builder
 
-* [App Builder の概要](http://adobe.ly/aem-appbuilder)
-* [App Builder 開発者ガイド](http://adobe.ly/appbuilder)
-* [App Builder 体験版プログラムのサインアップ](http://adobe.ly/appbuilder-trial)
+* [App Builder の概要](https://adobe.ly/aem-appbuilder)
+* [App Builder 開発者ガイド](https://adobe.ly/appbuilder)
+* [App Builder 体験版プログラムのサインアップ](https://adobe.ly/appbuilder-trial)

@@ -4,10 +4,11 @@ description: このセッションでは、現在の AEM 6.3 の機能と、多�
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '211'
+ht-degree: 70%
 
 ---
 
@@ -30,6 +31,8 @@ ht-degree: 100%
 
 ## 関連リンク {#related-links}
 
-* [AEM Sites の翻訳ドキュメント](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
-* [多言語アセットの管理](https://docs.adobe.com/docs/ja/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [翻訳ベストプラクティスのドキュメント](https://helpx.adobe.com/jp/experience-manager/6-3/sites/administering/using/tc-bp.html)
+>[!WARNING]
+>
+>AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>
+>このセッションに関しては、 *AEM Sites Translation Documents*, *翻訳のベストプラクティスドキュメント* および *多言語アセットの管理* (AEM 6.3 ドキュメント )。

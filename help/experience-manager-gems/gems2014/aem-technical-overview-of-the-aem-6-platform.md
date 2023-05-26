@@ -4,10 +4,11 @@ description: このセッションでは、Peter Klassen（製品マネージャ
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 674467f9-d05d-49ab-b457-975f413342fe
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -29,6 +30,6 @@ ht-degree: 100%
 
 ## 関連リンク {#related-links}
 
-* [AEM 6.0 リリースノート](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [AEM 6.0 の管理](http://docs.adobe.com/docs/ja/aem/6-0/manage.html)
-* [AEM 6.0 へのアップグレードの計画](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 リリースノート](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [AEM 6.0 の管理](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [AEM 6.0 へのアップグレードの計画](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

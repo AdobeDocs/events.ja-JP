@@ -4,10 +4,11 @@ description: Oak Lucene インデックスの機能と、クエリのパフォ�
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 70%
 
 ---
 
@@ -34,5 +35,10 @@ Oak Lucene インデックスの機能と、クエリのパフォーマンスを
 
 ## 関連リンク {#related-links}
 
-* [Oak クエリとインデックス作成](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+>[!WARNING]
+>
+>AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>
+>このセッションに関しては、 *Oak クエリとインデックス作成* (AEM 6.1 ドキュメント )。
+
 * [Oak ドキュメント：Lucene インデックス](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

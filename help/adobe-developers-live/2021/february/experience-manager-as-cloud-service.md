@@ -11,19 +11,19 @@ version: Cloud Service
 kt: 7163
 type: Event
 thumbnail: 331278.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 40ddb1fc-13ec-4db1-b344-98d0ee805075
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 13%
 
 ---
 
-
 # Adobe Experience Manager as a Cloud Service
 
 クラウド内のAdobe Experience Managerの戦略とイノベーションに関するインサイトを共有しながら、現在に至る大きな変化について説明しています。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](http://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331278/?quality=12&learn=on&hidetitle=true)
 

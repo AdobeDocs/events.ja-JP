@@ -4,10 +4,11 @@ description: 高度なジョブ処理機能の技術的な概要について説�
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 13888662-d1c5-4fff-b55e-38acede95396
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -35,6 +36,6 @@ ht-degree: 100%
 
 ## 関連リンク {#related-links}
 
-* [Apache Sling イベントとジョブ処理](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API およびその実装](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [ジョブのオフロード](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Apache Sling イベントとジョブ処理](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [Discovery API およびその実装](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [ジョブのオフロード](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

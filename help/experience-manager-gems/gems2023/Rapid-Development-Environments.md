@@ -13,7 +13,8 @@ last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 100%
@@ -41,6 +42,6 @@ RDE を使用すると、開発者は変更を迅速にデプロイしてレビ�
 
 >[!NOTE]
 >
->* Experience League に関するセッション固有のコミュニティのやり取りについては、この[コンテキストスレッド](http://bit.ly/3x1Cl8x)を参照してください。
+>* Experience League に関するセッション固有のコミュニティのやり取りについては、この[コンテキストスレッド](https://bit.ly/3x1Cl8x)を参照してください。
 >* 今後のウェビナーに関する通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に登録してください。
 

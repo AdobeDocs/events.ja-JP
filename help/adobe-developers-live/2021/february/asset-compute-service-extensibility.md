@@ -12,7 +12,8 @@ version: Cloud Service
 kt: 7186
 type: Event
 thumbnail: 331849.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 367217d0-5b22-4428-a70d-572aa56f2d09
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -23,6 +24,6 @@ ht-degree: 0%
 
 Adobe Developer App Builder を使用して、Adobe Experience Managerへの取り込み中にアセット処理用のカスタムAsset computeワーカーを作成する方法を説明します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](http://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

@@ -4,10 +4,11 @@ description: AEM Screens は、Adobe Experience Manager に統合された新し
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 100%
+source-wordcount: '263'
+ht-degree: 78%
 
 ---
 
@@ -34,5 +35,10 @@ AEM Screens は、Adobe Experience Manager に統合された新しいデジタ�
 
 ## 関連リンク {#related-links}
 
-* [Screens のデプロイ](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Screens の概念](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+
+>[!WARNING]
+>
+>AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>
+>このセッションに関しては、 *Screens のデプロイ* および *Screens の概念* (AEM 6.2 ドキュメント )。
+

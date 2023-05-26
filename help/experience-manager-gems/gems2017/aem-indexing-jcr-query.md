@@ -5,10 +5,11 @@ uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 30a68d44-f4f1-4370-8e96-edc6f9cbfe1a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 52%
 
 ---
 
@@ -28,8 +29,15 @@ ht-degree: 100%
 
 AEM ドキュメント
 
-* [Oak クエリとインデックス作成](https://docs.adobe.com/docs/en/aem/6-3/deploy/platform/queries-and-indexing.html)
-* [クエリとインデックスに関するベストプラクティス](https://docs.adobe.com/docs/ja/aem/6-3/deploy/best-practices/best-practices-for-queries-and-indexing.html)
+>[!CAUTION]
+>
+>**記録されたすべてのセッションは、左側のナビゲーションに表示されます**.
+
+>[!WARNING]
+>
+>AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>
+>このセッションに関しては、 *Oak クエリとインデックス作成* および *クエリとインデックスに関するベストプラクティス* (AEM 6.3 ドキュメント )。
 
 Oak ドキュメント
 

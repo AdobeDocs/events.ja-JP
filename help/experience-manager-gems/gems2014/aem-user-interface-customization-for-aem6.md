@@ -4,10 +4,11 @@ description: AEM 6.0 ユーザーインターフェイスを拡張する方法�
 uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0604122c-2296-4db4-a70d-e9d11280b6bd
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -30,7 +31,7 @@ ht-degree: 100%
 
 ## 関連リンク {#related-links}
 
-* [タッチ UI の概念](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [構造](http://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [コンソールのカスタマイズ（タッチ操作向け UI）](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [ページオーサリングのカスタマイズ（タッチ操作向け UI）](http://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [タッチ UI の概念](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [構造](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [コンソールのカスタマイズ（タッチ操作向け UI）](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [ページオーサリングのカスタマイズ（タッチ操作向け UI）](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

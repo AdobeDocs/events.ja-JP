@@ -5,7 +5,8 @@ uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 852e578e-0594-4482-9ee8-a4b30248f99a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
@@ -30,7 +31,7 @@ AEM 6 には、Dynamic Tag Management（DTM）用の Cloud Service が付属し�
 
 ## 関連リンク {#related-links}
 
-[Adobe Dynamic Tag Management との統合](http://docs.adobe.com/docs/ja/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[Adobe Dynamic Tag Management との統合](https://helpx.adobe.com/jp/experience-manager/6-0/sites/administering/using/dtm.html)
 
 [DTM ヘルプ](https://experienceleague.adobe.com/docs/data-collection.html?lang=ja)
 
