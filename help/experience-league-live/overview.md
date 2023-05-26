@@ -5,10 +5,11 @@ solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
+source-git-commit: 07619d719d0dd1429202686ca359c9744bec77c4
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 48%
+source-wordcount: '165'
+ht-degree: 49%
 
 ---
 
@@ -22,16 +23,8 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-5-24-23.md">
-      <img alt="Experience Leagueライブ 5 月 24 日" src="assets/May24_exl_live_banner_web_1920_WebBanner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-5-24-23.md">
-        <strong>Adobe Journey Optimizerでモバイルアプリの可能性を最大化</strong>
-      </a>
-      <br/><em>サンドラ・ハウスマン、チェタン・プラサド、ピーター・フランセンと共に</em>
-      <br/><em>2023 年 5 月 24 日</em>
-    </div>
+  <td>
+    早急に戻って情報をお探し下さい。 我々は 2023 年 6 月に 2 回のショーを開催し、間もなくここで情報を得る予定です。
   </td>
 </tr>
 </table>
