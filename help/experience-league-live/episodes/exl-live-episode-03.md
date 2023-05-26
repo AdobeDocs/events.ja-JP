@@ -3,12 +3,12 @@ title: ホリデーキャンペーンを目立たせるためのエキスパー�
 description: 休暇に備えた買い物を始めるのに早すぎることがないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くための計画も、早く始めるに越したことはありません。Adobe Campaignを使用すると、組織の休日の希望を満たすキャンペーンを設計、計画、実行できます。 しかし、1 年を経て大変な結果が得られるキャンペーンの実行に関するヒントを知っていますか？ それらに関する豊富な専門知識を持つ 3 人の Adobe 専門家によるライブディスカッションにご参加ください。配信品質と実行のベストプラクティスについて説明し、Adobe Campaignでのすべての方法を示します。
 solution: Campaign
 kt: 8581
-thumbnail: 337219.jpg
+thumbnail: https://video.tv.adobe.com/v/337219?format=jpeg
 event-cta-url: null
 event-start-time: 2021-09-22 09:00-7
 event-guests: Sandra Hausmann,Bruce Swann,Alyssa Nahatis,Stephen Ford
 exl-id: f31c00e6-0981-4224-b4c5-1bab123e9587
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 44%
