@@ -1,7 +1,7 @@
 ---
 title: スキルビルダーの概要
 description: ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活かすための録画ウェビナーシリーズ。
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 3%
@@ -48,7 +48,7 @@ ht-degree: 3%
     <p>
     <em>組織全体のオンラインとオフラインのデータインサイトを使用して、あらゆるチャネルでリアルタイムのパーソナライゼーションを推進します。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">セッションを参照</span>
     </a>
   </td>  
