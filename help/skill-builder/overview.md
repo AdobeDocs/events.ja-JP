@@ -1,9 +1,10 @@
 ---
 title: スキルビルダーの概要
 description: ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活かすための録画ウェビナーシリーズ。
-source-git-commit: b85f434224e5e4b08e80c99b6da0edb9acac1ee9
+exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '159'
 ht-degree: 3%
 
 ---
@@ -36,7 +37,7 @@ ht-degree: 3%
     <p>
     <em>すべてのソースからデータを取り出して、パーソナライズされたクロスチャネルジャーニーを作成し、リアルタイムの顧客プロファイルを作成します。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">セッションを参照</span>
     </a>
   </td>
@@ -48,7 +49,7 @@ ht-degree: 3%
     <p>
     <em>組織全体のオンラインとオフラインのデータインサイトを使用して、あらゆるチャネルでリアルタイムのパーソナライゼーションを推進します。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">セッションを参照</span>
     </a>
   </td>  

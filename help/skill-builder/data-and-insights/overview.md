@@ -1,7 +1,8 @@
 ---
 title: スキルビルダーの概要
 description: 組織全体のオンラインとオフラインのデータインサイトを使用して、あらゆるチャネルでリアルタイムのパーソナライゼーションを推進します。
-source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
+exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -18,7 +19,7 @@ ht-degree: 6%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
-      <img alt="Adobe Target を使用したパーソナライズと自動化" src="assets/343821.jpeg" />
+      <img alt="Adobe Target を使用したパーソナライズと自動化" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
@@ -31,7 +32,7 @@ ht-degree: 6%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
-      <img alt="2022 年イノベーションと動向" src="assets/343818.jpeg" />
+      <img alt="2022 年イノベーションと動向" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
@@ -44,7 +45,7 @@ ht-degree: 6%
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="モバイルおよびアプリ用の Analytics および Target アプリケーション" src="assets/343819.jpeg" />
+      <img alt="モバイルおよびアプリ用の Analytics および Target アプリケーション" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
@@ -61,4 +62,3 @@ ht-degree: 6%
 >[!TIP]
 >
 >**記録されたすべてのセッションは、左側のナビゲーションに表示されます**.
-
