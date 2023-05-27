@@ -3,10 +3,10 @@ user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 7%
+source-wordcount: '664'
+ht-degree: 6%
 
 ---
 
@@ -14,6 +14,19 @@ ht-degree: 7%
 # アドビ開発者ライブイベント {#adobe-developers-live-recordings}
 
 + [概要](overview.md)
++ 2023年 {#2023}
+   + 年5月{#may2023}
+      + [開口キーノート](2023/may/keynote.md)
+      + [API ツアー](2023/may/new-apis.md)
+      + [電子メールおよびForms向けのAEMコアコンポーネントの詳細](2023/may/core-components.md)
+      + [埋め込みアセットピッカー](2023/may/asset-picker.md)
+      + [Microsoft 365/Google Workspace を使用した編集](2023/may/microsoft-365.md)
+      + [迅速なデプロイメント](2023/may/workflows.md)
+      + [AEM製品リーダーとの Fireside のチャット](2023/may/fireside.md)
+      + [JavaScript ブロック](2023/may/javascript-blocks.md)
+      + [AEM Assetsとアプリケーションのシームレスな統合](2023/may/seamless-intergration.md)
+      + [GraphQL API について](2023/may/graphql.md)
+      + [ユニバーサルエディター](2023/may/universal-editor.md)
 + 2022年 {#2022}
    + 2 月 — コマース {#feb2022}
       + [概要](2022/february/overview.md)
