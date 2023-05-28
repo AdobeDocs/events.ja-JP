@@ -5,7 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 50dbcdf4-2e5d-420b-975e-1e3e683356fd
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 1%
@@ -155,7 +156,7 @@ valueformat=HTML
 
 必要に応じて実行できることが 1 つあります。 実際の完了日が入力された後、「入力者」に電子メールを送信する問題にリマインダー通知を添付できます。 「入力者」は、イシューを作成したユーザーです。
 
-「Reminder to fill the After Action Review (AAR)」のオンラインセミナで行ったように、リマインダー通知を作成しますが、これは「Issue」リマインダーの場合を除きます。 調査へのリンクを提供するために、電子メールテンプレートを作成する必要がある場合があります。 各問題にリマインダー通知を手動で適用する（または一括編集を使用する）必要があります。
+「Reminder to fill the After Action Review (AAR)」のオンラインセミナで行ったように、リマインダー通知を作成しますが、これは問題のリマインダーです。 調査へのリンクを提供するために、電子メールテンプレートを作成する必要がある場合があります。 各問題にリマインダー通知を手動で適用する（または一括編集を使用する）必要があります。
 
 統合は、手動の手順を自動化できるので、より良い方法ですが、リマインダー通知はすぐにおこなうことができます。
 

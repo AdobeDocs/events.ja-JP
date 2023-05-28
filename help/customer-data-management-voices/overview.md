@@ -1,7 +1,8 @@
 ---
 title: 顧客データ管理の声
 description: 顧客データ管理の技術およびマーケティングプラクティスのリーダーおよびスペシャリストとしての宛先。  このページは、仲間から聞き取り、刺激を受け、martech の開発について学ぶためのワンストップショップです。
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 18%
