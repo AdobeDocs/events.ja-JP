@@ -44,8 +44,6 @@ ht-degree: 33%
       + [B2B および B2C における顧客ジャーニーの動向と革新](customer-journeys/2022/keynote.md)
       + [より良い組み合わせ —Adobe [!DNL Marketo Engage] とReal-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [B2B エクスペリエンスと [!DNL Marketo Engage] とAdobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
-&lt;!---    +> 
-[Adobe Campaign Classic V7 と V8 の比較](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + データとインサイト {#data-and-insights}
    + [概要](data-and-insights/overview.md)
    + 2022年 {#2022}
