@@ -6,9 +6,10 @@ role: User
 level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e39b9f63-d5b2-4211-8fa9-6aebbbf8bbf8
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 2%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 2%
 
 **重要な留意点**
 
-* 動的コンテンツを利用して、Marketo Engageプログラムの構築を合理化し、時間を節約します
+* 合理化 [!DNL Marketo Engage] 動的コンテンツを利用してプログラムを構築し、時間を節約する
 * 動的コンテンツを強化するためにデータベースをセグメント化する方法を説明します
 * 動的コンテンツの影響をレポートし、今後のマーケティング上の意思決定をガイドする
 

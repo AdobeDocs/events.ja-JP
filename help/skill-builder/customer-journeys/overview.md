@@ -2,10 +2,10 @@
 title: スキルビルダー — お客様のジャーニー
 description: 記録されたウェビナーシリーズ。すべてのソースからデータを取り出して、パーソナライズされたクロスチャネルジャーニーを作成することで、リアルタイムの顧客プロファイルを開発するのに役立ちます。
 exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 24%
+source-wordcount: '207'
+ht-degree: 9%
 
 ---
 
@@ -19,28 +19,28 @@ ht-degree: 24%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="連携して機能強化 - Adobe Marketo Engage と Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
+      <img alt="より良い組み合わせ —Adobe [!DNL Marketo Engage] とReal-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>連携して機能強化 - Adobe Marketo Engage と Real-Time CDP</strong>
+        <strong>より良い組み合わせ —Adobe [!DNL Marketo Engage] とReal-Time CDP</strong>
       </a>
     </div>
     <p>
-    <em>Marketo Engageと RT-CDP（B2B エディション）を使用して B2B キャンペーンを調整する方法と、主な使用例とロック解除されたメリットについて説明します。</em>
+    <em>を使用して B2B キャンペーンを調整する方法を学ぶ [!DNL Marketo Engage] と RT-CDP（B2B エディション）と、何が最も重要な使用例で、何がロック解除されたメリットか。</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="Adobe Campaign Classic でのデータモデルの開発とカスタマイズ" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
+      <img alt="Adobeでのデータモデルの開発とカスタマイズ [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Adobe Campaign Classic でのデータモデルの開発とカスタマイズ</strong>
+        <strong>Adobeでのデータモデルの開発とカスタマイズ [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>このセッションに Campaign トレーナーと共に参加して、Campaign Classic内のデータモデル内でデータスキーマを開発する方法を学びます。</em>
+    <em>このセッションに Campaign トレーナーと共に参加して、内でデータモデル内のデータスキーマを開発する方法を学びましょう [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>

@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engageチャンピオンのディープダイブメール育成
+title: Adobe [!DNL Marketo Engage] チャンピオンディープダイブメール育成
 description: リード育成、ドリップマーケティング、戦略的なメールコンテンツは、様々な名前で移動できます。 E メールの育成は、組織に対する数え切れないほどの用途を持つ実証済みの戦略ですが、多くのマーケターや販売員にとって完全な謎になる可能性があるので、この強力な戦略は多くの場合、使用されません。 このセッションでは、独自のリード育成戦略を作成する際の自信を高め、成功した育成の例を紹介し、独自の目標を満たすために組織全体でこれらの戦略を適用する方法を学ぶのに役立つ、考慮すべき重要な要素を学びます。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -7,13 +7,13 @@ doc-type: Event
 last-substantial-update: 2023-05-03T00:00:00Z
 jira: KT-13153
 thumbnail: 3418903.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 3990f951-8480-4d17-be19-ec4fa9c14f5c
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # メール育成
 

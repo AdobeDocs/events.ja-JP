@@ -1,10 +1,10 @@
 ---
 user-guide-title: スキルビルダー
 user-guide-description: これは、ランディングページに表示されるユーザーガイドの説明です。
-source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 45%
+ht-degree: 33%
 
 ---
 
@@ -40,10 +40,12 @@ ht-degree: 45%
    + [概要](customer-journeys/overview.md)
    + 2022年 {#2022}
       + [Adobe Campaign Standard の効果的なヒントとテクニック](customer-journeys/2022/tips-and-tricks.md)
-      + [Adobe Campaign Classic でのデータモデルの開発とカスタマイズ](customer-journeys/2022/data-models.md)
+      + [Adobeでのデータモデルの開発とカスタマイズ [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [B2B および B2C における顧客ジャーニーの動向と革新](customer-journeys/2022/keynote.md)
-      + [連携して機能強化 - Adobe Marketo Engage と Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [Marketo Engage と Adobe Experience Cloud による B2B エクスペリエンス](customer-journeys/2022/b2b-experiences.md)
+      + [より良い組み合わせ —Adobe [!DNL Marketo Engage] とReal-Time CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [B2B エクスペリエンスと [!DNL Marketo Engage] とAdobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+&lt;!---    +> 
+[Adobe Campaign Classic V7 と V8 の比較](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + データとインサイト {#data-and-insights}
    + [概要](data-and-insights/overview.md)
    + 2022年 {#2022}

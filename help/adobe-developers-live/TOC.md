@@ -3,9 +3,9 @@ user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '663'
 ht-degree: 6%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 6%
       + [概要](2021/october/overview.md)
       + [開口キーノート](2021/october/keynote.md)
       + [Experience ManagerCS への移行の加速](2021/october/accelerate-transistion.md)
-      + [2021 年に知っておく必要があるAdobe Analytics API](2021/october/analytics-api.md)
+      + [Adobe [!DNL Analytics] 2021 年に知っておく必要がある API](2021/october/analytics-api.md)
       + [Adobe Client Data Layer](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerceとコミュニティ貢献度モデル](2021/october/community-contribution-model.md)
       + [Adobe Commerce Live Search Results](2021/october/adobe-commerce-search.md)

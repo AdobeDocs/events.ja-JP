@@ -1,15 +1,16 @@
 ---
 title: Adobe Experience Manager FormsCloud Service — セキュアなマルチチャネルデジタル登録
-description: Adobe Experience Manager Forms as a Cloud Serviceを使用して、最新の安全で最新のデジタル登録エクスペリエンスを構築する方法を説明します。 このセッションでは、ワークフローで処理されるデータの保護、Azure ストレージへの送信済みデータの外部化、Adobe Analyticsと Adaptive Forms on Cloud Service を使用したインサイトの収集に関するベストプラクティスに焦点を当てます。
+description: Adobe Experience Manager Forms as a Cloud Serviceを使用して、最新の安全で最新のデジタル登録エクスペリエンスを構築する方法を説明します。 このセッションでは、ワークフローで処理されるデータの保護、Azure ストレージへの送信済みデータの外部化、Adobeを使用したインサイトの収集に関するベストプラクティスを強調します [!DNL Analytics] Adaptive Forms on Cloud Service を使用する
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
 version: Cloud Service
 kt: 9194
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 5ac915d0-9e53-4bc8-9d4d-9d8dafe0c06e
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 17%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 17%
 
 Adobe Experience Manager Forms as a Cloud Serviceを使用して、最新の安全で最新のデジタル登録エクスペリエンスを構築する方法を説明します。
 
-このセッションでは、ワークフローで処理されるデータの保護、Azure ストレージへの送信済みデータの外部化、Adobe Analyticsと Adaptive Forms on Cloud Service を使用したインサイトの収集に関するベストプラクティスに焦点を当てます。
+このセッションでは、ワークフローで処理されるデータの保護、Azure ストレージへの送信済みデータの外部化、Adobeを使用したインサイトの収集に関するベストプラクティスを強調します [!DNL Analytics] Adaptive Forms on Cloud Service を使用する
 
 また、Microsoft PowerAutomate やAdobe Experience Manager Formsとの Teams 統合など、ロードマップにいくつかの統合のプレビューも含まれます。
 

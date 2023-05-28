@@ -6,15 +6,16 @@ role: User
 level: Beginner
 kt: 9709
 thumbnail: 340312.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 41d558d2-e8ee-49aa-9605-84f82a8bdee6
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Get inFORMation -Formsの究極のヒントとテクニック
 
-Formsは、組織の需要生成ジャーニーの重要な要素ですが、多くの場合、最適化されていることを確認するために答える必要があります。 このセッションでは、Marketo Engageチャンピオン（Amanda と Julz）が、収集したデータの精度を高め、コンバージョン率を高めるためのベストプラクティスとヒントを紹介します。
+Formsは、組織の需要生成ジャーニーの重要な要素ですが、多くの場合、最適化されていることを確認するために答える必要があります。 このセッションでは、 [!DNL Marketo Engage] Champions（アマンダ）と Julz は、収集したデータの精度を高め、コンバージョン率を高めるためのベストプラクティスとヒントを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

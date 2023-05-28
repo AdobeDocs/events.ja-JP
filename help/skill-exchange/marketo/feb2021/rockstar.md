@@ -1,20 +1,21 @@
 ---
-title: Adobe Marketo Engage Rockstar Segment
-description: 4 人の「Rockstar」のお客様がそれぞれ、最高のMarketo Engage・ヒントまたはトリックを提示します。 誰が信じられないほどあなたを驚かせるでしょうか？
+title: Adobe [!DNL Marketo Engage] Rockstar Segment
+description: 4 人の「Rockstar」のお客様がそれぞれ最高の [!DNL Marketo Engage] チップかトリックか。 誰が信じられないほどあなたを驚かせるでしょうか？
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9707
 thumbnail: 340311.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 73cf11fe-26cc-44ac-a1a3-26c9baf5ee5e
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Adobe Marketo Engage Rockstar Segment
+# Adobe [!DNL Marketo Engage] Rockstar Segment
 
-4 人の「Rockstar」のお客様がそれぞれ、最高のMarketo Engage・ヒントまたはトリックを提示します。 誰が信じられないほどあなたを驚かせるでしょうか？
+4 人の「Rockstar」のお客様がそれぞれ最高の [!DNL Marketo Engage] チップかトリックか。 誰が信じられないほどあなたを驚かせるでしょうか？
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

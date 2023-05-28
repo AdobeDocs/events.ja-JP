@@ -1,9 +1,10 @@
 ---
 title: Adobeコンテンツ管理フォーラム
 description: セッションコンテンツ管理フォーラムのAdobe録画のコレクション
-source-git-commit: cbe5f3ee2730859babdfe7f55196689be7ba7904
+exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -17,8 +18,8 @@ ht-degree: 0%
 * コンテンツオーサリングを民主化し、オムニチャネル配信を楽にし、パーソナライゼーションを拡大して各エクスペリエンスをカウントするエクスペリエンス管理を最新化する方法。
 * パーソナライゼーションに合わせて拡張できるコンテンツサプライチェーンの構築方法
 * 新しいサイトの作成に要する時間を短縮し、技術リソースへの依存を軽減する方法
-* Experience Managerの最新のイノベーションは、クラウドネイティブなサービスとして提供され、市場の変化に対する期待に応えながら、将来を見据えて提供されます。
-* GraphQLとコンテンツフラグメントを使用して、Adobe Experience Manager as a ヘッドレス CMS でより高速にサイトを構築する方法
+* 新しいイノベーション [!DNL Experience Manager] クラウドネイティブなサービスとして提供され、将来を見据えながら、常に変化する市場の期待にどのように適応するか
+* Adobeでより迅速にサイトを構築する方法 [!DNL Experience Manager] GraphQLとコンテンツフラグメントを使用したヘッドレス CMS
 * Adobe Experience Manager Sitesの市場投入時間を短縮するための開発者向けベストプラクティス
 
 >[!TIP]
@@ -45,12 +46,12 @@ ht-degree: 0%
       <img alt="すべてのアセット" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>AdobeApp Builder を使用したAdobe Experience Managerヘッドレスの拡張</strong></a>         
+         <a href="2022/assets-for-all.md"><strong>拡張Adobe [!DNL Experience Manager] ヘッドレス (Adobe) [!DNL App Builder]</strong></a>         
          <br/><em>プルニマ・ラコール・ロイと</em>
       </div>
       <p>
         <br/>
-          部門や中堅企業向けの新しい Digital Asset Management システムであるAssets Essentialsについて説明します。
+          方法を学ぶ [!DNL Assets Essentials] は新しい [!DNL Digital Asset Management] 部門や中堅企業向けのシステム
       </p>
    </td>
    <td>

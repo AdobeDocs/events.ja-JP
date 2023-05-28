@@ -1,21 +1,22 @@
 ---
-title: Marketo Engage内トークンを使用した拡張性と効率
-description: プログラムの構築と操作をより効率的にMarketo Engageするために、パーソナライゼーション以外のトークンを使用する方法を説明します。
+title: のトークンを使用した拡張性と効率 [!DNL Marketo Engage]
+description: でプログラムの構築と操作をより効率的にするために、パーソナライゼーション以外のトークンを使用する方法を説明します。 [!DNL Marketo Engage].
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8f061a2b-2a7a-4186-be46-55690e21c0fd
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '81'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage内トークンを使用した拡張性と効率
+# のトークンを使用した拡張性と効率 [!DNL Marketo Engage]
 
-プログラムの構築と操作をより効率的にMarketo Engageするために、パーソナライゼーション以外のトークンを使用する方法を説明します。
+でプログラムの構築と操作をより効率的にするために、パーソナライゼーション以外のトークンを使用する方法を説明します。 [!DNL Marketo Engage].
 
 **重要な留意点**
 

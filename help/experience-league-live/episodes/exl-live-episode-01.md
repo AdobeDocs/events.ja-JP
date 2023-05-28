@@ -1,6 +1,6 @@
 ---
-title: Experience LeagueLIVE、エピソード 1 - My Three Favorite Adobe Analytics Implementation Tips
-description: Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。お客様自身の Adobe Analytics 実装に、彼と一緒に取り組めるというメリットが得られるかもしれません。Eric Matisoff は、この排他的なExperience Leagueライブディスカッションに、彼の 3 つのお気に入りのAdobe Analytics実装のヒントを提供しています。
+title: Experience Leagueライブ、エピソード 1 - My Three FavoriteAdobe [!DNL Analytics] 実装に関するヒント
+description: Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。君は彼と一緒に自分のAdobeで働く利点さえあったかもしれない [!DNL Analytics] 実装。 エリック・マティソフフは、彼の 3 つのお気に入りのAdobeを持って来ました [!DNL Analytics] 実装に関するこの排他的なExperience Leagueライブディスカッションのヒント。
 solution: Analytics
 kt: 8553
 thumbnail: https://video.tv.adobe.com/v/335921?format=jpeg
@@ -8,16 +8,16 @@ event-cta-url: null
 event-start-time: 2021-07-29 09:00-7
 event-guests: Eric Matisoff,Dasha Fitzpatrick
 exl-id: 75361648-8bb6-4def-9be8-b94f106c0347
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 45%
+source-wordcount: '140'
+ht-degree: 22%
 
 ---
 
-# Experience LeagueLIVE、エピソード 1:お気に入りの 3 つのAdobe Analytics実装のヒント
+# Experience LeagueLIVE、エピソード 1:マイ 3 つのお気に入りのAdobe [!DNL Analytics] 実装に関するヒント
 
-Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。お客様自身の Adobe Analytics 実装に、彼と一緒に取り組めるというメリットが得られるかもしれません。Eric Matisoff は、この排他的なExperience Leagueライブディスカッションに、彼の 3 つのお気に入りのAdobe Analytics実装のヒントを提供しています。
+Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。君は彼と一緒に自分のAdobeで働く利点さえあったかもしれない [!DNL Analytics] 実装。 エリック・マティソフフは、彼の 3 つのお気に入りのAdobeを持って来ました [!DNL Analytics] 実装に関するこの排他的なExperience Leagueライブディスカッションのヒント。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 

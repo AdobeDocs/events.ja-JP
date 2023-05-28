@@ -1,21 +1,22 @@
 ---
-title: Marketo Engage内のレポート
-description: Marketo Engage内の高度なレポート機能を理解し、レポートとスマートリストの詳細を確認します。
+title: 内のレポート [!DNL Marketo Engage]
+description: 内の高度なレポート機能を理解する [!DNL Marketo Engage]を参照し、レポートとスマートリストについて詳しく説明します。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '86'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage内のレポート
+# 内のレポート [!DNL Marketo Engage]
 
-このセッションでは、次のようなMarketo Engageで使用可能なすべてのレポートツールを確認します。
+このセッションでは、 [!DNL Marketo Engage] 次を含む：
 
 * レポート
 * スマートリスト
@@ -28,6 +29,6 @@ ht-degree: 2%
 * 標準レポートとスマートリストを使用するタイミング
 * 購読
 
-このセッションを終了する際には、Marketo Engage内の高度なレポート機能を理解し、レポートとスマートリストについて詳しく説明します。
+このセッションを終了する際には、内の高度なレポート機能について理解しておく必要があります。 [!DNL Marketo Engage]を参照し、レポートとスマートリストについて詳しく説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

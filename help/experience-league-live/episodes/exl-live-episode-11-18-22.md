@@ -1,5 +1,5 @@
 ---
-title: オフィス内または外出先での分析
+title: '"[!DNL Analytics] オフィスや外出先で」'
 description: 時間や注意を払う必要が多いので、机の後にいても外にいても、あらゆる設定でビジネスインサイトを作成し、アクセスできる必要があります。
 solution: Analytics
 kt: 11360
@@ -9,21 +9,21 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-221118.html
 event-start-time: 2022-11-18 09:00-8
 event-guests: Eric Matisoff,Jennifer Werkmeister,Doug Moore
 exl-id: 0662d6d4-2445-4359-82bf-4ef5bab7c7a6
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# オフィス内または外出先での分析
+# [!DNL Analytics] オフィスや外出先で
 
-**いつでもどこでもAdobe Analyticsとの摩擦のない洞察**
+**摩擦のない洞察をいつでもどこでもAdobe[!DNL Analytics]**
 
 時間や注意を払う必要が多いので、机の後にいても外にいても、あらゆる設定でビジネスインサイトを作成し、アクセスできる必要があります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-上記のビデオを見て、このライブストリームイベントをご覧ください。Adobe Analyticsの専門家は、Analysis Workspaceと Analytics ダッシュボードアプリでインサイトをカスタマイズしてアクセスする際の優れたヒントを提供しています。
+上のビデオを見て、このライブストリームイベント (Adobe) を表示 [!DNL Analytics] 専門家は、Analysis Workspaceと [!DNL Analytics] ダッシュボードアプリ。
 
 ご質問は？ Adobe Experience Leagueでこのトピックに関するディスカッションを続行します [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).

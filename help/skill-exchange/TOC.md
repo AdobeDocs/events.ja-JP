@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange からの録画の収集
 event-series: The Skill Exchange
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '361'
 ht-degree: 11%
 
 ---
@@ -80,18 +80,18 @@ ht-degree: 11%
       + [トークンを使用した拡張性と効率性](marketo/feb2022/using-tokens.md)
       + [エンゲージメントプログラムを利用した顧客の関心の向上](marketo/feb2022/utilize-engagement-programs.md)
    + 2021年8月 {#aug2021}
-      + [Marketo Engage内でのプログラムの作成](marketo/aug2021/create-programs.md)
-      + [Marketo Engageロックスターズ](marketo/aug2021/engage-rockstars.md)
+      + [内でのプログラムの作成 [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] ロックスター](marketo/aug2021/engage-rockstars.md)
       + [スマートキャンペーンの力](marketo/aug2021/smart-campaign.md)
       + [プログラムメンバーカスタムフィールド](marketo/aug2021/program-member-custom-fields.md)
-      + [Marketo Engage内のレポート](marketo/aug2021/reporting.md)
+      + [内のレポート [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Marketoロードマップ](marketo/aug2021/marketo-roadmap.md)
    + 2021 年 2 月 {#feb2021}
       + [カスタムオブジェクトと速度に飛び込むトップロープ](marketo/feb2021/custom-objects.md)
-      + [Adobe Marketo Engage Rockstar Segment](marketo/feb2021/rockstar.md)
-      + [Adobe Marketo Engage内でのプログラムの作成](marketo/feb2021/create-programs.md)
+      + [Adobe [!DNL Marketo Engage] Rockstar Segment](marketo/feb2021/rockstar.md)
+      + [作成中のプログラムのAdobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [スマートキャンペーンの力](marketo/feb2021/power-of-smart-campaign.md)
-      + [Marketo Engage内のレポート](marketo/feb2021/reporting-within-marketo.md)
+      + [内のレポート [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Formsの究極のヒントとテクニック](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2022年4月 {#apr2022}

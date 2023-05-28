@@ -1,21 +1,22 @@
 ---
 title: 育成 101 — エンゲージメントプログラムを活用して顧客をエンゲージ
-description: 使用例やヒント、テクニックなど、Marketo Engage内のエンゲージメントプログラムの基本について説明します。
+description: エンゲージメントプログラムの基本を学ぶ [!DNL Marketo Engage] 例、使用例、ヒントおよびテクニックを含みます。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9768
 thumbnail: 340595.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f0c137c3-57db-4a84-8ce8-4944221e1782
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
 # 育成 101 — エンゲージメントプログラムを活用して顧客をエンゲージ
 
-使用例やヒント、テクニックなど、Marketo Engage内のエンゲージメントプログラムの基本について説明します。
+エンゲージメントプログラムの基本を学ぶ [!DNL Marketo Engage] 例、使用例、ヒントおよびテクニックを含みます。
 
 **重要な留意点**
 

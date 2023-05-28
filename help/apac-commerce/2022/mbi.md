@@ -8,9 +8,10 @@ level: Beginner
 last-substantial-update: 2022-10-31T00:00:00Z
 kt: 11371
 thumbnail: 3410646.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 857c5b59-fc03-42ed-aed0-506c761cda37
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,7 @@ ht-degree: 0%
 
 * データを価値に変換
 * 強力なデータ基盤の構築
-* MBI と Analytics データの組み合わせ
+* MBI と [!DNL Analytics] データ
 
 また、これらの概念を生き生きとさせるための、プラットフォームのライブデモもご覧いただけます。
 

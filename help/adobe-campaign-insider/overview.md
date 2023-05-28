@@ -1,16 +1,16 @@
 ---
-title: Adobe Campaign Insider Series
-description: Adobe Campaignのお客様がクロスチャネルマーケティング戦略の発展に役立ち、チームマーケティングの実践者スキルを高め、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立つヒントとテクニックとインスピレーション。
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+title: Adobe [!DNL Campaign] Insider シリーズ
+description: Adobeのヒントとテクニック [!DNL Campaign] お客様は、クロスチャネルマーケティング戦略の発展、チームマーケティングの実践者スキルの向上、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立ちます。
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 26%
+source-wordcount: '110'
+ht-degree: 5%
 
 ---
 
-# Adobe Campaign Insider Series
+# Adobe [!DNL Campaign] Insider シリーズ
 
-Adobe Campaignのお客様がクロスチャネルマーケティング戦略の発展に役立ち、チームマーケティングの実践者スキルを高め、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立つヒントとテクニックとインスピレーション。
+Adobeのヒントとテクニック [!DNL Campaign] お客様は、クロスチャネルマーケティング戦略の発展、チームマーケティングの実践者スキルの向上、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立ちます。
 
 >[!TIP]
 >
@@ -22,19 +22,19 @@ Adobe Campaignのお客様がクロスチャネルマーケティング戦略の
   <tr>
    <td>
       <a href="2022/cross-channel.md">
-      <img alt="Adobe Campaign Classic を使用したクロスチャネルマーケティングのレベルアップ" src="assets/cross-channel.png"/>
+      <img alt="クロスチャネルマーケティングのレベルアップにAdobe [!DNL Campaign Classic]" src="assets/cross-channel.png"/>
       </a>
       <div>
-         <a href="./2022/cross-channel.md"><strong>Adobe Campaign Classic を使用したクロスチャネルマーケティングのレベルアップ</strong></a>
+         <a href="./2022/cross-channel.md"><strong>クロスチャネルマーケティングのレベルアップにAdobe [!DNL Campaign Classic]</strong></a>
          <br/>
       </div>
    </td>
    <td>
       <a href="2022/integrations.md">
-      <img alt="マーケティングエコシステムによる Adobe Campaign 統合" src="assets/integrations.png"/>
+      <img alt="Adobe [!DNL Campaign] マーケティングエコシステムとの統合" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>マーケティングエコシステムによる Adobe Campaign 統合</strong></a>
+         <a href="./2022/integrations.md"><strong>[!DNL Campaign]マーケティングエコシステムによる Adobe 統合</strong></a>
          <br/>
       </div>
    </td>
