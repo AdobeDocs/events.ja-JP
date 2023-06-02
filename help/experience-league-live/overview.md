@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 07619d719d0dd1429202686ca359c9744bec77c4
+source-git-commit: 66db5d4c9ae904c4dfa7f69c00142538021523b4
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 49%
+source-wordcount: '175'
+ht-degree: 46%
 
 ---
 
@@ -23,8 +23,16 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td>
-    早急に戻って情報をお探し下さい。 我々は 2023 年 6 月に 2 回のショーを開催し、間もなくここで情報を得る予定です。
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-6-14-23.md">
+      <img alt="Experience Leagueライブ 6 月 14 日" src="assets/Jun14_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-6-14-23.md">
+        <strong>Web チャネルとコンテンツ実験を使用したAdobe Journey Optimizerの将来の展望</strong>
+      </a>
+      <br/><em>サンドラ・ハウスマン、ロバート・カランギュー、エリック・ウィナー、ダニエル・クリスティアン・ポペスクと共に</em>
+      <br/><em>2023 年 6 月 15 日</em>
+    </div>
   </td>
 </tr>
 </table>
