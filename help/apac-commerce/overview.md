@@ -2,9 +2,9 @@
 title: APAC Commerce ウェビナーシリーズ
 description: APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向けの月次ワークショップで、ベストプラクティスから製品ロードマップ、業界の動向に至るまで幅広いトピックを取り上げています。
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,15 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="拡張性と機敏性に優れた e コマースを実現する、合理的なコマース戦略" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>New Relic Masterclass</strong>
+        <strong>拡張性と機敏性に優れた e コマースを実現する、合理的なコマース戦略</strong>
       </a>
     </div>
     <p>
-    <em>このウェビナーに参加して、New Relicでのインフラストラクチャの制御方法を学んでください。 インフラストラクチャデータにアクセスし、把握することで、絶対に自信を持って次のキャンペーンにアプローチします。</em>
+    <em>合成可能なアーキテクチャの世界と、e コマースの景観に革命を起こす方法を掘り下げる、洞察に富んだウェビナーにご参加ください。</em>
     <p>
   </td>  
 </tr>
