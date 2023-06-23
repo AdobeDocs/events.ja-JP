@@ -11,7 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 100%
@@ -45,7 +45,7 @@ ht-degree: 100%
 
 -->
 最新の AEM GEM ウェビナー：**迅速な開発環境による Adobe Experience Manager Cloud Service 開発の加速**&#x200B;は *2023年2月22日（PT）* に実施されました。
-**録画**&#x200B;はこちら（[AEM の迅速な開発環境に関するウェビナー](gems2023/Rapid-Development-Environments.md)）で確認できます。
+**録画**&#x200B;はこちら（[AEM の迅速な開発環境に関するウェビナー](gems2023/rapid-development-environments.md)）で確認できます。
 
 >[!NOTE]
 >
