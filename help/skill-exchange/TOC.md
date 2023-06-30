@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange からの録画の収集
 event-series: The Skill Exchange
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '379'
 ht-degree: 11%
 
 ---
@@ -15,6 +15,13 @@ ht-degree: 11%
 
 + [概要](overview.md)
 + Analytics {#analytics}
+   + 2023年5月 {#may2023}
+      + [Adobe Analyticsのヒントとテクニック](analytics/may2023/tips-and-tricks.md)
+      + [EDDL/WebSDK への移行](analytics/may2023/tips-and-tricks.md)
+      + [Rockstar Tips](analytics/may2023/rockstar-tips.md)
+      + [生産性の向上](analytics/may2023/productivity.md)
+      + [指標について](analytics/may2023/metrics.md)
+      + [ユーザーインターフェイスの基本](analytics/may2023/user-interface.md)
    + 2022年10月 {#oct2022}
       + [はじめに](analytics/oct2022/getting-started.md)
       + [データの分析](analytics/oct2022/analyzing-the-data.md)
@@ -52,7 +59,7 @@ ht-degree: 11%
       + [はじめに](analytics/sept2021/getting-started.md)
       + [Test Builds &amp; Analysis でのSPAの課題の解決](analytics/sept2021/navigate-spa.md)
       + [まとめ](analytics/sept2021/putting-all-together.md)
-   + 2021年6月 {#jun2021}
+   + 2021 年 6 月 {#jun2021}
       + [Adobe Analyticsのヒントとテクニック](analytics/jun2021/tips-and-tricks.md)
       + [Adobe Analytics Rockstars](analytics/jun2021/analytics-rockstars.md)
       + [データの分析](analytics/jun2021/analyze-data.md)
