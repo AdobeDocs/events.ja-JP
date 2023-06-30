@@ -3,9 +3,9 @@ title: Adobe Experience League Events
 description: Adobeのエンタープライズ製品の使用に重点を置いたイベント記録のコレクション
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0ced31f2961ad441d9b54c4f526c535bdec31e7e
+source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '792'
 ht-degree: 10%
 
 ---
@@ -59,6 +59,21 @@ ht-degree: 10%
          Adobe Developers Liveは、多様な背景と特異な目的を持つAdobeの開発者とエクスペリエンスビルダーを統合し、素晴らしいエンドツーエンドのエクスペリエンスを作成します。
       </p>
     </td>
+    <td>
+      <a href="/help/aem-champion-office-hours/overview.md">
+      <img style="width:100%" alt="AEMチャンピオンの営業時間" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
+      </a>
+      <div>
+         <a href="/help/aem-champion-office-hours/overview.md"><strong>AEMチャンピオンの営業時間</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+      </div>
+      <p>
+        <br/>
+         Adobe Experience Managerの知識と使い方を向上させ、Experience Managerの思考リーダーと対話し、専属的なスワッグを学びたい場合は、今すぐAEMチャンピオン Office Hours User Group に参加してください。
+      </p>
+    </td> 
+    </tr>
+    <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img style="width:100%" alt="APAC Adobe Commerceウェビナー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -72,8 +87,6 @@ ht-degree: 10%
          APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向けの月次ワークショップで、ベストプラクティスから製品ロードマップ、業界の動向に至るまで幅広いトピックを取り上げています。
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="コマースとコーヒー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,8 @@ ht-degree: 10%
          Deep Dive on-demand イベントの録画は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -125,7 +140,6 @@ ht-degree: 10%
         <br/>Experience League LIVE は、Experience League チームが制作したライブストリーミング番組です。アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
       </p>
     </td>
-  <tr>  
    <td>
       <a href="/help/experience-manager-gems/overview.md">
       <img style="width:100%" alt="Experience ManagerGEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
@@ -165,6 +179,8 @@ ht-degree: 10%
          Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法を学びます。 実践者向けに選択されたトピックでは、これらのインタラクティブセッションは、「可能な限りの技術」、使用例、ベストプラクティス、ヒントとテクニックを共有します。
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketoとモチャ" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -178,8 +194,6 @@ ht-degree: 10%
          Marketoと Mochas は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。
       </p>
     </td>
-  </tr>
-  <tr>  
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI ウェビナー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -219,6 +233,8 @@ ht-degree: 10%
          Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。 このプログラムでは、Adobe製品の専門家やエキスパート仲間から、ベストプラクティス、ヒント、テクニックの共有を通じて学ぶ機会を提供します。
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
