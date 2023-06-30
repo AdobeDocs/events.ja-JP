@@ -3,7 +3,7 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange からの録画の収集
 event-series: The Skill Exchange
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 11%
@@ -17,7 +17,7 @@ ht-degree: 11%
 + Analytics {#analytics}
    + 2023年5月 {#may2023}
       + [Adobe Analyticsのヒントとテクニック](analytics/may2023/tips-and-tricks.md)
-      + [EDDL/WebSDK への移行](analytics/may2023/tips-and-tricks.md)
+      + [EDDL/WebSDK への移行](analytics/may2023/migrate.md)
       + [Rockstar Tips](analytics/may2023/rockstar-tips.md)
       + [生産性の向上](analytics/may2023/productivity.md)
       + [指標について](analytics/may2023/metrics.md)
