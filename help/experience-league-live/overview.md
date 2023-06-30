@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: ebf56636b1eff403aebdda4e3417fdf12a0955eb
+source-git-commit: 32f483cf4faf83dfcf671ea5b9836a9b0f960105
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 46%
+source-wordcount: '169'
+ht-degree: 47%
 
 ---
 
@@ -23,8 +23,16 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td>
-    近日中に開催予定のショーの詳細を見るには近日中に戻ってください <b>2023 年 7 月 21 日</b>. 新しい事を話します <b>Real-Time CDPの Audience Portal と構成の機能</b>.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-7-20-23.md">
+      <img alt="Experience Leagueライブ 2023 年 7 月 20 日" src="assets/July20_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-7-20-23.md">
+        <strong>標準的なコントロールを使用した、あらゆるソースからのアクションにつながるオーディエンスを 1 か所で管理できます</strong>
+      </a>
+      <br/><em>アーロン・シールドズ、キム・ワッコット、アンドレス・モンロイと</em>
+      <br/><em>2023 年 7 月 21 日</em>
+    </div>
   </td>
 </tr>
 </table>

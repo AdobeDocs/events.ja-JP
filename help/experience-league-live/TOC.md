@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 06de70ea4e8f35ed3ed5930261e49626a4a029bf
+source-git-commit: f03cd70edc922b35903a4aa7882dbae9278d00e9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '264'
 ht-degree: 8%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 26:標準的なコントロールを使用し&#x200B;て、あらゆるソースから 1 か所でアクションにつながるオーディエンスを利用](episodes/exl-live-episode-7-20-23.md)
    + [Ep. 25:Web チャネルとコンテンツ実験を使用したAdobe Journey Optimizerの将来の展望](episodes/exl-live-episode-6-14-23.md)
    + [Ep. 24:Adobe Journey Optimizerでモバイルアプリの可能性を最大化](episodes/exl-live-episode-5-24-23.md)
    + [Ep. 23:数回のクリックでデータ収集とイベントの転送を開始および実行できます。](episodes/exl-live-episode-4-25-23.md)
