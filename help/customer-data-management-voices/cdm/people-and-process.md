@@ -1,14 +1,14 @@
 ---
 title: CDP のベストプラクティス — ユーザーとプロセス
 description: 技術の背後にある人とプロセスに投資して、CDP を最大限に活用する方法を学びます。 Adobeの Nina Caruso が組織の設定方法を共有します… （説明は 60 ～ 160 文字にする必要があります）
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
 exl-id: c7ff138e-0865-4b89-a1e6-be9cdd95059e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 6%

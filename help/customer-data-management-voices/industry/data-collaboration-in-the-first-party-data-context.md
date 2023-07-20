@@ -1,7 +1,7 @@
 ---
 title: ファーストパーティデータコンテキストでのデータ共同作業
 description: このウェビナーは、サードパーティ Cookie を使用しないで、将来的にデータの共同作業の機会を生み出すのに役立ちます。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Management
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,10 +9,10 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 4381a5c0-4f74-4828-bd06-4dc2c5ef3bc6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 26%
+ht-degree: 33%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 26%
 
 [データ購入者向けの Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[People-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)
+[People-Based Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja)
