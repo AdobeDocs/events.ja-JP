@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: «記録の集まり [!DNL Experience Makers Learn from your peers]"
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '87'
+ht-degree: 21%
 
 ---
 
@@ -31,6 +31,8 @@ ht-degree: 22%
 + Experience Manager {#experience-manager}
    + 年5月{#may2023}
       + [コンテンツおよびエクスペリエンスフラグメントのマスター](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   + 年7月{#july2023}
+      + [効果的なセキュリティ戦略のCloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
    + 年6月{#june2023}
       + [マーケティングキャンペーンの追跡、分析、最適化](marketo/june2023/marketing-campaigns.md)
