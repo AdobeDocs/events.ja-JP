@@ -3,10 +3,10 @@ title: Adobe Experience League Events
 description: Adobeのエンタープライズ製品の使用に重点を置いたイベント記録のコレクション
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
 workflow-type: tm+mt
-source-wordcount: '792'
-ht-degree: 10%
+source-wordcount: '836'
+ht-degree: 9%
 
 ---
 
@@ -87,6 +87,19 @@ ht-degree: 10%
          APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向けの月次ワークショップで、ベストプラクティスから製品ロードマップ、業界の動向に至るまで幅広いトピックを取り上げています。
       </p>
     </td>
+      <td>
+      <a href="/help/adobe-customer-success-webinars/overview.md">
+      <img style="width:100%" alt="Adobeカスタマーサクセスウェビナー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobeカスタマーサクセスウェビナー</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Experience Cloud、Audience Manager、Real-Time CDP</em>
+      </div>
+      <p>
+        <br/>
+         Adobeカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化できるように設計されています。 価値を最大限に高め、Adobe・ソリューションの採用を促進するために、貴重なインサイトを得る。
+      </p>
+    </td> 
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="コマースとコーヒー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,7 @@ ht-degree: 10%
          顧客データ管理の技術およびマーケティングプラクティスのリーダーおよびスペシャリストとしての宛先。 ワンストップショップは、仲間から聞き、刺激を受け、マーテックの発展について学びます。
       </p>
     </td>
+   <tr> 
    <td>
       <a href="/help/deep-dives/overview.md">
       <img style="width:100%" alt="ディープダイブ" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
@@ -126,8 +140,6 @@ ht-degree: 10%
          Deep Dive on-demand イベントの録画は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -166,6 +178,8 @@ ht-degree: 10%
          Adobe Experience Manager as a Cloud Service の最新機能の概要の説明. AEM 製品チームが最新リリースの概要を説明する、約 10 分間の短いビデオです。
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
       <img style="width:100%" alt="仲間から学ぶ" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
@@ -179,8 +193,6 @@ ht-degree: 10%
          Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法を学びます。 実践者向けに選択されたトピックでは、これらのインタラクティブセッションは、「可能な限りの技術」、使用例、ベストプラクティス、ヒントとテクニックを共有します。
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketoとモチャ" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -220,6 +232,8 @@ ht-degree: 10%
          スキルビルダーは、ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活用するように設計されたウェビナーシリーズです。
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketoとモチャ" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -233,8 +247,6 @@ ht-degree: 10%
          Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。 このプログラムでは、Adobe製品の専門家やエキスパート仲間から、ベストプラクティス、ヒント、テクニックの共有を通じて学ぶ機会を提供します。
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
