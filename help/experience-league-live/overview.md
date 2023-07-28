@@ -1,16 +1,16 @@
 ---
 title: Experience League LIVE イベント
 description: 以前の Experience League LIVE イベントへのリンクのコレクション
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 50%
+source-wordcount: '167'
+ht-degree: 48%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    今後の 2023 年 8 月のショーの詳細については、近日中にこのページに戻ってください。
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience Leagueライブ 4 月 21 日" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>Adobe Journey Optimizerで API トリガーメッセージ</strong>
+      </a>
+      <br/><em>サンドラ・ハウスマン、シッダース・ジャイン、ニキル・シャルマ、チェタン・プラサドと共に</em>
+      <br/><em>2023 年 8 月 24 日</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -57,7 +65,7 @@ Experience League LIVE は、Experience League チームが制作したライブ
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
         <strong>ヘッドフルからヘッドレスへのAEM</strong>
       </a>
-      <br/><em>ダニー・ゴードン、アモル・アンド、サチン・マリ、シャン・スタイマーと</em>
+      <br/><em>ダニー・ゴードン、アモル・アンド、サチン・マリ、シャン・スタイマーと共に</em>
       <br/><em>2022 年 4 月 22 日</em>
     </div>
   </td>
@@ -79,7 +87,7 @@ Experience League LIVE は、Experience League チームが制作したライブ
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>エキスパートに質問する：Web SDK の基本</strong>
+        <strong>エキスパートへの質問：Web SDK の基本</strong>
       </a>
       <br/><em>Rudi Shumpert、Jeff Chasin、Eric Matisoff と共に</em>
       <br/><em>2022 年 5 月 27 日</em>
