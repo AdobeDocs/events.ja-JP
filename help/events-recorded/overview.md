@@ -3,7 +3,7 @@ title: Adobe Experience League Events
 description: Adobeのエンタープライズ製品の使用に重点を置いたイベント記録のコレクション
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 9%
@@ -220,8 +220,6 @@ ht-degree: 9%
          Marketoと Mochas は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -235,6 +233,8 @@ ht-degree: 9%
          Office Hours は、お客様向けのソリューション固有のウェビナーを提供することで、事例の振り向きに対する積極的なアプローチです。 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI ウェビナー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -260,9 +260,7 @@ ht-degree: 9%
         <br/>
          スキルビルダーは、ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活用するように設計されたウェビナーシリーズです。
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketoとモチャ" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -275,7 +273,7 @@ ht-degree: 9%
         <br/>
          Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。 このプログラムでは、Adobe製品の専門家やエキスパート仲間から、ベストプラクティス、ヒント、テクニックの共有を通じて学ぶ機会を提供します。
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
