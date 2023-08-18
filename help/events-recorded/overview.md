@@ -3,9 +3,9 @@ title: Adobe Experience League Events
 description: Adobeのエンタープライズ製品の使用に重点を置いたイベント記録のコレクション
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '895'
 ht-degree: 9%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 ## Experience Leagueと共に、学習はイベントです。
 
-排他的なイベントとウェビナーをループに保ち、学習を拡大します。 このスペースには、Experience LeagueLIVE、スキルビルダー、デベロッパーライブなど過去のイベントの録画を頻繁にアクセスします。 今後のイベントに登録する場合は、 [今後のイベント](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League
+排他的なイベントとウェビナーをループに保ち、学習を拡大してください。 このスペースには、Experience LeagueLIVE、スキルビルダー、デベロッパーライブなど過去のイベントの録画を頻繁にアクセスします。 今後のイベントに登録する場合は、 [今後のイベント](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League。
 
 ## イベントシリーズ
 
@@ -69,7 +69,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         Adobe Developers Liveは、多様な背景と特異な目的を持つAdobeの開発者とエクスペリエンスビルダーを統合し、素晴らしいエンドツーエンドのエクスペリエンスを作成します。
+         Adobe Developers Liveは、多様な背景と特異な目的を持つAdobeの開発者と経験者を集め、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。
       </p>
     </td>
     </tr>
@@ -80,7 +80,7 @@ ht-degree: 9%
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>AEMチャンピオンの営業時間</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign,AdobeMarketo, Adobe Target,Customer Journey Analytics,Real-Time CDP</em>
       </div>
       <p>
         <br/>
@@ -220,6 +220,21 @@ ht-degree: 9%
          Marketoと Mochas は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>営業時間</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Office Hours は、お客様向けのソリューション固有のウェビナーを提供することで、事例の振り向きに対する積極的なアプローチです。 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI ウェビナー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -233,8 +248,6 @@ ht-degree: 9%
          MBI ウェビナーシリーズは、MBI のお客様向けの定期的なイベントです。 ウェビナーでは、MBI を最大限に活用するための様々なトピックとベストプラクティスを扱っています。
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="スキルビルダー" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -248,6 +261,8 @@ ht-degree: 9%
          スキルビルダーは、ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活用するように設計されたウェビナーシリーズです。
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketoとモチャ" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
