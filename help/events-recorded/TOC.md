@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League Event Recordings
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobeのエンタープライズ製品の使用に関するイベントの記録のコレクション
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+source-git-commit: cd312615b7569fd5eabdee3b08e63ccb23b6ec28
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 13%
+source-wordcount: '588'
+ht-degree: 16%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 13%
    + [AEMチャンピオンの営業時間](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC コマースイベント](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [コマースとコーヒー](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
-   + [顧客データ管理の声](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
+   + [顧客データ管理の声](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja)
    + [ディープダイブ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Experience Leagueライブ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience ManagerGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -28,6 +28,7 @@ ht-degree: 13%
    + [仲間から学ぶ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketoとモチャ](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [MBI ウェビナー](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+   + [営業時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
    + [スキルビルダー](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [The Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -65,7 +66,7 @@ ht-degree: 13%
       + [The Skill Exchange](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Experience Platform {#aep}
       + [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
-      + [顧客データ管理の声](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
+      + [顧客データ管理の声](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja)
       + [Experience Leagueライブ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + AdobeMarketo {#am}
       + [ディープダイブ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
@@ -76,7 +77,7 @@ ht-degree: 13%
    + Adobe Journey Optimizer {#ajo}
       + [Experience Leagueライブ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + Adobeのリアルタイム CDP {#rtcdp}
-      + [顧客データ管理の声](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
+      + [顧客データ管理の声](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja)
       + [Experience Leagueライブ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [スキルビルダー](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Target {#at}
