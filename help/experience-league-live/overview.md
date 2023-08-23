@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
+source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 48%
+source-wordcount: '171'
+ht-degree: 47%
 
 ---
 
@@ -24,16 +24,8 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
-      <img alt="Experience Leagueライブ 4 月 21 日" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-8-23-23.md">
-        <strong>Adobe Journey Optimizerで API トリガーメッセージ</strong>
-      </a>
-      <br/><em>サンドラ・ハウスマン、シッダース・ジャイン、ニキル・シャルマ、チェタン・プラサドと共に</em>
-      <br/><em>2023 年 8 月 24 日</em>
-    </div>
+  <td>
+    近い将来にこのページをご覧になり、Real-time Customer Data Platformの Lookalike Audiences に関する 2023 年 9 月のエピソードを含む今後のエピソードをご覧ください。
   </td>
 </tr>
 </table>
