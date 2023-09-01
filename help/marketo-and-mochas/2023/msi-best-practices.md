@@ -9,7 +9,7 @@ doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: debf0572678929709fdddb8ce098a34673fe3e7a
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -23,3 +23,4 @@ Marketo Sales Insights と MSI のどちらをお聞きになりましたか？ 
 
 シンシアとジェームスは、興味深い瞬間と最高の賭けを含む MSI の機能に飛び込みます。 Salesforce との統合、ライセンス管理、戦略を説明し、セールスチームやマーケティングチーム全体で運用効率を最適化します。 参加者からのライブ Q&amp;A で締めくくります。
 
+>[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)
