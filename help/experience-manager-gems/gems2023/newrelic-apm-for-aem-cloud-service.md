@@ -1,6 +1,7 @@
 ---
 title: aem cloud service 用 newrelic apm
 description: 当社のセッションに参加してください。このセッションでは、お客様のエンドユーザーに影響を与える課題の認識と解決、を通じた優れた経験の確保 — AEMas a Cloud Serviceプロジェクトの効率性の向上 |外部サービスの影響の測定 (AEMas a Cloud Serviceシステム向け ) |カスタマイズされ、カスタマイズされたビューを最大限に活用します。 AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセスプロセスを確認します。 お問い合わせや質問に躊躇せずに参加してください。
+solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
 topic: Performance
@@ -10,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 881f82df9eaa7438c0ffa8ee0bd5cf1c5505019a
+source-git-commit: ce580d05a3de350517960eba121dd5b739028643
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 6%
@@ -29,6 +30,7 @@ ht-degree: 6%
 ## セッションの説明
 
 当セッションにご参加ください。このセッションでは、お客様のエンドユーザーに影響を与える課題の認識と解決についてご案内し、次の点を通じて卓越した経験を提供します。
+
 * AEM as a Cloud Service Project の効率の向上
 * AEMas a Cloud Serviceシステムの外部サービスの影響の測定
 * カスタマイズされたカスタマイズされたビューを最大限に活用するAEM as a Cloud Serviceにデフォルトで含まれている機能、New Relicへのアクセスプロセスを理解します。 お問い合わせや質問に躊躇せずに参加してください。

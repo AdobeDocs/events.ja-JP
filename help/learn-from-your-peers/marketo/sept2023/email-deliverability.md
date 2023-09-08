@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
-source-git-commit: af2e6fa6688927c1259f8d673231d1901c352461
+source-git-commit: ce580d05a3de350517960eba121dd5b739028643
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -23,6 +23,7 @@ ht-degree: 0%
 AdobeのMarketoチャンピオンである Beth Massura として、この「仲間から学ぶ」ウェビナーに参加し、E メール配信品質に影響する要因の評価、赤いフラグの使用、Marketo Engage内の組み込み機能を使用した優れた配信品質の確保について紹介します。
 
 このウェビナーでは、次の内容について学習します。
+
 * E メールの配信品質にどのような要因が影響を与えるか。
 * メール効果レポート、人物効果レポート、スマートリストを使用して現在の状態を評価します。
 * 検証プロトコル、データベースの品質の維持、正確なターゲティングの使用など、E メールの配信品質のリスクを軽減する手順を説明します。
