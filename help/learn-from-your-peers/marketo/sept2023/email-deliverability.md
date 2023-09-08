@@ -3,14 +3,14 @@ title: Marketo Engageでメール配信品質を高める
 description: このウェビナーでは、E メールの配信品質に貢献する要因について学びます。  メール効果レポート、人物効果レポート、スマートリストを使用して現在の状態を評価します。  検証プロトコル、データベースの品質の維持、正確なターゲティングの使用など、E メールの配信品質のリスクを軽減する手順を説明します。
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights,
+feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights
 role: Admin
 level: Intermediate
 doc-type: Event
 last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: af2e6fa6688927c1259f8d673231d1901c352461
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
