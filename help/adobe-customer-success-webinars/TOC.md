@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化できるように設計されています。 価値を最大限に高め、Adobe・ソリューションの採用を促進するために、貴重なインサイトを得る。
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 1%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 1%
    + [インテリジェンスと測定の優先順位付け](2023/intelligence-and-measurement.md)
    + [リアルタイム CDP 移行対応](2023/rtcdp-migration-readiness.md)
    + [有効なAudience Activation戦略の設定](2023/audience-activation.md)
-   + [RTCDP への移行](2023/aam-to-rtcdp.md)
+   + [リアルタイム CDP への移行](2023/aam-to-rtcdp.md)

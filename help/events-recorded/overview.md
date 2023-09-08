@@ -3,9 +3,9 @@ title: Adobe Experience League Events
 description: Adobeのエンタープライズ製品の使用に重点を置いたイベント記録のコレクション
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: b6698ad19e3bd67ea83a5cf9ad69716639dc55db
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '915'
 ht-degree: 9%
 
 ---
@@ -106,7 +106,7 @@ ht-degree: 9%
       </a>
       <div>
          <a href="/help/adobe-customer-success-webinars/overview.md"><strong>Adobeカスタマーサクセスウェビナー</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Experience Cloud、Audience Manager、Real-Time CDP</em>
+        <br/><em class="title is-size-7" style="color: #858585;">ADOBE ANALYTICS,AUDIENCE MANAGER,CUSTOMER JOURNEY ANALYTICS,EXPERIENCE CLOUD,REAL-TIME CDP</em>
       </div>
       <p>
         <br/>
@@ -226,7 +226,7 @@ ht-degree: 9%
       </a>
       <div>
          <a href="/help/office-hours/overview.md"><strong>営業時間</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Commerce、Adobe Experience Platform、Adobe Experience Manager、Adobe Commerce、AdobeMarketo、Adobe Target、Workfront</em>
       </div>
       <p>
         <br/>
