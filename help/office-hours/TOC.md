@@ -2,10 +2,10 @@
 user-guide-title: Adobeの営業時間
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: Office Hours は、お客様向けのソリューション固有のウェビナーを提供することで、事例の振り向きに対する積極的なアプローチです。
-source-git-commit: cb7148bcc186fc747d97476d12648e40cc7e147a
+source-git-commit: dcddd5ed81868ffcd0bf2a41fd898800129a4bc0
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 14%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 14%
 + 2023年 {#2023}
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [SMS チャネルの概要とトラブルシューティングのヒント](2023/ac-sms-channel-overview.md)
+   + Adobe Analytics {#adobe-analytics}
+      + [ローンチのベストプラクティス](2023/launch-best-practices.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Admin Console権限](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
