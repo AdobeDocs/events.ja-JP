@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 192b072538492f4b4161f0915441e851e933c1d2
+source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 6%
@@ -19,7 +19,9 @@ ht-degree: 6%
 ---
 
 
-# AEM as a Cloud Service向けNew Relic APM の潜在性の解放。 パフォーマンスを最大化し、問題を迅速に解決します。
+# AEM as a Cloud Service向けNew Relic APM の潜在性の解放
+
+パフォーマンスを最大化し、問題を迅速に解決します。
 
 このウェビナーは、米国東部標準時 (CEST) の 9 月 20 日～午後 5 時に実施されます |午前 8 時 (PDT) | 8.30pm IST
 
@@ -48,4 +50,3 @@ ht-degree: 6%
 >* セッションに特有のコミュニティでのインタラクションのExperience Leagueに関しては、間もなくリンクが投稿されます。
 >
 >* 今後のウェビナーに関する通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に登録してください。
-
