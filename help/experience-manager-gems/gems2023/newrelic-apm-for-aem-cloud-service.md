@@ -1,6 +1,6 @@
 ---
 title: aem cloud service 用 newrelic apm
-description: 「当セッションにご参加いただき、エンドユーザーのお客様に影響を与える課題の認識と解決、AEMas a Cloud Serviceプロジェクトの効率化、AEMas a Cloud Serviceシステムの外部サービスの影響の測定、カスタマイズされたビューの最大限の活用による卓越した経験の確保をご案内します。 AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセスプロセスを確認します。 お問い合わせや質問には躊躇せずにご相談ください」
+description: 当社のセッションにご参加ください。このセッションでは、AEMas a Cloud Serviceプロジェクトの効率化、AEMas a Cloud Serviceシステムの外部サービスの影響の測定、カスタマイズされたビューの最大限の活用により、エンドユーザーのお客様に影響を与える課題の認識と解決をガイドします。 AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセスプロセスを確認します。 お問い合わせや質問に躊躇せずに参加してください。
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
+source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 6%
@@ -35,7 +35,9 @@ ht-degree: 6%
 
 * AEM as a Cloud Service Project の効率の向上
 * AEMas a Cloud Serviceシステムの外部サービスの影響の測定
-* カスタマイズされたカスタマイズされたビューを最大限に活用するAEM as a Cloud Serviceにデフォルトで含まれている機能、New Relicへのアクセスプロセスを理解します。 お問い合わせや質問に躊躇せずに参加してください。
+* カスタマイズされたカスタマイズされたビューを最大限に活用する
+
+AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセスプロセスを確認します。 お問い合わせや質問に躊躇せずに参加してください。
 
 ## 講演者
 
