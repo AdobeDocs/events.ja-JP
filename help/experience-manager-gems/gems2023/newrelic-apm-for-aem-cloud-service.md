@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 3f90292238ae559361bf6ca3736e30742044a5b0
+source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 6%
@@ -23,7 +23,7 @@ ht-degree: 6%
 
 パフォーマンスを最大化し、問題を迅速に解決します。
 
-このウェビナーは、9 月 20 日～午後 5 時 (CEST)\|午前 8 時 (PDT)\|午後 8 時 (IST) に開催されます。
+このウェビナーは、9 月 20 日～午後 5 時 (CEST)～午前 8 時 (PDT)～午後 8 時 (IST) に実施されます。
 
 ## 登録
 
