@@ -1,26 +1,30 @@
 ---
-title: MBI - エキスパートに質問
-description: インテリジェントデータによるビジネス変革を含め、MBI 製品チームとの深い関わりについては、記録されたウェビナーをご覧ください。
-landing-page-description: インテリジェントデータによるビジネス変革を含め、MBI 製品チームとの深い関わりについては、記録されたウェビナーをご覧ください。
-short-description: インテリジェントデータによるビジネス変革を含め、MBI 製品チームとの深い関わりについては、記録されたウェビナーをご覧ください。
+title: Commerce Intelligence — エキスパートに質問
+description: インテリジェントデータによるビジネス変革を含め、Commerce Intelligence 製品チームとの深い関わりについては、これらの記録済みウェビナーをご覧ください。
+landing-page-description: インテリジェントデータによるビジネス変革を含め、Commerce Intelligence 製品チームとの深い関わりについては、これらの記録済みウェビナーをご覧ください。
+short-description: インテリジェントデータによるビジネス変革を含め、Commerce Intelligence 製品チームとの深い関わりについては、これらの記録済みウェビナーをご覧ください。
 kt: 10404
 solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 
 # MBI - エキスパートに質問
 
+>[!NOTE]
+>
+>Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
+
 セッション 1:
 
-- MBI に関するお客様の意見
+- Commerce Intelligence に関するお客様の意見
 - インテリジェントデータによるビジネスの変革
 
 セッション 2:
@@ -46,7 +50,7 @@ _エキスパートに質問する_ は、次の 2 つのセッションで構�
 
 >[!TIP]
 >
->MBI を初めて使用する場合、 [入門ビデオシリーズ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) は、データの集計、分析、ビジュアライゼーションを通じて、より優れたビジネスインサイトと結果を促進するための完全な概要を提供します。
+>Commerce Intelligence を初めて使用する場合は、 [入門ビデオシリーズ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) は、データの集計、分析、ビジュアライゼーションを通じて、より優れたビジネスインサイトと結果を促進するための完全な概要を提供します。
 
-- [MBI の概要](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [MBI サポート](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence の概要](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [コマースインテリジェンスのサポート](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

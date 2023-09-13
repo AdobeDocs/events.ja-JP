@@ -1,26 +1,26 @@
 ---
-user-guide-title: MBI イベント
-breadcrumb-title: MBI イベント
-user-guide-description: MBI Events(MBI Events) は、専門家や同業者がAdobe Commerceに関する考えやアイデアを共有するビデオライブラリーです。
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+user-guide-title: Commerce Intelligence イベント
+breadcrumb-title: Commerce Intelligence イベント
+user-guide-description: Commerce Intelligence Events（コマースインテリジェンスイベント）は、専門家や同業者がAdobe Commerce Intelligence に関する考えやアイデアを共有するビデオライブラリです。
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 37%
+source-wordcount: '65'
+ht-degree: 4%
 
 ---
 
 
-# MBI イベント  {#mbi-webinars-recordings}
+# Commerce Intelligence イベント  {#commerce-intelligence-webinar-recordings}
 
 + [概要](overview.md)
 + 2023年 {#2023}
-   + [MBI でのデータセットの管理](2023/manage-data-sets.md)
+   + [Commerce Intelligence でのデータセットの管理](2023/manage-data-sets.md)
 + 2021年 {#2021}
-   + [MBI 使用の手引き](2021-22/getting-started.md)
-   + [MBI Data Warehouse の最適化](2021-22/optimize-data-warehouse.md)
-   + [MBI ダッシュボードの詳細](2021-22/dashboards-deep-dive.md)
-   + [MBI を使用して休日に備えれる](2021-22/holiday-readiness.md)
-   + [MBI - エキスパートに質問](2021-22/ask-expert.md)
+   + [Commerce Intelligence の概要](2021-22/getting-started.md)
+   + [コマースインテリジェンスData Warehouseの最適化](2021-22/optimize-data-warehouse.md)
+   + [Commerce Intelligence ダッシュボードの詳細](2021-22/dashboards-deep-dive.md)
+   + [コマースインテリジェンスを使用した休日対応](2021-22/holiday-readiness.md)
+   + [Commerce Intelligence — エキスパートに質問](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)

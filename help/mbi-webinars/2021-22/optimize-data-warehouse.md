@@ -1,5 +1,5 @@
 ---
-title: MBI Data Warehouse の最適化
+title: コマースインテリジェンスData Warehouseの最適化
 description: Data Warehouse・マネージャの詳細については、このウェビナーをご覧ください。
 landing-page-description: この録画ウェビナーを見る
 short-description: この録画ウェビナーを見る
@@ -9,14 +9,18 @@ role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '136'
+ht-degree: 1%
 
 ---
 
-# MBI Data Warehouse の最適化
+# コマースインテリジェンスData Warehouseの最適化
+
+>[!NOTE]
+>
+>Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
 
 Data Warehouse・マネージャを使用すると、テーブルと列の同期設定の管理、テーブルのスキーマへのドリルダウン、レポートで使用する計算列の作成が可能です。
 
@@ -37,10 +41,6 @@ Data Warehouse・マネージャを使用すると、テーブルと列の同期
 >[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
 ## 役に立つリソース
-
->[!TIP]
->
->MBI を初めて使用する場合、 [入門ビデオシリーズ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) は、データの集計、分析、ビジュアライゼーションを通じて、より優れたビジネスインサイトと結果を促進するための完全な概要を提供します。
 
 [分析用にデータベースを最適化中](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [セグメント化およびフィルタリングに推奨されるデータDimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

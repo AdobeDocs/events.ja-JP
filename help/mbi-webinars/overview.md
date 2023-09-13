@@ -1,19 +1,23 @@
 ---
-title: MBI イベント
-description: MBI が記録したウェビナー（WEB セミナー）をご覧ください。ウェビナーは、様々なトピックと、MBI を最大限に活用するためのベストプラクティスについて取り上げています。
+title: Commerce Intelligence ウェビナー
+description: Commerce Intelligence を参照するウェビナーは、様々なトピックとベストプラクティスを網羅しており、Commerce Intelligence を最大限に活用するためのウェビナーを記録しています。
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 30%
+source-wordcount: '303'
+ht-degree: 19%
 
 ---
 
-# MBI ウェビナー
+# Adobe Commerce Intelligence Web セミナー
 
-MBI ウェビナーシリーズは、MBI のお客様向けの定期的なイベントです。 ウェビナーでは、MBI を最大限に活用するための様々なトピックとベストプラクティスを扱っています。
+>[!NOTE]
+>
+>Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
 
-すべての地域の参加者がイベントに参加して、製品をより深く理解し、直接回答した MBI 機能に関する質問を受け取ることができます。
+Commerce Intelligence ウェビナーシリーズは、MBI のお客様向けの定期的なイベントです。 このウェビナーでは、コマースインテリジェンスを最大限に活用するための様々なトピックとベストプラクティスを扱っています。
+
+すべての地域の参加者がイベントに参加して、製品をより深く理解し、Commerce Intelligence 機能に関する質問に直接回答することができます。
 
 顧客が尋ねる新しい質問に対応するために、時々トピックが繰り返されます。
 
@@ -31,7 +35,7 @@ MBI ウェビナーシリーズは、MBI のお客様向けの定期的なイベ
       </a>
     </div>
     <p>
-    <em>事前設定済みのダッシュボードとカスタマイズオプションを詳細に調べ、コマース製品チームから直接 MBI のコア機能について説明します。</em>
+    <em>事前設定済みのダッシュボードとカスタマイズオプションを詳細に確認し、製品チームから直接 Commerce Intelligence のコア機能について説明します。</em>
     <p>
   </td>
   <td>
@@ -65,9 +69,9 @@ MBI ウェビナーシリーズは、MBI のお客様向けの定期的なイベ
 
 >[!TIP]
 >
->**記録されたすべてのウェビナーは、左側のナビゲーションに表示されます**.
+>**記録されたすべてのウェビナーは、左側のナビゲーションに一覧表示されます**.
 
 ## 役に立つリソース
 
-- [MBI のビデオとチュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [MBI ユーザーガイド](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)
+- [Commerce Intelligence のビデオとチュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligence ユーザーガイド](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)
