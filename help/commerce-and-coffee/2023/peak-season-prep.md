@@ -1,7 +1,7 @@
 ---
 title: ピークシーズンの準備
 description: Corey Gelato は、ピークシーズンのベストプラクティスと戦略に深く掘り下げ、サイト上で商品やサービスを効果的かつ効果的に宣伝し、年間のピークシーズン中に競争力を維持する方法を学びます。 コンテンツのステージングとプレビュー、プロモーション、カタログ、買い物かごの価格ルールなどの機能のデモに従って、Corey は Q&A のライブセッション中に質問に答えます。
-solution: Adobe Commerce
+solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
 role: Admin, Leader, User
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-20T00:00:00Z
 jira: KT-13992
 thumbnail: 3424390.jpeg
-source-git-commit: dd032d0b6f0fef7a5939ef78837d0450c0741544
+source-git-commit: 8f73eadc11a0906ffc987aa2fe5bd83755245b19
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
