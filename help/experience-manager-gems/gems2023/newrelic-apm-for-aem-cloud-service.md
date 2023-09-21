@@ -11,10 +11,10 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 6%
+source-wordcount: '282'
+ht-degree: 8%
 
 ---
 
@@ -23,11 +23,7 @@ ht-degree: 6%
 
 パフォーマンスを最大化し、問題を迅速に解決します。
 
-このウェビナーは、9 月 20 日～午後 5 時 (CEST)～午前 8 時 (PDT)～午後 8 時 (IST) に実施されます。
-
-## 登録
-
-[このセッションに参加するには、AEMユーザーグループを通じて登録してください](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-rapid-issue-fix/)
+このウェビナーは **9 月 20 日**, 2023. 以下の録画をご覧ください。
 
 ## セッションの説明
 
@@ -47,8 +43,12 @@ AEM as a Cloud Serviceにデフォルトで含まれている機能である、N
 * Luciana Surdoiu、クラウドオートメーション部門の責任者、Adobe
 * Michael Campbell 氏 (Adobe、AEM Site Reliability Engineer)
 
+## ウェビナー録画 — 09/20/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424439/)
+
 >[!NOTE]
 >
->* セッションに特有のコミュニティでのインタラクションのExperience Leagueに関しては、間もなくリンクが投稿されます。
+>* セッション固有のコミュニティでのExperience Leagueのインタラクションについては、 [コンテキストスレッド](https://adobe.ly/3sV67N5).
 >
 >* 今後のウェビナーに関する通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に登録してください。
