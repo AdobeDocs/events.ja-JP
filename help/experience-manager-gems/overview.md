@@ -11,7 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 9156b59b2cf55116f1599400a04244f3423b4492
+source-git-commit: d61918b5cd5f0e0aba1b223359f4cc69ab7110c9
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 83%
@@ -44,7 +44,7 @@ ht-degree: 83%
 </table>
 
 -->
-最新のAEM GEM ウェビナー： **AEM as a Cloud Service向けNew Relic APM の潜在性の解放。 パフォーマンスを最大化し、問題を迅速に解決します。** が次の項目について行われた： *2023 年 9 月 21 日*.
+最新のAEM GEM ウェビナー： **AEM as a Cloud Service向けNew Relic APM の潜在性の解放。 パフォーマンスの最大化と問題解決の迅速化** が次の項目について行われた： *2023 年 9 月 21 日*.
 The **記録** は次の場所にあります。 [Adobe Experience Manager as a Cloud Service用New Relic APM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
