@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 47%
+source-wordcount: '165'
+ht-degree: 49%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td>
-    近い将来にこのページをご覧になり、Real-time Customer Data Platformの Lookalike Audiences に関する 2023 年 9 月のエピソードを含む今後のエピソードをご覧ください。
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
+      <img alt="Experience Leagueライブ 4 月 21 日" src="assets/Oct26_exl_live_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-10-26-23.md">
+        <strong>Workfrontリリースディープダイブ — ニューWorkfrontホーム</strong>
+      </a>
+      <br/><em>ベッツイ・ウエスト、ベン・ロビンズ、ジェイミー・スミスと</em>
+      <br/><em>2023 年 10 月 27 日</em>
+    </div>
   </td>
 </tr>
 </table>

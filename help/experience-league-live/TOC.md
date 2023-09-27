@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 86b13e13d74f4ce99988f9b2db4b330f6583dd14
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 8%
+source-wordcount: '280'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 28:Workfrontリリースディープダイブ — 新しいWorkfrontホーム](episodes/exl-live-episode-10-26-23.md)
    + [Ep. 27: Adobe Journey Optimizerで API トリガーされたメッセージ](episodes/exl-live-episode-8-23-23.md)
    + [Ep. 26：標準的なコントロールを使用した、あらゆるソ&#x200B;ースから 1 か所でアクションにつながるオーディエンス](episodes/exl-live-episode-7-20-23.md)
    + [Ep. 25: Web チャネルとコンテンツの実験を使用したAdobe Journey Optimizerの将来の展望](episodes/exl-live-episode-6-14-23.md)
