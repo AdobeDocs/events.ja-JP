@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: «記録の集まり [!DNL Experience Makers Learn from your peers]"
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 20%
+source-wordcount: '113'
+ht-degree: 19%
 
 ---
 
@@ -31,10 +31,12 @@ ht-degree: 20%
       + 年3月{#mar2022}
          + [データを使用した効果的なストーリーの伝達](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
-   + 年5月{#may2023}
-      + [コンテンツおよびエクスペリエンスフラグメントのマスター](experience-manager/may2023/mastering-content-and-experience-fragments.md)
+   + 年9月{#sept2023}
+      + [AEM Sitesのツールに深く掘り下げ](experience-manager/sept2023/aem-sites-tools.md)
    + 年7月{#july2023}
       + [効果的なセキュリティ戦略のCloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+   + 年5月{#may2023}
+      + [コンテンツおよびエクスペリエンスフラグメントのマスター](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + 年9月{#sept2023}
       + [Marketo Engageでメール配信品質を高める](marketo/sept2023/email-deliverability.md)
