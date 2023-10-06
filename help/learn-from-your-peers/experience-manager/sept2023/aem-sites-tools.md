@@ -2,17 +2,16 @@
 title: AEM Sitesのツールに深く掘り下げ
 description: ツールを効果的に活用し、AEM Sitesエクスペリエンスを変換するためのベストプラクティス。 タグのタイプ異なるタグタイプがコンテンツの構成と検出性を超過させる方法を説明します。  タグの設定と適用効率的なタグ実装に関する実践的なインサイトを得て、時間を節約し、生産性を高めます。  フォルダーメタデータスキーマフォルダーメタデータスキーマを通じて構造化コンテンツ管理の機能を見つけます。メタデータスキーマデザインを習得して、コンテンツの関連性とユーザーエクスペリエンスを向上させます。 レポートの設定包括的なレポートを設定することで、戦略的な意思決定のためのデータ駆動型のインサイトを活用します。プレゼンテーションのスライドは、こちらからアクセスできます。
 feature-set: Experience Manager
-feature: Tagging, 
-topic: ??? - select 0 or more from: https://adobe.ly/3NRHfMp
+feature: Tagging
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 doc-type: Event
-last-substantial-update: 2023-10-06
+last-substantial-update: 2023-10-06T00:00:00Z
 jira: KT-14118
 thumbnail: 3424735.jpeg
-source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
+source-git-commit: 426722ebded091c3dc685b951b6823f432e58a4d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
