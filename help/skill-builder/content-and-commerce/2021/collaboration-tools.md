@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7342
-exl-id: cb7b2ee2-93b7-496a-8120-01e9af6e3957
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9655db30-bb17-4f0e-abd2-3267821c6b7e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 3%
@@ -28,12 +28,12 @@ Adobe Experience Managerで豊かで魅力的な顧客体験を作成する方�
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-Experience Manager作成者の共同作業ツール
+Experience Manager作成者の共同作業ツールの詳細
 
 ## シリーズ録画
 
 * [美しい Web エクスペリエンスをすばやく作成](authoring-fundamentals.md)
 * [コンテンツの検索に時間を無駄にしない](media-library-administration.md)
-* [ANYWHERE のコンテンツ：オムニチャネル体験を現実にする](omnichannel-experiences.md)
+* [ANYWHERE 向けコンテンツ：オムニチャネルエクスペリエンスの実現](omnichannel-experiences.md)
 * [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)
-* [Web とその範囲 — 従来のコンテンツ管理とヘッドレスコンテンツ管理の力](traditional-headless-content-management.md)
+* [Web とその他 — 従来のヘッドレスコンテンツ管理の力](traditional-headless-content-management.md)

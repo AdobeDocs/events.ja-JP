@@ -2,17 +2,17 @@
 title: Adobe Commerce製品アップデート
 description: Adobe Commerce製品チームが提示する、Adobe Commerceの最新の製品イノベーションです。
 user-guide-breadcrumb: Adobe Commerce Release Updates
-source-git-commit: 1dc2c36424118ee87f3fd7339f2b582306b91392
+exl-id: 838b1ed9-eb45-4818-9a8e-807b557d0bce
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 16%
 
 ---
 
-
 # Adobe Commerce製品アップデート
 
-Adobe Commerce Product Update ウェビナーに参加して、多くの新機能と魅力的な機能でプラットフォームを変える方法をご確認ください。 最新のコマースイノベーションを紹介し、販売の成長、開発の合理化、パフォーマンスの向上に役立てる方法を示します。
+Adobe Commerce Product Update ウェビナーに参加して、多くの新機能と魅力的な機能でプラットフォームを変える方法をご確認ください。 最新のコマースイノベーションを紹介し、販売の成長、開発の合理化、パフォーマンスの向上に役立つイノベーションを紹介します。
 
 ## 最新のアップデート
 

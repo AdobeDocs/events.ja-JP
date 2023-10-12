@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
-exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: be7ce77f-d4e0-47fa-b811-f1792ef76be6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
@@ -20,12 +20,12 @@ ht-degree: 1%
 
 * レポート
 * スマートリスト
-* アナライザ
+* アナライザー
 * MPI
 * メールインサイト
 * 収益エクスプローラ
 * レポートタイプの概要
-   * グローバルレポート（分析）とローカルレポート（マーケティングアクティビティ）
+   * グローバルレポート（分析）とローカルレポート（マーケティング活動）の比較
 * 標準レポートとスマートリストを使用するタイミング
    * 購読
 

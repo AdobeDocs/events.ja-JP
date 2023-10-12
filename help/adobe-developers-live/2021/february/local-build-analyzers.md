@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7406
 type: Event
 thumbnail: 332307.jpg
-exl-id: e8bcfcde-7173-4c99-9857-bd5da4333953
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 42685f49-e67d-470a-918d-3895d723f06f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ACDL のイベント駆動型 API を理解する。 コマースの例は、コアコンポーネントによってどのようにハイドレートされ、Launch 拡張機能と AA および AT のインターフェイスが組み込まれるかを示します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 

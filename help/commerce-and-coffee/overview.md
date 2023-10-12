@@ -1,8 +1,8 @@
 ---
 title: コマースとコーヒー
 description: Adobe Commerceとコーヒーシリーズは、イベントトピックを反映した統計によってサポートされるコマース戦略と戦術に焦点を当てています。
-exl-id: b843ec27-295a-406c-971b-f3ba4ee9e002
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

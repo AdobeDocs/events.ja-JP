@@ -1,6 +1,6 @@
 ---
 title: コマースエクスペリエンスと関連コンテンツの強化
-description: CIF アドオンは最近、Product Experience Management を導入しました。この Experience Management は、アセット、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張し、Adobe Experience Managerのコンテンツを製品データに関連付けます。 関連コンテンツを活用すると、CIF コアコンポーネントで作成した完全に動的な製品カタログをエンリッチメントして、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を学びます。 また、カスタムコンポーネントが関連コンテンツをどのように活用できるかを示す高度な使用例についても紹介します。
+description: CIFアドオンは最近導入された製品エクスペリエンス管理で、アセット、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張し、Adobe Experience Managerのコンテンツを製品データに関連付けます。 関連コンテンツを活用すれば、CIFコアコンポーネントで作成した完全に動的な製品カタログをエンリッチメントして、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を学びます。 また、カスタムコンポーネントが関連コンテンツをどのように活用できるかを示す高度な使用例についても紹介します。
 solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
@@ -8,8 +8,8 @@ level: Experienced
 version: Cloud Service
 kt: 9181
 type: Event
-exl-id: ca53c085-2f41-4400-8d88-4d9ed2beef0d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f5186897-3afd-4732-99f5-a69dad44b037
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 13%
@@ -18,7 +18,7 @@ ht-degree: 13%
 
 # コマースエクスペリエンスと関連コンテンツの強化
 
-CIF アドオンは最近、Product Experience Management を導入しました。この Experience Management は、アセット、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張し、Adobe Experience Managerのコンテンツを製品データに関連付けます。 関連コンテンツを活用すると、CIF コアコンポーネントで作成した完全に動的な製品カタログをエンリッチメントして、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を学びます。 また、カスタムコンポーネントが関連コンテンツをどのように活用できるかを示す高度な使用例についても紹介します。
+CIFアドオンは最近導入された製品エクスペリエンス管理で、アセット、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張し、Adobe Experience Managerのコンテンツを製品データに関連付けます。 関連コンテンツを活用すれば、CIFコアコンポーネントで作成した完全に動的な製品カタログをエンリッチメントして、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を学びます。 また、カスタムコンポーネントが関連コンテンツをどのように活用できるかを示す高度な使用例についても紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337772/?quality=12&learn=on&hidetitle=true)
 

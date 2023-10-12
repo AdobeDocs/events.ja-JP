@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9179
 type: Event
-exl-id: eba2ef69-59f1-4d1f-9405-78aee5764295
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 16%
@@ -21,7 +21,7 @@ ht-degree: 16%
 
 他の人が犯した最も一般的な間違いを学び、自分で避けることができます。 このセッションでは、オンコールおよびサポートエンジニアがこれまで見てきた一般的な問題のいくつかを見て、独自のAdobe Experience Manager as a Cloud Service実装でこれらを回避できるようにするためのベストプラクティスについて説明します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3kLQK3j)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3kLQK3j)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 

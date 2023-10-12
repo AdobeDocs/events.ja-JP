@@ -1,15 +1,15 @@
 ---
 title: 顧客データ管理の声
 description: 顧客データ管理の技術およびマーケティングプラクティスのリーダーおよびスペシャリストとしての宛先。  このページは、仲間から聞き取り、刺激を受け、martech の開発について学ぶためのワンストップショップです。
-exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
-# 顧客データ管理 — Voices {#overview}
+# 顧客データ管理 - 担当者の声 {#overview}
 
 <img alt="顧客データ管理の声" src="./assets/cdp-voices-banner.png" />
 
@@ -90,10 +90,10 @@ Customer Data Management Voices へようこそ。顧客データ管理の技術
   <tr>
    <td>
       <a href="./governance/healthcare-shield.md">
-      <img alt="Adobe Real-time Customer Data Platformと医療の盾" src="./assets/healthcare-shield.png"/>
+      <img alt="Adobe Real-time Customer Data Platformとヘルスケアの盾" src="./assets/healthcare-shield.png"/>
       </a>
       <div>
-         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platformと医療の盾</strong></a>
+         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platformとヘルスケアの盾</strong></a>
          <br/>
       </div>
       <p>
@@ -125,7 +125,7 @@ Customer Data Management Voices へようこそ。顧客データ管理の技術
   </tr>
 </table>
 
-## 業界の議論
+## 業界のディスカッション
 
 <table>
   <tr>

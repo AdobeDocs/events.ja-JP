@@ -6,8 +6,8 @@ role: Developer
 level: Beginner
 kt: 9708
 thumbnail: 340313.jpeg
-exl-id: d84c53e1-40a4-4172-a173-73ebde451edd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 573d9faa-8259-451a-b729-6714f4172780
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # カスタムオブジェクトと速度に飛び込むトップロープ
 
-1 対多のリレーショナルデータに加えて、時間テスト済みのテンプレートエンジン。高度な e メールコンテンツに最適なタグチーム。 CO スキーマ設計のための戦術を学ぶCO レコードの並べ替え、フィルタリング、集計レコードの更新を検出中；JSON を使用した疑似 CO の統合 また、日付、時刻、通貨のローカライズなど、Velocity の一般的なタスクについても説明します。
+1 対多のリレーショナルデータに加えて、時間的にテストされたテンプレートエンジン。高度なメールコンテンツに最適なタグチームです。 CO スキーマ設計の戦術、CO レコードの並べ替え、フィルタリング、集計、レコード更新の検出、JSON を使用した疑似 CO の統合について説明します。 また、日付、時刻、通貨のローカライズなど、Velocity の一般的なタスクについても説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

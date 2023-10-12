@@ -1,5 +1,5 @@
 ---
-title: コンポーネントスクリプトの開発とデプロイメントのベストプラクティスをExperience Manageras a Cloud Service
+title: コンポーネントスクリプトの開発とデプロイメントに関するベストプラクティス (Experience Manageras a Cloud Service)
 description: このセッションでは、より予測可能なアプリケーションデプロイメントを実現するために、Adobe Experience Manager開発者が従うことができる最新のベストプラクティスについて説明します。 2019 年に Apache Sling 機能として導入され、2020 年以降に AEMaCS で使用される、プリコンパイルされたバンドルスクリプトは、Adobe Experience Managerコンポーネントの従来のデプロイ方法に比べて 2 つの大きな改善を提供します — 1. スクリプトは、任意の Java API 2 のように、バージョン管理したり、明示的な依存関係チェーンを持つことができます。 スクリプトのコンパイルは、アプリケーションのビルドプロセス中に実行できるようになり、潜在的なエラー（依存関係の欠落、API の誤った使用など）を迅速に検出できます。 開発者がプロジェクトを設定して、スクリプトを事前コンパイル済みのバンドルとして提供し、ローカルのAdobe Experience Manager Sling 機能アナライザーを使用して API 要件が満たされていることを検証し、潜在的なエラーを早期に検出する方法に焦点を当てます。
 solution: Experience Manager
 feature: Developer Tools
@@ -9,19 +9,19 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9177
 type: Event
-exl-id: ba85855c-2624-486d-a754-370fb1308c5a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 71fa0d10-cea5-416e-a6e5-2c729c7793a6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 10%
 
 ---
 
-# コンポーネントスクリプトの開発とデプロイメントのベストプラクティスをExperience Manageras a Cloud Service
+# コンポーネントスクリプトの開発とデプロイメントに関するベストプラクティス (Experience Manageras a Cloud Service)
 
-このセッションでは、より予測可能なアプリケーションデプロイメントを実現するために、Adobe Experience Manager開発者が従うことができる最新のベストプラクティスについて説明します。 2019 年に Apache Sling 機能として導入され、2020 年以降に AEMaCS で使用される、プリコンパイル済みのバンドルスクリプトを使用すると、従来のAdobe Experience Managerコンポーネントのデプロイ方法に比べて、2 つの大きな改善点が提供されます。1. スクリプトは、任意の Java API 2 のように、バージョン管理したり、明示的な依存関係チェーンを持つことができます。 スクリプトのコンパイルは、アプリケーションのビルドプロセス中に実行できるようになり、潜在的なエラー（依存関係の欠落、API の誤った使用など）を迅速に検出できます。 開発者がプロジェクトを設定して、スクリプトを事前コンパイル済みのバンドルとして提供し、ローカルのAdobe Experience Manager Sling 機能アナライザーを使用して API 要件が満たされていることを検証し、潜在的なエラーを早期に検出する方法に焦点を当てます。
+このセッションでは、より予測可能なアプリケーションデプロイメントを実現するために、Adobe Experience Manager開発者が従うことができる最新のベストプラクティスについて説明します。 2019 年に Apache Sling 機能として導入され、2020 年以降に AEMaCS で使用される、プリコンパイルされたバンドルスクリプトは、Adobe Experience Managerコンポーネントの従来のデプロイ方法に対して 2 つの大きな改善を提供します。 1. スクリプトは、任意の Java API 2 のように、バージョン管理したり、明示的な依存関係チェーンを持つことができます。 スクリプトのコンパイルは、アプリケーションのビルドプロセス中に実行できるようになり、潜在的なエラー（依存関係の欠落、API の誤った使用など）を迅速に検出できます。 開発者がプロジェクトを設定して、スクリプトを事前コンパイル済みのバンドルとして提供し、ローカルのAdobe Experience Manager Sling 機能アナライザーを使用して API 要件が満たされていることを検証し、潜在的なエラーを早期に検出する方法に焦点を当てます。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3zJrS0f)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3zJrS0f)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337851/?quality=12&learn=on&hidetitle=true)
 

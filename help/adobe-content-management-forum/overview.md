@@ -1,8 +1,8 @@
 ---
 title: Adobeコンテンツ管理フォーラム
 description: セッションコンテンツ管理フォーラムのAdobe録画のコレクション
-exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 935600fa-4fbc-4569-a3cd-f8b25c205df4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -51,15 +51,15 @@ ht-degree: 0%
       </div>
       <p>
         <br/>
-          方法を学ぶ [!DNL Assets Essentials] は新しい [!DNL Digital Asset Management] 部門や中堅企業向けのシステム
+          方法を学ぶ [!DNL Assets Essentials] は新しい [!DNL Digital Asset Management] 部門や中堅企業向けのシステム。
       </p>
    </td>
    <td>
       <a href="2022/supply-chain.md">
-      <img alt="規模を拡大するコンテンツサプライチェーンの構築" src="assets/supply-chain.png" />
+      <img alt="規模を拡大/縮小するコンテンツサプライチェーンの構築" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong>規模を拡大するコンテンツサプライチェーンの構築</strong></a>         
+         <a href="2022/supply-chain.md"><strong>規模を拡大/縮小するコンテンツサプライチェーンの構築</strong></a>         
          <br/><em>マルク・アンジェリノヴィッチと</em>
       </div>
       <p>

@@ -1,8 +1,8 @@
 ---
 title: スキルビルダー — お客様のジャーニー
 description: 記録されたウェビナーシリーズ。すべてのソースからデータを取り出して、パーソナライズされたクロスチャネルジャーニーを作成することで、リアルタイムの顧客プロファイルを開発するのに役立ちます。
-exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 9%
@@ -27,7 +27,7 @@ ht-degree: 9%
       </a>
     </div>
     <p>
-    <em>を使用して B2B キャンペーンを調整する方法を学ぶ [!DNL Marketo Engage] と RT-CDP（B2B エディション）と、何が最も重要な使用例で、何がロック解除されたメリットか。</em>
+    <em>を使用して B2B キャンペーンを調整する方法を説明します。 [!DNL Marketo Engage] と RT-CDP（B2B エディション）と、何が最も重要な使用例で、何がロック解除されたメリットか。</em>
     <p>
   </td>
   <td>
@@ -40,7 +40,7 @@ ht-degree: 9%
       </a>
     </div>
     <p>
-    <em>このセッションに Campaign トレーナーと共に参加して、内でデータモデル内のデータスキーマを開発する方法を学びましょう [!DNL Campaign Classic].</em>
+    <em>このセッションに Campaign トレーナーと共に参加して、内でデータモデル内のデータスキーマを開発する方法を学びましょう。 [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>

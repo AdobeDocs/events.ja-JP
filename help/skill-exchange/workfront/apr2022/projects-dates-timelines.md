@@ -1,24 +1,24 @@
 ---
-title: プロジェクトの日付とタイムラインの習得
+title: プロジェクトの日付とタイムラインのマスタリング
 description: 本来のプロセス指向であるか「偶発的なプロジェクトマネージャー」であるかにかかわらず、タイムラインと日付の制約を確実に理解することが、Workfrontでの作業の計画と実行の鍵となります。
 solution: Workfront
 role: User
 level: Beginner
 kt: 10310
 thumbnail: Cannot find MPC Link.jpeg
-exl-id: 1c441d90-69b7-4884-a41f-b4578772e78b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: edd8e9f9-9abe-4fb8-83ea-f150bedd614b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# プロジェクトの日付とタイムラインの習得
+# プロジェクトの日付とタイムラインのマスタリング
 
 本来のプロセス指向であるか「偶発的なプロジェクトマネージャー」であるかにかかわらず、タイムラインと日付の制約を確実に理解することが、Workfrontでの作業の計画と実行の鍵となります。
 
-Workfrontのトレーニング&amp;デリバリー担当マネージャー、Chris Nittle 氏にご参加ください。
+Workfrontのトレーニング&amp;デリバリー担当マネージャー、Chris Nittle 氏にご連絡ください。
 
 * Workfrontで使用可能な日付タイプ（計画日、実績日、推定日、コミット日、推定日を含む）。
 * タスク期間と先行タスクの基本

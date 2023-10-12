@@ -7,8 +7,8 @@ level: Beginner
 version: Cloud Service
 kt: 9135
 type: Event
-exl-id: edc8be9b-bf88-48e1-834c-885724bf5e91
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: da237121-7d66-49fc-864f-6132e3936fed
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 27%
@@ -19,7 +19,7 @@ ht-degree: 27%
 
 Adobe Experience Manager Modernization ツールスイートで使用できる機能を紹介します。 開発チームがコンテンツを使用して、コンポーネントライブラリの発展に伴う作成者の負担を軽減する方法を説明します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3zJuUBH)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3zJuUBH)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

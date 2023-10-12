@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7270
 type: Event
 thumbnail: 332022.jpg
-exl-id: e5c3b842-c8d5-413a-9019-cfe87f1b35ef
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: dd585d52-bf00-4f7f-86cb-86b6d67c5b9d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 7%
@@ -23,7 +23,7 @@ ht-degree: 7%
 
 Adobe Experience Manager as a Cloud Serviceには、強力な事前設定済みのコンテンツ配信アーキテクチャがあります。 最適化されたコンテンツ配信設定を最大限に活用する方法を示します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 

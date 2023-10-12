@@ -2,8 +2,8 @@
 title: Adobe Developers Live2021 年 2 月
 description: Adobe Developers Liveコンテンツイベントの一部として配信される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
 sub-product: sites, content-services
-exl-id: fe98b6e8-b45c-4780-bf57-7541c240ed97
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 26%
@@ -14,7 +14,7 @@ ht-degree: 26%
 
 <img alt="アドビ開発者ライブ" src="/help/adobe-developers-live/assets/adl.png" />
 
-2021 年 2 月 8～9 日、Adobe Developers Live:コンテンツは、多様な背景と特異な目的を持つ開発者とエクスペリエンスビルダーを結び付け、信じられないエンドツーエンドのエクスペリエンスを作成しました。
+2021 年 2 月 8 日～9 日、Adobe Developers Live：コンテンツは、多様な背景を持つ開発者とエクスペリエンスビルダーを集め、素晴らしいエンドツーエンドのエクスペリエンスを作り出しました。
 
 この 2 日間の会議では、ヘッドレスやGraphQL、Adobe Experience Manager as a Cloud Service、テクニカルセッション、コミュニティネットワークの機会など、Adobe Experience Managerの開発者向けの重要なアップデートが紹介されました。
 
@@ -57,7 +57,7 @@ ht-degree: 26%
       </a>
       <div>
          <a href="get-ready-aem-cloud.md"><strong>Cloud Serviceの準備 — 移行のベストプラクティス</strong></a>
-         <br/><em>Andreea Moise 氏（シニア・ソフトウェア・エンジニア）</em>
+         <br/><em>Andreea Moise 氏（シニア・ソフトウェア・エンジニア）と</em>
       </div>
       <p>
         <br/>

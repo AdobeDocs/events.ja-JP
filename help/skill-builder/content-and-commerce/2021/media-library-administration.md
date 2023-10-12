@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 8937
-exl-id: bed98c10-bc95-4981-863c-3756f06996c2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f92344ca-9c74-4205-968c-b12a58bae241
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 2%
@@ -34,6 +34,6 @@ AEM Sites とMedia Library管理 UI に深く掘り下げ、ヒントとテク�
 
 * [美しい Web エクスペリエンスをすばやく作成](authoring-fundamentals.md)
 * [常に変化するコンテンツを容易に管理](collaboration-tools.md)
-* [ANYWHERE のコンテンツ：オムニチャネル体験を現実にする](omnichannel-experiences.md)
+* [ANYWHERE 向けコンテンツ：オムニチャネルエクスペリエンスの実現](omnichannel-experiences.md)
 * [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)
-* [Web とその範囲 — 従来のコンテンツ管理とヘッドレスコンテンツ管理の力](traditional-headless-content-management.md)
+* [Web とその他 — 従来のヘッドレスコンテンツ管理の力](traditional-headless-content-management.md)

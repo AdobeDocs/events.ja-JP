@@ -9,8 +9,8 @@ level: Experienced
 version: Cloud Service
 kt: 9218
 type: Event
-exl-id: ff56af62-8e02-43e9-bc65-bd97e04f3e79
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 38b5d4b1-f7ce-4540-a37b-c8f02321101c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 14%
@@ -21,7 +21,7 @@ ht-degree: 14%
 
 このセッションでは、Adobe I/O、App Builder へのアクション、AEMaaCS の観点から、Adobe I/Oがリアルタイム（同期）またはバッチ（非同期）モードでAdobe Experience Managerから外部クラウドストレージ (Azure) やサードパーティシステム (Marketo) にアセットを書き出すなどの使用例を実装する方法を説明します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3mkDXo6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3mkDXo6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337842/?quality=12&learn=on&hidetitle=true)
 

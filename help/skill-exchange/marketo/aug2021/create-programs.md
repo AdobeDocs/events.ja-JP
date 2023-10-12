@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
-exl-id: a9d48fa2-6d89-4576-bd69-079c2e62b7d5
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: b4d71211-5eff-440c-8fd5-9de2a248695e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 内でのプログラムの作成 [!DNL Marketo Engage]
 
-このセッションで、 *プログラム構造* 次を含む：プログラムのタイプ、チャネルとステータスおよびタグ。 また、 *基盤プログラムの概念* プログラムを構成するもの
+このセッションで、 *プログラム構造* 次を含む：プログラムタイプ、チャネルとステータスおよびタグ。 また、 *基盤プログラムの概念* プログラムを構成するもの
 
 このセッションを終了する際には、 [!DNL Marketo Engage] 最も効率的な方法でビジネスニーズを満たすインスタンスと、e メールやウェビナーを実行するためのプログラムの作成方法。
 

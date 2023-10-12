@@ -1,7 +1,8 @@
 ---
 title: Adobeカスタマーサクセスウェビナー
 description: Adobeカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化できるように設計されています。 価値を最大限に高め、Adobe・ソリューションの採用を促進するために、貴重なインサイトを得る。
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

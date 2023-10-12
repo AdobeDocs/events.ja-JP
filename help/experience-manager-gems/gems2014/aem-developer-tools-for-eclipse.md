@@ -4,8 +4,8 @@ description: Eclipse 用 AEM 開発者ツールは、AEM アプリケーショ�
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
-exl-id: 539da93f-b3be-4c66-81de-fe97fcb19727
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 5209870a-c0fb-4241-ab21-ddf6adf233f8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
@@ -32,7 +32,7 @@ Eclipse 用 AEM 開発者ツールは、AEM アプリケーションの開発を
 
 * [Eclipse 用 AEM 開発者ツール - ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html?lang=ja)
 * [Sling IDE ツール](https://sling.apache.org/documentation/development/ide-tooling.html)
-* [ディスカッションおよび質問のフォーラム](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
+* [ディスカッションおよび質問のフォーラム](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [問題の報告とトラッキング](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
 * [Hobbes.js：UI テストフレームワーク](https://docs.adobe.com/docs/jp/aem/6-0/develop/components/hobbes.html)
 * [概要に戻る](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

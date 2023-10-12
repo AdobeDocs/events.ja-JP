@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7168
 type: Event
 thumbnail: 331769.jpg
-exl-id: ab5e14f0-e71d-407a-b0c3-cd51bd50a9ed
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: c08944f0-1ce0-43cd-9f37-ae10126b6915
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 このセッションでは、Cloud Service でのアセットの一括取り込みの新機能と、その拡張性とパフォーマンスについて説明します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 

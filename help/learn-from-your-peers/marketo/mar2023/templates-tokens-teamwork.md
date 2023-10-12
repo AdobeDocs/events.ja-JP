@@ -8,8 +8,8 @@ solution: Marketo Engage
 last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
-exl-id: 96b047f8-2fc8-4401-bbf6-cd59ad98eb21
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 2526c088-08da-4839-a1f4-27aa1f620340
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # テンプレート、トークン、チームワーク —Adobe [!DNL Marketo Engage] コンテンツ拡張性
 
-マーケティングプログラムのコンテンツ作成は長期にわたり行われました。 テンプレートとトークンを適用すると、チームをまたいでスケーラブルなプロセスを構築し、より少ないでより多くの成果を上げるのに役立ちます。 [!DNL Marketo Engage]. 受賞歴のあるマーケティングリーダー、Lauren McCormack 氏と 2 倍のAdobeから連絡を受ける [!DNL Marketo Engage] チャンピオン — 彼女があなたのための知恵の年月を共有して [!DNL Marketo Engage] コンテンツは拡張可能です。
+マーケティングプログラムのコンテンツ作成は長期にわたって行われました。 テンプレートとトークンを適用すると、チームをまたいでスケーラブルなプロセスを構築し、より少ないでより多くの成果を上げるのに役立ちます。 [!DNL Marketo Engage]. 受賞歴のあるマーケティングリーダー、Lauren McCormack 氏と 2 倍のAdobeから連絡を受ける [!DNL Marketo Engage] チャンピオン — 彼女があなたのための知恵の年月を共有して [!DNL Marketo Engage] コンテンツは拡張可能です。
 
 詳細:
 

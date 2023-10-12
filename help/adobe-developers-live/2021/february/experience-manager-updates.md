@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7165
 type: Event
 thumbnail: 331279.jpg
-exl-id: e1c21502-0fa5-4514-b6a5-dcc04842b114
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 667512a8-5fdf-4f1a-8082-7d765100b6b3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Experience Managerのプロダクトマネージャーである Gabriel Walt 氏に参加して、Adobe Experience Managerのロードマップを推進する大きなテーマとセッションの関係の概要を確認してください。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 

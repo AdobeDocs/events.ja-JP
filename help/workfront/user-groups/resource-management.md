@@ -1,12 +1,12 @@
 ---
 title: リソース管理（2021 年 5 月 19 日）
-description: Samantha Isin は、Workfrontのリソース管理およびレポートツールと Melaleuca で行っていることを Samantha Isin と共有します。 また、VaynerMedia から Aaron Behr 氏の声を聞く（説明は 60 ～ 160 文字にする）
+description: Samantha Isin は、Workfrontのリソース管理およびレポートツールと Melaleuca で行っていることを Samantha Isin と共有します。 また、VaynerMedia から Aaron Behr 氏の声を聞く（説明は 60 ～ 160 文字にする必要があります）
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10008
 thumbnail: 341226.jpeg
-exl-id: 8ca41260-d9e3-4e57-ad3b-f3329576dd2c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: fd13b975-1ea2-463a-bb1f-afc6bf4e97ab
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

@@ -7,8 +7,8 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 kt: 9123
 type: Event
-exl-id: 996b8d07-db06-49f2-8a31-a06fada7b846
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a2e7d00e-e7b9-4ad7-aa3e-fd3850384d07
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 24%
@@ -19,7 +19,7 @@ ht-degree: 24%
 
 選択したサポート対象のログ管理ソリューションで、すべての App Builder アプリケーションログにアクセスします。 このセッションでは、今後のログ転送機能と、それらを早期に試す方法についての排他的なプレビューを提供します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3zXM3rp)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3zXM3rp)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337568/?quality=12&learn=on&hidetitle=true)
 

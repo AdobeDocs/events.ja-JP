@@ -7,8 +7,8 @@ role: Developer, Architect
 level: Experienced
 kt: 9214
 type: Event
-exl-id: a2d4018b-1571-48c7-ae9b-f816c0564ede
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3b8d4aa4-5b2b-43b2-8cb4-3b01e2fb6e74
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 15%
@@ -19,7 +19,7 @@ ht-degree: 15%
 
 App Builder で何が可能かを確認し、知りたいことをすべてお問い合わせください。 App Builder を使用して、クラウドネイティブアプリケーションを構築し、Adobe Experience Managerやその他のAdobe製品の標準搭載機能を拡張する方法について詳しくご覧ください。 一般的な使用例について学び、App Builder の構築を開始する方法についてのプレビューを学びます。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3AYeJlv)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3AYeJlv)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337767/?quality=12&learn=on&hidetitle=true)
 

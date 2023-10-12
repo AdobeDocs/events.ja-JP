@@ -8,8 +8,8 @@ level: Beginner
 version: Cloud Service
 kt: 9176
 type: Event
-exl-id: 02a73889-5123-4af1-8314-7eb204df8203
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b3218ecd-4682-4bd1-8444-594ae925e4d8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 9%
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 画像は、デジタルエクスペリエンスの総帯域幅の 60%を占める可能性があり、メディアリッチな画像重量エクスペリエンスの場合、85%の高さになります。 ユーザーに最適なエクスペリエンスを提供するには、提供する画像を最適化することが重要です。 Adobe Experience Manager Dynamic Mediaは、業界最先端のスマートイメージング機能と、他のダイナミックイメージング機能セットのホストを通じて、より優れたユーザーエクスペリエンスと向上したコンバージョン率を実現します。 このセッションは、技術者がDynamic Mediaの URL と修飾子の使用に関するベストプラクティスを理解するのに役立ちます。これは、試用やエラーを通じて画像の最適化を行う必要がなく、ワンストップショップのようなものです。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3F58miP)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3F58miP)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337847/?quality=12&learn=on&hidetitle=true)
 

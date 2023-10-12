@@ -1,22 +1,23 @@
 ---
-title: Adobe Journey Optimizerで API トリガーメッセージ
-description: コンテキストに応じてパーソナライズされたリアルタイムのトランザクションおよびマーケティングコミュニケーションで REST API を使用する方法を説明します。
+title: Adobe Journey Optimizer での API トリガーによるメッセージ
+description: REST API を使用して、コンテキストに応じてパーソナライズされたリアルタイムのトランザクションおよびマーケティングコミュニケーションを行う方法について説明します。
 kt: KT-13734
 thumbnail: https://video.tv.adobe.com/v/3422169?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-cta-url-reg: null
 event-start-time: 2023-8-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
-source-git-commit: 3d4d837932a54e81ee7139d09a2e79f53472edb1
+exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
-# Adobe Journey Optimizerで API トリガーメッセージ
+# Adobe Journey Optimizer での API トリガーによるメッセージ
 
-コンテキストに応じてパーソナライズされたリアルタイムのトランザクションおよびマーケティングコミュニケーションで REST API を使用する方法を説明します。
+REST API を使用して、コンテキストに応じてパーソナライズされたリアルタイムのトランザクションおよびマーケティングコミュニケーションを行う方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422169/?learn=on)
 

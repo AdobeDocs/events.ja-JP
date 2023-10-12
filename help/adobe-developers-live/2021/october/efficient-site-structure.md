@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9182
 type: Event
-exl-id: d1f1e099-2260-40f9-8d3d-dc171939e238
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 32%
@@ -21,7 +21,7 @@ ht-degree: 32%
 
 言語コピー、ライブコピー、大量の移動操作やコピー操作を扱う際の、開発者向けのベストプラクティスの詳細な概要です。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/39DoIQT)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/39DoIQT)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

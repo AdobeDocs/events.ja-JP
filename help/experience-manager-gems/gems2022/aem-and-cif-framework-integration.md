@@ -9,8 +9,8 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
@@ -30,7 +30,6 @@ ht-degree: 100%
 >* [対応する Adobe Experience Manager ユーザーグループのイベントページ](https://adobe.ly/3O0uXl5/)
 >* [対応するコンテキストスレッド](https://adobe.ly/3jorz5r)
 >* 今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
-
 
 **概要レベルのアジェンダ：**
 

@@ -1,8 +1,8 @@
 ---
 title: スキルビルダーの概要
 description: ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活かすための録画ウェビナーシリーズ。
-exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%
@@ -23,7 +23,7 @@ ht-degree: 3%
       <strong>コンテンツとコマース</strong>
     </div>
     <p>
-    <em>幅広い魅力的な Web サイト、モバイルアプリ、フォームを作成および管理します。 さらに、柔軟で AI を利用したコマースソリューションを使用して、単一のプラットフォームでマルチチャネルのコマースエクスペリエンスを構築する方法を学びます。</em>
+    <em>様々な魅力的な Web サイト、モバイルアプリ、フォームを作成および管理します。 さらに、柔軟で AI を利用したコマースソリューションを使用して、単一のプラットフォームでマルチチャネルのコマースエクスペリエンスを構築する方法を学びます。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">セッションを参照</span>

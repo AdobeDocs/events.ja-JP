@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9183
 type: Event
-exl-id: 11712176-40b1-40b1-8cd6-aa9c9860f1ff
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 736baf52-d3e5-43f2-b240-d8c8aa6cdfe7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 11%
@@ -21,7 +21,7 @@ ht-degree: 11%
 
 Adobe Experience Managerは、サイトを新しく作成する革新的な方法を導入しています。 Adobe Experience Managerプロジェクトアーキタイプを使用する代わりに、プロジェクトに適したサイトテンプレートを使用して開始できます。 このセッションでは、サイトテンプレートに基づいてサイトを作成するための新しいエンドツーエンドのプロセスを紹介します。 (1) フロントエンド開発者が、フロントエンド Cloud Manager パイプラインを通じてデプロイされるテーマの変更のリアルタイムプレビューに対応する方法、および (2) テンプレートを定義するチームが、運用開始前に担当者と並べて作業できる方法を確認します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/2Y4sJMf)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/2Y4sJMf)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337721/?quality=12&learn=on&hidetitle=true)
 

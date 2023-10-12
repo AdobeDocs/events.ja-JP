@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7171
 type: Event
 thumbnail: 331280.jpg
-exl-id: a545a81e-efa5-485f-a653-6cee86e29065
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 4e43d3d4-db29-45a2-9979-59f562e427e0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 最新のコンテンツフラグメントの機能強化を利用した新しいヘッドレス機能について説明します。 このセッションでは、GraphQL API for Adobe Experience ManagerCloud Serviceに焦点を当てます。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 

@@ -7,8 +7,8 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
-exl-id: 87bed2ec-5ad6-4eab-bf68-30275aaea2db
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 434fd1c4-e7f1-40a8-bf61-4b5a72ce3091
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # 成功のための顧客データプラットフォームの選択
 
-CDP に関する市場の騒音は、どこに焦点を当てて成功に備えるかを知るのが難しい。 このセッションでは、Adobeの Matt Skinner と Kevin Cobourn が、CDP が提供できる価値を示し、評価のための 5 つの主要な条件を提供し、CDP の成功への準備を開始するために取る手順を共有します。
+CDP に関する市場の騒音は、どこに焦点を当てて成功に備えるかを知るのが難しい。 このセッションでは、Adobeの Matt Skinner と Kevin Cobourn が、CDP が提供できる価値を示し、評価のための 5 つの主要な条件を提供し、CDP の成功への準備を開始するために今日おこなえる手順を共有します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344312/?quality=12&learn=on)
 

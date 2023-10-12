@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9178
 type: Event
-exl-id: b1f50bda-aaf4-487c-97a1-add23d342bd6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 47e84e07-441f-4947-a9d9-80d055f32b2e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 12%
@@ -21,7 +21,7 @@ ht-degree: 12%
 
 Adobe Experience Manager as a Cloud Serviceは、コンテンツを効率的かつ効果的に配信するように設計されています。 この効率化にとって重要な要素は、プロジェクトが適切に設計されたキャッシュと無効化戦略を持つことです。 このセッションでは、プロジェクトに含まれるトラップの一部をカバーし、実際のシナリオ例を使用してキャッシュヒット率およびキャッシュカバレッジを改善する方法に関するヒントを示します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3CUkzoB)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3CUkzoB)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337846/?quality=12&learn=on&hidetitle=true)
 

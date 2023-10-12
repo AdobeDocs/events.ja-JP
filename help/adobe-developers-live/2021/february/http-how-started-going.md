@@ -8,8 +8,8 @@ level: Beginner, Intermediate, Experienced
 kt: 7172
 type: Event
 thumbnail: 331738.jpg
-exl-id: 424175a9-0efb-4486-8028-1ab4e48bd0e9
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 1621c837-6c27-4411-9747-41d9aceb3c1e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 2%
@@ -20,6 +20,6 @@ ht-degree: 2%
 
 HTTP プロトコルの共著者である Roy Fielding 氏と、REST の発明者とのインタビュー。HTTP の初期の段階から QUIC &amp; HTTP/3 での作業に至るまでの進化について。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

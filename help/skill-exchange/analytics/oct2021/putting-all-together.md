@@ -9,8 +9,8 @@ role: User
 level: Beginner
 kt: 10477
 thumbnail: 343350.jpeg
-exl-id: 1cd898a9-f52d-4406-b77d-da1767e66095
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 8fbf324f-9931-4b05-b1ca-d39038592d71
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 15%
@@ -19,6 +19,6 @@ ht-degree: 15%
 
 # まとめ
 
-Adobe Analyticsが Web サイトのデータをどのように追跡するか、保存、共有、共同作業の方法を理解することでまとめます。 このセッションを終了し、生産性を高め、学習の道筋を継続するためのヒントを残します。
+Adobe Analyticsが Web サイトのデータをどのように追跡するか、保存、共有、共同作業の方法を理解することで、内容をまとめます。 このセッションを終了し、生産性を高め、学習の道筋を継続するためのヒントを残します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343350/?quality=12&learn=on)

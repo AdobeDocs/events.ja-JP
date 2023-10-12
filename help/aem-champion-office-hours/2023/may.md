@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Managerチャンピオンオフィスアワーズ — Cloud Manager
-description: Adobe Experience Manager Champions のパネルとして、AdobeのAEMチャンピオン Office Hours の 5 月号にご参加ください。ベストプラクティスやヒントを紹介し、AEM Cloud Manager を取り巻く Q&A に取り組んでください。AEMアプリケーションをクラウドに自動的にデプロイすると、AEM Champions がその解決策を提供します。
+description: Adobe Experience Manager Champions のパネルとして、AdobeのAEMチャンピオン Office Hours の 5 月号にご参加ください。ベストプラクティスやヒントを紹介し、AEM Cloud Manager を取り巻く Q&A に取り組んでください。AEMアプリケーションを自動的にクラウドにデプロイすると、AEM Champions がその解決策を提供します。
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -12,13 +12,13 @@ last-substantial-update: 2023-06-30T00:00:00Z
 jira: KT-13522
 thumbnail: 3420726.jpeg
 event-start-time: 2023-5-1 08:30-8
-source-git-commit: 0695851792fda7ceeaac785b3c4f1b3c38fdf565
+exl-id: 0f55fe3d-7cbb-4089-af3f-2ff116605dfc
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Managerチャンピオンオフィスアワーズ — Cloud Manager
 

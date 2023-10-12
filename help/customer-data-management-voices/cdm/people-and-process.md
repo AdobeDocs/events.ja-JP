@@ -1,14 +1,14 @@
 ---
 title: CDP のベストプラクティス — ユーザーとプロセス
-description: 技術の背後にある人とプロセスに投資して、CDP を最大限に活用する方法を学びます。 Adobeの Nina Caruso が組織の設定方法を共有します… （説明は 60 ～ 160 文字にする必要があります）
+description: 技術の背後にある人々とプロセスに投資して、CDP を最大限に活用する方法を学びます。 Adobeの Nina Caruso が組織の設定方法を共有します… （説明は 60 ～ 160 文字にする必要があります）
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10634
 thumbnail: 344313.jpeg
-exl-id: c7ff138e-0865-4b89-a1e6-be9cdd95059e
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 172f471d-0e54-4b44-be21-39ac481054f3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 6%
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 # CDP のベストプラクティス — ユーザーとプロセス
 
-技術の背後にある人とプロセスに投資して、CDP を最大限に活用する方法を学びます。 Adobeの Nina Caruso は、組織の組織を成功に導くための組織の設定方法を共有し、組織の組織の役割を分類します。
+技術の背後にある人々とプロセスに投資して、CDP を最大限に活用する方法を学びます。 Adobeの Nina Caruso は、組織の組織を成功に導くための組織の設定方法を共有し、組織の組織の組織を分類します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344313/?quality=12&learn=on)
 

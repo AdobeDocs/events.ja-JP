@@ -5,7 +5,7 @@ user-guide-description: Adobeカスタマーサクセス主導のウェビナー
 source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 1%
    + [キャンペーンオーケストレーションの基礎的戦略](2023/foundational-strategy-campaign.md)
    + [インテリジェンスと測定の優先順位付け](2023/intelligence-and-measurement.md)
    + [リアルタイム CDP 移行対応](2023/rtcdp-migration-readiness.md)
-   + [有効なAudience Activation戦略の設定](2023/audience-activation.md)
+   + [効果的な Audience Activation 戦略の設定](2023/audience-activation.md)
    + [リアルタイム CDP への移行](2023/aam-to-rtcdp.md)

@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7178
 type: Event
 thumbnail: 331743.jpg
-exl-id: b541fca1-de05-444a-adb5-44398d0df9ad
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 6ce514e5-ec47-4a86-b062-a729fe15254b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 既存の React またはAngularSPAをページエディターに読み込み、最小限の介入で、作成者がコンテキスト内で編集したコンテンツを挿入できるようにします。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 

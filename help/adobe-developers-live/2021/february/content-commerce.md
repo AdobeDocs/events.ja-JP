@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg
-exl-id: 3c0af2d0-c672-4f69-b5c7-9467661fc15e
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 1326926c-1bb4-4d05-ab08-a8f60701bd1a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 このセッションでは、開発者がAdobe Experience Manager as a Cloud Serviceでのコマースを開始する際に役立ちます。Adobe Experience Manager SDK + Commerce Integration Framework のローカル設定から、クラウドのAdobe Experience Manager &amp;Magentoに至るまでを取り上げます。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
 

@@ -9,8 +9,8 @@ level: Experienced
 version: Cloud Service
 kt: 9214
 type: Event
-exl-id: fbe96c16-a9eb-48ad-9954-1e608866f5fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: bbdfd53c-8bb6-4353-8a72-b5c5ce513ffd
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 35%
@@ -21,7 +21,7 @@ ht-degree: 35%
 
 Adobe Experience Managerを拡張する App Builder アプリケーションのアプリケーションアーキテクチャについて説明します。
 
-次の場所で会話を続行 **[Experience Leagueコミュニティ](https://adobe.ly/3uragoI)**.
+次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3uragoI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 
