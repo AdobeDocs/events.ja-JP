@@ -8,7 +8,7 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 81f6b2235709d847437827b422e68caebafd318d
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Workfrontのお客様から、New Home がお客様およびユーザーに対�
 
 このExperience Leagueライブセッションでは、製品エキスパートの Ben Robbins が、新しい管理レイアウトコントロールや、2024 年にリリースされる優れた機能強化など、新しいホームエクスペリエンスを紹介します。 また、Workfrontのお客様の Jamie Smith は、新しいホームエクスペリエンスが AT&amp;T で生産性を高めている方法に関するインサイトを共有します。
 
-**ディスカッションを続行するには、 [Experience Leagueコミュニティ投稿！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470)**
+**ディスカッションを続行するには、 [Experience Leagueコミュニティ投稿！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**

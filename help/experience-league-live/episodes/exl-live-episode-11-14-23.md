@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: null
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 8410a6480a055c0a3ab858a005eb98a7456bcad2
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 計算済み属性を使用してイベントデータの集計を作成し、セグメント化、パーソナライゼーション、ジャーニーを改善する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425196/?learn=on)
+[![ExL LIVE 2023 年 9 月 22 日](assets/Nov14_2023_exl_live_WebBanner.jpg)](https://www.youtube.com/watch?v=xQ-yydkLeHc)
 
 行動データは、パーソナライズされた顧客体験を配信するための重要な要素ですが、十分に活用するのが難しい場合があります。 現在、お客様は個別のシステム、技術者、データエンジニアに依存して、優れたエクスペリエンスを提供するために、行動データの有意義な集計を作成している可能性があります。
 
