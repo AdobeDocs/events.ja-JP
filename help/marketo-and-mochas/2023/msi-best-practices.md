@@ -1,6 +1,7 @@
 ---
 title: MSI のベストプラクティスと最適化
 description: Marketo Sales Insights と MSI のどちらをお聞きになりましたか？ ライセンスを持っているが、それが何であるか、またはその利用方法を知らない場合があります。 このウェビナーでは、Adobeのマーケティングオートメーションビジネスアドバイザ、Cynthia Chang とMarketo Customer Technical Advisor、James Ledom が、実装、立ち上げなどのツールとベストプラクティスを完全に活用する方法について話し合います。 Salesforce との統合、ライセンス管理、戦略を説明し、セールスチームやマーケティングチーム全体で運用効率を最適化します。 参加者からのライブ Q&A で締めくくります。
+solution: Marketo
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
 role: Admin, Leader, User
@@ -10,7 +11,7 @@ last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

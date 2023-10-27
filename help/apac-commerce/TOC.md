@@ -2,10 +2,10 @@
 user-guide-title: APAC コマースイベント
 breadcrumb-title: APAC コマースイベント
 user-guide-description: Adobe Commerce Events は、専門家や同業者がAdobe Commerceの使い方に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 7%
+source-wordcount: '73'
+ht-degree: 6%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 7%
 
 + [概要](overview.md)
 + 2023年 {#2023}
+   + [成長の力としての市場](2023/marketplaces.md)
    + [ピークシーズンの準備](2023/peak-season-prep.md)
    + [合成可能なコマース戦略](2023/composable-commerce.md)
    + [AI を利用したパーソナライゼーション](2023/ai-personalisation.md)
