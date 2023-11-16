@@ -2,14 +2,15 @@
 title: Adobe Developers Live Commerce ブレークアウト 4 - 2023 年 11 月
 description: Cristian Patica は、2023 年 11 月 6 日に公開されているこの情報セッションで、Adobe Commerce内での API 統合の課題に対応しています。 API Mesh を使用すると、様々なワークフローを効率的に管理し、データの一貫性を確保し、今日のデジタルコマースの状況での合理化されたユーザーエクスペリエンスを提供できます。 このセッションは、急速に進化するAdobe Commerce圏内で API 統合に対して効果的な戦略を探している開発者に最適です。
 solution: Commerce
-feature-set: API Mesh, Integration
+feature-set: Commerce
+feature: API Mesh, Integration
 role: Developer
 level: Beginner
 doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14430
 thumbnail: 3425628.jpeg
-source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
+source-git-commit: 97266ccd0a43b20448a5546b92f590f547058907
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
