@@ -3,10 +3,10 @@ user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 6%
+source-wordcount: '700'
+ht-degree: 8%
 
 ---
 
@@ -15,6 +15,22 @@ ht-degree: 6%
 
 + [概要](overview.md)
 + 2023年 {#2023}
+   + 年11月{#nov2023}
+      + [開口キーノート](2023/november/keynote.md)
+      + Edge 配信サービス
+         + [Web サイトの作成](2023/november/edge-breakout-1.md)
+         + [Web サイトのパフォーマンス](2023/november/edge-breakout-2.md)
+         + [顧客の導入](2023/november/edge-breakout-3.md)
+         + [ドキュメントベースのオーサリング](2023/november/deep-dive.md)
+      + ヘッドレス
+         + [ヘッドレス API](2023/november/headless-breakout-1.md)
+         + [ユニバーサルエディター](2023/november/headless-breakout-2.md)
+         + [外部データソース](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [カタログサービス](2023/novemnber/commerce-breakout-1.md)
+         + [Amazonとの統合Sales Channel](2023/novemnber/commerce-breakout-2.md)
+         + [イベント駆動型拡張機能](2023/novemnber/commerce-breakout-3.md)
+         + [API メッシュ](2023/novemnber/commerce-breakout-4.md)
    + 年5月{#may2023}
       + [開口キーノート](2023/may/keynote.md)
       + [API ツアー](2023/may/new-apis.md)
@@ -47,7 +63,7 @@ ht-degree: 6%
       + [クライアントライブラリとヘッドレスFormsの活用](2022/november/client-libararies.md)
       + [開発者向けの最新のAdobe Experience Managerヘッドレスイノベーション](2022/november/innovations.md)
       + [開口キーノート](2022/november/keynote.md)
-      + [Rock Star の結果と開発者にとっての次のステップ](2022/november/closing.md)
+      + [Rock Star の結果と開発者にとっての次の機能](2022/november/closing.md)
       + [Adobe Experience Manager Site のスピードアップに関するトップ 10 のヒント](2022/november/top-ten-tips.md)
       + [UI 拡張機能と新しいコンテンツフラグメント UI](2022/november/extensibility.md)
       + [App Builder と API メッシュの使用](2022/november/api-mesh.md)
@@ -58,10 +74,10 @@ ht-degree: 6%
       + [Adobe Experience Platform SDK](2021/february/experience-platform-sdk-launch.md)
       + [Experience Manager Cloud Serviceを使用した API 認証](2021/february/api-authentication.md)
       + [アセットの一括取り込み](2021/february/asset-bulk-ingestion.md)
-      + [asset computeサービス拡張機能](2021/february/asset-compute-service-extensibility.md)
-      + [GraphQLを介した CIF 拡張機能](2021/february/cif-extensibility-graphql.md)
+      + [Asset computeサービス拡張機能](2021/february/asset-compute-service-extensibility.md)
+      + [GraphQLを介したCIFの拡張機能](2021/february/cif-extensibility-graphql.md)
       + [コンテンツとコマース (Experience Manager付き )](2021/february/content-commerce.md)
-      + [コンテンツ配信とExperience Manager Cloud Service](2021/february/content-delivery.md)
+      + [Experience Manager Cloud Serviceを使用したコンテンツ配信](2021/february/content-delivery.md)
       + [カスタム機能テスト](2021/february/custom-functional-tests-cicd.md)
       + [開発者エクスペリエンス](2021/february/developer-experience.md)
       + [AEM Forms Cloud を使用した開発](2021/february/developing-aem-forms-cloud.md)
@@ -111,11 +127,11 @@ ht-degree: 6%
       + [効率的なサイト構造 — パフォーマンスの向上](2021/october/efficient-site-structure.md)
       + [コマースエクスペリエンスと関連コンテンツの強化](2021/october/associated-content.md)
       + [TCO を削減するAdobe Commerceの進化](2021/october/reduce-tco.md)
-      + [Experience Manager Assetsの新機能](2021/october/aem-assets-whats-new.md)
+      + [Experience Manager Assets What&#39;s New](2021/october/aem-assets-whats-new.md)
       + [App Builder およびPhotoshop API を使用したExperience Manager Assets Compute Worker](2021/october/app-builder-asset-compute.md)
       + [Experience Manager](2021/october/aem-behind-scenes.md)
       + [Experience Manager連続配信モデル](2021/october/continuous-delivery.md)
-      + [Experience ManagerPWA Studio](2021/october/aem-pwa-studio.md)
+      + [Experience ManagerのPWA Studio拡張](2021/october/aem-pwa-studio.md)
       + [Experience Manager Forms CS - API を使用した開発の高速追跡](2021/october/aem-forms-cs-apis.md)
       + [Experience Manager Forms CS — セキュアなマルチチャネルデジタル登録](2021/october/multichannel-digital-enrollment.md)
       + [Experience PlatformDestination SDK](2021/october/destination-sdk.md)
@@ -134,7 +150,7 @@ ht-degree: 6%
       + [Adobe Developer Console の概要](2021/october/app-builder-adc.md)
       + [Creative Cloudライブラリの概要](2021/october/cc-libraries.md)
       + [JSON とPDF抽出 API](2021/october/parsing-pdf.md)
-      + [サーバー側を起動](2021/october/launch-server-side.md)
+      + [サーバー側で Launch](2021/october/launch-server-side.md)
       + [ログ転送を使用した App Builder アプリの監視](2021/october/log-forwarding.md)
       + [Experience Managerの過去、現在、未来](2021/october/past-present-future-aem.md)
       + [PDF埋め込み API](2021/october/pdf-embed-api.md)

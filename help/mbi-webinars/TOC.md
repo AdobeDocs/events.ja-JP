@@ -2,7 +2,7 @@
 user-guide-title: Commerce Intelligence イベント
 breadcrumb-title: Commerce Intelligence イベント
 user-guide-description: Commerce Intelligence Events（コマースインテリジェンスイベント）は、専門家や同業者がAdobe Commerce Intelligence に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 4%
@@ -14,9 +14,9 @@ ht-degree: 4%
 
 + [概要](overview.md)
 + 2023年 {#2023}
+   + [Commerce Intelligence の概要](2023/getting-started.md)
    + [Commerce Intelligence でのデータセットの管理](2023/manage-data-sets.md)
 + 2021年 {#2021}
-   + [Commerce Intelligence の概要](2021-22/getting-started.md)
    + [コマースインテリジェンスData Warehouseの最適化](2021-22/optimize-data-warehouse.md)
    + [Commerce Intelligence ダッシュボードの詳細](2021-22/dashboards-deep-dive.md)
    + [コマースインテリジェンスを使用した休日対応](2021-22/holiday-readiness.md)
