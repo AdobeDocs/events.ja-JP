@@ -3,7 +3,7 @@ user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 8%
@@ -17,20 +17,20 @@ ht-degree: 8%
 + 2023年 {#2023}
    + 年11月{#nov2023}
       + [開口キーノート](2023/november/keynote.md)
-      + Edge 配信サービス
+      + Edge 配信サービス {#nov-edgedeliveryservices}
          + [Web サイトの作成](2023/november/edge-breakout-1.md)
          + [Web サイトのパフォーマンス](2023/november/edge-breakout-2.md)
          + [顧客の導入](2023/november/edge-breakout-3.md)
          + [ドキュメントベースのオーサリング](2023/november/deep-dive.md)
-      + ヘッドレス
+      + ヘッドレス {#nov-headless}
          + [ヘッドレス API](2023/november/headless-breakout-1.md)
          + [ユニバーサルエディター](2023/november/headless-breakout-2.md)
          + [外部データソース](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [カタログサービス](2023/novemnber/commerce-breakout-1.md)
-         + [Amazonとの統合Sales Channel](2023/novemnber/commerce-breakout-2.md)
-         + [イベント駆動型拡張機能](2023/novemnber/commerce-breakout-3.md)
-         + [API メッシュ](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [カタログサービス](2023/november/commerce-breakout-1.md)
+         + [Amazonとの統合Sales Channel](2023/november/commerce-breakout-2.md)
+         + [イベント駆動型拡張機能](2023/november/commerce-breakout-3.md)
+         + [API メッシュ](2023/november/commerce-breakout-4.md)
    + 年5月{#may2023}
       + [開口キーノート](2023/may/keynote.md)
       + [API ツアー](2023/may/new-apis.md)
