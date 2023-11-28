@@ -2,7 +2,7 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: «記録の集まり [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 4bb7c7746e39cd29c1f02c2b9797eaa609ba53c1
+source-git-commit: e1b2587ab6b761998127b5486201bde9ee50fcd6
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 19%
@@ -32,7 +32,7 @@ ht-degree: 19%
          + [データを使用した効果的なストーリーの伝達](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
    + 年11月{#nov2023}
-      + [AEMコアコンポーネントを使用した開発者向けエクセレンス](experience-manager/sept2023/core-components.md)
+      + [AEMコアコンポーネントを使用した開発者向けエクセレンス](experience-manager/nov2023/core-components.md)
    + 年9月{#sept2023}
       + [AEM Sitesのツールに深く掘り下げ](experience-manager/sept2023/aem-sites-tools.md)
    + 年7月{#july2023}
