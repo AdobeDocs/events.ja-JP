@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange からの録画の収集
 event-series: The Skill Exchange
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 11%
+source-wordcount: '446'
+ht-degree: 10%
 
 ---
 
@@ -111,7 +111,15 @@ ht-degree: 11%
       + [Formsの究極のヒントとテクニック](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2023年8月 {#aug2023}
+      + [ボードの概要](workfront/aug2023/introduction-to-boards.md)
+      + [Experience Makers Spotlight](workfront/aug2023/spotlight.md)
+      + [成長と効率性の継続](workfront/aug2023/growth-continued-efficiencies.md)
+      + [Workfrontが企業を横断する](workfront/aug2023/workfront-across-enterprise.md)
+      + [Creative Cloudとのネイティブ統合](workfront/aug2023/native-integtrations.md)
+      + [目的に基づく自動化](workfront/aug2023/automations.md)
+      + [リソース管理のバーンアウト](workfront/aug2023/resource-management-burnout.md)
       + [Resource Management Foundation](workfront/aug2023/resource-management.md)
+      + [リソース管理スターターキット](workfront/aug2023/resource-management-starter-kit.md)
    + 2022年4月 {#apr2022}
       + [10 Tips to Wow Your Workfront](workfront/apr2022/ten-tips.md)
       + [全員が知っておく必要がある計算フィールド](workfront/apr2022/calculated-fields.md)
