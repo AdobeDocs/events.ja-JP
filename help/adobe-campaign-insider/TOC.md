@@ -2,9 +2,8 @@
 user-guide-title: Adobe [!DNL Campaign] インサイダーイベント
 user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Adobeのヒントとテクニック [!DNL Campaign] お客様は、クロスチャネルマーケティング戦略の発展、チームマーケティングの実践者スキルの向上、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立ちます。
-feature-set: Campaign
 solution: Campaign
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 25%

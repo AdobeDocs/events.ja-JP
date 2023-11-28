@@ -2,10 +2,9 @@
 user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '718'
 ht-degree: 8%
 
 ---
@@ -27,10 +26,13 @@ ht-degree: 8%
          + [ユニバーサルエディター](2023/november/headless-breakout-2.md)
          + [外部データソース](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
-         + [カタログサービス](2023/november/commerce-breakout-1.md)
-         + [Amazonとの統合Sales Channel](2023/november/commerce-breakout-2.md)
-         + [イベント駆動型拡張機能](2023/november/commerce-breakout-3.md)
+         + [AdobeApp Builder、AdobeI/O、Web フック、Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API メッシュ](2023/november/commerce-breakout-4.md)
+         + [カタログサービス](2023/november/commerce-breakout-1.md)
+         + [イベント駆動型拡張機能](2023/november/commerce-breakout-3.md)
+         + [Amazonとの統合Sales Channel](2023/november/commerce-breakout-2.md)
+         + [Adobe Commerceの概要](2023/november/intro-to-adobe-commerce.md)
+         + [検索とカタログサービス](2023/november/commerce-search-and-catalog-service.md)
    + 年5月{#may2023}
       + [開口キーノート](2023/may/keynote.md)
       + [API ツアー](2023/may/new-apis.md)

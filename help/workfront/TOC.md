@@ -2,8 +2,7 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
-feature-set: Workfront
-source-git-commit: 07e92e59ba5c6b0b9ac7d66fb929d0be4d8b1f06
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 1%
@@ -13,7 +12,7 @@ ht-degree: 1%
 
 # Workfront Events {#workfront-recordings}
 
-+ [Workfrontユーザーグループとウェビナー](overview.md)
++ [Workfrontのユーザーグループとウェビナー](overview.md)
 + 管理 {#administration}
    + [監査証跡とコンプライアンス](user-groups/audit-trails-and-compliance.md)
    + [Workfront Fusion でのワークフローの自動化](user-groups/automating-workflows-with-workfront-fusion.md)
@@ -24,13 +23,13 @@ ht-degree: 1%
 + アジャイル {#agile}
    + [Agile in Marketing](user-groups/agile-in-marketing.md)
 + レポートとダッシュボード {#reporting-and-dashboards}
-   + [高度なレポート](user-groups/advanced-reporting.md)
+   + [高度なレポート機能](user-groups/advanced-reporting.md)
    + [クリエイティブエージェント：レポートとダッシュボード](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [品質とエンゲージメントの評価](webinars/gauging-quality-and-engagement.md)
    + [テキストモードレポートの概要](webinars/introduction-to-text-mode-reporting.md)
    + [レポートとダッシュボード](user-groups/reporting-and-dashboards.md)
    + [速度の測定](webinars/measuring-velocity.md)
-   + [API エクスプローラを使用した基本テキストモードのレポートの追加](webinars/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
+   + [API エクスプローラを使用した基本テキストモードのレポートの追加料金](webinars/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
    + [混在と容量について](webinars/understanding-mix-and-capacity.md)
 + リソース管理 {#resource-management}
    + [リソースと容量の計画](user-groups/resource-and-capacity-planning.md)
