@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange からの録画の収集
 event-series: The Skill Exchange
-source-git-commit: ec6cc182a6c28d629c0ce2905997f369eb214fb2
+source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '446'
 ht-degree: 10%
 
 ---
@@ -76,6 +76,7 @@ ht-degree: 10%
          + [AEM Assetsの概要](aem/aug2023/getting-started-aem-assets.md)
          + [協調 DAM の活用](aem/aug2023/collaborative-dam.md)
          + [AI 対応の規模](aem/aug2023/metadata.md)
+         + [スポットライト](aem/aug2023/spotlight.md)
    + 2022年8月 {#aug2022}
       + 開発者トラック {#developer-track}
          + [Experience Makers Spotlight](aem/aug2022/spotlight.md)
@@ -116,6 +117,7 @@ ht-degree: 10%
       + [成長と効率性の継続](workfront/aug2023/growth-continued-efficiencies.md)
       + [Workfrontが企業を横断する](workfront/aug2023/workfront-across-enterprise.md)
       + [Creative Cloudとのネイティブ統合](workfront/aug2023/native-integtrations.md)
+      + [開口キーノート](workfront/aug2023/opening-keynote.md)
       + [目的に基づく自動化](workfront/aug2023/automations.md)
       + [リソース管理のバーンアウト](workfront/aug2023/resource-management-burnout.md)
       + [リソース管理スターターキット](workfront/aug2023/resource-management-starter-kit.md)
