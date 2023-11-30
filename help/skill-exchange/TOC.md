@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange からの録画の収集
 event-series: The Skill Exchange
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+source-git-commit: b5bbc2cade0b5bccb8dc1d06811fa526e612b4f2
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '443'
 ht-degree: 10%
 
 ---
@@ -118,8 +118,7 @@ ht-degree: 10%
       + [Creative Cloudとのネイティブ統合](workfront/aug2023/native-integtrations.md)
       + [目的に基づく自動化](workfront/aug2023/automations.md)
       + [リソース管理のバーンアウト](workfront/aug2023/resource-management-burnout.md)
-      + [Resource Management Foundation](workfront/aug2023/resource-management.md)
-      + [リソース管理スターターキット](workfront/aug2023/resource-management-starter-kit.md)
+         + [リソース管理スターターキット](workfront/aug2023/resource-management-starter-kit.md)
    + 2022年4月 {#apr2022}
       + [10 Tips to Wow Your Workfront](workfront/apr2022/ten-tips.md)
       + [全員が知っておく必要がある計算フィールド](workfront/apr2022/calculated-fields.md)
