@@ -3,7 +3,7 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange からの録画の収集
 event-series: The Skill Exchange
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
    + 2023 年 8 月 {#aug2023}
       + [セグメントに関するすべて](analytics/aug2023/spotlight-segments.md)
       + [データの分析](analytics/aug2023/analyze-the-data.md)
-      + [カジュアルなワークスペースユーザーを教育する](analytics/aug2023/spotlight.md)
+      + [カジュアルなワークスペースユーザーを教育する](analytics/aug2023/spotlight-workspace-user.md)
       + [ナビゲーションを修正](analytics/aug2023/fix-navigation.md)
       + [4 つの使用済み機能を使用](analytics/aug2023/data-analysis.md)
       + [はじめに](analytics/aug2023/getting-started.md)

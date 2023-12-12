@@ -1,8 +1,8 @@
 ---
 title: AEMを使用した、高度にパーソナライズされたマーケティング用電子メールの作成
 description: E メール通信は、既存の新規顧客と潜在的な新規顧客にリーチする最も重要な方法の 1 つです。 パーソナライズされた E メールを効率的に作成できるので、顧客エンゲージメントを大幅に向上できます。 AEM(Adobe Experience Manager) を思い浮かべる人は、Web サイトや Web コンテンツについてよく考えます。 しかし、AEMを使用して E メールを作成することもできます。
-feaeture-set: Experience Manager Sites
-feature: Core components, Developing
+feature-set: Experience Manager Sites
+feature: Core Components, Developing
 topic: Personalization
 role: Developer
 level: Intermediate, Experienced
@@ -11,7 +11,7 @@ duration: 2198
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
