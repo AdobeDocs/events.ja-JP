@@ -2,10 +2,10 @@
 user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 8%
+source-wordcount: '777'
+ht-degree: 7%
 
 ---
 
@@ -14,26 +14,37 @@ ht-degree: 8%
 
 + [概要](overview.md)
 + 2023年 {#2023}
-   + 年11月{#nov2023}
+   + 11 月 {#nov2023}
       + [開口キーノート](2023/november/keynote.md)
+      + [開口部キーノート (APAC)](2023/november/keynote-apac.md)
+      + [App Builder を使用したコンテンツワークフローの自動化](2023/november/content-workflows.md)
+      + [前面に戻るコンポーネントの開発と導入](2023/november/component-development.md)
+      + [オムニチャネルコンテンツ配信](2023/november/omnichannel.md)
       + Edge 配信サービス {#nov-edgedeliveryservices}
          + [Web サイトの作成](2023/november/edge-breakout-1.md)
          + [Web サイトのパフォーマンス](2023/november/edge-breakout-2.md)
          + [顧客の導入](2023/november/edge-breakout-3.md)
          + [ドキュメントベースのオーサリング](2023/november/deep-dive.md)
+         + [Edge Delivery Services技術概要](2023/november/edge-delivery-services-tech-overview.md)
       + ヘッドレス {#nov-headless}
          + [ヘッドレス API](2023/november/headless-breakout-1.md)
+         + [ユニバーサルエディターの概要](2023/november/intro-universal-editor.md)
+         + [ヘッドレスFormsの概要](2023/november/headless-forms.md)
          + [ユニバーサルエディター](2023/november/headless-breakout-2.md)
          + [外部データソース](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
          + [AdobeApp Builder、AdobeI/O、Web フック、Admin UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API メッシュ](2023/november/commerce-breakout-4.md)
          + [カタログサービス](2023/november/commerce-breakout-1.md)
+         + [プラットフォームを通じたコマースパフォーマンスの提供](2023/november/commerce-performance.md)
          + [イベント駆動型拡張機能](2023/november/commerce-breakout-3.md)
+         + [商業の未来](2023/november/future-of-commerce.md)
          + [Amazonとの統合Sales Channel](2023/november/commerce-breakout-2.md)
          + [Adobe Commerceの概要](2023/november/intro-to-adobe-commerce.md)
          + [検索とカタログサービス](2023/november/commerce-search-and-catalog-service.md)
-   + 年5月{#may2023}
+         + [コマースサイトのパフォーマンスを最適化するための戦略](2023/november/commerce-site-performance.md)
+         + [Adobe Commerce Cloudでの変更の追跡](2023/november/commerce-cloud-track-changes.md)
+   + 5 月 {#may2023}
       + [開口キーノート](2023/may/keynote.md)
       + [API ツアー](2023/may/new-apis.md)
       + [電子メールおよびForms向けのAEMコアコンポーネントの詳細](2023/may/core-components.md)
@@ -72,7 +83,7 @@ ht-degree: 8%
 + 2021年 {#2021}
    + 2 月 — コンテンツ {#feb2021}
       + [概要](2021/february/overview.md)
-      + [Adobe Client Data Layer](2021/february/adobe-client-data-layer.md)
+      + [Adobe クライアントデータレイヤー](2021/february/adobe-client-data-layer.md)
       + [Adobe Experience Platform SDK](2021/february/experience-platform-sdk-launch.md)
       + [Experience Manager Cloud Serviceを使用した API 認証](2021/february/api-authentication.md)
       + [アセットの一括取り込み](2021/february/asset-bulk-ingestion.md)
@@ -101,12 +112,12 @@ ht-degree: 8%
       + [急速なフロントエンド開発](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [任意のサイトをプログレッシブ Web アプリに変換する](2021/february/any-site-into-pwa.md)
-   + 年10月{#oct2021}
+   + 10 月 {#oct2021}
       + [概要](2021/october/overview.md)
       + [開口キーノート](2021/october/keynote.md)
       + [Experience ManagerCS への移行の加速](2021/october/accelerate-transistion.md)
       + [Adobe [!DNL Analytics] 2021 年に知っておく必要がある API](2021/october/analytics-api.md)
-      + [Adobe Client Data Layer](2021/october/adobe-client-data-layer.md)
+      + [Adobe クライアントデータレイヤー](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerceとコミュニティ貢献度モデル](2021/october/community-contribution-model.md)
       + [Adobe Commerce Live Search Results](2021/october/adobe-commerce-search.md)
       + [AdobeExchange — サードパーティの開発者マーケットプレイス](2021/october/app-builder-exchange.md)
