@@ -7,16 +7,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 47%
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE は、Experience League チームが制作したライブストリーミング番組です。アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
+Experience League LIVE は、Experience League チームが制作したライブストリーミングショーです。 アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
 <div id="upcoming-events">
 
@@ -24,15 +24,15 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
-      <img alt="Experience Leagueライブ 4 月 21 日" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
+      <img alt="Experience Leagueライブ 4 月 21 日" src="episodes/assets/Jan17_2024_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-12-14-23.md">
-        <strong>2024 年までカウントダウンし、Adobe Real-Time CDPの新機能上位 5 つを追加</strong>
+      <a href="episodes/exl-live-episode-01-17-24.md">
+        <strong>Adobe Analyticsのデータと分析をCustomer Journey Analyticsに取り込む</strong>
       </a>
-      <br/><em>ダグ・ムーア、ニナ・カルーソ、ルディ・シュンパートと共に</em>
-      <br/><em>2023 年 12 月 14 日</em>
+      <br/><em>ダグ・ムーア、エリック・マティソフ、ブライアン・スケルトンと共に</em>
+      <br/><em>2024 年 1 月 17 日午前 10:00 PST</em>
     </div>
   </td>
 </tr>
