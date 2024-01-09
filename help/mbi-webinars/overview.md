@@ -2,10 +2,10 @@
 title: Commerce Intelligence ウェビナー
 description: Commerce Intelligence を参照するウェビナーは、様々なトピックとベストプラクティスを網羅しており、Commerce Intelligence を最大限に活用するためのウェビナーを記録しています。
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 5be00538f31610434e2853d4c94fb0611726e709
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 19%
+source-wordcount: '265'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 19%
 >
 >Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
 
-Commerce Intelligence ウェビナーシリーズは、MBI のお客様向けの定期的なイベントです。 このウェビナーでは、コマースインテリジェンスを最大限に活用するための様々なトピックとベストプラクティスを扱っています。
+Commerce Intelligence ウェビナーシリーズは、Commerce Intelligence のお客様向けの定期的なイベントです。 このウェビナーでは、コマースインテリジェンスを最大限に活用するための様々なトピックとベストプラクティスを扱っています。
 
 すべての地域の参加者がイベントに参加して、製品をより深く理解し、Commerce Intelligence 機能に関する質問に直接回答することができます。
 
@@ -26,12 +26,12 @@ Commerce Intelligence ウェビナーシリーズは、MBI のお客様向けの
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-      <img alt="MBI 使用の手引き" src="./assets/getting-started-mbi.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <img alt="Commerce Intelligence の概要" src="./assets/getting-started.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/getting-started.html">
-        <strong>MBI 使用の手引き</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+        <strong>Commerce Intelligence の概要</strong>
       </a>
     </div>
     <p>
@@ -39,25 +39,25 @@ Commerce Intelligence ウェビナーシリーズは、MBI のお客様向けの
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
       <img alt="MBI でのデータセットの管理" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
         <strong>MBI でのデータセットの管理</strong>
       </a>
     </div>
     <p>
-    <em>Adobe Commerce 製品チームから直接、MBI Data Warehouse マネージャーの強力な機能の一部を学びます。基本的なレポートの作成を超えて、データをさらに活用する方法を学びます。</em>
+    <em>Adobe Commerce製品チームから直接、MBIData Warehouseマネージャーの強力な機能の一部を学びます。 基本的なレポートの作成を超えて、データをさらに活用する方法を学びます。</em>
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
-      <img alt="MBI Data Warehouse の最適化" src="./assets/optimize-data-warehouse.png" />
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+      <img alt="MBIData Warehouseの最適化" src="./assets/optimize-data-warehouse.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2021/optimize-data-warehouse.html">
-        <strong>MBI Data Warehouse の最適化</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+        <strong>MBIData Warehouseの最適化</strong>
       </a>
     </div>
     <p>
