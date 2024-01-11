@@ -2,16 +2,16 @@
 title: Experience Makers The Skill Exchange
 description: Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: ba3b7d08ae9e9b703bc48df1c5963b8576f51733
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # Experience Makers The Skill Exchange {#overview}
 
-<img alt="Experience Makers The Skill Exchange" src="./assets/skill-exchange.png" />
+<img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。 このプログラムでは、Adobe製品の専門家やエキスパート仲間から、ベストプラクティス、ヒント、テクニックの共有を通じて学ぶ機会を提供します。
 
