@@ -2,10 +2,10 @@
 user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
-source-git-commit: 0dc027b6c267c52b961b641d838571fc2d0a9fd6
+source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -46,5 +46,6 @@ ht-degree: 0%
    + [Workfront Proof の活用](user-groups/leveraging-workfront-proof.md)
 + リクエストキューとインテーク {#request-queues-and-intake}
    + [リクエストキューとインテークForms](user-groups/request-queues-and-intake-forms.md)
-+ 2024 年リリース
-   + [24.1 リリース](webinars/24-1-release-webinar.md)
++ リリース {#releases}
+   + 2024 年 {#2024-releases}
+      + [24.1 リリース](webinars/24-1-release-webinar.md)
