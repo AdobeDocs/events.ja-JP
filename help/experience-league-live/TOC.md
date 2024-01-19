@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '366'
 ht-degree: 6%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 6%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 32：使用例プレイブック、セルフサービステンプレートを使用して、数回のクリックで使用例をデプロイできます。](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31:Adobe Analyticsのデータと分析をCustomer Journey Analyticsに取り込む](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30: 2024 年までのカウントダウン (Adobe Real-Time CDPの新機能上位 5 件 )](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29:Real-Time CDPと AJO の行動イベントデータを最大限に活用](episodes/exl-live-episode-11-14-23.md)
