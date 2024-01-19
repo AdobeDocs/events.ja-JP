@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 44%
+source-wordcount: '159'
+ht-degree: 47%
 
 ---
 
@@ -24,16 +24,8 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
-      <img alt="Experience Leagueライブ 4 月 21 日" src="episodes/assets/Jan17_2024_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-01-17-24.md">
-        <strong>Adobe Analyticsのデータと分析をCustomer Journey Analyticsに取り込む</strong>
-      </a>
-      <br/><em>ダグ・ムーア、エリック・マティソフ、ブライアン・スケルトンと共に</em>
-      <br/><em>2024 年 1 月 17 日午前 10:00 PST</em>
-    </div>
+  <td style="vertical-align: top;">
+    2024 年 2 月 8 日に予定されているショーに関する情報を取得するには、まもなくこのページに戻ってください。
   </td>
 </tr>
 </table>
