@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: febc091c03cf8f11590de7dec9545e67b68e5eff
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ Marketo Engageチャンピオンの Katja Keesom が、スコアリングモデ�
 
 ## ウェビナーで共有されるリソース
 
-* Marketing Nation コミュニティのウェビナースレッド — [ディスカッション](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864)
-&lt;— [ワークシート] ローカルな影響の演習での担当者/リードスコアリング： [追加するリンク] —>
-* リードスコア付けルールの大きなリスト — [ワークシート](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf)
-* Marketo Engageプログラムインポートライブラリ — [ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html)
-* 前、中、後のプロセスについて知るべてのリードスコア — [オンデマンド Web セミナー](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html)
-* チャンピオンのリードスコアリングに対する取り組み — [ブログ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849)
+* Marketing Nation コミュニティのウェビナースレッド — [ディスカッション](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* ローカルな影響の演習での担当者/リードスコアリング： [ワークシート](../../assets/marketo/[Worksheet]%20Build%20Scoring%20Model%20and%20Local%20Flexibility%20Scoring.docx){target="_blank"}
+* リードスコア付けルールの大きなリスト — [ワークシート](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Marketo Engageプログラムインポートライブラリ — [ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* 前、中、後のプロセスについて知るべてのリードスコア — [オンデマンド Web セミナー](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* チャンピオンのリードスコアリングに対する取り組み — [ブログ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
