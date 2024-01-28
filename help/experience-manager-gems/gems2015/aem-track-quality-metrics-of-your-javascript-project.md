@@ -1,11 +1,11 @@
 ---
 title: JavaScript プロジェクトの品質指標のトラック
 description: Sonarqube 分析を JavaScript プロジェクトに統合し、基本的な静的コード分析、単体テストの対象範囲、統合テストの対象範囲（AEM）を利用するための方法を説明します。
-uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
 exl-id: 0fa00df5-af2c-4e08-9160-dee6ecc33c2b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4834
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%

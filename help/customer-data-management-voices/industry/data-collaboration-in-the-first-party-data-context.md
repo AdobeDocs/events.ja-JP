@@ -9,10 +9,11 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2560
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 33%
+source-wordcount: '118'
+ht-degree: 21%
 
 ---
 
@@ -22,7 +23,7 @@ ht-degree: 33%
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
-## 重要な留意点:
+## 重要ポイント：
 
 * 消費者の同意を得ながら、ファーストパーティのデータコンテキストにデータコラボレーションモデルを組み込む方法。
 * エクスペリエンスの約束を実現する、ブランド間およびパブリッシャー間の直接的なパートナーシップの構築。

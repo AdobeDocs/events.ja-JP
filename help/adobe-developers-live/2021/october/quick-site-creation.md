@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9183
 type: Event
 exl-id: 736baf52-d3e5-43f2-b240-d8c8aa6cdfe7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1877
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 11%
+source-wordcount: '205'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +28,6 @@ Adobe Experience Managerは、サイトを新しく作成する革新的な方�
 
 ## その他のリソース
 
-- [Adobe Experience Manager ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 - [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
 - [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)

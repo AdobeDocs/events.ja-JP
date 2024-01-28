@@ -8,10 +8,11 @@ level: Experienced
 kt: 9198
 type: Event
 exl-id: f7407854-aa76-4006-b4fd-b271e52e63aa
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1695
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 15%
+source-wordcount: '197'
+ht-degree: 6%
 
 ---
 
@@ -23,6 +24,6 @@ Adobe Commerceプラットフォームの更新を維持することは、安全
 
 ## その他のリソース
 
-- [Adobe Experience Platform ドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

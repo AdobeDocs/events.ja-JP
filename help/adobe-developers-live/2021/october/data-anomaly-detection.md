@@ -8,10 +8,11 @@ level: Experienced
 kt: 9213
 type: Event
 exl-id: d2bd72bc-05fe-47e6-8439-b00f6fb740db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1885
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 34%
+source-wordcount: '79'
+ht-degree: 16%
 
 ---
 
@@ -23,6 +24,6 @@ Softcril は、Adobeの App Builder を利用して、Adobe Experience Platform(
 
 ## その他のリソース
 
-- [Adobe Experience Platform ドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

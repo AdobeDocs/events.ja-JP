@@ -1,13 +1,13 @@
 ---
 title: hybris／AEM 5.6 e コマースフレームワークの統合
 description: hybris を AEM に統合するためのアドビの統合ソリューションについて説明します。最初に、コネクタと e コマースフレームワークの統合の概要と、このソリューションを使用する際の一般的なワークフローの概要について説明します。次に、プロジェクト固有のニーズに合わせてコネクタを拡張／カスタマイズする方法について詳しく説明します。
-uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
 exl-id: d729b2b1-d279-4204-9101-68df5aee79c0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1878
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---

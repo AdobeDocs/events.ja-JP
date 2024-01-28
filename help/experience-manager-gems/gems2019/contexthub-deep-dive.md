@@ -1,13 +1,13 @@
 ---
 title: ContextHub のストア、モジュール、セグメントの実装の詳細
 description: この Gems セッションでは、様々なタイプの ContextHub ストアの実装の詳細について、様々な永続レイヤーを使って詳しく見ていきます。カスタムモジュールの実装（コードを介した実装と、基本モジュールレンダラーを使用した設定の両方）、および別々の ContextHub モードでモジュールを整理する方法を説明します。最後に、ContextHub セグメント特性の動作の仕組み、カスタムコンパレーターの実装方法、セグメントをプログラムによってインスタンス化する方法を確認します。
-uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3199
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '185'
 ht-degree: 100%
 
 ---

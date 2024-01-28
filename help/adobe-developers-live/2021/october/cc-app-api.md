@@ -9,10 +9,11 @@ level: Experienced
 kt: 9136
 type: Event
 exl-id: 7f78af56-2d66-4e0d-a6cf-0b9c1b971804
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1287
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 25%
+source-wordcount: '113'
+ht-degree: 11%
 
 ---
 
@@ -24,6 +25,6 @@ Photoshop、Lightroom、InDesignのサービスを含む、Creative Cloudアプ�
 
 ## その他のリソース
 
-- [Adobe Experience Platform ドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

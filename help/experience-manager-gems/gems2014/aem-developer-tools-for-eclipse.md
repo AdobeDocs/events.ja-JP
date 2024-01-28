@@ -1,14 +1,14 @@
 ---
 title: Eclipse 用 AEM 開発者ツール
 description: Eclipse 用 AEM 開発者ツールは、AEM アプリケーションの開発をより簡単かつ理解しやすく、ベストプラクティスに沿って進めることを目的とした、Eclipse プラグインのセットです。2 つの新しいプロジェクトファサード（OSGi バンドル用と JCR コンテンツ用）に基づき、Eclipse と AEM インスタンス間のシームレスで反復的な同期を可能にします。FileVault 形式のコンテンツを表示および編集できるコンテンツブラウザーが付属しています。さらに、プロジェクト設定のブートストラップに使用できる、サンプルのマルチモジュールの Maven ベースのプロジェクトが含まれています。
-uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 5209870a-c0fb-4241-ab21-ddf6adf233f8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3325
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 100%
+source-wordcount: '227'
+ht-degree: 99%
 
 ---
 
@@ -34,5 +34,5 @@ Eclipse 用 AEM 開発者ツールは、AEM アプリケーションの開発を
 * [Sling IDE ツール](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [ディスカッションおよび質問のフォーラム](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [問題の報告とトラッキング](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
-* [Hobbes.js：UI テストフレームワーク](https://docs.adobe.com/docs/jp/aem/6-0/develop/components/hobbes.html)
+* [Hobbes.js：UI テストフレームワーク](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
 * [概要に戻る](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

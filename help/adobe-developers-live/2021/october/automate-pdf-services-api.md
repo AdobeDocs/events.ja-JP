@@ -9,10 +9,11 @@ level: Experienced
 kt: 9209
 type: Event
 exl-id: 6b0c3a6a-500b-4f7f-8872-0b6d9035a485
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1791
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 15%
+source-wordcount: '187'
+ht-degree: 6%
 
 ---
 
@@ -24,6 +25,6 @@ AdobeのPDFサービス API を使用すると、開発者は強力で柔軟な�
 
 ## その他のリソース
 
-- [Adobe Experience Platform ドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

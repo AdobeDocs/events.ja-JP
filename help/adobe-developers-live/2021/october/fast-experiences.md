@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9178
 type: Event
 exl-id: 47e84e07-441f-4947-a9d9-80d055f32b2e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1780
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 12%
+source-wordcount: '183'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +28,6 @@ Adobe Experience Manager as a Cloud Serviceは、コンテンツを効率的か�
 
 ## その他のリソース
 
-- [Adobe Experience Manager ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 - [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
 - [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)

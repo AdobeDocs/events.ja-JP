@@ -13,13 +13,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14421
 thumbnail: 3425629.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+exl-id: 92437f71-4293-4f03-aa14-064c045c3a0e
+duration: 1868
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Developers LiveEdge Delivery Servicesブレークアウト 1 - 2023 年 11 月
 
@@ -28,4 +29,3 @@ Adobe Developers Liveでライブ録画されたこの実践セッションに M
 次の場所で会話を続行します： [Experience Leagueコミュニティ](https://adobe.ly/3Q82EUF).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)
-

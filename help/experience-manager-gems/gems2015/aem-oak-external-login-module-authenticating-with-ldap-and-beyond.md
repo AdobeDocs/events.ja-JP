@@ -1,11 +1,11 @@
 ---
 title: Oak の外部ログインモジュール - LDAP での認証とその先
 description: Apache Jackrabbit Oak の新しい外部ログインモジュールを参照してください。ログインモジュール、同期ハンドラー、ID プロバイダーの詳細と相互作用について説明します。LDAP ユーザーを認証目的で AEM に自動的にインポートするために必要な設定のデモをご覧ください。正常に動作しない場合のシステムのデバッグ方法に関するヒントやコツも説明します。
-uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3236
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%

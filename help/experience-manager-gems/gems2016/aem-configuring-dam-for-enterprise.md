@@ -1,15 +1,15 @@
 ---
 title: 企業向け DAM の設定
 description: このセッションは、AEM Assets の活用を成功させることを目的に作成されたものです。アドビの Arnold Espos は、DAM の実際の企業顧客の使用事例や課題、DAM を活用して成果を向上させるために作成されたソリューションに焦点を当てます。参加者は、自社環境における DAM の使用方法に関する理解が深まります。実際のユーザー事例を確認することで、既存の DAM 顧客と一緒になって、このサービスを通じて提供される新しいソリューションを理解でき、既存のワークフローと技術の理解に役立てることができます。
-uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3576
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 81%
+source-wordcount: '288'
+ht-degree: 80%
 
 ---
 

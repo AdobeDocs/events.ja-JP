@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9142
 type: Event
 exl-id: bc428c6e-703a-4826-b2ce-c7f79a772cb5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1796
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 13%
+source-wordcount: '171'
+ht-degree: 5%
 
 ---
 
@@ -25,6 +26,6 @@ Adobe Experience Managerは、コンテンツ管理に関する業界トップ�
 
 ## その他のリソース
 
-- [Adobe Experience Manager ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 - [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
 - [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)

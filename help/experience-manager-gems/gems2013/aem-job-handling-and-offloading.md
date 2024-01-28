@@ -1,14 +1,14 @@
 ---
 title: AEM 5.6.1 でのジョブ処理とオフロードの概要。
 description: 高度なジョブ処理機能の技術的な概要について説明します。ジョブ処理は、レプリケーションやワークフロー処理などの機能の基盤となるインフラストラクチャです。改善されたジョブ処理 API と新機能に加えて、検出モジュールについて説明します。
-uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: bd10465b-6f45-4117-b8a0-1310422f5825
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3750
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 96%
+source-wordcount: '198'
+ht-degree: 99%
 
 ---
 

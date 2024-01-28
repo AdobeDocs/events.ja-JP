@@ -1,13 +1,13 @@
 ---
 title: SPA エディター SDK の詳細 - 第 1 部 - React
 description: AEM ページエディターを使用して作成できる単一ページアプリケーションの開発について詳しく説明します。
-uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: cdb5b891-8501-464a-bdd7-1b89dd17944c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3218
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 AEM ページエディターを使用して作成できる単一ページアプリケーションの開発について詳しく説明します。このセッションでは、次のコンテンツにアクセスできます。
 
-* プロジェクトの構造に関する考慮事項および推奨事項
+* プロジェクトの構造に関する考慮事項およびレコメンデーション
 * プロジェクトのアーキテクチャを構成するすべてのレイヤーのレビュー
 * AEM および SPA コンポーネントの役割に関するインサイト
 * モデルオブジェクトの構造と主要な JSON フィールド

@@ -2,9 +2,10 @@
 title: AEMチャンピオンの営業時間
 description: このAdobe Experience Manager User Group(AEMUG) は、2022 年から 2023 年のAEMチャンピオンクラスで容易に実施できます。 Champions は、この AEMUG を毎月の営業時間のプラットフォームとして使用します
 exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 72
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

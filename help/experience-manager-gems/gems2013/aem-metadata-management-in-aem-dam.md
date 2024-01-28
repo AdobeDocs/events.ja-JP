@@ -1,13 +1,13 @@
 ---
 title: AEM DAM でのメタデータ管理
 description: AEM DAM でのアセットのメタデータの管理方法について説明します。XMP 標準と DAM での利用方法、検索でのメタデータの使用方法、組み込みメタデータスキーマの拡張方法について説明します。最新の DAM 機能パックで導入された新しいメタデータスキーマエディターについても紹介します。
-uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2907
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '135'
 ht-degree: 100%
 
 ---

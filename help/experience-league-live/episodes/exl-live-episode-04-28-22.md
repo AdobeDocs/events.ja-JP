@@ -1,21 +1,21 @@
 ---
-title: オーディエンスの扱い方
+title: これらのオーディエンスを処理する方法を教えてください。
 description: ホスト Doug Moore とゲスト Nick Cammuso と Jackie Chevallier に参加し、Audience Manager(AAM) とReal-time Customer Data Platformの両方の使用方法を見ながら… （説明は 60 ～ 160 文字にする必要があります）
 solution: Audience Manager, Real-Time Customer Data Platform
 kt: 10358
 thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
-event-cta-url: null
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
-source-git-commit: 0d4c3913e2db031097c1a3a3a7555ab4c4227181
+duration: 3812
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 9%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
-# オーディエンスの扱い方
+# これらのオーディエンスを処理する方法を教えてください。
 
 主要なオーディエンス戦略と使用例の達成に役立つAudience Manager(AAM) とReal-time Customer Data Platform(RTCDP) の両方の使用方法を見て、ホストの Doug Moore とゲスト Nick Cammuso と Jackie Chevallier に参加します。 また、柔軟性とターゲティングを向上させるために、AAMから主要なオーディエンスセグメントを取得し、RTCDP に送信する方法についても説明します。
 

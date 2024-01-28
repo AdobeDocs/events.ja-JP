@@ -2,10 +2,11 @@
 title: スキルビルダー — コンテンツとコマース
 description: ナレッジベースを構築し、Adobeコンテンツとコマースソリューションへの投資を最大限に活かすための録画ウェビナーシリーズ
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 58
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 46%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 
@@ -19,28 +20,28 @@ ht-degree: 46%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="Adobe Experience Manager でヘッドレスエクスペリエンスを提供" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
+      <img alt="Adobe Experience Managerでヘッドレスエクスペリエンスを提供" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>Adobe Experience Manager でヘッドレスエクスペリエンスを提供</strong>
+        <strong>Adobe Experience Managerでヘッドレスエクスペリエンスを提供</strong>
       </a>
     </div>
     <p>
-    <em>機能強化された最新の Experience Manager コンテンツフラグメントおよびヘッドレスコンテンツ配信のための新しい GraphQL API を使用したヘッドレスエクスペリエンス管理について説明します。</em>
+    <em>最新のExperience Managerコンテンツフラグメントの機能強化と、ヘッドレスコンテンツ配信用の新しいGraphQL API を使用したヘッドレスエクスペリエンス管理について説明します。</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="Adobe Experience Manager Assets でのメタデータのビジネスへの対応" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
+      <img alt="メタデータをAdobe Experience Manager Assetsでビジネスに適したものにする" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-        <strong>Adobe Experience Manager Assets でのメタデータのビジネスへの対応</strong>
+        <strong>メタデータをAdobe Experience Manager Assetsでビジネスに適したものにする</strong>
       </a>
     </div>
     <p>
-    <em>タグアセットに対する負荷を軽減し、アセットをさらに検索可能にして、AEM Assets でメタデータを活用する方法を説明します。</em>
+    <em>アセットのタグ付けの負荷を軽減し、アセットを検索しやすくすることで、AEM Assetsでメタデータを最大限に活用する方法を説明します。</em>
     <p>
   </td>  
   <td>

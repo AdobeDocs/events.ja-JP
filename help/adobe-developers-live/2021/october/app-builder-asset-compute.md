@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9217
 type: Event
 exl-id: b1c5f695-45f5-4009-8e5f-2c562cbea213
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1724
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 10%
+source-wordcount: '209'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +28,6 @@ Adobe Experience Manager as aCloud ServiceのAsset computeマイクロサービ�
 
 ## その他のリソース
 
-- [Adobe Experience Manager ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 - [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
 - [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)

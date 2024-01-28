@@ -12,9 +12,10 @@ last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
 exl-id: 9af6a4e5-d090-4c49-a972-6a3d164b8315
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3332
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '348'
 ht-degree: 11%
 
 ---
@@ -38,7 +39,7 @@ AEM認定プログラムとそのフレームワークの技術的側面をご�
 * Ayana Nickerson 氏、Sr. Credential Certification Program Manager、Adobe
 * Payal Banerjee 氏 (Adobe、シニアソリューションコンサルタント )
 
-## ウェビナー録画 — 06/28/2023
+## ウェビナー録画 - 2023/06/28（PT）
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421028)
 

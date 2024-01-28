@@ -3,14 +3,15 @@ title: Adobe Developers Live2021 年 2 月
 description: Adobe Developers Liveコンテンツイベントの一部として配信される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
 sub-product: sites, content-services
 exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 91
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 26%
+source-wordcount: '309'
+ht-degree: 13%
 
 ---
 
-# Adobe Developers Live |コンテンツ {#overview}
+# Adobe Developers Live | コンテンツ {#overview}
 
 <img alt="アドビ開発者ライブ" src="/help/adobe-developers-live/assets/adl.png" />
 
@@ -78,7 +79,7 @@ ht-degree: 26%
 * [AEM Sites 開発ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja)
 * [AEM Sites 管理ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja)
 * [AEM Sites デプロイドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
-* [AEM as a Cloud Service チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
+* [AEMas a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
 * [AEM Assets チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja)
 * [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja)
 * [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja)

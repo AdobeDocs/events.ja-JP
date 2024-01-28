@@ -1,13 +1,13 @@
 ---
 title: 再利用可能なコンポーネントを効率的に構築
 description: HTML の web 開発を AEM プロジェクトに完全に統合することが、チームの効率性にとってなぜ重要なのか、その理由と実現方法を説明します。また、サーバーサイド JavaScript と HTL で構築された新しい基盤コンポーネントと、その再利用および拡張方法についても説明します。
-uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: 6cffa7ca-4b83-4564-8674-51ec7d2d734c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5792
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 100%
 
 ---

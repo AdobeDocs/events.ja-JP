@@ -1,14 +1,14 @@
 ---
 title: AEM web パフォーマンス
 description: 複雑な web エクスペリエンスを素早く構築するのは困難です。この講演では、一般的な落とし穴について、Joel が説明します。理論、例、ベストプラクティスを紹介し、ツールのデモを行います。
-uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3831
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 76%
+source-wordcount: '184'
+ht-degree: 75%
 
 ---
 
@@ -48,7 +48,7 @@ AEM コンポーネント：\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
 [https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
 
-サードパーティ:\
+サードパーティ：\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
 [https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 

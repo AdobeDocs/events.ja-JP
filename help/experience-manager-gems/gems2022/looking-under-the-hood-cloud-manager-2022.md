@@ -10,14 +10,15 @@ role: Developer
 level: Beginner
 kt: 10470
 exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3289
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '178'
 ht-degree: 100%
 
 ---
 
-# 検証 - Cloud Manager 2022
+# 内容を見る - Cloud Manager 2022
 
 *このウェビナーは、6月15日午後 3 時（UTC）に実施されました。以下の録画をご覧ください。*
 

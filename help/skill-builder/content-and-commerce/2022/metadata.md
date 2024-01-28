@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Manager Assets でのメタデータのビジネスへの対応
+title: メタデータをAdobe Experience Manager Assetsでビジネスに適したものにする
 description: タグアセットに対する負荷を軽減し、アセットをさらに検索可能にして、AEM Assets でメタデータを活用する方法を説明します。
 solution: Experience Manager, Experience Manager Assets
 role: Admin, Leader, User
@@ -7,14 +7,15 @@ level: Intermediate, Experienced
 kt: 10563
 thumbnail: 343815.jpeg
 exl-id: d770673b-4f48-4761-86df-f21a3cdfc4bc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2730
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 93%
+ht-degree: 66%
 
 ---
 
-# Adobe Experience Manager Assets でのメタデータのビジネスへの対応
+# メタデータをAdobe Experience Manager Assetsでビジネスに適したものにする
 
 タグアセットに対する負荷を軽減し、アセットをさらに検索可能にして、AEM Assets でメタデータを活用する方法を説明します。
 

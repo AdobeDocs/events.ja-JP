@@ -1,13 +1,13 @@
 ---
 title: AEM 6 Oak - MongoMK とクエリ
 description: Oak のクエリエンジンと Jackrabbit 2.x との比較について説明します。このセッションでは、クエリのパフォーマンスの分析と、カスタムインデックスの管理方法に関する指針が提供されます。第 2 部では、AEM の新しいクラスター実装によって提供される一貫性保証を中心に、MongoMK について説明します。
-uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
 exl-id: dea6d73e-0659-4b9a-b338-ee5eac0bc342
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3968
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---

@@ -1,14 +1,14 @@
 ---
 title: Oak Lucene インデックス
 description: Oak Lucene インデックスの機能と、クエリのパフォーマンスを向上させるために使用する方法について説明します。第 2 部では、非同期インデックス作成の一般的な動作と監視方法について説明します。
-uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3517
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 70%
+source-wordcount: '177'
+ht-degree: 67%
 
 ---
 

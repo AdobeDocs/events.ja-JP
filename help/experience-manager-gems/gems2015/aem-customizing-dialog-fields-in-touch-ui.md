@@ -1,13 +1,13 @@
 ---
 title: タッチ UI のダイアログフィールドのカスタマイズ
 description: AEM 6.1 のタッチ UI ダイアログのカスタムフィールド（またはウィジェット）の実装方法を説明します。ExtJS（クラシック UI）で以前に行われた操作が、Granite UI および Coral UI を使用して実行できるようになりました。
-uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3267
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---

@@ -8,10 +8,11 @@ level: Experienced
 kt: 9147
 type: Event
 exl-id: bb6aec83-0d5e-4890-b43f-2a9ff3497e24
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1464
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 20%
+source-wordcount: '145'
+ht-degree: 8%
 
 ---
 
@@ -23,6 +24,6 @@ e コマースサイトで最も重要な要素の 1 つは、製品を検索す
 
 ## その他のリソース
 
-- [Adobe Experience Platform ドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

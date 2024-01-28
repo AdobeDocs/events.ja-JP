@@ -1,11 +1,11 @@
 ---
 title: AEM Sites タッチ UI のヒントとテクニック
 description: ' [!DNL AEM Sites]  タッチ UI に関する便利なヒントとテクニックを説明します。より多くのことを、より迅速に達成できる、タッチ UI の機能をご確認ください。コンテンツスのトラテジストでもマーケターでも、タッチ UI の隠れた機能を知って、作業の効率と生産性を高めることができます。'
-uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3140
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%

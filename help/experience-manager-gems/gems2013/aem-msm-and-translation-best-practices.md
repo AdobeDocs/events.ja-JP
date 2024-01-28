@@ -1,19 +1,19 @@
 ---
 title: MSM と翻訳 - ベストプラクティス
-description: このウェビナーでは、多言語 web サイトに対する MSM と翻訳の共通部分について考察します。翻訳によって生じる複雑さ、サイト構造の推奨事項、様々なユースケースの翻訳コネクタとツールの簡単な比較について説明します。
-uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
+description: このウェビナーでは、多言語 web サイトに対する MSM と翻訳の共通部分について考察します。翻訳によって生じる複雑さ、サイト構造のレコメンデーション、様々なユースケースの翻訳コネクタとツールの簡単な比較について説明します。
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 29
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
 
 # MSM と翻訳：ベストプラクティス {#msm-and-translation-best-practices}
 
-このウェビナーでは、多言語 web サイトに対する MSM と翻訳の共通部分について考察します。翻訳によって生じる複雑さ、サイト構造の推奨事項、様々なユースケースの翻訳コネクタとツールの簡単な比較について説明します。
+このウェビナーでは、多言語 web サイトに対する MSM と翻訳の共通部分について考察します。翻訳によって生じる複雑さ、サイト構造のレコメンデーション、様々なユースケースの翻訳コネクタとツールの簡単な比較について説明します。
 
 **発表者：**
 

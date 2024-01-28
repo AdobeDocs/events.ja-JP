@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9117
 type: Event
 exl-id: 08062f61-58b5-4539-94c1-dc101e0d7869
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3130
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 12%
+source-wordcount: '181'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +28,6 @@ VPExperience Managerの Loni Stark と、上級DirectorAEM Sites &amp; Screens �
 
 ## その他のリソース
 
-- [Adobe Experience Manager ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 - [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
 - [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)

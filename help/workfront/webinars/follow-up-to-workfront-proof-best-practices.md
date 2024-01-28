@@ -1,15 +1,15 @@
 ---
 title: エキスパートに質問する — Workfront Proof のベストプラクティスに従う
 description: 自動ワークフローテンプレートを使用する理由、テンプレートの作成方法、プライバシーを確保するために配達確認設定を調整する方法について説明します。 このウェビナーは 2020 年 3 月 4 日に録画されました。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4083
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 2%
+source-wordcount: '1649'
+ht-degree: 1%
 
 ---
 

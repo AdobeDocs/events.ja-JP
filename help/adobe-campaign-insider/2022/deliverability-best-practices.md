@@ -1,5 +1,5 @@
 ---
-title: 配信品質のベストプラクティスと成果を導く戦略
+title: 結果を導く配信品質のベストプラクティスと戦略
 description: メールキャンペーンの計画と制作には膨大な時間がかかります。電子メールがバウンスするか、最終的に購読者のスパムフォルダーに入った場合、購読者は… （説明は 60 ～ 160 文字にする必要があります）
 version: Classic v7
 solution: Campaign
@@ -8,14 +8,15 @@ level: Beginner, Intermediate, Experienced
 kt: 10507
 thumbnail: 343872.jpeg
 exl-id: 6faeec55-17d0-471b-8289-6cfb05cc4ee3
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3278
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 34%
+source-wordcount: '117'
+ht-degree: 20%
 
 ---
 
-# 配信品質のベストプラクティスと成果を導く戦略
+# 結果を導く配信品質のベストプラクティスと戦略
 
 メールキャンペーンの計画と制作には膨大な時間がかかります。E メールがバウンスするか、最終的に購読者のスパムフォルダーに入った場合、そのメールは読み取られず、コールトゥアクション (CTA) は見つからず、コンバージョンの喪失による収益目標に達しません。 配信品質とインボックスへの配置を無視することはできません。 電子メールマーケティング活動を成功させるには、これらの指標が重要です。
 

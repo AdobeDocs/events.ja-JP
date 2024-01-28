@@ -1,13 +1,13 @@
 ---
 title: AEM  [!DNL Forms]  機能パック 1 の概要と技術サンプル
 description: AEM  [!DNL Forms]  機能パック 1 は、LiveCycle デプロイメントのアップグレードパスで、AEM  [!DNL Forms]  の全機能を含むように実装の範囲を拡張するものです。さらに、カスタマードリブンのサンプルを公開しました。
-uuid: da167766-78b9-44ef-80d9-88f7d7897611
 discoiquuid: db0f097d-9796-466d-b923-35be1e6483e1
 targetaudience: target-audience advanced
 exl-id: f651ed2b-a329-49d3-9595-64768cab9205
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2730
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---

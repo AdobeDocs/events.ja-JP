@@ -1,20 +1,20 @@
 ---
 title: MongoDB での AEM の実行
-description: この AEM Gem では、MongoDB 上で AEM を実稼働設定で実行する方法を詳しく説明します。MongoDB のデプロイメント用のオプションを示し、推奨のデプロイメントを紹介し、推奨の根拠を説明します。
-uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
+description: この AEM Gem では、MongoDB 上で AEM を実稼働設定で実行する方法を詳しく説明します。MongoDB のデプロイメント用のオプションを示し、推奨のデプロイメントを紹介し、レコメンデーションの根拠を説明します。
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3024
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 63%
+source-wordcount: '154'
+ht-degree: 61%
 
 ---
 
 # MongoDB での AEM の実行{#running-aem-on-mongodb}
 
-この AEM Gem では、MongoDB 上で AEM を実稼働設定で実行する方法を詳しく説明します。MongoDB のデプロイメント用のオプションを示し、推奨のデプロイメントを紹介し、推奨の根拠を説明します。
+この AEM Gem では、MongoDB 上で AEM を実稼働設定で実行する方法を詳しく説明します。MongoDB のデプロイメント用のオプションを示し、推奨のデプロイメントを紹介し、レコメンデーションの根拠を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 

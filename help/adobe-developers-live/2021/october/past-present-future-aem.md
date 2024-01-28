@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9120
 type: Event
 exl-id: af8d404d-f47e-4704-b0e3-29beafdd7a2d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2776
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 11%
+source-wordcount: '197'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +28,6 @@ ht-degree: 11%
 
 ## その他のリソース
 
-- [Adobe Experience Manager ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
 - [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
 - [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)

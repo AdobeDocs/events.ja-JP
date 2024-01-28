@@ -3,10 +3,11 @@ title: Adobe Developers Live2021 年 10 月
 description: Adobe Developers Liveイベントの一部として提供される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
 sub-product: sites, content-services
 exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 110
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 31%
+source-wordcount: '385'
+ht-degree: 16%
 
 ---
 
@@ -82,14 +83,14 @@ Adobe Experience Cloud、Document Cloud、Creative Cloudの各Adobe製品チー�
 * [AEM Sites 開発ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja)
 * [AEM Sites 管理ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja)
 * [AEM Sites デプロイドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
-* [AEM as a Cloud Service チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
+* [AEMas a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
 * [AEM Assets チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja)
 * [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja)
 * [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja)
 
 ### Adobe Experience Platform
 
-* [Adobe Experience Platform ドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+* [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 * [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 * [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
 

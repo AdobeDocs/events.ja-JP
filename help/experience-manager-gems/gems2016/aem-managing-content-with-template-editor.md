@@ -1,14 +1,14 @@
 ---
 title: Adobe Experience Manager のテンプレートエディターを使用したコンテンツの管理
 description: Adobe Experience Manager 6.2 では、デジタルプロパティを構築、構造化、設定するための新しい強力な方法を提供する新しいテンプレートエディターが導入されました。この機能をスーパーオーサーの観点から確認し、様々なページテンプレートを作成し、対応するページで作成者が実行できるコンテンツを正確に制御する方法を説明します。さらに、内部構造を詳しく見ていき、その仕組みを説明します。
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 78%
+source-wordcount: '263'
+ht-degree: 77%
 
 ---
 

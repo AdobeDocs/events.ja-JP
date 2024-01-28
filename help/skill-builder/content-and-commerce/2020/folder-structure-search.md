@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7338
 exl-id: b19bdea1-486a-400d-93b8-166f0f12d366
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3317
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 16%
+source-wordcount: '190'
+ht-degree: 6%
 
 ---
 
 # フォルダー構造と検索 — Adobe Experience Manager Asset シリーズ
 
-この 5 部構成のウェビナーシリーズを使用して、ナレッジベースを構築し、Adobe Experience Manager Assets への投資を最大限に活用します。 Adobe Experience Manager Assets を初めて使用する開業者、またはAdobe Experience Manager Assets をしばらく使用していて、既存のスキルを磨きたいと考えている実践者の場合、これはソリューションの最も重要な 5 つの領域に深く掘り下げる最適な方法です。 Adobeの専門家が基本事項を確認し、高度なインサイトを提供します。これにより、すぐに実行できる実用的な次の手順が提供されます。
+この 5 部構成のウェビナーシリーズを使用して、ナレッジベースを構築し、Adobe Experience Manager Assetsへの投資を最大限に活用します。 Adobe Experience Manager Assetsを初めて利用する開業医、またはAdobe Experience Manager Assetsをしばらく使用していて、既存のスキルを磨きたいと考えている開業医の場合、これは、ソリューションの最も重要な 5 つの領域に深く掘り下げる最適な方法です。 Adobeの専門家が基本事項を確認し、高度なインサイトを提供します。これにより、すぐに実行できる実用的な次の手順が提供されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
@@ -40,7 +41,7 @@ DAM の設定と使用の基本について説明します。
 
 ## シリーズ録画
 
-* [アセットリンク](asset-link.md)
+* [Asset Link](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [Dynamic Media](dynamic-media.md)
 * [メタデータ](metadata.md)

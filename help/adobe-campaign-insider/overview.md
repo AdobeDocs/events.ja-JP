@@ -2,10 +2,11 @@
 title: Adobe [!DNL Campaign] Insider シリーズ
 description: Adobeのヒントとテクニック [!DNL Campaign] お客様は、クロスチャネルマーケティング戦略の発展、チームマーケティングの実践者スキルの向上、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立ちます。
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -35,7 +36,7 @@ Adobeのヒントとテクニック [!DNL Campaign] お客様は、クロスチ�
       <img alt="Adobe [!DNL Campaign] マーケティングエコシステムとの統合" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>[!DNL Campaign]マーケティングエコシステムによる Adobe 統合</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] マーケティングエコシステムとの統合</strong></a>
          <br/>
       </div>
    </td>

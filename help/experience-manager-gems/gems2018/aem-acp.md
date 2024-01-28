@@ -1,13 +1,13 @@
 ---
 title: Adobe Experience Platform - Experience Cloud の心臓部
 description: すべては Adobe Experience Platform から始まります。エクスペリエンスビジネスにおいて、プラットフォームがどのような役割を果たしているのかをご確認ください。顧客を特定し、理解し、惹きつけ、あらゆる場面において顧客を満足させるような、一貫性のある継続的で魅力的なエクスペリエンスを提供する方法を明らかにします。
-uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
 exl-id: fcea7000-dbd2-47d3-af68-0a210901efa4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2975
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 100%
 
 ---

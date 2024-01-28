@@ -1,12 +1,12 @@
 ---
 title: エキスパートへの質問 — テキストモードレポートの概要
 description: テキストモードでは、レポート機能を拡張して、より複雑なビュー、フィルター、グループ化、プロンプトを作成できます。 本ウェビナーは 2020 年 7 月 15 日に録画されました。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9919
 exl-id: 9199bf64-c019-4ffd-9e12-50d4f6ced4a1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3671
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

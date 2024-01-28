@@ -1,5 +1,5 @@
 ---
-title: Adobe Audience Managerによる価値の最大化 |業界の変更点への移行とリアルタイム CDP への移行
+title: Adobe Audience Managerによる価値の最大化 | 業界の変更点への移行とリアルタイム CDP への移行
 description: 業界の変化に対するタイムラインを変えながら、Adobe Audience Managerで価値を引き続き活用し、使用事例と組織の準備の両方から RTCDP への移行に備える方法を学びます。
 solution: Audience Manager
 feature-set: Audience Manager
@@ -11,14 +11,15 @@ last-substantial-update: 2023-07-22T00:00:00Z
 jira: KT-13689
 thumbnail: 3421282.jpeg
 exl-id: 731c827e-fb10-48da-a85a-ee73a5d273e3
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2951
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# Adobe Audience Managerによる価値の最大化 |業界の変更点への移行とリアルタイム CDP への移行
+# Adobe Audience Managerによる価値の最大化 | 業界の変更点への移行とリアルタイム CDP への移行
 
 業界の変化に伴うタイムラインの移行に伴い、Adobe Audience Managerで価値を引き続き活用し、使用例と組織の準備の両方の観点から Real-time CDP への移行に備える方法を学びます。
 

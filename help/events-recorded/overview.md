@@ -3,10 +3,11 @@ title: Adobe Experience League Events
 description: Adobeのエンタープライズ製品の使用に重点を置いたイベント記録のコレクション
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 334
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '915'
-ht-degree: 9%
+source-wordcount: '912'
+ht-degree: 5%
 
 ---
 
@@ -163,7 +164,8 @@ ht-degree: 9%
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Audience Manager、Adobe Experience Manager、Adobe Experience Platform、Real-Time CDP、Adobe Journey Optimizer、Adobe Target </em>
       </div>
       <p>
-        <br/>Experience League LIVE は、Experience League チームが制作したライブストリーミング番組です。アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
+        <br/>
+         Experience LeagueLIVE は、Experience Leagueチームが制作したライブストリーミングショーです。 アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
       </p>
     </td>
    <td>
@@ -191,7 +193,7 @@ ht-degree: 9%
       </div>
       <p>
         <br/>
-         Adobe Experience Manager as a Cloud Service の最新機能の概要の説明. AEM 製品チームが最新リリースの概要を説明する、約 10 分間の短いビデオです。
+         Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に説明します。 AEM 製品チームが最新リリースの概要を説明する、約 10 分間の短いビデオです。
       </p>
     </td>
     <td>
