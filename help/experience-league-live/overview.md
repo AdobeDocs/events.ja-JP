@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 42%
+source-wordcount: '167'
+ht-degree: 44%
 
 ---
 
@@ -25,15 +25,15 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
-      <img alt="Experience Leagueライブ 2 月 8 日" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
+      <img alt="Experience Leagueライブ 2 月 29 日" src="assets/Feb29_2024_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-02-08-24.md">
-        <strong>使用例プレイブック、Real-Time CDPおよびJourney Optimizerの使用例を数回のクリックでデプロイするためのセルフサービステンプレート</strong>
+      <a href="episodes/exl-live-episode-02-29-24.md">
+        <strong>新しいAdobe Campaign v8 UI で先を進む</strong>
       </a>
-      <br/><em>ダニエル・ライト、ジョゼ・モネット・ヒーリー、ロヒット・バスリと共に</em>
-      <br/><em>2024 年 2 月 8 日</em>
+      <br/><em>サンドラ・ハウスマン、エリック・ペリン、ガエル・ムエロ、ブルース・スワンと共に</em>
+      <br/><em>2024 年 2 月 30 日</em>
     </div>
   </td>
 </tr>
