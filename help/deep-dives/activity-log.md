@@ -2,7 +2,7 @@
 title: アクティビティログでの複雑なプロセスの通知
 description: プロセスが失敗した理由を知る事が干し草の中の針を探す事に似ていると感じた事は？ 我々は関係を持つことができる！ 忙しい MOP の専門家は、複雑なプロセスを効率的にトラブルシューティングする方法を求めており、私たちは今、そのためにここにいます！ このディープダイブセッションに参加して、Marketoシャンプスが、すぐに使える思考を使って、複雑な複数脚プロセスのパンくずリストの軌跡を作り出した方法を学んでください。 作成したアクティビティログのメモを使用して、記録のプロセスが開始、終了、失敗、成功する場所を学びます。 ベス・マスラ&ジミー・スペンサーが主催し、コーレイ・ベイレスが司会を務めました。
 solution: Marketo Engage
-feature: Audit trail
+feature: Audit Trail
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +10,7 @@ duration: 2849
 last-substantial-update: 2024-02-08T00:00:00Z
 jira: KT-14922
 thumbnail: 3427149.jpeg
-source-git-commit: a842ec8d316968db5331e97ec8c66f8c048a9cfd
+source-git-commit: 256546bebf40fdedbcff63c1a0dd4dd0b6845505
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
