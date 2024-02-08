@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
+source-git-commit: a842ec8d316968db5331e97ec8c66f8c048a9cfd
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 9%
+source-wordcount: '38'
+ht-degree: 7%
 
 ---
 
@@ -27,3 +27,4 @@ ht-degree: 9%
    + [インスタンスの継承](inheriting-an-instance.md)
    + [リードのライフサイクル](lead-lifecycles.md)
    + [小規模なチームでインスタンスを最大化](small-team-instance.md)
+   + [アクティビティログでの複雑なプロセスの通知](activity-log.md)
