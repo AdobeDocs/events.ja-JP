@@ -11,7 +11,7 @@ duration: 3632
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14970
 thumbnail: 3427355.jpeg
-source-git-commit: d50bee76b17c486088ea62619b3331906a68be80
+source-git-commit: de1dbd19647f523ba96bf9e94ab2a15f2f4bc710
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Corey Gelato のシニアコマース戦略コンサルタントである Commer
 
 また、AI が、パーソナライズされた製品の説明、E メール、Web サイトバナーを通じて、個々の顧客の共感を呼ぶターゲットを絞ったマーケティングキャンペーンを作成する方法についても重点的に説明します。 過去のデータを分析することと同様に重要な点は、将来の顧客行動の予測も、効果的に行うことができる点です。 予測分析を使用すると、ユーザーは顧客の将来の購入傾向を予測し、パーソナライズされたプロアクティブな製品のオポチュニティを生み出すことができます。 Corey では、ライブ検索と Chatbot 機能を使用して、よりパーソナライズされたショッピングエクスペリエンスを作成する方法について説明しています。 次に、製品のRecommendations、カテゴリーマーチャンダイジング、ライブ検索のデモをライブで共有します。 Q&amp;A では、お客様の質問に対するお答えを生で行います。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427355/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427493/?learn=on)
