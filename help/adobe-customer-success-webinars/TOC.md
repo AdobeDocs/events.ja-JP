@@ -2,10 +2,10 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化できるように設計されています。 価値を最大限に高め、Adobe・ソリューションの採用を促進するために、貴重なインサイトを得る。
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '112'
+ht-degree: 1%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 0%
 # Adobeカスタマーサクセスウェビナー {#adobe-customer-success-webinar-recordings}
 
 + [Adobeカスタマーサクセスウェビナー](overview.md)
++ 2024年 {#2024}
+   + [データストリームの優先順位付け](2024/data-stream-prioritization.md)
+   + [戦略的リーダーシップ](2024/strategic-leadership.md)
 + 2023年 {#2023}
    + [規模に応じたパーソナライゼーションの基盤の構築](2023/personalization-at-scale.md)
    + [変更管理](2023/change-management.md)
