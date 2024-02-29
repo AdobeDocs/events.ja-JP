@@ -3,9 +3,9 @@ title: Commerce Intelligence ウェビナー
 description: Commerce Intelligence を参照するウェビナーは、様々なトピックとベストプラクティスを網羅しており、Commerce Intelligence を最大限に活用するためのウェビナーを記録しています。
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '251'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Commerce Intelligence ウェビナーシリーズは、Commerce Intelligence の
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Commerce Intelligence の概要" src="./assets/getting-started.png" />
+      <img alt="Commerce Intelligence の概要" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
@@ -40,21 +40,21 @@ Commerce Intelligence ウェビナーシリーズは、Commerce Intelligence の
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-      <img alt="MBI でのデータセットの管理" src="./assets/managing-data-sets-mbi.png" />
+    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <img alt="Adobe Commerce Intelligence でのデータセットの管理" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-        <strong>MBI でのデータセットの管理</strong>
+      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+        <strong>Adobe Commerce Intelligence でのデータセットの管理</strong>
       </a>
     </div>
     <p>
-    <em>Adobe Commerce製品チームから直接、MBIData Warehouseマネージャーの強力な機能の一部を学びます。 基本的なレポートの作成を超えて、データをさらに活用する方法を学びます。</em>
+    <em>製品チームから直接、Commerce IntelligenceData Warehouseマネージャの堅牢な機能を見つけます。</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="MBIData Warehouseの最適化" src="./assets/optimize-data-warehouse.png" />
+      <img alt="MBIData Warehouseの最適化" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
