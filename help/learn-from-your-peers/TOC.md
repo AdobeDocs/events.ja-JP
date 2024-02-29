@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: «記録の集まり [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '144'
 ht-degree: 6%
 
 ---
@@ -32,6 +32,9 @@ ht-degree: 6%
          + [可能なドキュメントミッション](analytics/june2022/mission-possible.md)
       + 3 月 {#mar2022}
          + [データを使用した効果的なストーリーの伝達](analytics/mar2022/stories-with-data.md)
++ Commerce {#commerce}
+   + 2 月 {#feb2024}
+      + [Agile SDLC での通信、要件、テスト](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 11 月 {#nov2023}
       + [AEMコアコンポーネントを使用した開発者向けエクセレンス](experience-manager/nov2023/core-components.md)
