@@ -7,7 +7,7 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
+source-git-commit: 3266abc5c077d75424eeae5cb87d66cf0ee52357
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 2%
@@ -27,8 +27,8 @@ Adobe Campaign v8 は、まったく新しい外観と操作性を備えてい�
 ## その他のリソース
 
 * **[Campaign Web ユーザーインターフェイス — 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
-* Adobe Campaign Web ユーザーインターフェイスで現在使用可能な内容に関する詳細なドキュメントは、 [Campaign Web ユーザーインターフェイス — 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}.
+  *Adobe Campaign Web ユーザーインターフェイスで現在使用可能な内容に関する詳細なドキュメントは、 [Campaign Web ユーザーインターフェイス — 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}.*
 
 * **[Adobe Campaign Web ユーザーインターフェイス —Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-* Adobe Campaign Web ユーザーインターフェイスの機能に関するビデオやチュートリアルの参照方法。
+  *Adobe Campaign Web ユーザーインターフェイスの機能に関するビデオとチュートリアルを視聴する方法です。*
 
