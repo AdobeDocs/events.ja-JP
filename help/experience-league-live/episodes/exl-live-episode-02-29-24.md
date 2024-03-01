@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
@@ -22,6 +22,13 @@ Adobe Campaign v8 は、まったく新しい外観と操作性を備えてい�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-Adobe Campaign Web ユーザーインターフェイスで現在使用可能な内容に関する詳細なドキュメントについては、を参照してください。 [Campaign Web ユーザーインターフェイス — 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}.
+**ご質問がある場合** Adobe Experience Leagueでこのトピックに関するディスカッションを続行します [コミュニティの投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
 
-**ご質問は？** Adobe Experience Leagueでこのトピックに関するディスカッションを続行します [コミュニティの投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+## その他のリソース
+
+* **[Campaign Web ユーザーインターフェイス — 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
+* Adobe Campaign Web ユーザーインターフェイスで現在使用可能な内容に関する詳細なドキュメントは、 [Campaign Web ユーザーインターフェイス — 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}.
+
+* **[Adobe Campaign Web ユーザーインターフェイス —Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+* Adobe Campaign Web ユーザーインターフェイスの機能に関するビデオやチュートリアルの参照方法。
+
