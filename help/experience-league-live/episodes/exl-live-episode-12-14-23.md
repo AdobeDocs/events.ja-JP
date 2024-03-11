@@ -9,7 +9,7 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
+source-git-commit: b2114296a518f633d4b409838ae640ddb4817d79
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 2%
@@ -32,7 +32,7 @@ Adobe Experience Leagueでこのトピックに関するディスカッション
 
 現在のReal-Time CDPの実務者で、製品の新機能、重要な理由、Adobeがお客様のデータ管理戦略を改善するのに役立つ理由を探していますか。 もう見ないでください — 正しい場所に来ました！ このシリーズでは、Real-Time CDPでの最近のリリースについて詳しく説明し、新機能をすぐに活用して組織に影響を与えることができます。
 
-# 重要ポイント
+## 重要ポイント
 
 このセッションでは、過去数か月間に開始された 5 つの新機能について説明し、表示します。
 
