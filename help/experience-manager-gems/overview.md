@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 82%
+source-wordcount: '280'
+ht-degree: 77%
 
 ---
 
@@ -45,14 +45,15 @@ ht-degree: 82%
 </table>
 
 -->
-最新のAEM GEM ウェビナー： **AEM as a Cloud Service向けNew Relic APM の潜在性の解放。 パフォーマンスの最大化と問題解決の迅速化** が次の項目について行われた： *2023 年 9 月 21 日*.
-The **記録** は次の場所にあります。 [Adobe Experience Manager as a Cloud Service用New Relic APM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+最新のAEM GEM ウェビナー： **Adobe Commerceを使用したEdge Delivery Servicesストアフロントの構築** が次の項目について行われた： *2024 年 3 月 7 日*.
+The **記録** は次の場所にあります。
+[Adobe Commerceを使用したEdge Delivery Servicesストアフロントの構築](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 
 >[!NOTE]
 >
 > 今後の AEM GEM セッションの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に新規登録してください。
 
-## 2022 AEM GEM リニューアル
+## AEM GEMs - AEMに関するテクニカルウェビナー — 開発者が提供する開発者向け
 
 **AEM GEM** にようこそ。Adobe Experience Manager に関する技術的な詳細について、アドビの専門家が解説するウェビナーシリーズです。このシリーズは、製品ドキュメントおよび Adobe Experience Manager に関する技術系チャネルを補完するもので、開発者が特定のトピックにアクセスし、詳しく確認することができます。
 
@@ -61,9 +62,7 @@ The **記録** は次の場所にあります。 [Adobe Experience Manager as a 
 * 最長 60 分
 * 最後に Q＆A があり、ウェビナー全般でエキスパートとチャット可能
 * 各ウェビナー終了後に録画を提供
-* オンラインセミナーは無料
-
-アドビの AEM GEM ウェビナーは、すべて無料で、バーチャルで実施されます。
+* すべてのAEM GEM のウェビナーは無料で、事実上実行されます。登録のみ必要です。
 
 今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
 

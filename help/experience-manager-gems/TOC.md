@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
 breadcrumb-title: AEM GEMS イベント
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 98%
 # Experience Manager GEMS イベント {#experience-manager-gems-recordings}
 
 + [概要](overview.md)
++ 2024年 {#gems2024}
+   + [AEMオーサリングの概要とEdge Delivery Services](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Adobe CommerceでのEdge Delivery Servicesストアフロントの構築](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023年 {#gems2023}
    + [New Relic APM for AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM認定 — 技術](gems2023/aem-certification-technical.md)
@@ -20,8 +23,8 @@ ht-degree: 98%
    + [オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー](gems2023/aem-best-practices-analyzer.md)
 + 2022年 {#gems2022}
    + [顧客のユースケースと使用中の AEM ヘッドレス実装](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [検証 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [AEM と CIF フレームワークを統合し、リッチで没入感のある e コマースエクスペリエンスを構築します](gems2022/aem-and-cif-framework-integration.md)
+   + [内容を見る - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
+   + [AEM と CIF フレームワークを統合して、豊かで没入感のある e コマースエクスペリエンスを構築](gems2022/aem-and-cif-framework-integration.md)
    + [AEM ヘッドレスとアプリビルダーを使用して、より迅速に web サイトを構築](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service：2021年の振り返りと 2022年の見通し](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020年 {#gems2020}
