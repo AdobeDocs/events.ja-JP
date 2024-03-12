@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
 breadcrumb-title: AEM GEMS イベント
-source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
+source-git-commit: 1bef27ae79d023817407b9ac838fae2505116c4c
 workflow-type: tm+mt
 source-wordcount: '696'
 ht-degree: 95%
@@ -14,8 +14,8 @@ ht-degree: 95%
 
 + [概要](overview.md)
 + 2024年 {#gems2024}
-   + [AEMオーサリングの概要とEdge Delivery Services](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [Adobe CommerceでのEdge Delivery Servicesストアフロントの構築](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+   + [AEMオーサリングの概要とEdge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [Adobe CommerceでのEdge Delivery Servicesストアフロントの構築](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023年 {#gems2023}
    + [New Relic APM for AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM認定 — 技術](gems2023/aem-certification-technical.md)
