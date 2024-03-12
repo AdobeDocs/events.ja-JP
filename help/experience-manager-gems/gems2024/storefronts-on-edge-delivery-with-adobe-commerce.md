@@ -1,7 +1,7 @@
 ---
 title: Adobe Commerceを使用したEdge Delivery Servicesストアフロントの構築
 description: このAEM GEMs ウェビナーでは、Adobe CommerceのEdge Delivery Servicesで高パフォーマンスのストアフロントを構築する方法を説明します。 コマースボイラープレートを使用したプロジェクトの設定プロセス、およびそれを新しい Commerce SaaS サービスに接続して、高速でSensei UI が拡張された製品カタログ統合を実現する方法について説明します。 ストアフロントの開発を高速化する、カスタマイズ可能なフロントエンドコンポーネントのセットであるドロップインコンポーネントが導入されました。 を拡張し、スタイルを設定する方法に関するベストプラクティスを学びます。 最後に、作成したコンテンツでコマースエクスペリエンスを強化する新しいエッジ配信オーサリング機能を強調します。
-version: Cloud Service
+version: Experience Manager:Cloud Service
 feature: Edge Delivery Services
 topic: Commerce
 role: Developer
@@ -11,7 +11,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 92e19dbdd92d8d901a48edff751487b42a5d9f2c
+source-git-commit: 661e34e66c089caab712585fba6e3066426e55f1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 2%
