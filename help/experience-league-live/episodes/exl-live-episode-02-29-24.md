@@ -1,5 +1,5 @@
 ---
-title: 新しいAdobe Campaign Web ユーザーインターフェイスにより、ソーシャルメディアのマーケティングの効果を高めます。
+title: 新しいAdobe Campaign Web ユーザーインターフェイスを先に進める
 description: 新しいAdobe Campaign Web ユーザーインターフェイスを使用した電子メールマーケティングやソーシャルメディアマーケティングなど、クロスチャネルマーケティング戦略の計画、開始、測定の際に、より効率的になる方法を説明します。
 jira: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
@@ -8,9 +8,9 @@ event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
