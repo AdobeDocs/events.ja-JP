@@ -3,13 +3,12 @@ title: Web チャネルとコンテンツ実験を使用したAdobe Journey Opti
 description: 新しい Web チャネルを使用すると、マーケターは WYSIWYG のビジュアルデザイナーで Web キャンペーンを作成できます。 さらに、Journey Optimizerでは、E メール、Web、プッシュ、アプリ内、SMS など、任意のチャネルのコンテンツを試すことができるようになりました。
 solution: Journey Optimizer
 kt: KT-13220
-thumbnail: https://video.tv.adobe.com/v/3420129?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=sNsFedPnhL8
 event-start-time: 2023-06-14 08:00-7
 event-guests: Sandra Hausmann,Robert Calangiu,Erik Wiener,Daniel Cristian Popescu
 exl-id: c5240612-29d4-4404-b12b-71e70bb780bd
 duration: 3627
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 566bddf933c20c7673b4cf574180852d81027514
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
