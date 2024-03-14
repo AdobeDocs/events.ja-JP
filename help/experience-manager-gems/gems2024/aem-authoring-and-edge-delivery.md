@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # ウェビナー日： 2024 年 3 月 13 日
 
-時間：午後 5 時 CET /午前 8 時 PST /午後 9 時 30 分 IST 以下のイベントページリンクから登録してください。
+このウェビナーは完了しました — 以下の録画をご覧ください。
 
 ## AEMオーサリングの概要とEdge Delivery Services
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 * ソフトウェア開発、Adobe、マネージャ、Dirk Rudolph
 
-## ウェビナー登録
+## ウェビナー録画
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
 
 >[!NOTE]
->
->* このウェビナーには、から登録/参加登録してください。 [イベントページ](https://adobe.ly/4bz9T0H).
 > 
 >* セッション固有のコミュニティでのExperience Leagueのインタラクションについては、 [コンテキストスレッド](https://adobe.ly/3uIj6D7).
 >
