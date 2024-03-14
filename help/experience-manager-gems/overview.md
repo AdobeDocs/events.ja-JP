@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4fbbc6c8f1abfaaa7b26b8e9ef6e0d0685217d7b
+source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 77%
+source-wordcount: '279'
+ht-degree: 72%
 
 ---
 
@@ -45,13 +45,13 @@ ht-degree: 77%
 </table>
 
 -->
-最新のAEM GEM ウェビナー： **Adobe Commerceを使用したEdge Delivery Servicesストアフロントの構築** が次の項目について行われた： *2024 年 3 月 7 日*.
+最新のAEM GEM ウェビナー： **AEMオーサリングの概要とEdge Delivery Services** が次の項目について行われた： *2024 年 3 月 14 日*.
 The **記録** は次の場所にあります。
-[Adobe Commerceを使用したEdge Delivery Servicesストアフロントの構築](./gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+[AEMオーサリングの概要とEdge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
 
 >[!NOTE]
 >
-> 今後の AEM GEM セッションの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に新規登録してください。
+> 新規登録して今後のAEM GEM ウェビナーの通知を受け取る — [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
 
 ## AEM GEMs - AEMに関するテクニカルウェビナー — 開発者が提供する開発者向け
 
