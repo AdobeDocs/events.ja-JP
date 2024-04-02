@@ -3,9 +3,9 @@ title: APAC Commerce ウェビナーシリーズ
 description: APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向けの月次ワークショップで、ベストプラクティスから製品ロードマップ、業界の動向に至るまで幅広いトピックを取り上げています。
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce Innovation Spotlight ウェビナー" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce Innovation Spotlight ウェビナー</strong>
+      </a>
+    </div>
+    <p>
+    <em>最新の機能とアーキテクチャを導入して、お客様に最高のエクスペリエンスを提供し、ビジネスを成長させる方法についてのインスピレーションを得るためにご参加ください。</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
     <em>AI の機能を活用して、Adobeの AI への投資とコマースへの統合により、優れた顧客体験を実現します。</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="拡張性と機敏性に優れた e コマースを実現する、合理的なコマース戦略" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>拡張性と機敏性に優れた e コマースを実現する、合理的なコマース戦略</strong>
-      </a>
-    </div>
-    <p>
-    <em>合成可能なアーキテクチャの世界と、e コマースの景観に革命を起こす方法を掘り下げる、洞察に富んだウェビナーにご参加ください。</em>
-    <p>
-  </td>  
 </tr>
 </table>
 
