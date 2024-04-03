@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 44%
+source-wordcount: '181'
+ht-degree: 41%
 
 ---
 
@@ -25,11 +25,28 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 <table>
 <tr>
-  <td>
-    近い将来の 2024 年 4 月のショーを見に戻ってください。<br/>
-    その間に、私たちは、 <a href="https://summit.adobe.com/na/">Adobe Summit</a> 2024 年 3 月 25～28 日！
-
-</td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-18-24.md">
+      <img alt="Experience Leagueライブ 4 月 21 日" src="episodes/assets/WebBanner-April18-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Marketo Measure Discover の新しいダッシュボード</strong>
+      </a>
+      <br/><em>イアン・ミシェルス、ケイト・コルバート、ジェームズ・リードムと</em>
+      <br/><em>2024 年 4 月 19 日</em>
+    </div>
+  </td>
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
+      <img alt="Experience Leagueライブ 4 月 21 日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
+        <strong>Journey Optimizerでの新しいコードベースの Experience Channel</strong>
+      </a>
+      <br/><em>サンドラ・ハウスマン、ロバート・カランギュー、ブレント・コスタクと共に</em>
+      <br/><em>2024 年 4 月 25 日</em>
+    </div>
+  </td>
 </tr>
 </table>
 

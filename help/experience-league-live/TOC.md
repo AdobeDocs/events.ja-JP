@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
+source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 5%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 35:Journey Optimizerの新しいコードベースの Experience Channel](episodes/exl-live-episode-04-24-24.md)
+   + [Ep. 34:Marketo Measureの新しい Discover ダッシュボード](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33：新しいAdobe Campaign v8 UI で先を進む](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32：使用例プレイブック、セルフサービステンプレートを使用して、数回のクリックで使用例をデプロイできます。](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31:Adobe Analyticsのデータと分析をCustomer Journey Analyticsに取り込む](episodes/exl-live-episode-01-17-24.md)
