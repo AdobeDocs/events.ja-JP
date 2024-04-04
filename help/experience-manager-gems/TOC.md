@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
 breadcrumb-title: AEM GEMS イベント
-source-git-commit: 1bef27ae79d023817407b9ac838fae2505116c4c
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 95%
+source-wordcount: '705'
+ht-degree: 94%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 95%
 
 + [概要](overview.md)
 + 2024年 {#gems2024}
+   + [AEM Forms向けEdge Delivery Servicesの概要](/gems2024/edge-delivery-for-aem-forms.md)
    + [AEMオーサリングの概要とEdge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Adobe CommerceでのEdge Delivery Servicesストアフロントの構築](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023年 {#gems2023}

@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 72%
+source-wordcount: '298'
+ht-degree: 66%
 
 ---
 
@@ -23,7 +23,10 @@ ht-degree: 72%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 以前の AEM GEM イベント
+## 今後のAEM GEM イベント
+
+2024 年 4 月 17 日～ **AEM Forms向けEdge Delivery Servicesの概要**
+参加登録/登録してください [ここ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -45,6 +48,9 @@ ht-degree: 72%
 </table>
 
 -->
+
+## 以前のAEM GEMs イベント
+
 最新のAEM GEM ウェビナー： **AEMオーサリングの概要とEdge Delivery Services** が次の項目について行われた： *2024 年 3 月 14 日*.
 The **記録** は次の場所にあります。
 [AEMオーサリングの概要とEdge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
