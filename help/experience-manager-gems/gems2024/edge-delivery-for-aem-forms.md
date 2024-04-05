@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ Edge Delivery Servicesを使用してAEM Formsを作成および公開し、エ�
 * Arun Taneja、製品管理Director、Adobe
 * Vijay Kumar Jalagari 氏 (Adobe、シニアエンジニアリングマネージャ )
 
-## ウェビナー録画
+## ウェビナーコミュニティインタラクション
 
 >[!NOTE]
 > 
->* セッションでのコミュニティでのインタラクションに関しては、Experience League上のコンテキストスレッドを簡単に使用できます。
+>* セッション固有のコミュニティでのExperience Leagueのインタラクションについては、 [コンテキストスレッド](https://adobe.ly/4aCz0OE).
 >
 >* 今後のウェビナーで通知を受け取るには、 [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
