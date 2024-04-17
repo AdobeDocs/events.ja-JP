@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 66%
+source-wordcount: '294'
+ht-degree: 67%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 66%
 
 ## 今後のAEM GEM イベント
 
-2024 年 4 月 17 日～ **AEM Forms向けEdge Delivery Servicesの概要**
-参加登録/登録してください [ここ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
+2024 年 5 月 29 日（PT） –  **Edge Delivery ServicesとAEM Assets**
+登録はまもなく開始されます。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -49,17 +49,17 @@ ht-degree: 66%
 
 -->
 
-## 以前のAEM GEMs イベント
+## 以前のAEM GEM イベント
 
-最新のAEM GEM ウェビナー： **AEMオーサリングの概要とEdge Delivery Services** が次の項目について行われた： *2024 年 3 月 14 日*.
-The **記録** は次の場所にあります。
-[AEMオーサリングの概要とEdge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+最新のAEM GEMs ウェビナー： **AEM Forms用Edge Delivery Servicesの概要** が次の日に行われました *2024 年 4 月 17 日（PT）*.
+この **録画** 次の場所にあります。
+[AEM Forms用Edge Delivery Servicesの概要](/gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> 新規登録して今後のAEM GEM ウェビナーの通知を受け取る — [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
+> 今後のAEM GEMs ウェビナーの通知を受け取るには、新規登録してください。 [AdobeのAEM ユーザーグループ](https://aem-augs.adobe.com/).
 
-## AEM GEMs - AEMに関するテクニカルウェビナー — 開発者が提供する開発者向け
+## AEM GEM - AEMに関する技術ウェビナー – 開発者向けに提供
 
 **AEM GEM** にようこそ。Adobe Experience Manager に関する技術的な詳細について、アドビの専門家が解説するウェビナーシリーズです。このシリーズは、製品ドキュメントおよび Adobe Experience Manager に関する技術系チャネルを補完するもので、開発者が特定のトピックにアクセスし、詳しく確認することができます。
 
@@ -68,7 +68,7 @@ The **記録** は次の場所にあります。
 * 最長 60 分
 * 最後に Q＆A があり、ウェビナー全般でエキスパートとチャット可能
 * 各ウェビナー終了後に録画を提供
-* すべてのAEM GEM のウェビナーは無料で、事実上実行されます。登録のみ必要です。
+* すべてのAEM GEM ウェビナーは無料で、バーチャルで実施されるので、登録のみが必要です。
 
 今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
 
