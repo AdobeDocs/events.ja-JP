@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: c8635305f4754d6001108357799a80f50d58b4ac
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 67%
+source-wordcount: '285'
+ht-degree: 64%
 
 ---
 
@@ -53,11 +53,11 @@ ht-degree: 67%
 
 最新のAEM GEMs ウェビナー： **AEM Forms用Edge Delivery Servicesの概要** が次の日に行われました *2024 年 4 月 17 日（PT）*.
 この **録画** 次の場所にあります。
-[AEM Forms用Edge Delivery Servicesの概要](/gems2024/edge-delivery-for-aem-forms.md)
+[AEM Forms用Edge Delivery Servicesの概要](gems2024/edge-delivery-for-aem-forms.md)
 
 >[!NOTE]
 >
-> 今後のAEM GEMs ウェビナーの通知を受け取るには、新規登録してください。 [AdobeのAEM ユーザーグループ](https://aem-augs.adobe.com/).
+> 今後のAEM GEM ウェビナーやその他のAEM関連イベントの通知を受け取るには、新規登録してください。 [AdobeのAEM ユーザーグループ](https://aem-augs.adobe.com/).
 
 ## AEM GEM - AEMに関する技術ウェビナー – 開発者向けに提供
 
@@ -69,8 +69,6 @@ ht-degree: 67%
 * 最後に Q＆A があり、ウェビナー全般でエキスパートとチャット可能
 * 各ウェビナー終了後に録画を提供
 * すべてのAEM GEM ウェビナーは無料で、バーチャルで実施されるので、登録のみが必要です。
-
-今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
 
 ## Experience League コミュニティ
 
