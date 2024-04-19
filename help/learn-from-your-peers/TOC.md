@@ -2,10 +2,10 @@
 user-guide-title: “[!DNL Experience Makers Learn from your peers]“
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「の録画コレクション [!DNL Experience Makers Learn from your peers]“
-source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
+source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 
@@ -45,16 +45,18 @@ ht-degree: 6%
    + 年 5 月 {#may2023}
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + 年 1 月 {#jan2024}
+   + 年 4 月 {#april2024}
+      + [Marketo EngageREST API の実用的な用途](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+   + 2024 年 1 月 {#jan2024}
       + [Marketo Engageで首位を取った人](marketo/jan2024/person-scoring-mastery.md)
-   + 年 11 月 {#nov2023}
+   + 2023 年 11 月 {#nov2023}
       + [Marketo EngageとDynamic Chat](marketo/nov2023/dynamic-chat.md)
-   + 年 9 月 {#sept2023}
+   + 2023 年 9 月 {#sept2023}
       + [Marketo Engageによるメール配信品質の向上](marketo/sept2023/email-deliverability.md)
-   + 年 6 月 {#june2023}
+   + 2023 年 6 月 {#june2023}
       + [マーケティングキャンペーンの追跡、分析、最適化](marketo/june2023/marketing-campaigns.md)
-   + 年 5 月 {#may2023}
+   + 2023 年 5 月 {#may2023}
       + [を使用した、スケールコードでのパーソナライゼーションの解読 [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
-   + 年 3 月 {#mar2023}
+   + 2023 年 3 月 {#mar2023}
       + [の作成方法 [!DNL Adobe Marketo Engage] コンテンツの拡張性](marketo/mar2023/templates-tokens-teamwork.md)
 + [際立ったAdobeチャンピオンの申請書を送信する方法を学ぶ](./adobe-champion-application.md)
