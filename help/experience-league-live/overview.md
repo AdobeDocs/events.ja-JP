@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4b83bd595f69eafd7dd8074917eee9c9645f2e22
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 46%
+source-wordcount: '171'
+ht-degree: 43%
 
 ---
 
@@ -26,16 +26,8 @@ Experience League LIVE は、Experience League チームが制作したライブ
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
-      <img alt="Experience Leagueライブ 4 月 21 日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>Journey Optimizerの新しいコードベースの Experience Channel</strong>
-      </a>
-      <br/><em>サンドラ・ハウスマン、ロバート・カルアンギュー、ブレント・コスタックと</em>
-      <br/><em>2024 年 4 月 24 日（Pt）</em>
-    </div>
+<td style="vertical-align: top;">
+    <strong>5 月 16 日のショーの詳細については、後でこのページに戻ってください。 スポイラーのアラート – ここでは、Analytics をAppMeasurementから Web SDK に移行する方法について説明します。</strong>
   </td>
 </tr>
 </table>

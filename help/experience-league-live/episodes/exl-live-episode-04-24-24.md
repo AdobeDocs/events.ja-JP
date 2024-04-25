@@ -8,9 +8,9 @@ event-start-time: 2024-04-18 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: bf9c0a2b00f6858950f20df5257af1859446ec7e
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 開発者中心のアクションを使用して、インバウンドサーフェスときめ細かいパーソナライゼーションコントロールをアクティブ化します。
 
-[![ExL LIVE 2024 年 1 月 17 日](assets/WebBanner-Apr24-2024.jpg)](https://www.youtube.com/watch?v=ZKa4OatgQjk)
-
-**上の画像をクリックして、イベントのYouTube リマインダーを設定してください。**
+>[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
 **詳細**:Adobe Journey Optimizerのコードベースの Experience Channel を使用すると、パーソナライゼーションおよび実験プログラムを拡大するブランドにとって大きなチャンスと新しいユースケースが可能になります。 この新しいチャネルにより、ネイティブアプリケーションの詳細な側面を変更できるHTMLまたは JSON コードベースのアクションを使用して、パーソナライゼーションコントロールを向上できます。 コードベースの Experience Channel は、クライアントサイド、サーバーサイド、ハイブリッドおよび API ベースの実装の柔軟性とパフォーマンスを拡張します。
 
@@ -29,7 +27,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX 「ご質問がある場合」]
 
-Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.
+**Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
 
