@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 43%
+source-wordcount: '163'
+ht-degree: 46%
 
 ---
 
@@ -26,8 +26,16 @@ Experience League LIVE は、Experience League チームが制作したライブ
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-    <strong>5 月 16 日のショーの詳細については、後でこのページに戻ってください。 スポイラーのアラート – ここでは、Analytics をAppMeasurementから Web SDK に移行する方法について説明します。</strong>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience Leagueライブ 2024 年 5 月 16 日（PT）" src="episodes/assets/WebBanner-May16-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-05-16-24.md">
+        <strong>これが、Analytics を Web SDK に移行する方法です</strong>
+      </a>
+      <br/><em>ダグ・ムーア、ミッチ・ライス、ジョー・コーリーと</em>
+      <br/><em>2024 年 5 月 16 日（Pt）</em>
+    </div>
   </td>
 </tr>
 </table>
