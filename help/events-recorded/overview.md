@@ -1,29 +1,52 @@
 ---
-title: Adobe Experience League Events
-description: Adobeのエンタープライズ製品の使用に重点を置いたイベント記録のコレクション
+title: Adobe Experience League イベント
+description: Adobeのエンタープライズ製品の使用に焦点を当てたイベント録画のコレクション
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 3a1643f897e6bb54dac5d896a30d9f0a25e9dacd
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '997'
+source-wordcount: '1028'
 ht-degree: 10%
 
 ---
 
-# Adobe Experience League Event Recordings {#events}
+# Adobe Experience League イベント録画 {#events}
 
-## Experience Leagueと共に、学習はイベントです。
+## Experience Leagueでは、学ぶことは行事です。
 
-排他的なイベントとウェビナーをループに保ち、学習を拡大してください。 このスペースには、Experience LeagueLIVE、スキルビルダー、デベロッパーライブなど過去のイベントの録画を頻繁にアクセスします。 今後のイベントに登録する場合は、 [今後のイベント](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League。
+独自のイベントやウェビナーで最新情報を入手し、学習の幅を広げてください。 このスペースに頻繁にアクセスして、Experience Leagueライブ、スキルビルダー、デベロッパーライブなどの過去のイベントの録画を視聴してください。 今後のイベントに登録したい場合は、をご覧ください。 [今後のイベント](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League上。
 
 ## イベントシリーズ
 
-<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Sign Webinars" tabIndex="0">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign Insider Series" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Adobe Campaign Insider シリーズ" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign ウェビナー">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Acrobat Sign ウェビナー">Acrobat Sign ウェビナー</a>
+          </p>
+          <p class="is-size-6">
+         Adobeのエキスパートから、Acrobat Signで新しい電子サインワークフローを習得する方法を説明します。</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign Insider シリーズ" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png" alt="Adobe Campaign Insider">
         </a>
       </figure>
@@ -31,17 +54,18 @@ ht-degree: 10%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign Insider Series">Adobe Campaign Insider Series</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign Insider シリーズ">Adobe Campaign Insider シリーズ</a>
           </p>
           <p class="is-size-6">
-         Adobe Campaignのお客様がクロスチャネルマーケティング戦略の発展に役立ち、チームマーケティングの実践者スキルを高め、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立つヒントとテクニックとインスピレーション。</p>
+         Adobe Campaignのお客様がクロスチャネルマーケティング戦略を発展させ、チームのマーケティング実践者のスキルを高め、より高度なクロスチャネルマーケティング戦略を立ち上げるのに役立つヒントとコツとインスピレーションです。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -56,7 +80,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" title="Adobeコンテンツ管理フォーラム">Adobeコンテンツ管理フォーラム</a>
           </p>
           <p class="is-size-6">
-         コンテンツ管理戦略の現在および将来の状況、成果物、課題、技術要件について、Adobeの専門家から学びます。</p>
+         コンテンツAdobe戦略の現在と将来の状況、成果物、課題、技術要件について、管理エキスパートから説明します。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -67,18 +91,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Adobe Commerce製品アップデート" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Adobe Commerce製品アップデート">
+        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Adobe Commerce製品のアップデート" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Adobe Commerce製品のアップデート">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Adobe Commerce製品アップデート">Adobe Commerce製品アップデート</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Adobe Commerce製品のアップデート">Adobe Commerce製品のアップデート</a>
           </p>
           <p class="is-size-6">
-         Adobe Commerce製品チームが提示する、Adobe Commerceの最新の製品イノベーションです。</p>
+         Adobe Commerceの最新の製品イノベーションについて、Adobe Commerce製品チームが発表します。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -100,7 +124,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" title="アドビ開発者ライブ">アドビ開発者ライブ</a>
           </p>
           <p class="is-size-6">
-         Adobe Developers Liveは、多様な背景と特異な目的を持つAdobeの開発者と経験者を集め、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。</p>
+         Adobe Developers Liveは、多様な背景と単一の目的を持つAdobe開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -111,18 +135,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEMチャンピオンの営業時間" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png" alt="AEMチャンピオンの営業時間">
+        <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM チャンピオンの営業時間" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png" alt="AEM チャンピオンの営業時間">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEMチャンピオンの営業時間">AEMチャンピオンの営業時間</a>
+              <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" title="AEM チャンピオンの営業時間">AEM チャンピオンの営業時間</a>
           </p>
           <p class="is-size-6">
-         Adobe Experience Managerの知識と使い方を向上させ、Experience Managerの思考リーダーと対話し、専属的なスワッグを学びたい場合は、今すぐAEMチャンピオン Office Hours User Group に参加してください。</p>
+         Adobe Experience Managerの知識と活用を高め、Experience Managerのソートリーダーとやり取り、特別なスワッグを獲得することに興味がある場合は、今すぐAEM Champion Office Hours User Group にご参加ください。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -133,18 +157,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerceウェビナー" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="APAC Adobe Commerceウェビナー">
+        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce ウェビナー" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="APAC Adobe Commerce ウェビナー">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerceウェビナー">APAC Adobe Commerceウェビナー</a>
+              <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce ウェビナー">APAC Adobe Commerce ウェビナー</a>
           </p>
           <p class="is-size-6">
-         APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向けの月次ワークショップで、ベストプラクティスから製品ロードマップ、業界の動向に至るまで幅広いトピックを取り上げています。</p>
+         APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向けのワークショップを毎月開催するセッションです。このワークショップでは、ベストプラクティスから製品ロードマップ、業界のトレンドに至るまで、幅広いトピックについて説明します。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -166,7 +190,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobeカスタマーサクセスウェビナー">Adobeカスタマーサクセスウェビナー</a>
           </p>
           <p class="is-size-6">
-         Adobeカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化できるように設計されています。 価値を最大限に高め、Adobe・ソリューションの採用を促進するために、貴重なインサイトを得る。</p>
+         Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -177,18 +201,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="コマースとコーヒー" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="コマースとコーヒー">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerceとコーヒー" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerceとコーヒー">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="コマースとコーヒー">コマースとコーヒー</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerceとコーヒー">Commerceとコーヒー</a>
           </p>
           <p class="is-size-6">
-         コマース&amp;コーヒーシリーズは、Corey Gelato の Sr.コマース戦略コンサルタントである、すべてのスキルレベルと機能を持つ既存のAdobe Commerceのお客様向けです。 このシリーズは、イベントトピックを反映した統計でサポートされるコマース戦略と戦術に焦点を当てています。</p>
+         Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既存のAdobe Commerceのお客様を対象としており、Commerceシニア戦略コンサルタントの Corey Gelato が特徴です。 このシリーズは、Commerceの戦略と戦術に焦点を当て、イベントの話題を反映した統計によってサポートされています。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -199,18 +223,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja" title="顧客データ管理の声" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="顧客データ管理の声">
+        <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja" title="Customer Data Management Voices" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="Customer Data Management Voices">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja" title="顧客データ管理の声">顧客データ管理の声</a>
+              <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja" title="Customer Data Management Voices">Customer Data Management Voices</a>
           </p>
           <p class="is-size-6">
-         顧客データ管理の技術およびマーケティングプラクティスのリーダーおよびスペシャリストとしての宛先。 ワンストップショップは、仲間から聞き、刺激を受け、マーテックの発展について学びます。</p>
+         顧客データ管理の技術およびマーケティングプラクティスのリーダーやスペシャリストとしての宛先。 同僚から話を聞き、インスピレーションを得て、martech の開発について学ぶためのワンストップショップです。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -232,7 +256,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="ディープダイブ">ディープダイブ</a>
           </p>
           <p class="is-size-6">
-         Deep Dive on-demand イベントの録画は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。</p>
+         詳細なオンデマンドイベントの録画は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -254,7 +278,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE">Experience League LIVE</a>
           </p>
           <p class="is-size-6">
-         Experience LeagueLIVE は、Experience Leagueチームが制作したライブストリーミングショーです。 アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。</p>
+         Experience Leagueライブは、Experience Leagueチームが制作したライブストリーミング番組です。 アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -265,18 +289,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" title="Experience ManagerGEMS" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="Experience ManagerGEMS">
+        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" title="Experience Manager宝石" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="Experience Manager宝石">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" title="Experience ManagerGEMS">Experience ManagerGEMS</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" title="Experience Manager宝石">Experience Manager宝石</a>
           </p>
           <p class="is-size-6">
-         テクニカルAdobe Experience Managerの詳細は、Adobeの専門家が提供します。 このシリーズは、製品ドキュメント、およびAdobe Experience Managerに関するその他すべての技術チャネルを補完するもので、開発者が特定のトピックに詳しく連絡を取ることができます。</p>
+         Adobeのエキスパートが提供するAdobe Experience Managerの技術的な詳細。 このシリーズは、製品ドキュメントおよびAdobe Experience Managerに関するその他すべての技術チャネルを補完するもので、開発者が特定のトピックにアクセスし、詳しく調べることができます。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -309,18 +333,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="仲間から学ぶ" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png" alt="仲間から学ぶ">
+        <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="同僚から学ぶ" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png" alt="同僚から学ぶ">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="仲間から学ぶ">仲間から学ぶ</a>
+              <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="同僚から学ぶ">同僚から学ぶ</a>
           </p>
           <p class="is-size-6">
-         Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法を学びます。 実践者向けに選択されたトピックでは、これらのインタラクティブセッションは、「可能な限りの技術」、使用例、ベストプラクティス、ヒントとテクニックを共有します。</p>
+         Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法について説明します。 実務担当者向けに選択されたトピックを使用して、これらのインタラクティブセッションでは、「可能な」ユースケース、ベストプラクティス、ヒントとコツを共有します。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -331,15 +355,15 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketoとモチャ" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="Marketoとモチャ">
+        <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketoとモカス" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="Marketoとモカス">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketoとモチャ">Marketoとモチャ</a>
+              <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketoとモカス">Marketoとモカス</a>
           </p>
           <p class="is-size-6">
          Marketoと Mochas は、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解するのに役立ちます。</p>
@@ -361,10 +385,10 @@ ht-degree: 10%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours">営業時間</a>
+              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="Office Hours">Office Hours</a>
           </p>
           <p class="is-size-6">
-         Office Hours は、お客様向けのソリューション固有のウェビナーを提供することで、事例の振り向きに対する積極的なアプローチです。</p>
+         Office Hours は、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -386,7 +410,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="MBI ウェビナー">MBI ウェビナー</a>
           </p>
           <p class="is-size-6">
-         MBI ウェビナーシリーズは、MBI のお客様向けの定期的なイベントです。 ウェビナーでは、MBI を最大限に活用するための様々なトピックとベストプラクティスを扱っています。</p>
+         MBI ウェビナーシリーズは、MBI のお客様向けの定期的なイベントです。 ウェビナーでは、MBI を最大限に活用するための様々なトピックとベストプラクティスを取り上げています。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -408,7 +432,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="スキルビルダー">スキルビルダー</a>
           </p>
           <p class="is-size-6">
-         スキルビルダーは、ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活用するように設計されたウェビナーシリーズです。</p>
+         スキルビルダーは、ナレッジベースを構築し、Adobe Experience Cloudへの投資を最大限に活用するために設計されたウェビナーシリーズです。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -419,18 +443,18 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="技能交換" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png" alt="Marketoとモチャ">
+        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Skill Exchange" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png" alt="Marketoとモカス">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="技能交換">技能交換</a>
+              <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Skill Exchange">Skill Exchange</a>
           </p>
           <p class="is-size-6">
-         Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。 このプログラムでは、Adobe製品の専門家やエキスパート仲間から、ベストプラクティス、ヒント、テクニックの共有を通じて学ぶ機会を提供します。</p>
+         Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連のバーチャルカスタマーラーニングイベントです。 このプログラムでは、Adobe製品のエキスパートやエキスパートから、ベストプラクティスやヒントやコツを学ぶことができます。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -452,7 +476,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Workfront">Workfront</a>
           </p>
           <p class="is-size-6">
-         Workfrontの記録されたイベントのライブラリで、専門家や同業者がWorkfrontの使用方法に関する考えを共有します。</p>
+         録画されたWorkfront イベントのライブラリ。エキスパートや同業者が、Workfrontの使用方法に関する考えを共有します。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
