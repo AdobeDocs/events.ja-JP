@@ -1,32 +1,33 @@
 ---
-title: ヘッドフルからヘッドレス（およびその間のすべて）へのAEM
+title: ヘッドフルからヘッドレス（およびその間のすべて）に対応するAEM
 description: 最も一般的なAdobe Experience Manager Sites実装の詳細な分類。
 solution: Experience Manager
-thumbnail: https://video.tv.adobe.com/v/342475?format=jpeg
+feature: Headless
 event-cta-url: https://youtu.be/idByz7WrhbQ
 event-start-time: 2022-04-21 09:00-7
 event-guests: Amol Anand, Sachin Mali, Sean Steimer
 exl-id: 9d5203ce-fb0d-4b0e-9508-29aeae467149
 duration: 5193
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# ヘッドフルからヘッドレス（およびその間のすべて）へのAEM
+# ヘッドフルからヘッドレス（およびその間のすべて）に対応するAEM
 
 最も一般的なAdobe Experience Manager Sites実装の詳細な分類。
 
-Adobe Experience Managerの様々な機能を比較し、コンテンツを管理および配信する際に、ホスト Danny Gordon とゲスト Amol Anand、Sachin Mali、Sean Steimer が比較および対照します。 コンテンツ管理に関しては、「1 サイズですべてを満たす」ことはできません。 オーサリング要件、配信プラットフォーム、開発テクノロジーに基づいて、ビジネスに最適な機能を学びます。
+ホストの Danny Gordon とゲストの Amol Anand、Sachin Mali、Sean Steimer が、コンテンツの管理と配信に関するAdobe Experience Managerの様々な機能を比較し、対比させます。 コンテンツ管理に関しては、「すべてに適合する」ものはありません。 オーサリング要件、配信プラットフォームおよび開発テクノロジーに基づいて、ビジネスに最適な機能を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**録画：4 月 21 日 (PST)、午前 9 時 (PST)**
+**4 月 21 日午前 9:00 （PST）に記録**
 
-## プレゼンテーションスライド
+## プレゼンテーション スライド
 
-録画中に提供されたスライドをダウンロードします。
+記録中に提示されたスライドをダウンロードします。
 
 **[AEMHeadfulHeadless.pdf](../assets/documents/AEMHeadfulHeadless.pdf)**
+
