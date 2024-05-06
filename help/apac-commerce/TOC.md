@@ -1,34 +1,36 @@
 ---
-user-guide-title: APAC コマースイベント
-breadcrumb-title: APAC コマースイベント
-user-guide-description: Adobe Commerce Events は、専門家や同業者がAdobe Commerceの使い方に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+user-guide-title: APAC Commerce イベント
+breadcrumb-title: APAC Commerce イベント
+user-guide-description: Adobe Commerce Events は、エキスパートや同業者がAdobe Commerceの使用方法に関する考えやアイデアを共有するビデオライブラリです。
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '97'
 ht-degree: 4%
 
 ---
 
 
-# APAC コマースイベント {#apac-commerce-recordings}
+# APAC Commerce イベント {#apac-commerce-recordings}
 
 + [概要](overview.md)
 + 2024年 {#2024}
-   + [イノベーションスポットライトウェビナー](2024/innovation-spotlight.md)
+   + [イノベーションスポットライト ウェビナー](2024/innovation-spotlight.md)
+   + [先見性に満ちた思考がCommerceを変革する方法](2024/visionary-thinking.md)
+   + [e コマースビジネスを有機的に成長させる 7 つの方法](2024/grow-ecommerce-business.md)
 + 2023年 {#2023}
-   + [AI を利用したパーソナライゼーション](2023/ai-personalisation.md)
-   + [Adobeの PaaS クラウドコマース](2023/adobes-paas-cloud-commerce.md)
-   + [e コマースコンバージョンの向上](2023/ecommerce-conversions.md)
-   + [合成可能なコマース戦略](2023/composable-commerce.md)
-   + [成長の力としての市場](2023/marketplaces.md)
+   + [AI を活用したパーソナライゼーション](2023/ai-personalisation.md)
+   + [AdobePaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
+   + [e コマースコンバージョンのブースト](2023/ecommerce-conversions.md)
+   + [構成可能なコマース戦略](2023/composable-commerce.md)
+   + [成長の力となるマーケットプレイス](2023/marketplaces.md)
    + [ピークシーズンの準備](2023/peak-season-prep.md)
 + 2022年 {#2022}
-   + [Holiday Readiness 2022](2022/holiday.md)
-   + [New Relic Masterclass](2022/new-relic.md)
+   + [ホリデー準備 2022](2022/holiday.md)
+   + [New Relic マスタークラス](2022/new-relic.md)
    + [サイト全体分析ツール](2022/analysis-tool.md)
-   + [MBI を使用したデータから価値への変換](2022/mbi.md)
+   + [MBI によるデータから価値への変換](2022/mbi.md)
    + [2.4.4 へのアップグレード](2022/upgrade.md)
-+ [リリースロードマップの主な内容](release-highlights.md)
++ [リリースロードマップのハイライト](release-highlights.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
