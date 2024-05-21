@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce イベント
 breadcrumb-title: APAC Commerce イベント
 user-guide-description: Adobe Commerce Events は、エキスパートや同業者がAdobe Commerceの使用方法に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 4%
 
 + [概要](overview.md)
 + 2024年 {#2024}
+   + [アクセラレータの日](2024/accelerator-day/overview.md)
+   + アクセラレータの日{#accelerator-day}
+      + [非表示：明日のナビゲーション](./2024/accelerator-day/navigating-tomorrow.md)
+      + [非表示：境界線を越えたパネル](./2024/accelerator-day/panel-beyond-borders.md)
+      + [非表示：エクスペリエンス進化](./2024/accelerator-day/experience-evolution.md)
+      + [非表示：明日を拓くパネル](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [非表示：次世代のCommerce](./2024/accelerator-day/next-gen-commerce.md)
+      + [非表示：サーフェスの下](./2024/accelerator-day/beneath-the-surface.md)
+      + [非表示：稲妻スピード](./2024/accelerator-day/lightning-speed.md)
+      + [非表示：コンポーザビリティ](./2024/accelerator-day/composability.md)
+      + [隠し：クロスチャネル交響曲](./2024/accelerator-day/cross-channel-symphony.md)
+      + [隠された：Commerceの芸術](./2024/accelerator-day/the-art-of-commerce.md)
    + [イノベーションスポットライト ウェビナー](2024/innovation-spotlight.md)
    + [先見性に満ちた思考がCommerceを変革する方法](2024/visionary-thinking.md)
    + [e コマースビジネスを有機的に成長させる 7 つの方法](2024/grow-ecommerce-business.md)

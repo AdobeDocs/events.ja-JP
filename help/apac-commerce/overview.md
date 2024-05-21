@@ -3,9 +3,9 @@ title: APAC Commerce ウェビナーシリーズ
 description: APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向けのワークショップを毎月開催するセッションです。このワークショップでは、ベストプラクティスから製品ロードマップ、業界のトレンドに至るまで、幅広いトピックについて説明します。
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: d8f496970aeca03fa8e03986dea903409fc71284
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+      <img alt="アクセラレータの日" src="https://video.tv.adobe.com/v/3429276?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+        <strong>Adobe Commerce加速器の日</strong>
+      </a>
+    </div>
+    <p>
+    <em>オーストラリアAdobe銀行（CBA）は、コマース、クラウド、ペイメントソリューションにおけるイノベーションを紹介しています。</em>
+    <p>
+  </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
       <img alt="Adobe Commerce イノベーションスポットライト ウェビナー" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
@@ -42,19 +55,6 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
     </div>
     <p>
     <em>クリエイティビティとコマースの統合を探索します。</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-      <img alt="Adobe Commerce 2.4.4 へのアップグレードの利点" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-        <strong>e コマースビジネスを有機的に成長させる 7 つの方法</strong>
-      </a>
-    </div>
-    <p>
-    <em>SEO 戦略を通じて、e コマースビジネスを有機的に成長させるための貴重なインサイトと実践的なヒントを得ます</em>
     <p>
   </td>
 </tr>
