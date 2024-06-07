@@ -4,7 +4,7 @@ description: Adobe Experience Manager as a Cloud Serviceの最新機能の概要
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 6d8e23f544f23b09f545eb2e09978b8bb26b647e
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -47,6 +47,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
       <div>
         <a href="2024/2024-4-0.md">
           <strong>リリース | 2024.4.0</strong>
+          </br>
         </a>
       </div>
       <em>リリース日：2024 年 4 月 </em>
@@ -58,6 +59,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
       <div>
         <a href="2024/2024-3-0.md">
           <strong>リリース | 2024.3.0</strong>
+          </br>
         </a>
       </div>
       <em>リリース日：2024 年 4 月 </em>

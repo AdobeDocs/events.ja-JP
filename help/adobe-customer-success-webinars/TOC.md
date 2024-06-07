@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '142'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,15 @@ ht-degree: 1%
 
 + [Adobeカスタマーサクセスウェビナー](overview.md)
 + 2024年 {#2024}
+   + [Adobe Workfront - リーンチーム](2024/workfront-lean-teams.md)
    + [データストリームの優先順位付け](2024/data-stream-prioritization.md)
+   + [効果的な変更管理](2024/effective-change-management.md)
    + [リーンチームの権限付与](2024/empowering-lean-teams.md)
    + [Expedia がAdobe AnalyticsからCustomer Journey Analyticsに移行](2024/expedia-aa-to-cja.md)
+   + [Hyperpersonalization](2024/hyperpersonalization.md)
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
+   + [ソリューションの機能へのユースケースのマッピング](2024/use-case-mapping.md)
+   + [Web SDK 移行の基本事項](2024/web-sdk-migration.md)
 + 2023年 {#2023}
    + [大規模なパーソナライゼーションの基盤の構築](2023/personalization-at-scale.md)
    + [変更管理](2023/change-management.md)

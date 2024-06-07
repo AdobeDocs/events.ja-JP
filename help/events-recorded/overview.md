@@ -4,10 +4,10 @@ description: Adobeのエンタープライズ製品の使用に焦点を当て�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '1028'
-ht-degree: 10%
+source-wordcount: '1040'
+ht-degree: 3%
 
 ---
 
@@ -278,7 +278,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE">Experience League LIVE</a>
           </p>
           <p class="is-size-6">
-         Experience Leagueライブは、Experience Leagueチームが制作したライブストリーミング番組です。 アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。</p>
+         Experience Leagueライブは、Experience Leagueチームが制作したライブストリーミング番組です。 Adobe製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで活用できる実用的なヒント、テクニック、戦略を学ぶ機会です。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -289,7 +289,7 @@ ht-degree: 10%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" title="Experience Manager宝石" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="Experience Manager宝石" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="Experience Manager宝石">
         </a>
       </figure>
@@ -297,12 +297,12 @@ ht-degree: 10%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" title="Experience Manager宝石">Experience Manager宝石</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="Experience Manager宝石">Experience Manager宝石</a>
           </p>
           <p class="is-size-6">
          Adobeのエキスパートが提供するAdobe Experience Managerの技術的な詳細。 このシリーズは、製品ドキュメントおよびAdobe Experience Managerに関するその他すべての技術チャネルを補完するもので、開発者が特定のトピックにアクセスし、詳しく調べることができます。</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
       </a>
     </div>
@@ -322,7 +322,7 @@ ht-degree: 10%
               <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ja" title="Experience Managerリリースの概要">Experience Managerリリースの概要</a>
           </p>
           <p class="is-size-6">
-         Adobe Experience Manager as a Cloud Service の最新機能の概要を説明します。AEM 製品チームが最新リリースの概要を説明する、約 10 分間の短いビデオです。</p>
+         Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に説明します。 AEM製品チームが最新リリースの概要を説明する、約 10 分間の短いビデオです。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -395,22 +395,22 @@ ht-degree: 10%
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="MBI Webinars" tabIndex="16">
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Intelligence" tabIndex="16">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="MBI ウェビナー" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png" alt="MBI ウェビナー">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce Intelligence">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="MBI ウェビナー">MBI ウェビナー</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         MBI ウェビナーシリーズは、MBI のお客様向けの定期的なイベントです。 ウェビナーでは、MBI を最大限に活用するための様々なトピックとベストプラクティスを取り上げています。</p>
+         Adobe Commerce Intelligence （MBI）ウェビナーシリーズは、Adobe Commerce Intelligence のお客様向けの定期的なイベントです。 このウェビナーでは、Adobe Commerce Intelligence を最大限に活用するための様々なトピックとベストプラクティスを取り上げています。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -706,10 +706,10 @@ ht-degree: 10%
     <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
-      <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
+      <img style="width:100%" alt="Adobe Commerce Intelligence" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
       </a>
       <div>
-         <a href="/help/mbi-webinars/overview.md"><strong>MBI Webinars</strong></a>
+         <a href="/help/mbi-webinars/overview.md"><strong>Adobe Commerce Intelligence</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>

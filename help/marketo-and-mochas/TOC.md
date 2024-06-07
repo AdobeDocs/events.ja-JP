@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '49'
 ht-degree: 8%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [概要](overview.md)
 + 2024年 {#2024}
+   + [リード育成の成功](2024/lead-nurture-success.md)
    + [新しい Discover ダッシュボード](2024/new-discover-dashboard.md)
    + [属性ダッシュボードの記録](2024/attribution-dashboard-recording.md)
 + 2023年 {#2023}

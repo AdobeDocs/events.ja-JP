@@ -1,32 +1,33 @@
 ---
-user-guide-title: コマースおよびコーヒーイベント
-breadcrumb-title: コマースおよびコーヒーイベント
-user-guide-description: Adobe Commerceとコーヒーは、専門家や同業者がAdobe Commerceの使い方に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+user-guide-title: Commerceとコーヒーイベント
+breadcrumb-title: Commerceとコーヒーイベント
+user-guide-description: Adobe Commerce and Coffee は、エキスパートや同業者がAdobe Commerceの使用方法に関する考えやアイデアを共有するビデオライブラリです。
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '81'
 ht-degree: 6%
 
 ---
 
 
-# コマースとコーヒー {#commerce-and-coffee-recordings}
+# Commerceとコーヒー {#commerce-and-coffee-recordings}
 
 + [概要](overview.md)
 + 2024年 {#2024}
+   + [E コマースの基本事項](2024/ecommerce-essentials.md)
    + [AI を使用した e コマースエクスペリエンスのパーソナライズ](2024/personalize-ecommerce.md)
 + 2023年 {#2023}
-   + [何でも聞く](2023/ask-me-anything.md)
+   + [何でも質問する](2023/ask-me-anything.md)
    + [ピークシーズンの準備](2023/peak-season-prep.md)
    + [有機的成長](2023/organic-growth.md)
-   + [7 顧客忠誠度とリテンションを構築する方法](2023/loyalty-retention.md)
-   + [B2B 成功の実現](2023/b2b.md)
+   + [顧客ロイヤルティとリテンションを高める 7 つの方法](2023/loyalty-retention.md)
+   + [B2B の成功の実現](2023/b2b.md)
 + 2022年 {#2022}
    + [AI と自動化](2022/ai-and-automation.md)
-   + [E コマースのトレンド](2022/ecommerce-trends.md)
-   + [ホリデーレトロスペクティブ](2022/holiday.md)
+   + [E-Commerceのトレンド](2022/ecommerce-trends.md)
+   + [休日の遡及](2022/holiday.md)
    + [ピークシーズンの準備](2022/peak-season-prep.md)
-   + [ピークシーズンは何でも聞く](2022/peak-season-ask-anything.md)
+   + [ピークシーズン：何でも聞く](2022/peak-season-ask-anything.md)
    + [パーソナライズ機能](2022/personalization.md)
 
 <!--+ Commerce Events {#commerce-events}
