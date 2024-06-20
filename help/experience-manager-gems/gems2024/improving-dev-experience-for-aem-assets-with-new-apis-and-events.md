@@ -9,7 +9,8 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+exl-id: c33fab30-649e-43b3-b1df-cf57e42d3612
+source-git-commit: e364366d7df321ebbcb598ac15e237e5626a4087
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -18,8 +19,7 @@ ht-degree: 0%
 
 # ウェビナー日付：2024 年 6 月 19 日（PT）
 
-このウェビナーは、6 月 19 日（水）午後 5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に放送されます。
-ご登録は下記よりお願いいたします [イベントページ](https://adobe.ly/3wLRpdI).
+このウェビナーは、6 月 19 日（水）午後 5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に実施されました。 以下の録画をご覧ください。
 
 ## 新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上
 
@@ -34,10 +34,12 @@ AEM デベロッパーは、新しく導入された Assets Open API と、ア�
 * Adobe、シニアコンピューターサイエンティスト、Ian Reaor
 * Adobe、ソフトウェアエンジニアリング担当マネージャー、Ievgen Nedoviesov
 
-## ウェビナーコミュニティインタラクション
+## ウェビナー録画
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430198)
 
 >[!NOTE]
 > 
->* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、それぞれの [コンテキストスレッド](https://adobe.ly/3UQXwFO).
+>* Experience Leagueに関するこのウェビナーでのセッション固有のコミュニティインタラクションについては、それぞれのウェビナーにアクセスしてください。 [コンテキストスレッド](https://adobe.ly/3UQXwFO).
 >
 >* 今後のウェビナーに関する通知を受け取るには、に登録してください。 [AdobeのAEM ユーザーグループ](https://aem-augs.adobe.com/).

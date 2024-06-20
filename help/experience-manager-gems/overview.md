@@ -1,6 +1,6 @@
 ---
 title: AEM GEM セッション
-description: AEM GEM のランディングページです。ウェビナーシリーズの情報や、登録情報、過去のウェビナーや今後のウェビナーに関する情報などを掲載します。
+description: AEM GEM のランディングページです。ウェビナーシリーズの情報や、登録情報、過去のウェビナーや今後のウェビナーに関する情報などを掲載します
 role: Leader
 cloud: Experience Cloud
 product: adobe experience manager
@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 2f4720df0080c4121892fbdfab1a0cbcf1be850e
+source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 64%
+source-wordcount: '290'
+ht-degree: 0%
 
 ---
 
@@ -25,8 +25,7 @@ ht-degree: 64%
 
 ## 今後のAEM GEM イベント
 
-2024 年 5 月 29 日（PT） –  **Edge Delivery ServicesとAEM Assets**
-登録はすぐに開始されます…
+今後のウェビナーは 2024 年 7 月に発表されます。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +50,9 @@ ht-degree: 64%
 
 ## 以前のAEM GEM イベント
 
-最新のAEM GEMs ウェビナー： **AEM Forms用Edge Delivery Servicesの概要** が次の日に行われました *2024 年 4 月 17 日（PT）*.
+最新のAEM GEMs ウェビナー： **新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上** が次の日に行われました *2024 年 6 月 19 日（PT）*.
 この **録画** 次の場所にあります。
-[AEM Forms用Edge Delivery Servicesの概要](gems2024/edge-delivery-for-aem-forms.md)
+[新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
@@ -61,19 +60,19 @@ ht-degree: 64%
 
 ## AEM GEM - AEMに関する技術ウェビナー – 開発者向けに提供
 
-**AEM GEM** にようこそ。Adobe Experience Manager に関する技術的な詳細について、アドビの専門家が解説するウェビナーシリーズです。このシリーズは、製品ドキュメントおよび Adobe Experience Manager に関する技術系チャネルを補完するもので、開発者が特定のトピックにアクセスし、詳しく確認することができます。
+へようこそ **AEM GEM** - Adobe Experience Managerに関する技術的な詳細について、Adobeの専門家が解説するウェビナーシリーズ。 このシリーズは、製品ドキュメントおよびAdobe Experience Managerに関するその他すべての技術チャネルを補完するもので、開発者が特定のトピックにアクセスし、詳しく確認することができます。
 
 ウェビナーは、次のような構成で定期的に実施されます。
 
 * 最長 60 分
-* 最後に Q＆A があり、ウェビナー全般でエキスパートとチャット可能
+* 最後に Q&amp;A があり、ウェビナー全体でエキスパートとチャットできます
 * 各ウェビナー終了後に録画を提供
 * すべてのAEM GEM ウェビナーは無料で、バーチャルで実施されるので、登録のみが必要です。
 
-## Experience League コミュニティ
+## Experience League共同体
 
-アドビの [Experience Manager コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)は、製品の導入とカスタマーサクセスをサポートするうえで重要な役割を果たします。
+当社の [Experience Manager共同体](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja) 製品の導入とカスタマーサクセスをサポートするうえで重要な役割を果たします。
 
-* コネクション：実装から製品の使用の拡大に至るまでのガイダンスとベストプラクティスに関する、同業者やアドビ担当者とのネットワーク
-* 迅速な回答：アドビソリューションの積極的な活用をサポートする、豊富な実例に基づく回答
-* アイデア創出とフィードバック：顧客の製品アイデアを取り込み、製品チームに貴重な VoC フィードバックを提供
+* コネクション：実装からAdobe使用の拡大に至るまでのガイダンスとベストプラクティスに関する、同業者や製品スタッフとのネットワーク
+* 迅速な回答：Adobeソリューションの積極的な活用をサポートする、豊富な実例に基づく回答
+* アイデア創出とフィードバック：顧客の製品アイデアを取り込み、製品チームに貴重な VoC フィードバックを提供します。
