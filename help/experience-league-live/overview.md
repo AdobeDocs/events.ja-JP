@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE イベント
-description: 以前の Experience League LIVE イベントへのリンクのコレクション
+title: Experience Leagueライブイベント
+description: 以前のExperience Leagueライブイベントへのリンクのコレクション
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 44%
+ht-degree: 4%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE は、Experience League チームが制作したライブストリーミングショーです。 アドビ製品の専門家とつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
+Experience Leagueライブは、Experience Leagueチームが制作したライブストリーミング番組です。  Adobe製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで活用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
 <div id="upcoming-events">
 
@@ -26,9 +26,16 @@ Experience League LIVE は、Experience League チームが制作したライブ
 <table>
 <tr>
 
-<td style="vertical-align: top;"><b>2024 年 6 月の番組について詳しくは、すぐにこのページをご覧ください。</b><br/>
-    * Adobe Real-time Customer Data Platformの H1 2024 リリース<br/>
-    * Adobe Workfrontのレビューと承認の統合
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience Leagueライブ 6 月 26 日（PT）" src="episodes/assets/WebBanner-June26-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>最新のAdobe Real-Time CDP リリースによってビジネスに変革をもたらす方法</strong>
+      </a>
+      <br/><em>ニーナ・カルーソ、ルディ・シュンパート、ダグ・ムーアとともに</em>
+      <br/><em>2024 年 6 月 26 日（Pt）</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -94,4 +101,4 @@ Experience League LIVE は、Experience League チームが制作したライブ
 
 >[!TIP]
 >
->その他の学習方法については、無料の [コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) と、個別の [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料でご確認ください [コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) 個人だけでなく個人 [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja).

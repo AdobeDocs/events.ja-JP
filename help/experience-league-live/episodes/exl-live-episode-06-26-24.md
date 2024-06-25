@@ -1,0 +1,42 @@
+---
+title: 最新のAdobe Real-Time CDP リリースによってビジネスに変革をもたらす方法
+description: 過去数か月間に開始されたAdobe Real-Time CDPの最新機能と、それがビジネスに与える影響について説明します。
+kt: KT-15598
+solution: Real-Time Customer Data Platform, Experience Platform
+feature: Playbooks, Destinations, Sources
+event-cta-url-live: https://www.youtube.com/live/Cw5004YGMbc
+event-start-time: 2024-06-26 09:00-7
+event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
+duration: 25
+source-git-commit: 903592d895ca62e738794e9b8d91e1180acb2478
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 1%
+
+---
+
+# 最新のAdobe Real-Time CDP リリースによってビジネスに変革をもたらす方法
+
+過去数か月間に開始されたAdobe Real-Time CDPの最新機能と、それがビジネスに与える影響について説明します。
+
+[![ExL LIVE 2024 年 1 月 17 日](assets/WebBanner-June26-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240626.html)
+
+[今すぐ登録！](https://engage.adobe.com/ExpLeagueLive-240626.html)
+
+**詳細**：現在Real-Time CDPを扱っており、製品の新機能、それが重要な理由、お客様のデータ管理戦略の改善にAdobeがどのように役立つかについて知りたいと考えていますか？ これ以上の心配はありません。あなたは正しい所に来たのです。 このシリーズでは、Real-Time CDPで最近リリースされた機能を詳しく説明するので、新機能をすぐに活用して、組織に影響を与えることができます。\
+このセッションでは、ここ数か月間に開始された、5 つの新機能について説明し、紹介します。
+
+1. ユースケースプレイブック
+1. B2B のアップデート：アカウントベースのエンゲージメント +新しいダッシュボード
+1. 製品ガイダンスの CDP Connections
+1. 新しい統合（ID パートナー、ソース、宛先）
+1. サンドボックスツール
+
+このセッションの学習目標は次のとおりです。
+
+* ライブデモを通じて、これらの機能が実際にどのように機能するかを理解します
+* これらの機能が効果的な理由を学び、実践者として効率と価値を提供します
+* 今すぐこれらの新機能の活用を開始できる
+
+いつものように、このライブセッションでは、チャットで質問したり、エキスパートから回答を得たりできます。
+

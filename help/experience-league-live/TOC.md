@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '420'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 37：最新のAdobe Real-Time CDP リリースがビジネスの方向性をどのように変えるか](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36：これが、Analytics を Web SDK に移行する方法です](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35:Journey Optimizerの新しいコードベースのエクスペリエンスチャネル](episodes/exl-live-episode-04-24-24.md)
    + [Ep. 34:Marketo Measureの新しい discover ダッシュボード](episodes/exl-live-episode-04-18-24.md)
