@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 4%
 
 ---
@@ -26,16 +26,8 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience Leagueライブ 6 月 26 日（PT）" src="episodes/assets/WebBanner-June26-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>最新のAdobe Real-Time CDP リリースによってビジネスに変革をもたらす方法</strong>
-      </a>
-      <br/><em>ニーナ・カルーソ、ルディ・シュンパート、ダグ・ムーアとともに</em>
-      <br/><em>2024 年 6 月 26 日（Pt）</em>
-    </div>
+<td style="vertical-align: top;">
+      <b>近日公開予定の新しい番組についてご確認ください。 それまでの間、下のリンクをクリックするか、左側のナビゲーションでリンクをクリックして、以前のエピソードを表示します。</b>
   </td>
 </tr>
 </table>
