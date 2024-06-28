@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfrontによる効率性の最大化：リーン方式のチームウェビナー
 
@@ -27,3 +27,31 @@ ht-degree: 0%
 * 継続的な学習と適応
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+
+## 会議の概要
+
+このミーティングでは、リーン方式のチームと、Adobe Workfrontを使用した効率性の最大化に焦点を当てました。 ここで説明した主なポイントの概要を示します。
+
+**無駄のないチームと効率**
+
+* リーン・チームが直面している課題について議論しました。
+* リーン経営の目標とメリットを強調しました。
+* リーン経営に関連する原則を強調しました。
+
+**効率性に関する戦略**
+
+* 継続的改善の重要性。
+* コミュニケーションを合理化します。
+* データに基づく意思決定
+
+**Workfront ツール**
+
+* ブループリント、リソースプランナー、統合などのWorkfront ツールを活用して成果を上げる。
+
+**重要ポイント**
+
+* 効率化のための戦略。
+* コミュニケーションの合理化。
+* データドリブンな意思決定。
+* 学習のマインドセットを養う。
+* Workfront コミュニティとの連携によるサポートとベストプラクティス。

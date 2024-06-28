@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Real-time CDP - ソリューション機能へのユースケースのマッピング
 
@@ -26,3 +26,31 @@ ht-degree: 0%
 
 * ユースケース Real-time CDP は、ビジネス成果に固有のソリューションと優先順位付けを解決します
 * Real-time CDP 機能を優先順位付けされたユースケースに合わせる
+
+## 会議のまとめ
+
+**Real-time CDP が解決する課題**
+
+* 分離されたマーケティングツール
+* 分散したデータオリジン
+* ガバナンス規制のシフト
+
+**サードパーティ Cookie の廃止による影響**
+
+* 有料メディアリターゲティングやパーソナライゼーションなどのユースケースへの影響
+
+**Real-time CDP と DMPAudience Managerの比較**
+
+* データ取り込み、オーディエンス管理、データ出力構造に焦点を当てる
+
+**整合性と優先順位付けの重要性**
+
+* 戦略的優先度に合わせた CDP 機能の調整
+* ユースケースの優先順位付け
+* 効果的な執行の確保
+
+**取り上げた戦略**
+
+* 高度なセグメント化機能の活用
+* データ共有機能の活用
+* パーソナライズされた顧客体験と保持戦略のための Customer Air の使用
