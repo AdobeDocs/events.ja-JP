@@ -1,6 +1,6 @@
 ---
-title: Adobe Admin Consoleの移行
-description: 今後のAdobe Admin Consoleへの移行に関する排他的な MUG リーダーのトレーニング。 この会議は、「トレーナーをトレーニング」スタイル形式なので、学んだことを受講し、今後の変更に関する章を教育できます。
+title: Adobe ID のMarketo Engageの準備
+description: 今後のAdobe Admin Console移行に関する専用トレーニングです。 この会議は、「トレーナーをトレーニング」スタイル形式なので、学んだことを受講し、今後の変更に関する章を教育できます。
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
+source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 
-# MUG Leader Training: Adobe Admin Console Migration
+# Adobe ID のMarketo Engageの準備
 
-今後のAdobe Admin Consoleへの移行に関する排他的な MUG リーダーのトレーニング。 この会議は、「トレーナーをトレーニング」スタイル形式なので、学んだことを受講し、今後の変更に関する章を教育できます。
+今後のAdobe Admin Console移行に関する専用トレーニングです。 この会議は、「トレーナーをトレーニング」スタイル形式なので、学んだことを受講し、今後の変更に関する章を教育できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
