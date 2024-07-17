@@ -1,6 +1,6 @@
 ---
-title: Adobe Sign API を使用したドキュメントの生成とアプリ内での電子署名の取得
-description: Adobeドキュメント生成 API は、Microsoft Word テンプレートをデータと結合して駆動する、強力なドキュメント作成サービスです。 Adobe Sign API と組み合わせると、開発者は署名ワークフローで処理できる動的ドキュメントを簡単に生成できます。
+title: Adobe Sign API を使用したドキュメントの生成とアプリでの電子サインのキャプチャ
+description: Adobeドキュメント生成 API は、データと結合されたMicrosoft Word テンプレートによって駆動される強力なドキュメント作成サービスです。 Adobe Sign API と組み合わせると、Sign ワークフローを使用して、処理する準備が整った動的なドキュメントを簡単に生成できます。
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 10%
 
 ---
 
-# Adobe Sign API を使用したドキュメントの生成とアプリ内での電子署名の取得
+# Adobe Sign API を使用したドキュメントの生成とアプリでの電子サインのキャプチャ
 
-Adobeドキュメント生成 API は、Microsoft Word テンプレートをデータと結合して駆動する、強力なドキュメント作成サービスです。 Adobe Sign API と組み合わせると、開発者は署名ワークフローで処理できる動的ドキュメントを簡単に生成できます。
+Adobeドキュメント生成 API は、データと結合されたMicrosoft Word テンプレートによって駆動される強力なドキュメント作成サービスです。 Adobe Sign API と組み合わせると、Sign ワークフローを使用して、処理する準備が整った動的なドキュメントを簡単に生成できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338097/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

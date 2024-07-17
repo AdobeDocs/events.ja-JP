@@ -1,6 +1,6 @@
 ---
-title: Marketo Engageエクスペリエンスメーカースポットライト
-description: 2 人のエキスパート顧客に注目し、 [!DNL Marketo Engage] ユーザー。 それぞれが最善を尽くします [!DNL Marketo Engage] チップかトリックか。
+title: Marketo Engage Experience Makers スポットライト
+description: 2 人のエキスパートのお客様とユーザーに焦点を当て  [!DNL Marketo Engage]  ください。 それぞれが最高のヒントやコツ  [!DNL Marketo Engage]  共有します。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Experience Makers Spotlight
+# [!DNL Marketo Engage] Experience Makers スポットライト
 
-2 人のエキスパート顧客に注目し、 [!DNL Marketo Engage] ユーザー。 それぞれが最善を尽くします [!DNL Marketo Engage] チップかトリックか。
+2 人のエキスパートのお客様と [!DNL Marketo Engage] 人のユーザーにご注目ください。 それぞれが最高の [!DNL Marketo Engage] ースのヒントやコツを共有します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

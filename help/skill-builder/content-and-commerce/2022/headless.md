@@ -22,6 +22,6 @@ ht-degree: 69%
 
 機能強化された最新の Experience Manager コンテンツフラグメントおよびヘッドレスコンテンツ配信のための新しい GraphQL API を使用したヘッドレスエクスペリエンス管理について説明します。
 
-*トーマス・モーフ* トレーニングコンサルタント/Adobe
+*Thomas Morf* トレーニングコンサルタント/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343816/?quality=12&learn=on)

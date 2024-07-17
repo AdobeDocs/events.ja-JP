@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Sitesでの迅速な価値創出
-description: Digital Foundation ブループリントフレームワークを使用して、OOTB 機能と最小限のカスタマイズを備えたデザインをすばやく実装する方法を説明します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Adobe Experience Manager Sitesによる迅速な価値創出
+description: デジタル基盤ブループリントフレームワークを使用して、OOTB 機能と最小限のカスタマイズを備えたデザインをすばやく実装する方法を説明します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Sitesでの迅速な価値創出
+# Adobe Experience Manager Sitesによる迅速な価値創出
 
-Digital Foundation ブループリントフレームワークを使用して、OOTB 機能と最小限のカスタマイズを備えたデザインをすばやく実装する方法を説明します。
+デジタル基盤ブループリントフレームワークを使用して、OOTB 機能と最小限のカスタマイズを備えたデザインをすばやく実装する方法を説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** をクリックしてください。

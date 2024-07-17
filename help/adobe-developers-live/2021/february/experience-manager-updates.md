@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Updates
-description: Experience Managerのプロダクトマネージャーである Gabriel Walt 氏に参加して、Adobe Experience Managerのロードマップを推進する大きなテーマとセッションの関係の概要を確認してください。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Adobe Experience Managerの更新
+description: Experience Manager担当プロダクトマネージャーの Gabriel Walt が、Adobe Experience Managerのロードマップを推進する大きなテーマの概要と、セッションがどのように関連しているかについて説明します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Updates
+# Adobe Experience Managerの更新
 
-Experience Managerのプロダクトマネージャーである Gabriel Walt 氏に参加して、Adobe Experience Managerのロードマップを推進する大きなテーマとセッションの関係の概要を確認してください。
+Experience Manager担当プロダクトマネージャーの Gabriel Walt が、Adobe Experience Managerのロードマップを推進する大きなテーマの概要と、セッションがどのように関連しているかについて説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** をクリックしてください。

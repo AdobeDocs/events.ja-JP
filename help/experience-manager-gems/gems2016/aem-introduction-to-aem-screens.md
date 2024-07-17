@@ -1,6 +1,6 @@
 ---
-title: AEM Screens の概要
-description: AEM Screens は、Adobe Experience Manager に統合された新しいデジタルサイネージソリューションです。この AEM Gems セッションでは、AEM Screens の主な機能と、シンプルなプロジェクトの設定方法について、スライドショーとインタラクティブなエクスペリエンスを使用して説明します。次に、AEM Screens で最適化されたコンポーネントを開発する方法と、オフラインで使用するためのチャネルを設定する方法の概要について説明します。最後に、AEM Screens REST API について検討し、カスタム Cordova プラグインの統合方法を説明します。
+title: AEM Screensについて
+description: AEM Screensは、Adobe Experience Managerに統合された新しいデジタルサイネージソリューションです。 このAEM Gems セッションでは、AEM Screensの主な機能と、シンプルなプロジェクトの設定方法について、スライドショーとインタラクティブなエクスペリエンスを使用して説明します。 次に、AEM Screensで最適化されたコンポーネントを開発する方法と、オフラインで使用するためのチャネルを設定する方法の概要について説明します。 最後に、AEM Screens REST API について探索し、カスタム Cordova プラグインの統合方法を説明します。
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
@@ -8,22 +8,22 @@ duration: 3127
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 77%
+ht-degree: 0%
 
 ---
 
-# AEM Screens の概要{#introduction-to-aem-screens}
+# AEM Screensについて{#introduction-to-aem-screens}
 
-AEM Screens は、Adobe Experience Manager に統合された新しいデジタルサイネージソリューションです。この AEM Gems セッションでは、AEM Screens の主な機能と、シンプルなプロジェクトの設定方法について、スライドショーとインタラクティブなエクスペリエンスを使用して説明します。次に、AEM Screens で最適化されたコンポーネントを開発する方法と、オフラインで使用するためのチャネルを設定する方法の概要について説明します。最後に、AEM Screens REST API について検討し、カスタム Cordova プラグインの統合方法を説明します。
+AEM Screensは、Adobe Experience Managerに統合された新しいデジタルサイネージソリューションです。 このAEM Gems セッションでは、AEM Screensの主な機能と、シンプルなプロジェクトの設定方法について、スライドショーとインタラクティブなエクスペリエンスを使用して説明します。 次に、AEM Screensで最適化されたコンポーネントを開発する方法と、オフラインで使用するためのチャネルを設定する方法の概要について説明します。 最後に、AEM Screens REST API について探索し、カスタム Cordova プラグインの統合方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*2016年11月16日（PT）に配信*
+*2016 年 11 月 16 日（PT）に配信*
 
 **発表者：**
 
-* アドビ、UI デベロッパー、Julien Ramboz
-* アドビ、コンピューターサイエンティスト、ソフトウェア開発、Tobias Reiss
+* Adobe、UI デベロッパー、Julien Ramboz
+* Adobe、コンピューターサイエンティスト、ソフトウェア開発、Tobias Reiss
 
 **発表者のスライド**
 
@@ -38,6 +38,6 @@ AEM Screens は、Adobe Experience Manager に統合された新しいデジタ�
 
 >[!WARNING]
 >
->AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
->このセッションに関しては、 *Screens のデプロイ* および *Screens の概念* (AEM 6.2 ドキュメント )。
+>このセッションに関連しては、AEM 6.2 ドキュメントの *Screensのデプロイ* および *Screens コンセプト* を参照してください。

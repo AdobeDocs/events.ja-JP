@@ -1,6 +1,6 @@
 ---
-title: Adobe Developer App Builder Deep Dive
-description: Adobe Developer App Builder の開発者向けの情報をもっと聞きたい場合は、 コード、セキュリティ、ヘッドフルおよびヘッドレスアプリ、CI/CD など、Adobe Developer App Builder の動作をご覧ください。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Adobe Developer App Builderのディープダイブ
+description: Adobe Developer App Builder開発者向けの情報をもっと聞きたいですか？ コード、セキュリティ、ヘッドフル、ヘッドレスアプリ、CI/CD など、Adobe Developer App Builderの機能をご覧ください。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developer App Builder Deep Dive
+# Adobe Developer App Builderのディープダイブ
 
-Adobe Developer App Builder の開発者向けの情報をもっと聞きたい場合は、 コード、セキュリティ、ヘッドフルおよびヘッドレスアプリ、CI/CD など、App Builder の動作をご覧ください。
+Adobe Developer App Builder開発者向けの情報をもっと聞きたいですか？ コード、セキュリティ、ヘッドフル、ヘッドレスアプリ、CI/CD など、App Builderの機能をご覧ください。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331741/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/app-builder.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/app-builder.pdf)** をクリックしてください。

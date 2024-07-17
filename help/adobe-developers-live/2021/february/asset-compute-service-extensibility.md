@@ -1,6 +1,6 @@
 ---
-title: Asset computeサービス拡張機能
-description: Adobe Developer App Builder を使用して、Adobe Experience Managerへの取り込み中にアセット処理用のカスタムAsset computeワーカーを作成する方法を説明します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Asset computeサービスの拡張性
+description: Adobe Developer App Builderを使用して、Adobe Experience Managerへの取り込み中にアセット処理を行うカスタムAsset computeワーカーを構築する方法について説明します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Asset computeサービス拡張機能
+# Asset computeサービスの拡張性
 
-Adobe Developer App Builder を使用して、Adobe Experience Managerへの取り込み中にアセット処理用のカスタムAsset computeワーカーを作成する方法を説明します。
+Adobe Developer App Builderを使用して、Adobe Experience Managerへの取り込み中にアセット処理を行うカスタムAsset computeワーカーを構築する方法について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

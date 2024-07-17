@@ -1,6 +1,6 @@
 ---
-title: 効果的な測定戦略の確立
-description: 効果的な測定戦略の要素戦略的枠組みの共通の課題と解決策の例
+title: 効果的な計測戦略の構築
+description: 効果的な計測戦略の要素共通の課題とソリューション戦略フレームワークの例
 solution: Analytics
 role: Admin, Data Architect, Data Engineer, Leader, User
 level: Intermediate
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# 効果的な測定戦略の確立
+# 効果的な計測戦略の構築
 
-Adobe Analytics Booster Pack は、測定プログラム戦略のベストプラクティスを共有する、Adobeの専門家による開会セッションです。
+Adobe Analyticsブースターパックのオープニングセッションは、Adobeのエキスパートが主催し、測定プログラム戦略のベストプラクティスが共有されます。
 
-* 効果的な測定戦略の要素
-* 一般的な課題とソリューション
+* 有効な測定戦略の要素
+* 共通の課題とソリューション
 * 戦略フレームワークの例
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422527/?learn=on)

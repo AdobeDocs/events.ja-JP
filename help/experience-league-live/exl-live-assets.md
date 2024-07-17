@@ -1,6 +1,6 @@
 ---
-title: Experience Leagueライブアセット
-description: このページにはExperience LeagueLIVE 用のアセットが含まれます
+title: Experience League ライブ Assets
+description: このページには、Experience Leagueライブのアセットが格納されます
 role: User
 level: Beginner
 hide: true
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Experience Leagueライブアセット
+# Experience League ライブ Assets
 
-このページにはExperience LeagueLIVE 用のアセットが含まれます
+このページには、Experience Leagueライブのアセットが格納されます
 
-![Episode 6 のサイドバー画像](assets/exl-live-ep6-sidebar.jpg)
+![ エピソード 6 サイドバーの画像 ](assets/exl-live-ep6-sidebar.jpg)
 
-![Experience Leagueライブロゴ](assets/exl-live-logo.png)
+![Experience Leagueのライブ ロゴ ](assets/exl-live-logo.png)

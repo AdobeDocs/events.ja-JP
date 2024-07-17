@@ -1,6 +1,6 @@
 ---
-title: App Builder の概要 — ビジネスニーズに合わせてカスタムクラウドアプリを構築するために必要なすべて
-description: App Builder で何が可能かを確認し、知りたいことをすべてお問い合わせください。 App Builder を使用して、クラウドネイティブアプリケーションを構築し、Adobe Experience Managerやその他のAdobe製品の標準搭載機能を拡張する方法について詳しくご覧ください。 一般的な使用例について学び、App Builder の構築を開始する方法についてのプレビューを学びます。
+title: App Builderの概要 – ビジネスニーズに合ったカスタムクラウドアプリの作成に必要なすべて
+description: App Builderで可能なことをご覧になり、知りたいことをすべてお尋ねください。 App Builderを使用してクラウドネイティブアプリケーションを構築し、Adobe Experience Managerや他のAdobe製品の標準機能を拡張する方法について詳しく説明します。 一般的なユースケースのほか、App Builderの構築を開始する方法を確認します。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,16 +16,16 @@ ht-degree: 7%
 
 ---
 
-# App Builder の概要 — ビジネスニーズに合わせてカスタムクラウドアプリを構築するために必要なすべて
+# App Builderの概要 – ビジネスニーズに合ったカスタムクラウドアプリの作成に必要なすべて
 
-App Builder で何が可能かを確認し、知りたいことをすべてお問い合わせください。 App Builder を使用して、クラウドネイティブアプリケーションを構築し、Adobe Experience Managerやその他のAdobe製品の標準搭載機能を拡張する方法について詳しくご覧ください。 一般的な使用例について学び、App Builder の構築を開始する方法についてのプレビューを学びます。
+App Builderで可能なことをご覧になり、知りたいことをすべてお尋ねください。 App Builderを使用してクラウドネイティブアプリケーションを構築し、Adobe Experience Managerや他のAdobe製品の標準機能を拡張する方法について詳しく説明します。 一般的なユースケースのほか、App Builderの構築を開始する方法を確認します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3AYeJlv)**.
+**[Experience League コミュニティ ](https://adobe.ly/3AYeJlv)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337767/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

@@ -1,6 +1,6 @@
 ---
-title: Marketoと Mocas — 配信品質（第 1 部）
-description: Marketoと Mochas のこのセッションでは、Marketo配信品質マネージャ、Sean Writ、Sr. Marketing Automation ビジネスアドバイザ、Cynthia Chang が登場します。 このセッションでは、配信品質のベストプラクティスを掘り下げ、レピュテーション、データ品質要因、エンゲージメントのタイプ、共有 IP と専用 IP の長所と短所を重点的に説明します。 次に、で配信品質プログラムをインポートする方法を示します。 [!DNL Marketo Engage]. 最後に、Sean が登録者や出席者からの質問に回答するライブ Q&A が開催されます。
+title: Marketoと Mocha – 配信品質（パート 1）
+description: Marketoと Mochas によるこのセッションでは、Marketo Deliverability Manager、Sean Wirt およびシニアマーケティングオートメーションビジネスアドバイザーの Cynthia Chang が参加します。 このセッションでは、Sean が配信品質のベストプラクティスを掘り下げ、評判、データ品質要因、エンゲージメントの種類、共有 IP と専用 IP の長所と短所の要素を重点的に説明します。 次に、Cynthia は、 [!DNL Marketo Engage] に配信品質プログラムを読み込む方法を実演します。 イベントの最後にはライブ Q&A が行われ、Sean が登録者や出席者からの質問に回答します。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Marketoと Mocas — 配信品質（第 1 部）
+# Marketoと Mocha – 配信品質（パート 1）
 
-Marketoと Mochas のこのセッションでは、Marketo配信品質マネージャ、Sean Writ、Sr. Marketing Automation ビジネスアドバイザ、Cynthia Chang が登場します。 このセッションでは、配信品質のベストプラクティスを掘り下げ、レピュテーション、データ品質要因、エンゲージメントのタイプ、共有 IP と専用 IP の長所と短所を重点的に説明します。 次に、で配信品質プログラムをインポートする方法を示します。 [!DNL Marketo Engage]. 最後に、Sean が登録者や出席者からの質問に回答するライブ Q&amp;A が開催されます。
+Marketoと Mochas によるこのセッションでは、Marketo Deliverability Manager、Sean Wirt およびシニアマーケティングオートメーションビジネスアドバイザーの Cynthia Chang が参加します。 このセッションでは、Sean が配信品質のベストプラクティスを掘り下げ、評判、データ品質要因、エンゲージメントの種類、共有 IP と専用 IP の長所と短所の要素を重点的に説明します。 次に、Cynthia は [!DNL Marketo Engage] で配信品質プログラムを読み込む方法を実演します。 イベントの最後にはライブ Q&amp;A が行われ、Sean が登録者や出席者からの質問に回答します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416666/?quality=12&learn=on)

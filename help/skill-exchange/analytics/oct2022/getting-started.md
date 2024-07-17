@@ -1,6 +1,6 @@
 ---
 title: データの分析
-description: 基本的な訪問者指標の概要と、ディメンションと指標の追加について説明します。 このセッションでは、日付範囲の使用、比較およびセグメントの適用を開始します。
+description: 基本的な訪問者指標を理解し、ディメンションと指標を追加します。 このセッションでは、日付範囲の使用、比較およびセグメントの適用を開始します。
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics, Segmentation, Metrics
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# 学習トラック — はじめに
+# 学習トラック – はじめに
 
-基本的な Analytics ユーザーインターフェイスに慣れ、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーションおよびパネルの使用を開始します。
+Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411893/?quality=12&learn=on)

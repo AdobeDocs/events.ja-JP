@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] チャンピオンのヒントとテクニック'
-description: 5 人に加わる [!DNL Adobe Analytics] 世界中から集まったチャンピオンが、彼らをマスターするのに役立ったヒントとテクニックを共有する [!DNL Adobe Analytics].
+title: 『 [!DNL Adobe Analytics] チャンピオンの秘訣』
+description: 世界中から 5 人  [!DNL Adobe Analytics]  チャンピオンが集まり、彼らがマスターするのに役立ったヒントやコツを共有  [!DNL Adobe Analytics] ます。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics] チャンピオンのヒントとテクニック
 
-5 人に加わる [!DNL Adobe Analytics] 世界中から集まったチャンピオンが、彼らをマスターするのに役立ったヒントとテクニックを共有する [!DNL Adobe Analytics].
+世界中から 5 人の [!DNL Adobe Analytics] チャンピオンが、[!DNL Adobe Analytics] ームをマスターするのに役立つヒントやコツを共有します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

@@ -1,13 +1,13 @@
 ---
-title: Adobe Developers Live2021 年 10 月
-description: Adobe Developers Liveイベントの一部として提供される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
+title: Adobe Developers Live 2021 年 10 月
+description: Adobe Developers Live イベントの一部として提供される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
 sub-product: sites, content-services
 exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
 duration: 110
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 16%
+ht-degree: 9%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 16%
 
 <img alt="アドビ開発者ライブ" src="/help/adobe-developers-live/assets/adl.png" />
 
-2021 年 10 月 4 日～5 日、Adobe Developers Liveは多様な背景を持つAdobe開発者や経験者を集め、素晴らしいエンドツーエンドの体験を生み出しました。 この 2 日間の会議では、開発者向けの重要な更新、技術セッション、コミュニティネットワークの機会が取り上げられました。
+2021 年 10 月 4～5 日（PT）、Adobe Developers Liveは、多様な背景と単一の目的を持つAdobe開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出しました。 この 2 日間の会議では、開発者向けの重要なアップデート、技術セッション、コミュニティネットワークの機会が紹介されました。
 
-Adobe Experience Cloud、Document Cloud、Creative Cloudの各Adobe製品チームは、設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を業界全体で実現する最新の技術進歩と開発者ツールを紹介しました。
+様々な業界で設計、コンテンツ作成ワークフロー、ドキュメントサービス、カスタマーエクスペリエンス管理を支える最新の技術進歩と開発者ツールについて、Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チームが紹介しました。
 
-他のデバイスと接続し、セッションコミュニティでセッションの会話にExperience Leagueします。
-* [Adobe Developer App Builder のセッションリスト](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM Complete Session リスト](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=ja#M120517)
+他の開発者とつながり、Experience Leagueコミュニティでセッションの会話に参加します。
+* [Adobe Developer App Builder セッション完了リスト ](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [AEM Complete Session リスト ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=ja#M120517)
 
 ## ハイライト
 
@@ -32,12 +32,12 @@ Adobe Experience Cloud、Document Cloud、Creative Cloudの各Adobe製品チー�
       <img alt="ヘッドレスサイト" src="/help/adobe-developers-live/assets/mathias.png"/>
       </a>
       <div>
-         <a href="headless.md"><strong>ヘッドレスサイト</strong></a>         
-         <br/><em>AEM Sites、主要プロダクトマネージャー、Mathias Siegel と共に</em>
+         <a href="headless.md"><strong> ヘッドレスサイト </strong></a>         
+         <br/><em>AEM Sites、プリンシパル製品マネージャー、Mathias Siegel のサポート </em>
       </div>
       <p>
         <br/>
-         GraphQL for AEM 6.5 およびAdobe Experience Manager as a Cloud Serviceで利用可能なコンテンツフラグメントを使用して、Adobe Experience Managerをヘッドレス CMS として使用する方法を見てみましょう。
+         AEM 6.5 およびAdobe Experience Manager as a Cloud Serviceで使用可能なコンテンツフラグメント用のGraphQLを使用して、Adobe Experience Managerをヘッドレス CMS として使用する方法を見ていきます。
       </p>
      </td>   
      <td>
@@ -45,26 +45,26 @@ Adobe Experience Cloud、Document Cloud、Creative Cloudの各Adobe製品チー�
       <img alt="Adobe Experience Platform統合の概要" src="/help/adobe-developers-live/assets/eric.png"/>
       </a>
       <div>
-         <a href="aep-integration.md"><strong>Adobe Experience Platform統合の概要</strong></a>
-         <br/><em>エンタープライズソリューションアーキテクト担当の Eric Knee 氏と共に</em>
+         <a href="aep-integration.md"><strong>Adobe Experience Platform統合の概要 </strong></a>
+         <br/><em>Eric Knee 氏（プリンシパルエンタープライズソリューションアーキテクト） </em>
       </div>
       <p>
         <br/>
-         このセッションでは、Adobe Experience Platformがエコシステム内に統合できる様々な方法と、統合作業の計画時に考慮すべき事項の概要を説明します。
+         このセッションでは、Adobe Experience Platformをエコシステム内で統合する様々な方法と、統合作業を計画する際に考慮すべき事項の概要を説明します。
       </p>
    </td>
    </td>
      <td>
       <a href="pdf-services-api.md">
-      <img alt="Adobe Sign API を使用したドキュメントの生成とアプリ内での電子署名の取得" src="/help/adobe-developers-live/assets/ben.png"/>
+      <img alt="Adobe Sign API を使用したドキュメントの生成とアプリでの電子サインのキャプチャ" src="/help/adobe-developers-live/assets/ben.png"/>
       </a>
       <div>
-         <a href="pdf-services-api.md"><strong>Adobe Sign API を使用したドキュメントの生成とアプリ内での電子署名の取得</strong></a>
-         <br/><em>ベン・バンダーバーグと共に、主要開発者エバンジェリスト</em>
+         <a href="pdf-services-api.md"><strong>Adobe Sign API を使用したドキュメントの生成とアプリでの電子サインのキャプチャ </strong></a>
+         <br/><em> プリンシパルデベロッパーエバンジェリスト、ベン・バンダーバーグ氏 </em>
       </div>
       <p>
         <br/>
-         Adobeドキュメント生成 API は、Microsoft Word テンプレートをデータと結合して駆動する、強力なドキュメント作成サービスです。 Adobe Sign API と組み合わせると、開発者は署名ワークフローで処理できる動的ドキュメントを簡単に生成できます。
+         Adobeドキュメント生成 API は、データと結合されたMicrosoft Word テンプレートによって駆動される強力なドキュメント作成サービスです。 Adobe Sign API と組み合わせると、Sign ワークフローを使用して、処理する準備が整った動的なドキュメントを簡単に生成できます。
       </p>
    </td> 
   </tr>
@@ -72,30 +72,30 @@ Adobe Experience Cloud、Document Cloud、Creative Cloudの各Adobe製品チー�
 
 >[!TIP]
 >
->**左側のナビゲーションにすべてのセッションが表示されます**.
+>**すべてのセッションは左側のナビゲーションに一覧表示されます**。
 
 ## その他のリソース
 
 ### AEM
 
-* [Experience League - AEM に関する情報](https://experienceleague.adobe.com/?lang=ja#recommended/solutions/experience-manager)
-* [AEM Sites ドキュメントのオーサリング](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja)
-* [AEM Sites 開発ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja)
-* [AEM Sites 管理ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja)
-* [AEM Sites デプロイドキュメント](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
-* [AEMas a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
+* [Experience League - AEMを検索 ](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [AEM Sites作成ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [AEM Sites開発ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [AEM Sites管理ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [AEM Sites導入ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
+* [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
 * [AEM Assets チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja)
-* [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja)
-* [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja)
+* [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
 
 ### Adobe Experience Platform
 
-* [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+* [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 * [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 * [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
 
 ### App Builder
 
-* [App Builder の概要](https://adobe.ly/aem-appbuilder)
-* [App Builder 開発者ガイド](https://adobe.ly/appbuilder)
-* [App Builder 体験版プログラムの新規登録](https://adobe.ly/appbuilder-trial)
+* [App Builderの概要 ](https://adobe.ly/aem-appbuilder)
+* [App Builder開発者ガイド ](https://adobe.ly/appbuilder)
+* [App Builder体験版プログラム サインアップ ](https://adobe.ly/appbuilder-trial)

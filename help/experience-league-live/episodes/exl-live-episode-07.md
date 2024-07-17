@@ -1,5 +1,5 @@
 ---
-title: Adobeの App Builder を使用したAEMの拡張
+title: Adobe App Builderを使用したAEMの拡張
 description: マイクロサービスの開発、バックエンドシステムの統合、ワークフローの自動化は、これまでになく簡単です。
 solution: Experience Manager
 feature: App Builder
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ---
 
-# Adobeの App Builder を使用したAEMの拡張
+# Adobe App Builderを使用したAEMの拡張
 
 マイクロサービスの開発、バックエンドシステムの統合、ワークフローの自動化は、これまでになく簡単です。
 
-Host Mark Szulc と Sarah Xu &amp; Zoran Nikolovski が、新しいAdobe App Builder （以前のプロジェクトFirefly）を使用してAdobe Experience Managerを拡張および統合した実際の例について説明します。  既存の機能を数分で拡張することから、新しい機能の構築に至るまで、インスピレーションを得て構築を開始するために必要な事項を確認できます。
+Host Mark Szulc とゲストの Sarah Xu &amp; Zoran Nikolovski が、新しいAdobeであるApp Builder（以前のプロジェクトFirefly）を使用してAdobe Experience Managerを拡張および統合した実際の例について説明します。  既存の機能を数分で拡張することから、新しい機能の構築に至るまで、インスピレーションを得て構築を開始するために必要な事項を確認できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339319/?quality=12&learn=on)
 

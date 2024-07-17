@@ -1,5 +1,5 @@
 ---
-title: 入力可能な署名可能な Web フォームの投稿
+title: 入力可能な署名可能な Web フォームのPost
 description: トランザクションを開始したり、署名者のメールアドレスを把握したりすることなく、誰でも完了および署名できる web フォームを作成する方法を説明します。
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# 入力可能な署名可能な Web フォームの投稿
+# 入力可能な署名可能な Web フォームのPost
 
 トランザクションを開始したり、署名者のメールアドレスを把握したりすることなく、誰でも完了および署名できる web フォームを作成する方法を説明します。 また、個々の署名トランザクションに使用できるドキュメントテンプレートを準備する方法や、幅広く共有できるよう一意の URL に投稿する方法も説明します。
 

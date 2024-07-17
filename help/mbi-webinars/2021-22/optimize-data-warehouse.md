@@ -1,8 +1,8 @@
 ---
-title: コマースインテリジェンスData Warehouseの最適化
-description: Data Warehouse・マネージャの詳細については、このウェビナーをご覧ください。
-landing-page-description: この録画ウェビナーを見る
-short-description: この録画ウェビナーを見る
+title: Commerce IntelligenceのData Warehouseの最適化
+description: Data Warehouseマネージャーについて詳しくは、このウェビナーをご覧ください。
+landing-page-description: この録画済みのウェビナーを視聴：
+short-description: この録画済みのウェビナーを視聴：
 kt: 10403
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -13,28 +13,28 @@ duration: 3154
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# コマースインテリジェンスData Warehouseの最適化
+# Commerce IntelligenceのData Warehouseの最適化
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
+>Adobe Commerce Intelligenceは、以前は [!DNL Magento Business Intelligence (MBI)] として知られていました。 過去のイベントの録画には、以前の名前が反映されます。
 
-Data Warehouse・マネージャを使用すると、テーブルと列の同期設定の管理、テーブルのスキーマへのドリルダウン、レポートで使用する計算列の作成が可能です。
+Data Warehouseマネージャーを使用すると、テーブルと列の同期設定の管理、テーブルのスキーマへのドリルダウンおよびレポートで使用する計算列の作成を行うことができます。
 
 >[!NOTE]
 >
->Data Warehouseマネージャーへのアクセスには、管理者権限が必要です。
+>Data Warehouseマネージャーにアクセスするには、管理者権限が必要です。
 
-このウェビナーでは、
+このウェビナーの内容は次のとおりです。
 
 - Data Warehouseの概要
 - 更新サイクルと最適化
 - レプリケーションと再チェック
-- Data Warehouse表示
+- Data Warehouseビュー
 - 質問と回答
 
 ## ビデオコンテンツ
@@ -43,5 +43,5 @@ Data Warehouse・マネージャを使用すると、テーブルと列の同期
 
 ## 役に立つリソース
 
-[分析用にデータベースを最適化中](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[セグメント化およびフィルタリングに推奨されるデータDimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[ 分析のためのデータベースの最適化 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[ セグメント化とフィルタリングに推奨されるデータDimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

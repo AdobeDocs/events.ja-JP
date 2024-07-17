@@ -1,6 +1,6 @@
 ---
-title: ビジネス価値を高めるコンテンツのパーソナライゼーションを実現
-description: Adobe Experience Managerでパーソナライゼーションワークフローを活用して、提供するエクスペリエンスの ROI を高める方法を説明します。
+title: ビジネス価値を促進するコンテンツのパーソナライゼーションを実現
+description: Adobe Experience Managerでパーソナライゼーションワークフローを活用して、提供するエクスペリエンスにより高い ROI を生み出す方法を説明します。
 solution: Experience Manager,Experience Manager as a Cloud Service
 feature: Workflow
 topic: Personalization
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# ビジネス価値を高めるコンテンツのパーソナライゼーションを実現
+# ビジネス価値を促進するコンテンツのパーソナライゼーションを実現
 
-Karthik Muralidharan からお聞かせいただき、Adobe Experience Managerでパーソナライゼーションワークフローを活用して、提供するエクスペリエンスの ROI を高める方法を学びます。
+Karthik Muralidharan の話を聞いて、Adobe Experience Managerでパーソナライゼーションワークフローを活用して、提供するエクスペリエンスにより高い ROI を生み出す方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345374/?quality=12&learn=on)

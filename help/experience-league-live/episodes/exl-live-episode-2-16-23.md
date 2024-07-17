@@ -27,5 +27,5 @@ ht-degree: 0%
 
 上記のビデオでは、このライブストリームイベントを視聴できます。このイベントでは、Adobeエクスペリエンス配信のエキスパートが、何を検討すべきか、パフォーマンスを向上させるためにどのような手順を実行できるかを説明しました。
 
-**ご質問はありますか？** Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**ご質問はありますか？** このトピックに関するディスカッションは、Adobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836) で継続します。
 

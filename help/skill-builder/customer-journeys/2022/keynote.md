@@ -1,6 +1,6 @@
 ---
-title: 基調 — B2B および B2C における顧客ジャーニーの動向とイノベーション
-description: B2B および B2C にわたる顧客ジャーニー管理の最新の傾向について説明します。
+title: キーノート - B2B と B2C にわたるカスタマージャーニーのトレンドとイノベーション
+description: b2B と B2C にわたるカスタマージャーニー管理の最新のトレンドについて学ぶ
 solution: Marketo, Campaign Classic v7, Campaign v8 Client Console
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 基調 — B2B および B2C における顧客ジャーニーの動向とイノベーション
+# キーノート - B2B と B2C にわたるカスタマージャーニーのトレンドとイノベーション
 
-この基調講演では、B2B および B2C にわたる顧客ジャーニー管理の最新の傾向について学びます。 また、主要なジャーニーアプリケーションや幅広いAdobe Experience Cloudおよび Platform に関する最新のイノベーションについてもお知らせします。 見逃すことのできない 1!
+この基調講演では、B2B と B2C にわたるカスタマージャーニーマネジメントの最新のトレンドについて学びます。 また、主要なジャーニーアプリケーションや広範なAdobe Experience Cloudおよび Platform の最新のイノベーションについても説明します。 1 つは、見逃すことはありません！
 
-*ティモコールベルク* シニアマネージャおよび EMEA リード製品マーケティング/Adobe
+*Timo Kohlberg* シニアマネージャー、EMEA リードプロダクトマーケティング/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

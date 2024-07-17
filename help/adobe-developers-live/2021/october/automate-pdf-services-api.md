@@ -1,6 +1,6 @@
 ---
-title: PDFサービス API を使用して、PDFの作成と操作を自動化します
-description: AdobeのPDFサービス API を使用すると、開発者は強力で柔軟なクラウドベースの API を通じて、PDFからデータを作成、結合、書き出し、OCR を作成、抽出できます。 このセッションでは、Adobe PDF Services API を使用して、ドキュメントエクスペリエンスをアプリに統合する方法を学びます。 また、無料のAdobe PDF Embed API を使用して、UI コントロールを使用して Web 上のPDFの表示エクスペリエンスを変換し、PDFからユーザー分析を導き出す方法についても学習します。
+title: PDFサービス API を使用したPDFの作成と操作の自動化
+description: AdobeのPDFサービス API を使用すると、開発者は、強力で柔軟なクラウドベースの API を使用して、PDFからデータを作成、組み合わせ、エクスポート、OCR および抽出できます。 このセッションでは、Adobe PDF サービス API を使用して、ドキュメントエクスペリエンスをアプリに統合する方法を説明します。 また、無料のAdobe PDF埋め込み API を使用して、UI コントロールを使用して web 上のPDF表示エクスペリエンスを変換し、PDFからユーザー分析を導き出す方法についても説明します。
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 6%
 
 ---
 
-# PDFサービス API を使用して、PDFの作成と操作を自動化します
+# PDFサービス API を使用したPDFの作成と操作の自動化
 
-AdobeのPDFサービス API を使用すると、開発者は強力で柔軟なクラウドベースの API を通じて、PDFからデータを作成、結合、書き出し、OCR を作成、抽出できます。 このセッションでは、Adobe PDF Services API を使用して、ドキュメントエクスペリエンスをアプリに統合する方法を学びます。 また、無料のAdobe PDF Embed API を使用して、UI コントロールを使用して Web 上のPDFの表示エクスペリエンスを変換し、PDFからユーザー分析を導き出す方法についても学習します。
+AdobeのPDFサービス API を使用すると、開発者は、強力で柔軟なクラウドベースの API を使用して、PDFからデータを作成、組み合わせ、エクスポート、OCR および抽出できます。 このセッションでは、Adobe PDF サービス API を使用して、ドキュメントエクスペリエンスをアプリに統合する方法を説明します。 また、無料のAdobe PDF埋め込み API を使用して、UI コントロールを使用して web 上のPDF表示エクスペリエンスを変換し、PDFからユーザー分析を導き出す方法についても説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338039/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

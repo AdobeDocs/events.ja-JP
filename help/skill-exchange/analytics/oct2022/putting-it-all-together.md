@@ -1,6 +1,6 @@
 ---
 title: まとめ
-description: Adobe Analyticsが Web サイトのデータをどのように追跡するか、保存、共有、共同作業の方法を理解することで、内容をまとめます。 このセッションを終了し、生産性を高め、学習の道筋を継続するためのヒントを残します。
+description: Adobe Analyticsによる web サイトデータの追跡方法、保存、共有、共同作業の方法を理解し、まとめます。 生産性を向上させ、学習ジャーニーを継続するためのヒントをこのセッションに残してください。
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Traffic Management, Data Governance, Data Sources, Data Configuration and Collection
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# 学習トラック — すべてをまとめる
+# 学習トラック – すべてをまとめる
 
-Adobe Analyticsが Web サイトのデータをどのように追跡するか、保存、共有、共同作業の方法を理解することで、内容をまとめます。 このセッションを終了し、生産性を高め、学習の道筋を継続するためのヒントを残します。
+Adobe Analyticsによる web サイトデータの追跡方法、保存、共有、共同作業の方法を理解し、まとめます。 生産性を向上させ、学習ジャーニーを継続するためのヒントをこのセッションに残してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411895/?quality=12&learn=on)

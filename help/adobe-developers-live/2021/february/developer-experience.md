@@ -1,6 +1,6 @@
 ---
-title: Experience Cloudでの開発者体験
-description: Developer Experience for Adobe Experience CloudのDirector Jonathan Roeder に参加して、Experience Cloudの最新のデベロッパーアップデートの最新情報をご覧ください。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Experience Cloudでの開発者向けエクスペリエンス
+description: Experience Cloud版 Developer Experience のDirectorである Jonathan Roeder が、Adobe Experience Cloud全体の最新の開発者向けアップデートについて説明します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Experience Cloudでの開発者体験
+# Experience Cloudでの開発者向けエクスペリエンス
 
-Developer Experience for Adobe Experience CloudのDirector Jonathan Roeder に参加して、Experience Cloudの最新のデベロッパーアップデートの最新情報をご覧ください。
+Experience Cloud版 Developer Experience のDirectorである Jonathan Roeder が、Adobe Experience Cloud全体の最新の開発者向けアップデートについて説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/developer-experience.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/developer-experience.pdf)** をクリックしてください。

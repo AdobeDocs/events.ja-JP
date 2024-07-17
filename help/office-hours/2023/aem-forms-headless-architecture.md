@@ -1,6 +1,6 @@
 ---
-title: AEM Formsヘッドレスアーキテクチャ
-description: ヘッドレスアーキテクチャ、AEM Formsヘッドレスのメリット、ライブデモの概要。
+title: AEM Forms ヘッドレスアーキテクチャ
+description: ヘッドレスアーキテクチャの概要、AEM Forms ヘッドレスのメリット、ライブデモ。
 topic: Headless
 role: Admin, User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# AEM Formsヘッドレスアーキテクチャ
+# AEM Forms ヘッドレスアーキテクチャ
 
-このセッションでは、ヘッドレスアーキテクチャ、AEM Formsヘッドレスのメリット、ライブデモの紹介をおこないます。
+このセッションでは、ヘッドレスアーキテクチャの概要、AEM Forms ヘッドレスのメリットおよびライブデモについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422750/?learn=on)

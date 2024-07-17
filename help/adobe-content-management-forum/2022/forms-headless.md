@@ -1,6 +1,6 @@
 ---
-title: シンプル化、統合、ヘッドレス
-description: AEM Formsの新しい直感的なオーサリングツール、Microsoftとの統合の拡張、ヘッドレス配信オプションについて説明します。
+title: シンプルで統合されたヘッドレス
+description: AEM Formsの新しい直感的なオーサリングツール、Microsoftとの拡張された統合およびヘッドレス配信オプションについて説明します。
 solution: Experience Manager, Experience Manager Forms, Experience Manager as a Cloud Service
 topic: Headless
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# シンプル化、統合、ヘッドレス
+# シンプルで統合されたヘッドレス
 
-Adrienne Tsai と Arun Taneja は、新しい直感的なオーサリングツール、Microsoftとの統合の拡張、ヘッドレス配信オプションにより、フォームの力を明らかにして参加します。
+Adrienne Tsai と Arun Taneja が、新しい直感的なオーサリングツール、Microsoftとの統合の強化、ヘッドレス配信オプションによってフォームの力を明らかにします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345377/?quality=12&learn=on)

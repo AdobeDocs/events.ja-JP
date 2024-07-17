@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence でのデータセットの管理
-description: このウェビナーでは、Commerce IntelligenceData Warehouse・マネージャの強力な機能のいくつかをご覧いただけます。
-landing-page-description: このウェビナーでは、Commerce IntelligenceData Warehouse・マネージャの強力な機能のいくつかをご覧いただけます。
-short-description: このウェビナーでは、Commerce IntelligenceData Warehouse・マネージャの強力な機能のいくつかをご覧いただけます。
+title: Commerce Intelligenceのデータセットの管理
+description: Commerce Intelligence Data Warehouseマネージャーの強力な機能の一部については、このウェビナーをご覧ください。
+landing-page-description: Commerce Intelligence Data Warehouseマネージャーの強力な機能の一部については、このウェビナーをご覧ください。
+short-description: Commerce Intelligence Data Warehouseマネージャーの強力な機能の一部については、このウェビナーをご覧ください。
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -13,19 +13,19 @@ duration: 3410
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
-# Commerce Intelligence でのデータセットの管理
+# Commerce Intelligenceのデータセットの管理
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
+>Adobe Commerce Intelligenceは、以前は [!DNL Magento Business Intelligence (MBI)] として知られていました。 過去のイベントの録画には、以前の名前が反映されます。
 
 Adobe Commerce 製品チームから直接、MBI Data Warehouse マネージャーの強力な機能の一部を学びます。基本的なレポートの作成を超えて、データをさらに活用する方法を学びます。
 
-この録画済みウェビナーでは、Adobe Commerce、Google Ecommerce、Google AdWords のデータを結合して、広告キャンペーンの投資回収率を計算する方法を学習します。
+録画されたこのウェビナーでは、Adobe Commerce、Google Ecommerce、Google AdWords のデータを結合して、広告キャンペーンの ROI を計算する方法を説明します。
 
 ## ビデオコンテンツ
 
@@ -33,5 +33,5 @@ Adobe Commerce 製品チームから直接、MBI Data Warehouse マネージャ�
 
 ## 役に立つリソース
 
-[Data Warehouse・マネージャのツアー](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[データを接続](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Data Warehouse管理者の紹介 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[ データの接続 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

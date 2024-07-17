@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live- 11 月 22 日 — AEM Rockstar ヘッドレス
-description: Adobe Experience Managerロックスター — ヘッドレスチャレンジ私たちのプレゼンターは、それぞれが解決する必要がある事前に提供された問題の声明に対する解決策を提示することで、Adobe Experience Managerロックスター 2022 になる「競争」を行います。 オーディエンスは、次のロックスターは誰かを質問し投票する機会を与えられます！
+title: Adobe Developers Live - 11 月 22 日（PT） – AEM Rockstar ヘッドレス
+description: Adobe Experience Managerロックスター – ヘッドレスチャレンジ私たちのプレゼンターは、それぞれが解決しなければならない事前に提供された問題ステートメントに対する解決策を提示することで、Adobe Experience Managerロックスター 2022 になる「競争」をします。 観客は、次のロックスターである誰に質問し、投票する機会を与えられます！
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# AEM Rockstar Headless
+# AEM Rockstar ヘッドレス
 
-当社の発表者は、それぞれが解決する必要がある事前に提供された問題の声明に対する解決策を提示することで、Adobe Experience Manager Rock Star 2022 になる「競争」を行います。 オーディエンスは、次のロックスターは誰かを質問し投票する機会を与えられます！
+発表者は、事前に提供された問題文に対して、それぞれが解決する必要がある解決策を提示することで、Adobe Experience Manager Rock Star 2022 にふさわしい「競争」を行います。 観客は、次のロックスターである誰に質問し、投票する機会を与えられます！
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411297/?quality=12&learn=on)

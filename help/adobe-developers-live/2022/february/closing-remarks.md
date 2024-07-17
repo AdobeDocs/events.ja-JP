@@ -1,6 +1,6 @@
 ---
-title: 終わりの挨拶
-description: Sr. Director、製品管理 Chris Hage を使用してAdobe Developers Live Commerce を閉じます。
+title: 結語
+description: Adobe Developers Live Commerceを閉じるDirector上級経営陣、Chris Hedge。
 role: User
 level: Beginner
 kt: 9787
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 終わりの挨拶
+# 結語
 
-Sr. Director、製品管理 Chris Hage を使用してAdobe Developers Live Commerce を閉じます。
+Adobe Developers Live Commerceを閉じるDirector上級経営陣、Chris Hedge。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340625/?quality=12&learn=on)

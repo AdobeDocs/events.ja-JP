@@ -1,5 +1,5 @@
 ---
-title: EDDL/WebSDK への移行 — 2023 年 5 月 APAC Adobe Analytics Skill Exchange Grow Track
+title: EDDL/WebSDK への移行 – 2023 年 5 月 APAC Adobe Analytics Skill Exchange Grow Track
 description: EDDL/WebSDK に移行する理由と移行を開始する前に考慮すべき事項
 solution: Analytics
 feature-set: Analytics
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# EDDL/WebSDK への移行 — 2023 年 5 月 APAC Adobe Analytics Skill Exchange Grow Track
+# EDDL/WebSDK への移行 – 2023 年 5 月 APAC Adobe Analytics Skill Exchange Grow Track
 
 EDDL/WebSDK に移行する理由と移行を開始する前に考慮すべき事項
 

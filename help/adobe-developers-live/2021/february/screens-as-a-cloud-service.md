@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Screensas a Cloud Service
-description: Developer Experience for Adobe Experience CloudのDirector Jonathan Roeder に参加して、Experience Cloudの最新のデベロッパーアップデートの最新情報をご覧ください。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+description: Experience Cloud版 Developer Experience のDirectorである Jonathan Roeder が、Adobe Experience Cloud全体の最新の開発者向けアップデートについて説明します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager,Experience Manager Screens
 product: experience manager
 sub-product: screens
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Adobe Experience Manager Screensas a Cloud Service
 
-Adobe Experience Manager Screensas a Cloud Serviceの再イメージ：CMS に緊密に結び付いてから、完全に管理され、拡張性の高いクラウドサービスに移行するまでのジャーニー。
+Adobe Experience Manager Screensのas a Cloud Serviceの再考：CMS と緊密に結び付くことから、完全に管理されスケーラブルなクラウドサービスになるまでのジャーニーです。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** をクリックしてください。

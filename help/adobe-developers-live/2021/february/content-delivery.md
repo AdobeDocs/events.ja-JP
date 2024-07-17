@@ -1,6 +1,6 @@
 ---
-title: Experience Manager Cloud Service時のコンテンツ配信
-description: Adobe Experience Manager as a Cloud Serviceには、強力な事前設定済みのコンテンツ配信アーキテクチャがあります。 最適化されたコンテンツ配信設定を最大限に活用する方法を示します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Experience Manager Cloud Serviceでのコンテンツ配信
+description: Adobe Experience Manager as a Cloud Serviceには、事前設定済みの強力なコンテンツ配信アーキテクチャがあります。 最適化されたコンテンツ配信設定を最大限に活用する方法を示します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Experience Manager Cloud Service時のコンテンツ配信 — プロジェクトを設定して迅速なエクスペリエンスを提供します
+# Experience Manager Cloud Serviceでのコンテンツ配信 – 迅速にエクスペリエンスを提供するようにプロジェクトをセットアップします。
 
-Adobe Experience Manager as a Cloud Serviceには、強力な事前設定済みのコンテンツ配信アーキテクチャがあります。 最適化されたコンテンツ配信設定を最大限に活用する方法を示します。
+Adobe Experience Manager as a Cloud Serviceには、事前設定済みの強力なコンテンツ配信アーキテクチャがあります。 最適化されたコンテンツ配信設定を最大限に活用する方法を示します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** をクリックしてください。

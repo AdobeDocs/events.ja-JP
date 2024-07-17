@@ -1,6 +1,6 @@
 ---
-title: Marketoとモチャ
-description: Marketo On-Demand Events( On-Demand Events) は、専門家や同業者が、AdobeMarketoの最適な使用方法に関する考えやアイデアを共有しているビデオライブラリです。
+title: Marketoとモカス
+description: Marketo オンデマンドイベントは、エキスパートや同業者がAdobe Marketoの最適な使用方法に関する考えやアイデアを共有するビデオライブラリです。
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,10 +10,10 @@ ht-degree: 0%
 
 ---
 
-# Marketoとモチャ
+# Marketoとモカス
 
-Marketoとモチャスのレコーディングへようこそ。 これらのリソースをAdobeMarketoと組み合わせて使用する [ドキュメント](https://experienceleague.adobe.com/docs/marketo-engage.html) および [チュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)を使用すると、AdobeMarketoを使用してビジネスをサポートする方法をより深く理解できます。
+Marketoと Mochas の録画へようこそ。 これらのリソースをAdobeMarketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html) および [ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) と組み合わせると、AdobeMarketoをビジネスのサポートに使用する方法をより深く理解することができます。
 
 >[!TIP]
 >
->**記録されたすべてのセッションは、左側のナビゲーションに表示されます**.
+>**記録されたすべてのセッションは、左側のナビゲーションに一覧表示されます**。

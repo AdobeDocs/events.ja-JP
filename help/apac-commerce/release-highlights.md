@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerceロードマップのハイライト
-description: Adobe Commerceのシニアプロダクトマーケティングマネージャである Ed Kennedy 氏にご参加いただき、Adobe Commerce製品に関する最新の投資情報をお聞かせください。
+title: Adobe Commerce ロードマップのハイライト
+description: Adobe Commerceのシニアプロダクトマーケティングマネージャーである Ed Kennedy が、Adobe Commerce製品への主な投資に関する最新の情報を紹介します
 solution: Commerce, Commerce Intelligence
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerceロードマップのハイライト
+# Adobe Commerce ロードマップのハイライト
 
-Adobe Commerceの上級製品マーケティングマネージャーである Ed Kennedy 氏に連絡して、Adobe Commerce向けAdobe Experience Platform Connector、インテリジェントカテゴリ、API メッシュ、App Builder、青/緑のデプロイメント、自動スケーリングなど、Adobe Commerce製品に関する最新の投資情報をお聞かせください。
+Adobe Commerceのシニアプロダクトマーケティングマネージャーである Ed Kennedy が、Adobe Commerce用Adobe Experience Platform コネクタ、インテリジェントカテゴリ、API メッシュ、App Builder、ブルー/グリーンデプロイメント、自動スケーリングなど、Adobe Commerce製品への主な投資に関する最新の情報を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

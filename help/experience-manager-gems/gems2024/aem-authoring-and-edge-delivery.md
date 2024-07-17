@@ -1,6 +1,6 @@
 ---
-title: AEMオーサリングの概要とEdge Delivery Services
-description: このAEM GEMs ウェビナーには、AEMオーサリングがEdge Delivery Servicesと連携してどのように動作するかを示すプレゼンテーションとデモが含まれています。 AEM Cloud ServiceをコンテンツソースとしてAEMオーサリングに対応した新しいEdge Delivery Servicesプロジェクトの作成プロセスを順を追って説明します。Edge Delivery Servicesに付属し、WYSIWYG オーサリング環境を保持しながら、効率的で機敏な開発環境を実現する方法を示します。
+title: AEM オーサリングとEdge Delivery Servicesの概要
+description: このAEM GEMs ウェビナーには、AEM オーサリングがEdge Delivery Servicesと連携してどのように機能するかを示す、プレゼンテーションとデモが含まれています。 AEM Cloud Service as a content source を使用してAEM オーサリングが有効な新しいEdge Delivery Servicesプロジェクトを作成するプロセスを順を追って説明します。また、Edge Delivery Servicesに付属するリーンでアジャイルな開発エクスペリエンスを活用しながら、実務担当者の WYSIWYG オーサリングエクスペリエンスを維持する方法を説明します。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,24 +12,25 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
+exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-# ウェビナー日： 2024 年 3 月 13 日
+# ウェビナー日付：2024 年 3 月 13 日（PT）
 
-このウェビナーは完了しました — 以下の録画をご覧ください。
+このウェビナーは終了しました。以下の録画をご覧ください。
 
-## AEMオーサリングの概要とEdge Delivery Services
+## AEM オーサリングとEdge Delivery Servicesの概要
 
-このAEM GEMs ウェビナーには、AEMオーサリングがEdge Delivery Servicesと連携してどのように動作するかを示すプレゼンテーションとデモが含まれています。 AEM Cloud ServiceをコンテンツソースとしてAEMオーサリングに対応した新しいEdge Delivery Servicesプロジェクトの作成プロセスを順を追って説明します。Edge Delivery Servicesに付属し、WYSIWYG オーサリング環境を保持しながら、効率的で機敏な開発環境を実現する方法を示します。
+このAEM GEMs ウェビナーには、AEM オーサリングがEdge Delivery Servicesと連携してどのように機能するかを示す、プレゼンテーションとデモが含まれています。 AEM Cloud Service as a content source を使用してAEM オーサリングが有効な新しいEdge Delivery Servicesプロジェクトを作成するプロセスを順を追って説明します。また、Edge Delivery Servicesに付属するリーンでアジャイルな開発エクスペリエンスを活用しながら、実務担当者の WYSIWYG オーサリングエクスペリエンスを維持する方法を説明します。
 
 ## 講演者
 
-* ソフトウェア開発、Adobe、マネージャ、Dirk Rudolph
+* Adobe、ソフトウェア開発マネージャー、Dirk Rudolph
 
 ## ウェビナー録画
 
@@ -37,6 +38,6 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
->* セッション固有のコミュニティでのExperience Leagueのインタラクションについては、 [コンテキストスレッド](https://adobe.ly/3uIj6D7).
+>* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、[ コンテキストスレッド ](https://adobe.ly/3uIj6D7) を参照してください。
 >
->* 今後のウェビナーで通知を受け取るには、 [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
+>* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。

@@ -1,6 +1,6 @@
 ---
-title: MongoDB での AEM の実行
-description: この AEM Gem では、MongoDB 上で AEM を実稼働設定で実行する方法を詳しく説明します。MongoDB のデプロイメント用のオプションを示し、推奨のデプロイメントを紹介し、レコメンデーションの根拠を説明します。
+title: MongoDB でのAEMの実行
+description: このAEM Gem では、MongoDB 上でAEMを実稼働設定で実行する方法を詳しく説明します。 MongoDB のデプロイメント用のオプションを示し、推奨デプロイメントを紹介し、推奨の根拠を説明します。
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
 exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
@@ -8,21 +8,21 @@ duration: 3024
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 61%
+ht-degree: 0%
 
 ---
 
-# MongoDB での AEM の実行{#running-aem-on-mongodb}
+# MongoDB でのAEMの実行{#running-aem-on-mongodb}
 
-この AEM Gem では、MongoDB 上で AEM を実稼働設定で実行する方法を詳しく説明します。MongoDB のデプロイメント用のオプションを示し、推奨のデプロイメントを紹介し、レコメンデーションの根拠を説明します。
+このAEM Gem では、MongoDB 上でAEMを実稼働設定で実行する方法を詳しく説明します。 MongoDB のデプロイメント用のオプションを示し、推奨デプロイメントを紹介し、推奨の根拠を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19304/?quality=9)
 
-*2016年3月23日（PT）に配信*
+*2016 年 3 月 23 日（PT）に配信*
 
 **発表者：**
 
-* アドビ、シニアソフトウェアエンジニア、Ian Boston
+* Adobe、シニアソフトウェアエンジニア、Ian Boston
 
 **発表者のスライド**
 
@@ -32,9 +32,9 @@ ht-degree: 61%
 
 >[!WARNING]
 >
->AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
->このセッションに関しては、 *Oak クエリとインデックス作成：MongoDB を使用したAEM* (AEM 6.1 ドキュメント )。
+>このセッションに関連する情報については、AEM 6.1 ドキュメントの *Oakのクエリとインデックス作成：MongoDB を使用したAEM* を参照してください。
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

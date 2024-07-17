@@ -1,6 +1,6 @@
 ---
-title: Experience Makers Spotlight
-description: 3 人のエキスパートユーザーとAdobe Analyticsユーザーに注目していただきます。
+title: Experience Makers スポットライト
+description: エキスパートユーザー 3 名とAdobe Analytics ユーザーにご注目ください。
 role: User
 level: Intermediate, Experienced
 kt: 10463
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Experience Makers Spotlight
+# Experience Makers スポットライト
 
-3 人のエキスパートユーザーとAdobe Analyticsユーザーに注目していただきます。 それぞれが、自分の最高のAdobe Analyticsのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。 これを見逃したくない。
+エキスパートユーザー 3 名とAdobe Analytics ユーザーにご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343332/?quality=12&learn=on)

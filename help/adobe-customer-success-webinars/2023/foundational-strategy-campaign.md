@@ -1,6 +1,6 @@
 ---
-title: ドットの接続 — Campaign オーケストレーションの基礎的戦略
-description: Campaign Orchestration の基盤パーソナライゼーション@ Scale Foundational Pillers & Guiding Principles オーケストレーション測定のベストプラクティス一般的な課題とソリューション内での Campaign Orchestration の役割
+title: ドットの接続 – キャンペーンオーケストレーションの基本戦略
+description: Campaign オーケストレーションの基礎Personalization内での Campaign オーケストレーションの役割@スケールの基礎的な柱と基本原則オーケストレーション測定のベストプラクティス共通の課題とソリューション
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 ---
 
-# ドットの接続 — Campaign オーケストレーションの基礎的戦略
+# ドットの接続 – キャンペーンオーケストレーションの基本戦略
 
-*Campaign Orchestration の基盤*
+*キャンペーンオーケストレーションの基盤*
 
-* パーソナライゼーション@スケール内でのキャンペーンオーケストレーションの役割
-* 基本的な柱と指針
+* Personalization @ スケール内のキャンペーンオーケストレーションの役割
+* 基本理念と基本理念
 * オーケストレーション測定のベストプラクティス
-* 一般的な課題とソリューション
+* 共通の課題とソリューション
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424016/?learn=on)

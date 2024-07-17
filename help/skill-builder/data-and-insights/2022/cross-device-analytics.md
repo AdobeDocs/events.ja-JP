@@ -1,6 +1,6 @@
 ---
-title: クロスデバイス分析とCustomer Journey Analyticsに関して知っておくべきこと
-description: Adobe AnalyticsとCustomer Journey Analyticsを使用して、ブラウザー/デバイス/アプリと複数のチャネルをまたぐユーザーの行動を分析する方法をより深く理解できます。
+title: クロスデバイス分析とCustomer Journey Analyticsについて知る必要のあるすべて
+description: Adobe AnalyticsとCustomer Journey Analyticsを使用して、ブラウザー、デバイス、アプリおよび複数のチャネルをまたぐユーザーの行動を分析する方法について、理解を深めます。
 solution: Customer Journey Analytics, Analytics
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# クロスデバイス分析とCustomer Journey Analyticsに関して知っておくべきこと
+# クロスデバイス分析とCustomer Journey Analyticsについて知る必要のあるすべて
 
-Adobe AnalyticsとCustomer Journey Analyticsを使用して、ブラウザー/デバイス/アプリと複数のチャネルをまたぐユーザーの行動を分析する方法をより深く理解できます。
+Adobe AnalyticsとCustomer Journey Analyticsを使用して、ブラウザー、デバイス、アプリおよび複数のチャネルをまたぐユーザーの行動を分析する方法について、理解を深めます。
 
 *Sonia Charles* ソリューションコンサルタント、データとインサイト/Adobe
 

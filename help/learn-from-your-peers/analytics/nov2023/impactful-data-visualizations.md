@@ -1,6 +1,6 @@
 ---
-title: Adobe Analyticsの効果的なデータ視覚化の技術と科学
-description: Adobe Analyticsのビジュアライゼーションと効果的なデータストーリーテリングを調べます。 データをストーリーを伝える思慮深く魅力的なビジュアルに変換する方法を見つけ出し、Analysis Workspaceを使用して正確で効果的なインサイトを伝えることができます。
+title: Adobe Analyticsの効果的なデータビジュアライゼーションの技術と科学
+description: Adobe Analyticsのビジュアライゼーションと効果的なデータストーリーテリングを探索します。 Analysis Workspaceを使用して、インサイトを正確かつ効果的に伝えることができる、ストーリーを伝える思慮深く魅力的なビジュアルにデータを変換する方法を説明します。
 feature: Visualizations, Analysis Workspace
 role: User
 level: Beginner, Intermediate, Experienced
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analyticsの効果的なデータ視覚化の技術と科学
+# Adobe Analyticsの効果的なデータビジュアライゼーションの技術と科学
 
-Adobe Analyticsのビジュアライゼーションの領域を探り、影響を与えるデータストーリーテリングの技術と科学を掘り下げてみましょう。 データをストーリーを伝える思慮深く魅力的なビジュアルに変換する方法を見つけ出し、Analysis Workspaceを使用して正確で効果的なインサイトを伝えることができます。
+Adobe Analyticsのビジュアライゼーションの領域を探索し、効果的なデータストーリーテリングのアートとサイエンスを掘り下げてみましょう。 Analysis Workspaceを使用して、インサイトを正確かつ効果的に伝えることができる、ストーリーを伝える思慮深く魅力的なビジュアルにデータを変換する方法を説明します。
 
-元Adobe AnalyticsチャンピオンでAdobeビジネスコンサルタントの David Geist 氏が、効果的なデータ分析だけでなく、あらゆるレベルの関係者と共鳴する方法で結果を伝えるためのテクニックを紹介します。
+元Adobe Analytics チャンピオンであり、Adobeビジネスコンサルタントである David Geist が、データを効果的に分析するだけでなく、あらゆるレベルの関係者から共感を得られる方法で調査結果を伝えることができるテクニックを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425943/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: AEM QueryBuilder で容易になった検索フォーム
-description: このセッションでは、JCR スタック上の他のクエリ言語と比較して QueryBuilder の原則について説明します。QueryBuilder を使用して、オーサリング可能な検索フォームを簡単に作成する方法、効率的な検索の構築方法、クエリのデバッグ方法および拡張方法を示します。
+title: AEM querybuilder で容易になった検索フォーム
+description: このセッションでは、JCR スタック上の他のクエリ言語と比較して QueryBuilder の原則について説明します。 オーサリング可能な検索フォームを簡単に作成する方法、効率的な検索の作成方法、クエリのデバッグ方法および拡張方法を示します。
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
@@ -8,19 +8,19 @@ duration: 3652
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 75%
+ht-degree: 0%
 
 ---
 
-# AEM QueryBuilder で容易になった検索フォーム{#search-forms-made-easy-with-the-aem-querybuilder}
+# AEM querybuilder で容易になった検索フォーム{#search-forms-made-easy-with-the-aem-querybuilder}
 
-ほとんどの開発者は、主にユーザーインターフェイスで使用される高レベルのクエリ言語として AEM QueryBuilder を使用していますが、最大限に活用するために、さらに詳しく知りたいと考えています。このセッションでは、JCR スタック上の他のクエリ言語と比較して QueryBuilder の原則を説明し、オーサリング可能な検索フォームを簡単に作成する方法、効率的な検索の構築方法、クエリのデバッグ方法および拡張方法を示します。
+ほとんどのデベロッパーは、主にユーザーインターフェイスで使用される高レベルのクエリ言語としてAEM QueryBuilder を使用していますが、最大限に活用するために、さらに詳しく知りたいと考えています。 このセッションでは、JCR スタック上の他のクエリ言語と比較して QueryBuilder の原則を説明し、オーサリング可能な検索フォームを簡単に作成する方法、効率的な検索の構築方法、クエリのデバッグ方法および拡張方法を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19139/?quality=9)
 
-*2017年2月22日（PT）に発表*
+*2017 年 2 月 22 日（PT）に発表*
 
-**アドビ、シニアデベロッパー、Alexander Klimetschek**
+**Adobe、シニアデベロッパー、Alexander Klimetschek**
 
 **発表者のスライド**
 
@@ -32,13 +32,13 @@ ht-degree: 75%
 
 * [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)、Alexander Klimetschek による配信
 
-AEM のドキュメント
+AEM ドキュメント
 
 >[!WARNING]
 >
->AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
->このセッションに関しては、 *Querybuilder API* (AEMドキュメント ) を参照してください。
+>このセッションに関連しては、AEM ドキュメントの *Querybuilder API* を参照してください。
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

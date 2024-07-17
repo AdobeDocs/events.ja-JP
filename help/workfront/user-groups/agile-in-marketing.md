@@ -1,6 +1,6 @@
 ---
-title: Agile in Marketing（2020 年 9 月 16 日）
-description: Workfrontでの機敏なマーケティングとその仕組みについてお聞かせください。 （60～160 文字）
+title: マーケティングにおけるアジャイル（2020 年 9 月 15 日（PT））
+description: アジャイルマーケティングとそのWorkfrontでの仕組みについて説明します。 （60～160 文字）
 role: Admin, User
 level: Intermediate
 kt: 9989
@@ -14,8 +14,8 @@ ht-degree: 13%
 
 ---
 
-# Agile in Marketing（2020 年 9 月 16 日）
+# マーケティングにおけるアジャイル（2020 年 9 月 15 日（PT））
 
-Workfrontでの機敏なマーケティングとその仕組みについてお聞かせください。
+アジャイルマーケティングとそのWorkfrontでの仕組みについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341224/?quality=12&learn=on)

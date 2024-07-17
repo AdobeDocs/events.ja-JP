@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Campaign Classic] V7 と V8
-description: このセッションに参加して、最新の製品アップデートの情報や、アドビの製品マネージャーからの V7 と V8 の違いを理解してください。
+title: Adobe [!DNL Campaign Classic] V7 と V8 の比較
+description: このセッションに参加して、最新の製品アップデートについて聞いたり、プロダクトマネージャーから V7 と V8 の違いを理解したりします。
 solution: Campaign, Campaign Classic v7, Campaign v8 Client Console
 role: Admin, User
 level: Intermediate, Experienced
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Classic] V7 と V8
+# Adobe [!DNL Campaign Classic] V7 と V8 の比較
 
-このセッションに参加して、最新の製品アップデートの情報や、アドビの製品マネージャーからの V7 と V8 の違いを理解してください。
+このセッションに参加して、最新の製品アップデートについて聞いたり、プロダクトマネージャーから V7 と V8 の違いを理解したりします。
 
-*Christophe Protat* プロダクトマネージャ/Adobe
+*Christophe Protat* プロダクトマネージャー/Adobe
 
-*ゲルムエロ* 上級プロダクトマネージャ/Adobe
+*Gael Mouello* シニアプロダクトマネージャー/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

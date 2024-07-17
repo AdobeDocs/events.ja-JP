@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Managerチャンピオンオフィスアワーズ — Cloud Manager
-description: Adobe Experience Manager Champions のパネルとして、AdobeのAEMチャンピオン Office Hours の 5 月号にご参加ください。ベストプラクティスやヒントを紹介し、AEM Cloud Manager を取り巻く Q&A に取り組んでください。AEMアプリケーションを自動的にクラウドにデプロイすると、AEM Champions がその解決策を提供します。
+title: Adobe Experience Manager チャンピオンの営業時間 – Cloud Manager
+description: Adobeの 5 月版AEM Champion Office Hours に参加しましょう。AEM Champions がベストプラクティスについて話し合い、ヒントを共有し、Adobe Experience Manager Cloud Managerに関するライブ Q&A を行います。AEMを初めて使用する場合でも、Cloud Managerがワークフローを効率化する方法や、Cloud Managerの標準提供ビルドパイプラインと安定したデプロイメントによってAEM AEM アプリケーションを自動的に構築、テスト、デプロイする方法を理解できます。
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Managerチャンピオンオフィスアワーズ — Cloud Manager
+# Adobe Experience Manager チャンピオンの営業時間 – Cloud Manager
 
-Adobe Experience Manager Champions のパネルとして、AdobeのAEMチャンピオンである Office Hours の 5 月号版に参加して、ベストプラクティスについて話し合い、ヒントを共有し、AEM Cloud Manager を取り巻く Q&amp;A の実稼働環境に関わってください。
+Adobeの 5 月版AEM Champion Office Hours に参加しましょう。Adobe Experience Manager Champions のパネルでベストプラクティスについて話し合い、ヒントを共有し、AEM Cloud Managerに関するライブ Q&amp;A を行います。
 
-AEMを初めて使用する場合でも、Cloud Manager によるワークフローの合理化方法や、Cloud Manager の標準のビルドパイプラインと安定したデプロイによって、AEMアプリケーションを自動的に構築、テスト、デプロイできる方法を理解したい場合でも、回答を得ます。
+AEMを初めて使用する場合でも、Cloud Managerでワークフローを効率化する方法に関して質問がある場合でも、Cloud Managerの標準ビルドパイプラインと安定したデプロイメントによって、組織がAEM アプリケーションを自動的にビルド、テスト、クラウドにデプロイする方法に関して理解したい場合でも、AEM Champions が答えを提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420726/?learn=on)

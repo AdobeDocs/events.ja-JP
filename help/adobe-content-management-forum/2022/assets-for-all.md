@@ -1,6 +1,6 @@
 ---
-title: すべてのアセット
-description: Purnima Rachoor Roy から、Assets Essentialsが部門や中堅企業向けの新しい Digital Asset Management システムであることについてお聞かせください。
+title: すべてのユーザーに対するAssets
+description: Assets Essentialsが部門や中堅企業向けの新しいデジタルアセット管理システムである仕組みについて、Purnima Rachoor Roy が解説します。
 solution: Experience Manager, Experience Manager Assets, Experience Manager as a Cloud Service
 feature: Asset Management
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# すべてのアセット
+# すべてのユーザーに対するAssets
 
-Purnima Rachoor Roy から、 [!DNL Assets Essentials] は新しい [!DNL Digital Asset Management] 部門や中堅企業向けのシステム。
+部門や中堅企業を対象とした新しい [!DNL Digital Asset Management] システムの概要につ [!DNL Assets Essentials] ては、Purnima Rachoor Roy 氏にお話を伺います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

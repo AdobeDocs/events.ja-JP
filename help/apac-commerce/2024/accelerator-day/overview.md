@@ -7,13 +7,13 @@ last-update: May 2024
 jira: KT-15549
 mini-toc-levels: 2
 badgeEvent: label="Adobe Commerce加速器の日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
-source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
+exl-id: b5e122a1-4ea9-4a4f-b99a-63a5a2266d33
+source-git-commit: 0ebc7343e2d19e91f27c1bbba20f290ef7df5377
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce加速器の日
 
@@ -31,14 +31,13 @@ Commonwealth Bank、ビジネス・バンキング成長およびトランザク
 
 | セッション名 | 詳細 | 講演者 | セッションビデオ |
 | ---- | ---- | ---- | ---- |
-| **明日を見据える：Commerce ロードマップ、インサイト、イノベーション** | Summit 2024 のAdobe Commerce セッションの振り返りと、近未来のロードマップにAdobe Commerce Platform にもたらされるイノベーションの一部です。 | <ul><li>Scott Rigby - Adobe Commerceプロダクトマネージャー</ul></li> | [ビデオを見る](./navigating-tomorrow.md) |
-| **PANEL – 国境を越えて：未来のCommerceへの展望** | 現在の経済環境でオンライン事業を運営するための課題とソリューションに関するAdobeの Allyce Truscott 氏によるパネルディスカッションが開催されました。 | <ul><li>Allyce Truscott – 新事業責任者 – デジタルエクスペリエンス</li><li> カロライナ デ フィゲリド クリスピークレメ</li><li>Hussein Moustafa - オジータイヤ</li><li>Haig Kayserian - DigitDirect</li></ul> | [ビデオを見る](./panel-beyond-borders.md) |
-| **エクスペリエンスの進化：Commerce、Data、You** | を使用したCommerceのパーソナライゼーションの概要とデモ [!DNL Real-Time Customer Data Platform], [!DNL Journey orchestration]、および統合Adobe [!DNL Experience Platform] | <ul><li>Mike Lynch – 大規模法人 [!DNL Commerce] スペシャリスト、Adobe</li></ul> | [ビデオを見る](./experience-evolution.md) |
-| **明日を見据えた支払い動向** | 連邦銀行のデジタル決済、詐欺、AI に関する最新のイノベーション | <ul><li>ケイト・クロース – エグゼクティブジェネラルマネージャー [!DNL Everyday Business Banking], CBA</li><li>デビッド・ワッツ – エグゼクティブゼネラルマネージャー [!DNL Quants Data Analytics and Technology] - CBA</li><li>James Roberts - CBA、不正および詐欺の戦略とガバナンス担当ジェネラルマネージャー</li></ul> | [ビデオを見る](./panel-tapping-into-tomorrow.md) |
-| **次世代のCommerce:Gen AI アプリケーションの登場** | を通じたAdobeの最新の生成 AI、Commerceでの AI の概要とデモ [!DNL Adobe Express] また、現実世界のコマースチームやコンテンツチームに活用する方法も説明します。 | <ul><li>Eroka O&#39;Connor （Adobe、シニアソリューションコンサルタント）</li></ul> | [ビデオを見る](./next-gen-commerce.md) |
-| **表面下：支払いアーキテクチャの調査** | の最新のの概要セッション [!DNL Commonwealth] 銀行の [!DNL PowerBoard] 支払いオーケストレーションプラットフォームとそのオンラインビジネスのユースケース | <ul><li>Omaya Robinson - PowerBoard の創設クルーのリーダー、製品責任者</li><li>Luke Jericho - Crew Lead、Head of eCommerce</li></ul> | [ビデオを見る](./beneath-the-surface.md) |
-| **Lightning Speed:Adobeのエッジ配信サービス** | Adobe Experience ManagerとAdobe CommerceによるAdobeの超高速Edge Delivery Servicesに関する最新の詳細とデモ | <ul><li>Kam Radhakrishnan -Adobe、シニアソリューションエンジニア</li></ul> | [ビデオを見る](./lightning-speed.md) |
-| **コンポーザビリティ：App Builder、API メッシュ、ヘッドレス** | ヘッドレスで構成可能なイノベーションを通じたデジタルエクスペリエンスの拡張に関するAdobe Commerceおよび App Builder プラットフォームの最新開発の概要 | <ul><li>Jason Ford -Adobe、ANZ ソリューションエンジニアリング責任者</li></ul> | [ビデオを見る](./composability.md) |
-| **Cross-Channel Symphony: Commerce Excellence のオーケストレーション** | DotDigital がAdobe Commerceと提携して、イノベーション、パーソナライゼーション、1 対 1 のメッセージを推進している方法について、Adobeの Matt Palmer がホストするファイアサイドチャット | <ul><li> Matt Palmer -Adobe、シニア・パートナー・セールス・マネージャ</li><li>Graham Bell - DotDigital、ANZ Sales 責任者</li></ul> | [ビデオを見る](./cross-channel-symphony.md) |
-| **Commerce芸術** | ソリューションパートナーのイノベーションを前面に押し出し、可能な限り最先端を紹介する、Adobe Commerceのライブカスタマー事例の紹介 | <ul><li>Carl Screwvala -Adobeシニアソリューションエンジニア</li></ul> | [ビデオを見る](./the-art-of-commerce.md) |
-
+| **明日をナビゲート：Commerce ロードマップ、インサイト、イノベーション** | Summit 2024 のAdobe Commerce セッションの振り返りと、近未来のロードマップにAdobe Commerce Platform にもたらされるイノベーションの一部です。 | <ul><li>Scott Rigby - Adobe Commerceプロダクトマネージャー</ul></li> | [ ビデオを視聴 ](./navigating-tomorrow.md) |
+| **PANEL – 国境を越えて：未来のCommerceへの展望** | 現在の経済環境でオンライン事業を運営するための課題とソリューションに関するAdobeの Allyce Truscott 氏によるパネルディスカッションが開催されました。 | <ul><li>Allyce Truscott – 新事業責任者 – デジタルエクスペリエンス</li><li> カロライナ デ フィゲリド クリスピークレメ</li><li>Hussein Moustafa - オジータイヤ</li><li>Haig Kayserian - DigitDirect</li></ul> | [ ビデオを視聴 ](./panel-beyond-borders.md) |
+| **エクスペリエンスの進化：Commerce、Data、You** | [!DNL Real-Time Customer Data Platform]、[!DNL Journey orchestration] および統合Adobe[!DNL Experience Platform] を使用した、Commerceのパーソナライゼーションの概要とデモです | <ul><li>Mike Lynch:Adobe、エンタープライズ・[!DNL Commerce] ール・スペシャリスト</li></ul> | [ ビデオを視聴 ](./experience-evolution.md) |
+| **明日を拓く：支払いのトレンドは下へ** | 連邦銀行のデジタル決済、詐欺、AI に関する最新のイノベーション | <ul><li>ケイト・クロース（CBA、エグゼクティブジェネラルマネージャ [!DNL Everyday Business Banking]）</li><li>David Watts - エグゼクティブジェネラルマネージャ [!DNL Quants Data Analytics and Technology] - CBA</li><li>James Roberts - CBA、不正および詐欺の戦略とガバナンス担当ジェネラルマネージャー</li></ul> | [ ビデオを視聴 ](./panel-tapping-into-tomorrow.md) |
+| **次世代のCommerce:Gen AI アプリケーションの台頭** | Commerceの AI の概要とデモンストレーション、[!DNL Adobe Express] を通じたAdobeの最新のジェネレーティブ AI、および現実世界のコマースチームやコンテンツチームで AI を活用する方法について説明します。 | <ul><li>Eroka O&#39;Connor （Adobe、シニアソリューションコンサルタント）</li></ul> | [ ビデオを視聴 ](./next-gen-commerce.md) |
+| **表面下：支払いアーキテクチャの調査** | [!DNL Commonwealth] 銀の [!DNL PowerBoard] 支払オーケストレーションプラットフォームの最新バージョンと、オンラインビジネスのユースケースに関する概要セッション | <ul><li>Omaya Robinson - PowerBoard の創設クルーのリーダー、製品責任者</li><li>Luke Jericho - Crew Lead、Head of eCommerce</li></ul> | [ ビデオを視聴 ](./beneath-the-surface.md) |
+| **Lightning Speed:Adobeエッジ配信サービス** | Adobe Experience ManagerとAdobe CommerceによるAdobeの超高速Edge Delivery Servicesに関する最新の詳細とデモ | <ul><li>Kam Radhakrishnan -Adobe、シニアソリューションエンジニア</li></ul> | [ ビデオを視聴 ](./lightning-speed.md) |
+| **コンポーザビリティ：App Builder、API メッシュ、ヘッドレス** | ヘッドレスで構成可能なイノベーションを通じたデジタルエクスペリエンスの拡張に関するAdobe CommerceおよびApp Builder プラットフォームの最新開発の概要 | <ul><li>Jason Ford -Adobe、ANZ ソリューションエンジニアリング責任者</li></ul> | [ ビデオを視聴 ](./composability.md) |
+| **Cross-Channel Symphony:Commerceの卓越したオーケストレーション** | DotDigital がAdobe Commerceと提携して、イノベーション、パーソナライゼーション、1 対 1 のメッセージを推進している方法について、Adobeの Matt Palmer がホストするファイアサイドチャット | <ul><li> Matt Palmer -Adobe、シニア・パートナー・セールス・マネージャ</li><li>Graham Bell - DotDigital、ANZ Sales 責任者</li></ul> | [ ビデオを視聴 ](./cross-channel-symphony.md) |
+| **Commerceの芸術** | ソリューションパートナーのイノベーションを前面に押し出し、可能な限り最先端を紹介する、Adobe Commerceのライブカスタマー事例の紹介 | <ul><li>Carl Screwvala -Adobeシニアソリューションエンジニア</li></ul> | [ ビデオを視聴 ](./the-art-of-commerce.md) |

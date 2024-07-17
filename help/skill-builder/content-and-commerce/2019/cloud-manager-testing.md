@@ -1,6 +1,6 @@
 ---
-title: Cloud Manager のテストのベストプラクティス（2019 年 9 月）
-description: ここに説明を入力
+title: Cloud Managerでのテストのベストプラクティス - 2019 年 9 月
+description: 説明はこちら
 sub-product: cloud-manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -14,15 +14,15 @@ ht-degree: 3%
 
 ---
 
-# Cloud Manager のテストのベストプラクティス（2019 年 9 月）
+# Cloud Managerでのテストのベストプラクティス - 2019 年 9 月
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 
-**発表者**
+**講演者**
 
-* Justin Edelson — プロダクトマネージャ
-* Patrick Kynaston — カスタマーサクセスエンジニア
+* Justin Edelson – 製品マネージャー
+* Patrick Kynaston - カスタマーサクセスエンジニア
 
 ## リソース
 
-[プレゼンテーションをダウンロード](./assets/CloudManagerWebinarSeptember2019.pdf)
+[プレゼンテーションのダウンロード](./assets/CloudManagerWebinarSeptember2019.pdf)

@@ -1,8 +1,8 @@
 ---
 title: Commerce Intelligence ダッシュボードの詳細
-description: 各 Commerce Intelligence アカウントのセットアップ時に含まれる 4 つのダッシュボードのガイド付きツアーについては、このウェビナーをご覧ください。
-landing-page-description: 各 Commerce Intelligence アカウントのセットアップ時に含まれる 4 つのダッシュボードのガイド付きツアーについては、この録画ウェビナーをご覧ください。
-short-description: 各 Commerce Intelligence アカウントのセットアップ時に含まれる 4 つのダッシュボードのガイド付きツアーについては、この録画ウェビナーをご覧ください。
+description: すべてのCommerce Intelligence アカウントで設定に含まれている 4 つのダッシュボードについてのガイド付きツアーについては、このウェビナーをご覧ください。
+landing-page-description: すべてのCommerce Intelligence アカウントで設定に含まれている 4 つのダッシュボードに関するガイド付きツアーについては、録画済みのウェビナーをご覧ください。
+short-description: すべてのCommerce Intelligence アカウントで設定に含まれている 4 つのダッシュボードに関するガイド付きツアーについては、録画済みのウェビナーをご覧ください。
 kt: 10496
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
+>Adobe Commerce Intelligenceは、以前は [!DNL Magento Business Intelligence (MBI)] として知られていました。 過去のイベントの録画には、以前の名前が反映されます。
 
-各 Commerce Intelligence アカウントのセットアップ時に含まれる 4 つのダッシュボードのガイド付きツアーをご覧ください。 この記録済みウェビナーでは、e コマースストアのデータから価値を引き出す際にデフォルトのダッシュボードが果たす役割と、各ダッシュボードの大まかな目標について説明します。 また、次のような事前定義済みレポートの一般的な使用例についても説明します。
+すべてのCommerce Intelligence アカウントの設定に含まれている 4 つのダッシュボードについて、ガイド付きツアーをご覧ください。 この録画ウェビナーでは、e コマースストアデータから価値を得る際にデフォルトのダッシュボードが果たす役割を重点的に説明し、各ダッシュボードの大まかな目標について説明します。 また、次のような、事前定義済みレポートの一般的なユースケースについても説明します。
 
-- 顧客獲得月とライフタイム値の関係を視覚化することで、顧客獲得キャンペーンの影響を特定します。
-- 在庫またはスタッフの割り当てニーズを示す時間別注文配置のトレンドを見極めます。
-- 売上高別、GMV 別、および最も多くの払い戻しに使用する製品別に、最も成功した製品を特定します。
+- 顧客獲得月とライフタイム値の関係を視覚化して、顧客獲得キャンペーンの影響を特定します。
+- 在庫またはスタッフの割り当てニーズを示す、時間単位の注文配置のトレンドを見つけます。
+- 販売量と GMV、および最も多くの払い戻しを説明する製品によって、最も成功した製品を決定します。
 
 ## ビデオコンテンツ
 
@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 役に立つリソース
 
-[ダッシュボード](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[グラフデータのエクスポート](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[ ダッシュボード ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[ グラフ データのエクスポート ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

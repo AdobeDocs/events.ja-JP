@@ -1,6 +1,6 @@
 ---
-title: AdobeApp Builder を使用したAdobe Experience Managerヘッドレスの拡張
-description: イベント駆動型の統合、拡張性の高いサーバーレス処理、シングルページアプリケーション (SPA) に至るまで、App Builder はAdobe Experience Managerをヘッドレス方式でサードパーティシステムと統合するための強力な機能を提供します。 Adobe Experience Managerの拡張に App Builder が使用されている、実際の使用例と一般的なパターンの一部を説明します。
+title: Adobe App BuilderによるAdobe Experience Manager ヘッドレスの拡張
+description: App Builderは、イベント駆動型統合、スケーラブルなサーバーレス処理からシングルページアプリケーション（SPA）に至るまで、Adobe Experience Managerをサードパーティ製システムとヘッドレスで統合するための強力な機能を提供します。 App Builderを使用してAdobe Experience Managerを拡張した実際のユースケースと一般的なパターンを説明します。
 solution: Experience Manager
 topic: Headless
 role: User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# AdobeApp Builder を使用したAdobe Experience Managerヘッドレスの拡張
+# Adobe App BuilderによるAdobe Experience Manager ヘッドレスの拡張
 
-イベント駆動型の統合、拡張性の高いサーバーレス処理、シングルページアプリケーション (SPA) に至るまで、App Builder はAdobe Experience Managerをヘッドレス方式でサードパーティシステムと統合するための強力な機能を提供します。 Adobe Experience Managerの拡張に App Builder が使用されている、実際の使用例と一般的なパターンの一部を説明します。
+App Builderは、イベント駆動型統合、スケーラブルなサーバーレス処理からシングルページアプリケーション（SPA）に至るまで、Adobe Experience Managerをサードパーティ製システムとヘッドレスで統合するための強力な機能を提供します。 App Builderを使用してAdobe Experience Managerを拡張した実際のユースケースと一般的なパターンを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346385/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 2022 年 5 月はじめに
-description: 基本的な Analytics ユーザーインターフェイスを使用して、Analysis Workspaceで最初のプロジェクトを開始し、テーブル、ビジュアライゼーションおよびパネルを使用します。
+description: 基本的な Analytics ユーザーインターフェイスを使用し、テーブル、ビジュアライゼーション、パネルを使用してAnalysis Workspaceで最初のプロジェクトを開始します
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics
@@ -20,6 +20,6 @@ ht-degree: 4%
 
 # はじめに
 
-基本的な Analytics ユーザーインターフェイスに慣れ、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーションおよびパネルの使用を開始します。
+Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343329/?quality=12&learn=on)

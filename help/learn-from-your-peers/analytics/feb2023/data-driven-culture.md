@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] データ駆動型文化の構築'
-description: 結合 [!DNL Adobe Analytics] データ駆動型文化がどのようなものかを議論し、使用戦略を共有する際のチャンピオン・ギタイ・ベン・アンミ [!DNL Adobe Analytics] 1 つを作る
+title: 『データに基づく文化の [!DNL Adobe Analytics] 築』
+description: Gitai Ben [!DNL Adobe Analytics] Ammi が、データ駆動型の文化とはどのようなものかについて説明し、それを構築するために使用するための戦略を共有し  [!DNL Adobe Analytics]  います。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# データ駆動型文化の構築
+# データ主導型の文化の構築
 
-結合 [!DNL Adobe Analytics] データ駆動型文化がどのようなものかを議論し、使用戦略を共有する際のチャンピオン・ギタイ・ベン・アンミ [!DNL Adobe Analytics] 1 つを作る
+チャンピオン [!DNL Adobe Analytics] ある Gitai Ben-Ammi が、データ駆動型の文化とはどのようなものかについて説明し、[!DNL Adobe Analytics] れを使用して文化を構築するための戦略を共有します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

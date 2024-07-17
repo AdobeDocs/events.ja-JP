@@ -1,6 +1,6 @@
 ---
 title: Experience Makers The Skill Exchange
-description: Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。
+description: Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連のバーチャルカスタマーラーニングイベントです。
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 <img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
-Experience Makers Skill Exchange は、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルなバーチャルカスタマーラーニングイベントシリーズです。 このプログラムでは、Adobe製品の専門家やエキスパート仲間から、ベストプラクティス、ヒント、テクニックの共有を通じて学ぶ機会を提供します。
+Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連のバーチャルカスタマーラーニングイベントです。 このプログラムでは、Adobe製品のエキスパートやエキスパートから、ベストプラクティスやヒントやコツを学ぶことができます。
 
 >[!TIP]
 >
->**記録されたすべてのセッションは、左側のナビゲーションに表示されます**.
+>**記録されたすべてのセッションは、左側のナビゲーションに一覧表示されます**。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -38,15 +38,15 @@ Experience Makers Skill Exchange は、Adobe Experience Cloudソリューショ�
   <tr>
    <td>
       <a href="analytics/jun2021/getting-started.md">
-      <img alt="Analytics はじめに" src="./assets/analytics-getting-started.png"/>
+      <img alt="Analytics 使用の手引き" src="./assets/analytics-getting-started.png"/>
       </a>
       <div>
-         <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analyticsはじめに</strong></a>
+         <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analyticsの概要 </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         基本的な Analytics ユーザーインターフェイスに慣れ、Analysis Workspaceで最初のプロジェクトを開始します。
+         Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。
       </p>
     </td>
    <td>
@@ -54,25 +54,25 @@ Experience Makers Skill Exchange は、Adobe Experience Cloudソリューショ�
       <img alt="データメンテナンス" src="./assets/data-maintenance.png"/>
       </a>
       <div>
-         <a href="marketo/feb2022/data-maintenance.md"><strong>データメンテナンス</strong></a>
+         <a href="marketo/feb2022/data-maintenance.md"><strong> データメンテナンス </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         最も重要な資産をクリーンな状態に保つために、簡単に採用された方法論。
+         最も重要な資産をクリーンな状態に保つための、簡単に導入できる方法論。
       </p>
     </td>
    <td>
       <a href="workfront/apr2022/ten-tips.md">
-      <img alt="10 Tips to Wow Your Workfront" src="./assets/workfront-10-tips.png"/>
+      <img alt="Workfrontを理解するための 10 のヒント" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>10 Tips to Wow Your Workfront</strong></a>
+         Workfrontを <a href="workfront/apr2022/ten-tips.md"><strong> するための 10 のヒント </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         これらのヒントは、しばらくインスタンスにいた管理者が、より効率的な方法を希望している場合に役立ちます。
+         これらのヒントは、しばらくの間インスタンスに滞在し、物事をより効率的に行うことを望んでいる管理者に提供されます。
       </p>
     </td>
   </tr>

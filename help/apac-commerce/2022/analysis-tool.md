@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce Site Wide Analysis Tool
-description: サイト全体分析ツールこのウェビナーは、すべてのシステムインサイトにリアルタイムでアクセスし、Adobe Commerceサイトの問題を解決し、サイト全体の正常性を監視する前倒しの手順を取得したい商人に最適です。
+description: Site-Wide Analysis Tool このウェビナーは、すべてのシステムインサイトにリアルタイムでアクセスし、Adobe Commerce サイトの問題を解決し、サイト全体の正常性を監視するプロアクティブな手順を入手したいマーチャントに最適です。
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Adobe Commerce Site Wide Analysis Tool
 
-このウェビナーは、すべてのシステムインサイトにリアルタイムでアクセスし、Adobe Commerceのサイトの問題を解決し、サイトの全体的な正常性を監視する前もった手順を実行したい商人に最適です。
+このウェビナーは、すべてのシステムインサイトにリアルタイムでアクセスし、Adobe Commerce サイトの問題を解決しサイト全体の正常性を監視する必要があるマーチャントに最適です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347334/?quality=12&learn=on)

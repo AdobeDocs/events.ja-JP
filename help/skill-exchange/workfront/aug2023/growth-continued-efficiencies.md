@@ -1,6 +1,6 @@
 ---
-title: Experience Makers Spotlight — 成長に備え、効率性を維持
-description: Experience Makers Spotlight セッションに参加して、3 つの異なる組織から、Workfrontインスタンスの増加と拡大に対する取り組み方や拡大に関する情報を入手してください。
+title: Experience Makers のスポットライト – 成長と継続的な効率性に備える
+description: Experience Makers Spotlight セッションに参加して、3 つの非常に異なる組織から、Workfront インスタンスの拡大と拡張にどのようにアプローチしたかについて聞いてください。
 solution: Workfront
 feature: System Setup and Administration
 role: User, Admin
@@ -18,16 +18,16 @@ ht-degree: 0%
 
 ---
 
-# Experience Makers Spotlight — 成長に備え、効率性を維持
+# Experience Makers のスポットライト – 成長と継続的な効率性に備える
 
-Workfrontを実装し、最初のワークフローを正常に開始しました。次の単語が表示されます。Workfrontが機能し、誰もがワークフローに参加します。
+あなたはWorkfrontを実装し、最初のワークフローを正常に開始しました。これで、Workfrontがうまく機能し、誰もが望んでいます。
 
-「持つのは良い問題だ」と言うが、インスタンスを拡張するとはどういう意味なのか？ Experience Makers Spotlight セッションに参加して、3 つの異なる組織から、Workfrontインスタンスの増加と拡大に対する取り組み方や拡大に関する情報を入手してください。
+彼らが言うように、「持っていることは良い問題です」が、それはあなたのインスタンスを拡大するためにどのような意味ですか？ Experience Makers Spotlight セッションに参加して、3 つの非常に異なる組織から、Workfront インスタンスの拡大と拡張にどのようにアプローチしたかについて聞いてください。
 
-聞こえるだろう
+聞こえますよ。
 
-* Thermo Fisher Scientific のプロジェクト管理&amp;Workfrontリード、マーケティング技術者、Cathy Glenn 氏が、適切な人員配置とリソース（Group Admins の活用を含む）を信じる理由 成長のための重要な第一歩である
-* Amazon Web Services(AWS) のマーケティングオペレーションマネージャーである Trinite Bryant が、Workfront周辺にコミュニティとガバナンスの感覚を作り出し、使用と参加を増やし続けることで、成長を促進するために何をするか
-* Deloitte のテクニカルプログラムおよびプロジェクト管理担当マネージャである Tim Brooks が、Workfrontの拡張を合理化し、効率を継続的に発揮するために、製品化とテンプレート化を行った仕組み
+* Thermo Fisher Scientific のマーケティングテクノロジスト、プロジェクトマネジメント&amp;Workfront担当リード、Cathy Glenn 氏が、適切な人材とリソースの確保（グループ管理者の活用を含む）を確信する理由 成長への重要な第一歩である
+* Amazon Web Services（AWS）のマーケティングオペレーションマネージャーである Trinite Bryant が、Workfront周辺にコミュニティとガバナンスの感覚を醸成し、使用量とパーティシペーションを増やし続けることで成長を促進します
+* Deloitte のテクニカルプログラムおよびプロジェクトマネジメントのマネージャーである Tim Brooks が、Workfrontを製品化およびテンプレート化して、拡張を合理化し、継続的な効率性を見つける方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425813/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Workfront On-Demand イベント
-description: Workfront Events は、専門家や同業者がWorkfrontを使用して組織の作業を強化する方法に関する考えやアイデアを共有しているビデオライブラリです。
+title: Workfront オンデマンドイベント
+description: Workfront Events は、エキスパートや同業者が、Workfrontを使用して自社で行われている作業を強化する方法に関する考えやアイデアを共有するビデオライブラリです。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Workfront On-Demand イベント {#overview}
+# Workfront オンデマンドイベント {#overview}
 
-Workfrontの記録されたイベントのライブラリで、専門家や同業者がWorkfrontの使用方法に関する考えを共有します。
+録画されたWorkfront イベントのライブラリ。エキスパートや同業者が、Workfrontの使用方法に関する考えを共有します。
 
 ## 注目のセッション
 
@@ -20,15 +20,15 @@ Workfrontの記録されたイベントのライブラリで、専門家や同�
   <tr>
    <td>
       <a href="user-groups/workfront-system-maintenance.md">
-      <img alt="Workfront System Maintenance" src="assets/workfront-system-maintenance.png"/>
+      <img alt="Workfront システムメンテナンス" src="assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
+         <a href="user-groups/workfront-system-maintenance.md"><strong>Workfront システムメンテナンス </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         システム管理者のパネルでは、システム設定、定期メンテナンス、クリーンアップに関して考慮すべき事項について説明します。
+         システム管理者のパネルが、システムのセットアップ、定期的なメンテナンス、クリーンアップに関して考慮すべき事項を話し合います。
       </p>
     </td>
    <td>
@@ -36,25 +36,25 @@ Workfrontの記録されたイベントのライブラリで、専門家や同�
       <img alt="レポートとダッシュボード" src="assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="user-groups/reporting-and-dashboards.md"><strong>レポートとダッシュボード</strong></a>
+         <a href="user-groups/reporting-and-dashboards.md"><strong> レポートとダッシュボード </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         他のユーザーが組織向けに作成したレポートやダッシュボード、およびそれらが学習したベストプラクティスを確認できます。
+         他のユーザーが組織のために作成したレポートやダッシュボード、および学んだベストプラクティスを確認します。
       </p>
     </td>
    <td>
       <a href="user-groups/agile-in-marketing.md">
-      <img alt="Agile in Marketing" src="assets/agile-in-marketing.png"/>
+      <img alt="マーケティングにおけるアジャイル" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
+         <a href="user-groups/agile-in-marketing.md"><strong> マーケティングにおけるアジャイル </strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         アジャイルエキスパートは、俊敏で一般的なビジネスの俊敏性と、Workfrontをアジャイルに使う方法で、これまで見てきた高いポイントとトレンドについて話し合います。
+         アジャイルエキスパートが、アジャイル、ビジネス全体の俊敏性、アジャイルのためのWorkfrontの使用方法を使用して、これまで見てきたポイントとトレンドについて説明します。
       </p>
     </td>
   </tr>

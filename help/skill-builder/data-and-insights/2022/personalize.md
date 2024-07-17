@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Adobe Targetを使用したパーソナライズと自動化
 
-このセッションに参加して、自動ターゲットと自動パーソナライゼーションを使用したAdobe Target機能の自動化と最適化に関する主要概念について学びましょう。
+このセッションでは、自動ターゲットと自動パーソナライゼーションを使用したAdobe Target機能の自動化および最適化の中心概念について説明します。
 
-*マティアスコリッチ* シニアマルチソリューショントレーナー EMEA /Adobe
+*Matthias Kolitsch* シニアマルチソリューショントレーナー EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

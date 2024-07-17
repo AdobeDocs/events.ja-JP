@@ -1,6 +1,6 @@
 ---
-title: AEM Cloud Serviceでのインデックス最適化の基盤
-description: AEM CS Indexing の変更点と、それが様々なプロジェクトに与える影響、AEMaaCS 上のインデックスに関する課題、およびこれらのインデックスを最適化するためのベストプラクティス
+title: AEM Cloud Serviceを使用したインデックス最適化の基盤
+description: AEM CS のインデックス作成の変更と様々なプロジェクトへの影響、AEMaaCS 上のインデックスに関するお客様の課題、これらのインデックスを最適化するためのベストプラクティス
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEM Cloud Serviceでのインデックス最適化の基盤
+# AEM Cloud Serviceを使用したインデックス最適化の基盤
 
-このライブセッションでは、AEMas a Cloud Service(AEMaaCS) でインデックス作成をおこないます。 ここでは、変更のインデックス作成と、様々なプロジェクトに与える影響、AEMaaCS でのインデックスに関する課題、およびこれらのインデックスを最適化するためのベストプラクティスについて説明します。
+このライブセッションでは、AEM as a Cloud Service（AEMaaCS）でのインデックス作成について説明します。 インデックス作成の変更とそれが様々なプロジェクトに与える影響、AEMaaCS でのインデックス作成で顧客が直面する課題、これらのインデックスを最適化するためのベストプラクティスについて説明します
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422534/?learn=on)

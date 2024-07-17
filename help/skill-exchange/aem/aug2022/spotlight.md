@@ -1,6 +1,6 @@
 ---
-title: Experience Makers Spotlight
-description: 2 人のエキスパートAEMユーザーに注目してください。  それぞれが、最高のAEMのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。  これを見逃したくない。
+title: Experience Makers スポットライト
+description: 2 人のエキスパート AEM ユーザーにご注目ください。  それぞれが最高のAEMのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。  あなたはこれを見逃したくないです。
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Experience Makers Spotlight
+# Experience Makers スポットライト
 
-2 人のエキスパートAEMユーザーに注目してください。  それぞれが、最高のAEMのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。  これを見逃したくない。
+2 人のエキスパート AEM ユーザーにご注目ください。  それぞれが最高のAEMのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。  あなたはこれを見逃したくないです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346389/?quality=12&learn=on)

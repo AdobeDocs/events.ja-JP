@@ -1,6 +1,6 @@
 ---
-title: OSGi 内部 — なぜ私たちはそれを愛し、なぜ本当に気にする必要がないのか
-description: OSGi を使用する理由、クラウドでの関連性、Adobe Experience Managerの開発者が知る必要のある事項について、Carsten Ziegeler、Karl Pauls、David Bosschaert とのパネル。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: OSGi 内部 – 私たちが OSGi を気に入る理由と、気にする必要がない理由
+description: Carsten Ziegeler、Karl Pauls、David Bosschaert による、OSGi を使用する理由、クラウドで関連する理由、Adobe Experience Manager開発者が知る必要のあるもの、に関するパネルです。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# OSGi 内部 — なぜ私たちはそれを愛し、なぜ本当に気にする必要がないのか
+# OSGi 内部 – 私たちが OSGi を気に入る理由と、気にする必要がない理由
 
-OSGi を使用する理由、クラウドでの関連性、Adobe Experience Managerの開発者が知る必要のある事項について、Carsten Ziegeler、Karl Pauls、David Bosschaert とのパネル。
+Carsten Ziegeler、Karl Pauls、David Bosschaert による、OSGi を使用する理由、クラウドで関連する理由、Adobe Experience Manager開発者が知る必要のあるもの、に関するパネルです。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

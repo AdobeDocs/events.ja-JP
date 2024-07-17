@@ -1,6 +1,6 @@
 ---
-title: Adobe Analyticsでの処理ルールの機能のロック解除
-description: Adobe AnalyticsチャンピオンのAdobe Analyticsの隠れた gem — 処理ルールを使用して、データ処理と分析を効率的に最適化する方法を説明します。 この貴重なツールは、様々な問題に対処し、データフローを微調整し、さらに処理する前に正確なデータ割り当てまたは修正を可能にします。
+title: Adobe Analyticsの処理ルール機能のロック解除
+description: Adobe Analytics チャンピオンが、Adobe Analyticsの隠れた gem – 処理ルールを使用して、データ処理と分析を効率的に最適化する方法を説明します。 この貴重なツールは、幅広い問題に対処し、データフローを微調整し、さらに処理する前に正確なデータの割り当てまたは修正を可能にします。
 feature-set: Analytics
 feature: Processing Rules
 role: User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analyticsでの処理ルールの機能のロック解除
+# Adobe Analyticsの処理ルール機能のロック解除
 
-Adobe AnalyticsチャンピオンのAdobe Analyticsの隠れた gem（処理ルール）を使用して、データ処理と分析を効率的に最適化する方法を説明します。 この貴重なツールは、様々な問題に対処し、データフローを微調整し、さらに処理する前に正確なデータ割り当てまたは修正を可能にします。
+Adobe Analytics チャンピオンがAdobe Analyticsの隠れた gem：処理ルールを使用して、データ処理と分析を効率的に最適化する方法を説明します。 この貴重なツールは、幅広い問題に対処し、データフローを微調整し、さらに処理する前に正確なデータの割り当てまたは修正を可能にします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422690/?learn=on)

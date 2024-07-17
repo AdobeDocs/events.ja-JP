@@ -1,6 +1,6 @@
 ---
-title: AEMチャンピオンの営業時間
-description: このAdobe Experience Manager User Group(AEMUG) は、2022 年から 2023 年のAEMチャンピオンクラスで容易に実施できます。 Champions は、この AEMUG を毎月の営業時間のプラットフォームとして使用します
+title: AEM チャンピオンの営業時間
+description: このAdobe Experience Manager ユーザーグループ（AEMUG）は、2022～2023 年のAEM チャンピオンクラスによって促進されます。 チャンピオンは、この AEMUG を毎月の営業時間のプラットフォームとして使用します
 exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
 duration: 72
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# AEMチャンピオンの営業時間
+# AEM チャンピオンの営業時間
 
-このAdobe Experience Manager User Group(AEMUG) は、2022 年から 2023 年のAEMチャンピオンクラスで容易に実施できます。 Champions は、この AEMUG を月々の営業時間のプラットフォームとして使用します。AEMの実務担当者や開発者は、あらゆる経験レベルの人々が参加し、最も厳しい質問にエキスパートExperience Managerのお客様、パートナー、コンサルタントが回答できます。
+このAdobe Experience Manager ユーザーグループ（AEMUG）は、2022～2023 年のAEM チャンピオンクラスによって促進されます。 チャンピオンは、この AEMUG を毎月の営業時間のプラットフォームとして使用します。そこでは、AEMの実務担当者やあらゆるエクスペリエンスレベルの開発者が参加し、最も難しい質問に専門家のExperience Managerのお客様、パートナー、コンサルタントが回答することができます。
 
-Adobe Experience Managerの知識と使い方を向上させ、Experience Managerの思考リーダーと対話し、専属的なスワッグを学びたい場合は、今すぐAEMチャンピオン Office Hours User Group に参加してください。
+Adobe Experience Managerの知識と活用を高め、Experience Managerのソートリーダーとやり取り、特別なスワッグを獲得することに興味がある場合は、今すぐAEM Champion Office Hours User Group にご参加ください。
 
 <!--
 ## What's New
@@ -66,4 +66,4 @@ Adobe Experience Managerの知識と使い方を向上させ、Experience Manage
 
 >[!TIP]
 >
->**記録されたすべてのセッションは、左側のナビゲーションに表示されます**.
+>**記録されたすべてのセッションは、左側のナビゲーションに一覧表示されます**。

@@ -1,6 +1,6 @@
 ---
-title: データとインサイト — 2022 年のイノベーションと傾向
-description: Experience Cloudへの投資を最大限に活用し、新しいイノベーションを見て、データを適切に活用します。
+title: データとインサイト - 2022 年のイノベーションとトレンド
+description: Experience Cloudへの投資を最大限に活用してデータを適切に活用し、新しいイノベーションを覗き見てください。
 solution: Analytics, Customer Journey Analytics, Target
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 「データとインサイト」スペースの新機能 2022 年イノベーション
+# データとインサイト領域の新機能 2022 年イノベーション
 
-この基調講演では、D&amp;I のトレンドのトップについて学びます。お客様のExperience Cloud投資を最大限に活用し、新しいイノベーションを見据えて、お客様のデータをどのように適切に利用できるかを検討してください。
+今回の基調講演では、D&amp;I のトップトレンドについて学びます。Experience Cloudへの投資を最大限に活用してデータを適切に活用し、新しいイノベーションを覗く方法をご覧ください。
 
-*アクセルシェファー* 製品マーケティング担当責任者、Analytics EMEA/Adobe
+*Axel Schaefer* Analytics、EMEA/Adobe担当プロダクトマーケティング責任者
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

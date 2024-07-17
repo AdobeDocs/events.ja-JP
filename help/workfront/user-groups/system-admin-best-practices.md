@@ -1,6 +1,6 @@
 ---
-title: システム管理のベストプラクティス（2020 年 9 月 30 日）
-description: FCB の Anthony Imground 氏は、組織のグローバルシステム管理者である場合に、いくつかのベストプラクティスを共有します。
+title: システム管理のベストプラクティス（2020 年 9 月 29 日）
+description: FCB の Anthony Imgrund 氏が、組織のグローバルシステム管理者である際のベストプラクティスをいくつか紹介します。
 role: Admin
 level: Beginner, Intermediate, Experienced
 kt: 10009
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# システム管理のベストプラクティス（2020 年 9 月 30 日）
+# システム管理のベストプラクティス（2020 年 9 月 29 日）
 
-FCB の Anthony Imground 氏は、組織のグローバルシステム管理者である場合に、いくつかのベストプラクティスを共有します。
+FCB の Anthony Imgrund 氏が、組織のグローバルシステム管理者である際のベストプラクティスをいくつか紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341227/?quality=12&learn=on)

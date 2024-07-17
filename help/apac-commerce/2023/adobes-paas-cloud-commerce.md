@@ -1,6 +1,6 @@
 ---
-title: Adobeの PaaS Cloud Commerce でビジネスを合理化
-description: AdobeのCommerce CloudPaaS ソリューションの価値を調べます。 現在、自己ホスト型で、PaaS ソリューションの機能を知りたがっている方には、このウェビナーをご利用ください。
+title: Adobeの PaaS Cloud Commerceを使用したビジネスの合理化
+description: AdobeのCommerce Cloud PaaS ソリューションの価値を探る。 現在、自己ホスト型で、PaaS ソリューションが提供できる機能を知りたいと考えているユーザー向けに、このウェビナーを用意しました。
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Adobeの PaaS Cloud Commerce でビジネスを合理化
+# Adobeの PaaS Cloud Commerceを使用したビジネスの合理化
 
-APAC コマースウェビナーシリーズの最新版では、AdobeのCommerce CloudPaaS ソリューションの価値を検討します。 自己ホスト型で、PaaS ソリューションが提供するものを知りたがる人にとって、このウェビナーは、お客様向けです。 既にAdobe Commerce Cloudをご利用のお客様の場合は、既存の設定を最大限に活用する方法の詳細をお知らせください。
+APAC Commerce ウェビナーシリーズの最新号では、AdobeのCommerce Cloud PaaS ソリューションの価値を探ります。 PaaS ソリューションが提供できる機能を知りたいと考えている方は、このウェビナーをご覧ください。 既にAdobe Commerce Cloudを使用している場合は、ぜひご参加ください。既存の設定の価値を最大限に高める方法について、詳しくお聞きいただけます。
 
-インドネシアの大手スポーツウェア販売代理店、パナトレードのお客様から、オンプレミスからAdobe Commerce Cloudへの旅と、EC ビジネス向けに完全に最適化され管理されたソリューションに移行した際の報酬を受け取る方法についてお聞かせいただけます。
+お客様の 1 人、インドネシアの大手スポーツウェア販売会社である Panatrade 氏から、オンプレミスからAdobe Commerce Cloudへの移行の様子と、e コマースビジネスに完全に最適化された管理ソリューションへの移行によって得られる報酬について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419132/?learn=on)

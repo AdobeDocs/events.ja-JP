@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics — すべてをまとめる
-description: Adobe Analyticsによる Web サイトデータの追跡方法、保存、共有、共同作業方法を理解することで、内容をまとめます。 生産性を高めるためのヒントを含め、このセッションを終了してください。
+title: Adobe Analytics – まとめ
+description: Adobe Analyticsによる web サイトデータの追跡方法、保存、共有、共同作業の方法を理解することで、作業を完了します。 生産性を高めるためのヒントをこのセッションに残してください。
 solution: Analytics
 role: User
 level: Beginner
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe Analytics：まとめ
 
-Adobe Analyticsによる Web サイトデータの追跡方法、保存、共有、共同作業方法を理解することで、内容をまとめます。 このセッションを終了し、生産性を高め、学習の道筋を継続するためのヒントを残します。
+Adobe Analyticsによる web サイトデータの追跡方法、保存、共有、共同作業の方法を理解することで、作業を完了します。 生産性を向上させ、学習ジャーニーを継続するためのヒントをこのセッションに残してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342529/?quality=12&learn=on)

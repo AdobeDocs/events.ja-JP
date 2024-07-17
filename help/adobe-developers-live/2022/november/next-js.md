@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live- 11 月 23 日 — Next.JS アプリにコンテキスト内およびヘッドレスオーサリングを導入
-description: Next.JS にコンテキスト内およびヘッドレスオーサリングを提供 AppNext.js は、特にハイブリッド静的およびサーバーレンダリングを使用した、実稼動に備えた React アプリを構築するための優れた開発者体験を提供します。 Adobe Experience Managerを活用したサイトに最適な配信手段です。このセッションでは、次の方法を示します。Adobe Experience Managerコンテンツでの新しい Next.js アプリの操作 React Editable SDK を使用してコンテキスト内編集を有効にするAdobe Experience Managerヘッドレス CMS からコンテンツを取得し、Next.js アプリでレンダリング
+title: Adobe Developers Live - 11 月 22 日（PT） – コンテキスト内およびヘッドレスオーサリングを Next.JS アプリに取り込む
+description: Next.JS にコンテキスト内オーサリングとヘッドレスオーサリングを取り入れる AppNext.js は、特にハイブリッド静的およびサーバーレンダリングで、実稼動用の React アプリを構築するための優れた開発者エクスペリエンスを提供します。 Adobe Experience Manager コンテンツを操作する新しい Next.js アプリを素早くブートストラップする React 編集可能 SDK を使用して、コンテキスト内の編集を有効にするAdobe Experience Manager Adobe Experience Manager ヘッドレス CMS からコンテンツを取得し、Next.js アプリでレンダリングする
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 ---
 
-# Next.JS アプリにコンテキスト内オーサリングとヘッドレスオーサリングを取り込む
+# Next.JS アプリにコンテキスト内オーサリングとヘッドレスオーサリングを追加
 
-Next.js は、特にハイブリッド静的およびサーバーレンダリングを使用した、実稼動に備えた React アプリを構築するための優れた開発者エクスペリエンスを提供します。 Adobe Experience Managerを活用したサイトに最適な配送手段です。
+Next.js は、特に静的およびサーバーレンダリングのハイブリッドを備えた、実稼動用の React アプリを構築するための優れた開発者エクスペリエンスを提供します。 Adobe Experience Managerを活用したサイトに最適な配信手段です。
 
-このセッションでは、以下の方法について説明します。
+このセッションでは、以下の方法を説明します。
 
-* Adobe Experience Managerコンテンツでの新しい Next.js アプリの操作をすばやくブートストラップします。
-* React Editable SDK を使用して、コンテキスト内編集を有効にする
-* Adobe Experience Managerヘッドレス CMS からコンテンツを取得し、Next.js アプリでレンダリングする
+* Adobe Experience Manager コンテンツを使用する新しい Next.js アプリをすばやくブートストラップする
+* React 編集可能 SDK を使用したコンテキスト内編集の有効化
+* Adobe Experience Manager ヘッドレス CMS からのコンテンツの取得と Next.js アプリでのレンダリング
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411303/?quality=12&learn=on)

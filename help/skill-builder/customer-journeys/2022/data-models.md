@@ -1,6 +1,6 @@
 ---
-title: Adobeでのデータモデルの開発とカスタマイズ [!DNL Campaign Classic]
-description: 内でデータモデル内のデータスキーマを開発する方法を学ぶ [!DNL Campaign Classic]
+title: Adobeでのデータモデルの開発とカスタマイズ  [!DNL Campaign Classic]
+description: ' [!DNL Campaign Classic] の場所にあるデータモデル内でデータスキーマを開発する方法を説明します。'
 solution: Campaign Classic
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Adobeでのデータモデルの開発とカスタマイズ [!DNL Campaign Classic]
+# Adobe[!DNL Campaign Classic] でのデータモデルの開発とカスタマイズ
 
-このセッションに参加するには、 [!DNL Campaign] 内でデータモデル内のデータスキーマを開発する方法を学ぶトレーナー [!DNL Campaign Classic].
+[!DNL Campaign] トレーナーと共にこのセッションに参加して、[!DNL Campaign Classic] 内のデータモデル内のデータスキーマを開発する方法を学習してください。
 
-*カミリアタジ* トレーニングコンサルタント/Adobe
+*カミリア・タジ* トレーニングコンサルタント/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343829/?quality=12&learn=on)

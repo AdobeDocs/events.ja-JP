@@ -1,6 +1,6 @@
 ---
 title: アドビ開発者ライブ
-description: Adobe Developers Liveからのセッション記録のコレクション
+description: Adobe Developers Liveのセッション録画のコレクション
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
@@ -15,15 +15,15 @@ ht-degree: 29%
 
 <img alt="アドビ開発者ライブ" src="assets/adl.png" />
 
-アドビ開発者向けライブは、多様な背景と単一の目的を持つアドビ開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。この 2 日間の会議では、開発者向けの重要な更新、技術セッション、コミュニティネットワークの機会を紹介します。
+アドビ開発者向けライブは、多様な背景と単一の目的を持つアドビ開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。この 2 日間の会議では、開発者に関する重要なアップデート、技術セッション、コミュニティネットワークの機会を紹介します。
 
-Adobe Experience Cloud、Document Cloud、Creative Cloudの各Adobe製品チームは、デザイン、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を業界全体で実現する、最新の技術進歩と開発者ツールを紹介します。
+Adobe Experience Cloud、Document Cloud、Creative CloudのAdobeプロダクトチームは、業界をまたいだ設計、コンテンツ作成ワークフロー、ドキュメントサービス、カスタマーエクスペリエンス管理を支える最新の技術進歩と開発者ツールを紹介します。
 
-今後のイベントに登録 **[ここ](https://developerevents.adobe.com/)**.
+今後のイベントに登録するには **[こちら ](https://developerevents.adobe.com/)** をクリックしてください。
 
 >[!TIP]
 >
->**記録されたすべてのセッションは、左側のナビゲーションに表示されます**.
+>**記録されたすべてのセッションは、左側のナビゲーションに一覧表示されます**。
 
 <!--
 

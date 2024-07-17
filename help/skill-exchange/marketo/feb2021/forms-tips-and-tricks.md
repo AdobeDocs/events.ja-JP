@@ -1,6 +1,6 @@
 ---
-title: Get inFORMation -Formsの究極のヒントとテクニック
-description: Formsは、組織の需要生成ジャーニーの重要な要素ですが、多くの場合、最適化されていることを確認するために答える必要があります。
+title: Get inFORM - Formsの究極のヒントとコツ
+description: Formsは組織のデマンド ジェネレーション ジャーニーの重要な部分ですが、最適化を確認するために、多くの場合、質問に答える必要があります。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Get inFORMation -Formsの究極のヒントとテクニック
+# Get inFORM - Formsの究極のヒントとコツ
 
-Formsは、組織の需要生成ジャーニーの重要な要素ですが、多くの場合、最適化されていることを確認するために答える必要があります。 このセッションでは、 [!DNL Marketo Engage] Champions（アマンダ）と Julz は、収集したデータの精度を高め、コンバージョン率を高めるためのベストプラクティスとヒントを紹介します。
+Formsは組織のデマンド ジェネレーション ジャーニーの重要な部分ですが、最適化を確認するために、多くの場合、質問に答える必要があります。 このセッションでは、[!DNL Marketo Engage] Champions の Amanda と Julz が、収集されたデータの精度を高め、コンバージョン率を高めるためにフォームに適用するベストプラクティスとヒントを順を追って説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)

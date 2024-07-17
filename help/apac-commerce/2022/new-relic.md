@@ -1,6 +1,6 @@
 ---
-title: New Relic Masterclass — インフラストラクチャの管理
-description: New Relicを使用してインフラストラクチャを制御する方法を学びます。 インフラストラクチャデータにアクセスし、把握することで、絶対に自信を持って次のキャンペーンにアプローチします。
+title: New Relicのマスタークラス – インフラストラクチャを管理
+description: New Relicを使用してインフラストラクチャを制御する方法について説明します。 インフラストラクチャデータにアクセスして理解することで、絶対的な信頼性で次のキャンペーンに取り組みます。
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# New Relic Masterclass — インフラストラクチャの管理
+# New Relicのマスタークラス – インフラストラクチャを管理
 
-このウェビナーに参加して、New Relicでのインフラストラクチャの制御方法を学んでください。 インフラストラクチャデータにアクセスし、把握することで、絶対に自信を持って次のキャンペーンにアプローチします。
+このウェビナーに参加して、New Relicでインフラストラクチャを制御する方法を学習してください。 インフラストラクチャデータにアクセスして理解することで、絶対的な信頼性で次のキャンペーンに取り組みます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345148/?quality=12&learn=on)

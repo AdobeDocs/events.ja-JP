@@ -1,6 +1,6 @@
 ---
-title: GraphQLを使用したCommerce integration frameworkの拡張機能
-description: GraphQLを使用して Commerce コアコンポーネントを拡張する方法を説明します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: GraphQLによるCommerce integration framework拡張
+description: GraphQLを使用してCommerce コアコンポーネントを拡張する方法について説明します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# GraphQLを使用したCommerce integration frameworkの拡張機能
+# GraphQLによるCommerce integration framework拡張
 
-GraphQLを使用して Commerce コアコンポーネントを拡張する方法を説明します。
+GraphQLを使用してCommerce コアコンポーネントを拡張する方法について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** をクリックしてください。

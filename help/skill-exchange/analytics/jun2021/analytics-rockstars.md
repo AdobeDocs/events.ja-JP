@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics・ロックスターズ
-description: 4 人の「ロックスター」のお客様がそれぞれ、最高のAdobe Analytics・チップまたはトリックを提示します。 誰が信じられないほどあなたを驚かせるでしょうか？ リアルタイムで視聴および投票します。
+title: Adobe Analytics ロックスターズ
+description: 「Rockstar」を使用するお客様 4 名に、最高のAdobe Analyticsのヒントやテクニックを紹介します。 誰があなたを信じられないほど魅了しますか？ リアルタイムで視聴および投票できます。
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics・ロックスターズ
+# Adobe Analytics ロックスターズ
 
-4 人の「ロックスター」のお客様がそれぞれ、最高のAdobe Analytics・チップまたはトリックを提示します。 誰が信じられないほどあなたを驚かせるでしょうか？ リアルタイムで視聴および投票します。
+「Rockstar」を使用するお客様 4 名に、最高のAdobe Analyticsのヒントやテクニックを紹介します。 誰があなたを信じられないほど魅了しますか？ リアルタイムで視聴および投票できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342530/?quality=12&learn=on)

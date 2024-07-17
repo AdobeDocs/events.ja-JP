@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] チャンピオンのヒントとテクニック Q&A'
-description: 我々は五人を集めた [!DNL Adobe Analytics] 世界中から集まったチャンピオンが、彼らをマスターするのに役立ったヒントとテクニックを共有する [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics] 世界中のユーザーを対象にしています。 以降 [!DNL Adobe Analytics] 専門家は、Q&A のライブ中にこれらの質問に全て答えることができず、私たちはグループを再び結び付け、Q&A フォローアップセッションを開催し、Champions が YOUR の質問に答え、さらに多くの専門家のヒントとテクニックを共有しました。
+title: '[!DNL Adobe Analytics] チャンピオンのヒントとテクニックのフォローアップ Q&A'
+description: 世界中から 5 人  [!DNL Adobe Analytics]  チャンピオンが集まり、世界中のユーザーをマスターするのに役立つヒントやコツを  [!DNL Adobe Analytics]. During the event, over 90 questions were asked by [!DNL Adobe Analytics]  供しました。 ライブ Q&A では  [!DNL Adobe Analytics]  のエキスパートが全ての質問に答えることができなかったので、私たちはグループに戻り、フォローアップ Q&A セッションを開催し、チャンピオンがあなたの質問に答え、さらに多くのエキスパートのヒントとテクニックを共有しました。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] チャンピオンのヒントとテクニックのフォローアップ Q および A
+# [!DNL Adobe Analytics] チャンピオンのヒントとテクニックのフォローアップ Q&amp;A
 
-我々は五人を集めた [!DNL Adobe Analytics] 世界中から集まったチャンピオンが、彼らをマスターするのに役立ったヒントとテクニックを共有する [!DNL Adobe Analytics]. このイベントの間、90 件以上の質問がによって行われました [!DNL Adobe Analytics] 世界中のユーザーを対象にしています。 以降 [!DNL Adobe Analytics] 専門家は、Q&amp;A のライブ中にこれらの質問に全て答えることができず、私たちはグループを再び結び付け、Q&amp;A フォローアップセッションを開催し、Champions が YOUR の質問に答え、さらに多くの専門家のヒントとテクニックを共有しました。
+私たちは世界中から 5 人の [!DNL Adobe Analytics] チャンピオンを集め、彼らが [!DNL Adobe Analytics] を習得するのに役立つヒントとコツを共有しました。 イベント中には、世界中の [!DNL Adobe Analytics] 人のユーザーから 90 を超える質問がありました。 ライブ Q&amp;A では [!DNL Adobe Analytics] のエキスパートが全ての質問に答えることができなかったので、私たちはグループに戻り、フォローアップ Q&amp;A セッションを開催し、チャンピオンがあなたの質問に答え、さらに多くのエキスパートのヒントとテクニックを共有しました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414192/?quality=12&learn=on)

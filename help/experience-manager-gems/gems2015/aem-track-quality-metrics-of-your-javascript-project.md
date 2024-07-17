@@ -1,5 +1,5 @@
 ---
-title: JavaScript プロジェクトの品質指標のトラック
+title: JavaScript プロジェクトの品質指標の追跡
 description: Sonarqube 分析を JavaScript プロジェクトに統合し、基本的な静的コード分析、単体テストの対象範囲、統合テストの対象範囲（AEM）を利用するための方法を説明します。
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
@@ -8,11 +8,11 @@ duration: 4834
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 100%
+ht-degree: 2%
 
 ---
 
-# JavaScript プロジェクトの品質指標のトラック{#track-quality-metrics-of-your-javascript-project}
+# JavaScript プロジェクトの品質指標の追跡{#track-quality-metrics-of-your-javascript-project}
 
 Sonarqube 分析を JavaScript プロジェクトに統合し、次の機能を使用するための方法を説明します。
 
@@ -22,11 +22,11 @@ Sonarqube 分析を JavaScript プロジェクトに統合し、次の機能を�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
-*2015年12月9日（PT）に配信*
+*2015 年 12 月 9 日（PT）に配信*
 
 **発表者：**
 
-* アドビ、リード QE デベロッパー、David Catalan
+* Adobe、リード QE デベロッパー、David Catalan
 
 **発表者のスライド**
 

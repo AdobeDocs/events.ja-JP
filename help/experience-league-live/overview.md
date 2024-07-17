@@ -27,7 +27,7 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 <tr>
 
 <td style="vertical-align: top;">
-      <b>近日公開予定の新しい番組についてご確認ください。 それまでの間、下のリンクをクリックするか、左側のナビゲーションでリンクをクリックして、以前のエピソードを表示します。</b>
+      <b> 近日公開予定の新しい番組についてご確認ください。 それまでの間、下のリンクをクリックするか、左側のナビゲーションでリンクをクリックして、以前のエピソードを確認してください。</b>
   </td>
 </tr>
 </table>
@@ -56,10 +56,10 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>ヘッドフルからヘッドレスへのAEM</strong>
+        ヘッドフルからヘッドレスへの <strong>AEM</strong>
       </a>
-      <br/><em>ダニー・ゴードン、アモール・アナンド、サチン・マリ、ショーン・シュタイマーと共に</em>
-      <br/><em>2022 年 4 月 21 日（Pt）</em>
+      <br/><em>Danny Gordon、Amol Anand、Sachin Mali、Sean Steimer</em>
+      <br/><em>2022 年 4 月 21 日 </em>
     </div>
   </td>
 
@@ -68,9 +68,9 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
       <img alt="Experience League LIVE EP8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics – 内側のスクープ</strong></a>
-      <br/><em>trevor Paulsen 氏、Rohit Gossain 氏、Alex Strawn 氏</em>
-      <br/><em>2021 年 1 月 25 日（Pt）</em>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics – 内側のスクープ </strong></a>
+      <br/><em>Trevor Paulsen 氏、Rohit Gossain 氏、Alex Strawn 氏 </em>
+      <br/><em>2021 年 1 月 25 日 </em>
     </div>
   </td>
 
@@ -80,10 +80,10 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>エキスパートに質問する：Web SDK の基本</strong>
+        <strong> エキスパートに質問する：Web SDK の基本 </strong>
       </a>
-      <br/><em>Rudi Shumpert、Jeff Chasin、Eric Matisoff との共同作業</em>
-      <br/><em>2022 年 5 月 26 日（Pt）</em>
+      <br/><em>Rudi Shumpert、Jeff Chasin、Eric Matisoff 氏との共著 </em>
+      <br/><em>2022 年 5 月 26 日 </em>
     </div>
   </td>
   </tr>
@@ -93,4 +93,4 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 
 >[!TIP]
 >
->その他の学習方法については、無料でご確認ください [コース](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) 個人だけでなく個人 [チュートリアル](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja).
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。

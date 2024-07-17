@@ -1,6 +1,6 @@
 ---
-title: を使用した大規模なコードでのパーソナライゼーションの分解 [!DNL Marketo Engage]
-description: Adobe内で使用可能なパーソナライゼーション機能について説明します [!DNL Marketo Engage]；トークン、セグメント化、動的コンテンツおよびスニペット、Velocity スクリプティング。  カスタムオブジェクトのデータを使用したコンテンツのパーソナライズを含む、高度な Velocity スクリプティングの使用例です。
+title: ' [!DNL Marketo Engage] を使用して、スケールコードでPersonalizationをクラックする'
+description: Adobe [!DNL Marketo Engage] 内で使用できるパーソナライズ機能、トークン、セグメント化、動的コンテンツおよびスニペット、Velocity スクリプティングについて説明します。  カスタムオブジェクトをソースとするデータを使用したコンテンツのパーソナライズなど、高度な速度スクリプティングの使用例。
 solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# を使用した大規模なコードでのパーソナライゼーションの分解 [!DNL Marketo Engage]
+# [!DNL Marketo Engage] を使用した、スケールコードでのPersonalizationのクラック
 
-今日のデータ駆動型の世界では、マーケティングコンテンツをパーソナライズしていない場合、オーディエンスとつながりを持つ機会が欠けています。 結合 [!DNL Marketo Engage] Adobe内で利用可能なパーソナライゼーション機能を使用して最大限の成果を得るための知恵を共有するチャンピオン、Courtny Edwards-Jones、Darshil Shah [!DNL Marketo Engage].
+今日のデータ駆動型の世界では、マーケティングコンテンツをパーソナライズしないと、オーディエンスとつながる機会を失うことになります。 [!DNL Marketo Engage] Champions、Courtny Edwards-Jones、Darshil Shah が、Adobe[!DNL Marketo Engage] ーム内で利用可能なパーソナライズ機能を使用して最も燃費が良くなるという英知を共有します。
 
-このウェビナーでは、次の内容を学習します。
+このウェビナーでは、次の内容について説明します。
 
 * パーソナライゼーションが重要な理由
-* それぞれで使用する主なパーソナライゼーションの使用例と手法です。 内で使用可能な機能とテクニック [!DNL Marketo Engage] トークン、セグメント化、動的コンテンツ&amp;スニペット、Velocity スクリプティングの使用方法について説明します。
-* カスタムオブジェクトのデータを使用したコンテンツのパーソナライズを含む、高度な Velocity スクリプティングの使用例です。
+* 主要なパーソナライゼーションのユースケースと、それぞれに使用する技術。 [!DNL Marketo Engage] 内で使用できる機能とテクニック（トークン、セグメント化、動的コンテンツとスニペット、速度スクリプティング）の使用方法について説明します。
+* カスタムオブジェクトをソースとするデータを使用したコンテンツのパーソナライズなど、高度な速度スクリプティングの使用例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)

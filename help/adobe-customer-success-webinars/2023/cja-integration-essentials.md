@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics統合の基本事項
-description: CJA を他のAdobeソリューションと連携するよう最適化して、組織がデータ駆動型パーソナライゼーションを実行する能力を強化する方法について説明します。
+description: CJA を他のAdobeソリューションと連携するように最適化し、データ駆動型Personalizationを実行する組織の機能を強化する方法について説明します。
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics, Experience Platform Integration
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 # Customer Journey Analytics統合の基本事項
 
-CJA を他のAdobeソリューションと連携するよう最適化して、組織がデータ駆動型パーソナライゼーションを実行する能力を強化する方法について説明します。
+CJA を他のAdobeソリューションと連携するように最適化し、データ駆動型Personalizationを実行する組織の機能を強化する方法について説明します。
 
-* 主な CJA 統合機能の概要
-* Customer Journey Analytics統合の使用例
-* 主な考慮事項とインサイトのアクティブ化
+* 注目の CJA 統合機能の概要
+* Customer Journey Analytics統合のユースケース
+* 主な考慮事項とインサイトのアクティベーション
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425521/?learn=on)

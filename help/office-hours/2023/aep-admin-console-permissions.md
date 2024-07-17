@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform -Admin Console権限
-description: Admin Console と変更点、RTCDP UI、Adobe.io/developerコンソール内の新しいアクセス制御、および RTCDP API 統合の権限の設定方法。
+title: Adobe Experience Platform - Admin Console権限
+description: Admin Console と変更点、RTCDP UI 内の新しいアクセス制御、Adobe.io/developer コンソール、RTCDP API 統合の権限を設定する方法について説明します。
 feature-set: Experience Platform
 feature: Access Control, API
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Platform -Admin Console権限
+# Adobe Experience Platform - Admin Console権限
 
-対象となるトピック — Admin Console と変更点、RTCDP UI 内の新しいアクセス制御、Adobe.io/developerコンソール、および RTCDP API 統合の権限の設定方法に関するトピック。
+対象となるトピックは、Admin Console と変更点、RTCDP UI 内の新しいアクセス制御、Adobe.io/developer コンソール、RTCDP API 統合の権限を設定する方法です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422626/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 2023 年 8 月 Learn Track - Adobe Analytics Putting it all.
-description: このセッションでは、Adobe Analyticsが Web サイトのデータをどのように追跡するかを理解し、ビジュアライゼーションを利用してさらに詳細なインサイトを得ることで、内容をまとめます。
+title: 2023 年 8 月 Learn Track - Adobe Analyticsまとめ
+description: このセッションでは、Adobe Analyticsで web サイトデータを追跡する方法と、ビジュアライゼーションを利用してさらに深いインサイトを得る方法を説明します。
 feature: Visualizations
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# スキル交換イベント 2023 年 8 月 — グロートラック — まとめ
+# Skill Exchange Event 2023 年 8 月 – Grow Track – まとめ
 
-このセッションでは、Adobe Analyticsが Web サイトのデータをどのように追跡するかを理解し、ビジュアライゼーションを利用してさらに詳細なインサイトを得ることで、内容をまとめます。
+このセッションでは、Adobe Analyticsで web サイトデータを追跡する方法と、ビジュアライゼーションを利用してさらに深いインサイトを得る方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)

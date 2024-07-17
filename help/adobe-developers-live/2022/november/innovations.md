@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - 11 月 23 日 — 開発者向けの最新のAdobe Experience Managerヘッドレスイノベーション
-description: 開発者向けの最新のAdobe Experience ManagerヘッドレスイノベーションAdobe Experience Managerヘッドレス製品は、開発者に多くのツールを提供する API や他のイノベーションを通じて発展し続けています。最適な配信。
+title: Adobe Developers Live - 11 月 22 日（PT） – 開発者向けの最新のAdobe Experience Manager ヘッドレスイノベーション
+description: 開発者向けの最新のAdobe Experience Manager ヘッドレスイノベーション Adobe Experience Manager ヘッドレス製品は、API やその他のイノベーションによって、開発者が作業をより多く行えるようにする点で、継続的に進化と改善を続けています。このセッションでは、これらの進化の一部を使用する方法を説明します。例えば、API を使用してヘッドレスコンテンツを管理し、他のソースから読み込む方法や、最適な配信を実現するのために CDN をを活用するする高度な GrapH QL クエリを作成する方法です。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# 開発者向けの最新のAdobe Experience Managerヘッドレスイノベーション
+# 開発者向けの最新のAdobe Experience Manager ヘッドレスイノベーション
 
-Adobe Experience Managerヘッドレス製品は、開発者に多くのツールを提供する API やその他のイノベーションを通じて、進化と向上を続けています。
+Adobe Experience Manager ヘッドレス製品は、API やその他のイノベーションによって開発者が作業を完了するためのより多くのツールを提供しますが、継続的に進化し、改善されています。
 
-このセッションでは、API を介したヘッドレスコンテンツの管理や他のソースからのインポートの方法、CDN を活用して最適な配信を実現する高度な Graph QL クエリの作成方法など、これらの改良点のいくつかの使用方法を示します。
+このセッションでは、API を介してヘッドレスコンテンツを管理し、他のソースから読み込む方法、最適な配信のために CDN を活用する高度な Graph QL クエリを作成する方法など、これらの高度な機能の一部を使用する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411304/?quality=12&learn=on)

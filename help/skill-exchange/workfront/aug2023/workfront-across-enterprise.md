@@ -1,6 +1,6 @@
 ---
-title: Workfrontが企業を横断する
-description: このセッションでは、Workfront実装をエンタープライズ実装に成長させるための、基本的な要件と改善インサイトの一部を紹介します。
+title: 企業全体でのWorkfrontの成熟
+description: このセッションでは、Workfrontの実装をエンタープライズ実装に成長させるための、基本的な要件と改善に関するインサイトをいくつか紹介します。
 solution: Workfront
 feature: System Setup and Administration, Strategic Planning
 topic: Administration, Upgrade
@@ -19,14 +19,16 @@ ht-degree: 0%
 
 ---
 
-# Workfrontが企業を横断する
+# 企業全体でのWorkfrontの成熟
 
-このセッションでは、Workfront実装をエンタープライズ実装に成長させるための、基本的な要件と改善インサイトの一部を紹介します。 主要なデータ要素とオブジェクトに焦点を当て、Workfrontの「標準」機能から Enterprise システム（ERP など）への変換に焦点を当てます。
+このセッションでは、Workfrontの実装をエンタープライズ実装に成長させるための、基本的な要件と改善に関するインサイトをいくつか紹介します。 主要なデータ要素とオブジェクトに重点を置き、「あらかじめ用意された」Workfront機能からエンタープライズシステム（ERP など）の活用に変換します。
 
-IPG Health の Dale Whitchurch、EVP、Production Intelligence は、IPG Health のチームが、Workfrontに複数のテクノロジーを統合し、ワークフローを自動化し、IPG Health でプロセスを進化させた方法を共有します。
+IPG Health の Production Intelligence 担当 EVP の Dale Whitchurch 氏が、IPG Health で複数のテクノロジをWorkfrontに統合してワークフローを自動化し、プロセスを進化させた方法を説明します。
 
-聞こえるだろう
+聞こえますよ。
 
-時間の経過と共にプロセスとインフラストラクチャの両方を進化させる方法Workfrontを幅広い技術スタックに統合し、主要なワークフローを成熟させるための実践的なアドバイス IPG がコンテンツサプライチェーンの基盤を築く方法
+時間の経過と共にプロセスとインフラストラクチャの両方を進化させた理由
+Workfrontをより広範なテクニカルスタックと統合し、主要なワークフローを成熟させるための実践的なアドバイス
+IPG がコンテンツサプライチェーンの基盤を築く仕組み
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Marketoと Mocas — 配信品質（第 2 部）
-description: Marketoと Mocas のこのセッションでは、Marketo Deliverability Manager、Sean Writ を紹介し、配信品質のベストプラクティス、Gmail への配信品質の強調、Appleメールプライバシー、共有 IP と専用 IP の概要を紹介します。 Sean は、 [!DNL Marketo Engage] また、シードリストのインポート、スマートリストの作成、レポートの作成などの方法も説明します。 このイベントは、Sean が登録者や出席者からの質問に回答する、拡張 Q&A セッションで終了します。
+title: Marketoと Mocha – 配信品質（パート 2）
+description: Marketoと Mochas によるこのセッションでは、配信品質のベストプラクティスをレビューしているMarketo Deliverability Manager の Sean Wirt が取り上げ、Gmail の配信品質、Appleのメールプライバシー、共有 IP と専用 IP の概要について説明します。 Sean は、の配信品質ツールの製品デモと、シードリストの読み込み方法  [!DNL Marketo Engage]  スマートリストの作成方法、レポートの作成方法について長時間にわたって説明しています。 イベントの最後には、Sean が登録者や出席者からの質問に回答する Q&A セッションが延長されます。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Marketoと Mocas — 配信品質（第 2 部）
+# Marketoと Mocha – 配信品質（パート 2）
 
-Marketoと Mocas のこのセッションでは、Marketo Deliverability Manager、Sean Writ を紹介し、配信品質のベストプラクティス、Gmail への配信品質の強調、Appleメールプライバシー、共有 IP と専用 IP の概要を紹介します。 Sean は、 [!DNL Marketo Engage] また、シードリストのインポート、スマートリストの作成、レポートの作成などの方法も説明します。 このイベントは、Sean が登録者や出席者からの質問に回答する、拡張 Q&amp;A セッションで終了します。
+Marketoと Mochas によるこのセッションでは、配信品質のベストプラクティスをレビューしているMarketo Deliverability Manager の Sean Wirt が取り上げ、Gmail の配信品質、Appleのメールプライバシー、共有 IP と専用 IP の概要について説明します。 Sean は、[!DNL Marketo Engage] での配信品質ツールの製品デモと、シードリストの読み込み、スマートリスト、レポートの作成の方法を長年にわたって説明しています。 イベントの最後には、Sean が登録者や出席者からの質問に回答する Q&amp;A セッションが延長されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418668/?learn=on)

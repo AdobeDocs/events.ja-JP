@@ -1,6 +1,6 @@
 ---
-title: 内のレポート [!DNL Marketo Engage]
-description: 内の高度なレポート機能を理解する [!DNL Marketo Engage]を参照し、レポートとスマートリストについて詳しく説明します。
+title: ' [!DNL Marketo Engage] 内でのレポート'
+description: ' [!DNL Marketo Engage] 内の高度なレポート機能を理解し、レポートとスマートリストについて詳しく理解します。'
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -11,25 +11,25 @@ duration: 1996
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# 内のレポート [!DNL Marketo Engage]
+# [!DNL Marketo Engage] 内のレポート
 
-このセッションでは、 [!DNL Marketo Engage] 次を含む：
+このセッションでは、[!DNL Marketo Engage] で使用可能なすべてのレポートツールを確認します。レポートツールには以下が含まれます。
 
 * レポート
-* スマートリスト
+* スマート・リスト
 * アナライザー
 * MPI
 * メールインサイト
-* 収益エクスプローラ
+* 収益エクスプローラー
 * レポートタイプの概要
-* グローバルレポート（分析）とローカルレポート（マーケティング活動）の比較
-* 標準レポートとスマートリストを使用するタイミング
+* グローバルレポート （Analytics）とローカルレポート （マーケティングアクティビティ）
+* 標準レポートとスマート・リストのどちらを使用するか
 * 購読
 
-このセッションを終了する際には、内の高度なレポート機能について理解しておく必要があります。 [!DNL Marketo Engage]を参照し、レポートとスマートリストについて詳しく説明します。
+このセッションでは、[!DNL Marketo Engage] 内のレポート機能の概要と、レポートとスマートリストについて詳しく説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

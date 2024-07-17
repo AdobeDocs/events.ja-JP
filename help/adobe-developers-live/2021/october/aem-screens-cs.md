@@ -1,6 +1,6 @@
 ---
 title: ScreensCloud Service
-description: デジタルサイネージチャネル用のコンテンツ配信と Web サイト用の配信の違い、および Screens as a Cloud Serviceがデジタルサイネージの固有の要件に対処するためのチャネル固有の配信メカニズムを提供する方法について説明します。
+description: デジタルサイネージチャネル用のコンテンツの配信と web サイトの配信の違い、およびScreens as a Cloud Serviceがデジタルサイネージ固有の要件に対処するためにチャネル固有の配信メカニズムを提供する仕組みについて説明します。
 solution: Experience Manager,Experience Manager Screens
 feature: Developer Tools
 topic: Development
@@ -14,20 +14,20 @@ duration: 1777
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 8%
+ht-degree: 5%
 
 ---
 
 # ScreensCloud Service
 
-デジタルサイネージチャネル用のコンテンツ配信と Web サイト用の配信の違い、および Screens as a Cloud Serviceがデジタルサイネージの固有の要件に対処するためのチャネル固有の配信メカニズムを提供する方法について説明します。
+デジタルサイネージチャネル用のコンテンツの配信と web サイトの配信の違い、およびScreens as a Cloud Serviceがデジタルサイネージ固有の要件に対処するためにチャネル固有の配信メカニズムを提供する仕組みについて説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3umX8Be)**.
+**[Experience League コミュニティ ](https://adobe.ly/3umX8Be)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337885/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-- [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
-- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)
+- [Adobe Experience Manager ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience ManagerCloud Serviceの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

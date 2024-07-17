@@ -1,6 +1,6 @@
 ---
-title: ヘッドレス — GraphQLとコンテンツフラグメント
-description: 最新のコンテンツフラグメントの機能強化を利用した新しいヘッドレス機能について説明します。 このセッションでは、GraphQL API for Adobe Experience ManagerCloud Serviceに焦点を当てます。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: ヘッドレス – コンテンツフラグメントのGraphQL
+description: 最新のコンテンツフラグメント機能強化を含む新しいヘッドレス機能について説明します。 このセッションでは、Adobe Experience Manager Cloud ServiceのGraphQL API について重点的に説明します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager
 product: experience manager
 feature: Content Fragments, APIs, GraphQL API
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# ヘッドレス：GraphQLとコンテンツフラグメント
+# ヘッドレス：コンテンツフラグメントのGraphQL
 
-最新のコンテンツフラグメントの機能強化を利用した新しいヘッドレス機能について説明します。 このセッションでは、GraphQL API for Adobe Experience ManagerCloud Serviceに焦点を当てます。
+最新のコンテンツフラグメント機能強化を含む新しいヘッドレス機能について説明します。 このセッションでは、Adobe Experience Manager Cloud ServiceのGraphQL API について重点的に説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** をクリックしてください。

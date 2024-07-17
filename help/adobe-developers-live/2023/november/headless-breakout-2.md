@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live- 11 月 23 日 — ヘッドレスブレークアウト 2
-description: Adobe Developers Liveのこの情報セッションでは、Gabriel Walt と Alex Tondo が、 Adobe.comがAdobe Experience Managerのユニバーサルエディターを使用してコンテンツ戦略を強化する方法に関するインサイトを共有します。 2023 年 11 月 6 日に記録されたコンテンツ配信プロセスの合理化におけるこの WYSIWYG エディターの機能と、コンテンツオーサリングの簡素化における役割について説明します。 このセッションは、AEMのコンテンツツールを、動的で魅力的なデジタルエクスペリエンスに効果的に使用する方法を理解したいお客様に最適です。
+title: Adobe Developers Live - 11 月 23 日（PT） – ヘッドレスの概要 2
+description: Adobe Developers Liveによるこの有益なセッションでは、Gabriel Walt と Alex Tondo が、Adobe.comがAdobe Experience Managerのユニバーサルエディターをどのように使用してコンテンツ戦略を強化するかについて説明します。 2023 年 11 月 6 日（PT）に録画されたこの WYSIWYG エディターの、コンテンツ配信プロセスを合理化する際の機能と、コンテンツオーサリングを簡素化する際の役割について説明します。 このセッションは、AEMのコンテンツツールを効果的に使用して、動的で魅力的なデジタルエクスペリエンスを実現する方法を理解したいユーザーに最適です。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Liveヘッドレスブレークアウト 2 - 2023 年 11 月
+# Adobe Developers Live ヘッドレスの概要 2 - 2023 年 11 月
 
-Adobe Developers Liveのこの情報セッションでは、Gabriel Walt と Alex Tondo が、 Adobe.comがAdobe Experience Managerのユニバーサルエディターを使用してコンテンツ戦略を強化する方法に関するインサイトを共有します。 2023 年 11 月 6 日に記録されたコンテンツ配信プロセスの合理化におけるこの WYSIWYG エディターの機能と、コンテンツオーサリングの簡素化における役割について説明します。 このセッションは、AEMのコンテンツツールを、動的で魅力的なデジタルエクスペリエンスに効果的に使用する方法を理解したいお客様に最適です。
+Adobe Developers Liveによるこの有益なセッションでは、Gabriel Walt と Alex Tondo が、Adobe.comがAdobe Experience Managerのユニバーサルエディターをどのように使用してコンテンツ戦略を強化するかについて説明します。 2023 年 11 月 6 日（PT）に録画されたこの WYSIWYG エディターの、コンテンツ配信プロセスを合理化する際の機能と、コンテンツオーサリングを簡素化する際の役割について説明します。 このセッションは、AEMのコンテンツツールを効果的に使用して、動的で魅力的なデジタルエクスペリエンスを実現する方法を理解したいユーザーに最適です。
 
-次の場所で会話を続行します： [Experience Leagueコミュニティ](https://adobe.ly/46ELi7X).
+[Experience League コミュニティ ](https://adobe.ly/46ELi7X) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

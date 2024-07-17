@@ -1,6 +1,6 @@
 ---
-title: Experience Leagueライブ、エピソード 1 – 私の 3 つのお気に入りのAdobe [!DNL Analytics] 実装のヒント
-description: Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。あなたはあなた自身のAdobeで彼と一緒に働くという利点さえあったかもしれません [!DNL Analytics] 実装。 エリック・マティソフは今、彼の 3 つのお気に入りのAdobeを持って来ています [!DNL Analytics] 導入に関するヒントこの排他的なExperience Leagueのライブディスカッションへのヒント
+title: Experience Leagueライブ、第 1 話 – Adobe導入に関するお気に入りの 3 つ  [!DNL Analytics]  ヒント
+description: Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。お客様自身のAdobe導入において、彼と一緒に仕事をするというメリットを得られるかもし  [!DNL Analytics]  ません。 エリック・マティソフは、この排他的なExperience Leagueのライブディスカッションに、Adobe [!DNL Analytics]  実装に関する 3 つのお気に入りのヒントを紹介しています。
 solution: Analytics
 feature: Implementation Basics
 kt: 8553
@@ -15,11 +15,11 @@ ht-degree: 23%
 
 ---
 
-# Experience Leagueライブ、エピソード 1：私の 3 つのお気に入りのAdobe [!DNL Analytics] 実装のヒント
+# Experience Leagueライブ、第 1 話：私が好きな 3 つのAdobe[!DNL Analytics] 実装のヒント
 
-Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。あなたはあなた自身のAdobeで彼と一緒に働くという利点さえあったかもしれません [!DNL Analytics] 実装。 エリック・マティソフは今、彼の 3 つのお気に入りのAdobeを持って来ています [!DNL Analytics] 導入に関するヒントこの排他的なExperience Leagueのライブディスカッションへのヒント
+Summit のステージで彼を目にしたことがある方や、Adobe インサイダーツアーで彼が専門的なアドバイスを紹介しているのをご覧になった方もいるかもしれません。お客様自身のAdobeと導入において、彼と一緒に働くというメリットを得るこ [!DNL Analytics] さえあるかもしれません。 エリック・マティソフは、このExperience League限定ライブ・ディスカッションで、Adobe[!DNL Analytics] 実装に関する 3 つのお気に入りのヒントを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-このセッションについて詳しくは、 [Experience League社会における議論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+懇談については、[Experience Leagueコミュニティ懇談会 ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"} をご覧ください。
 

@@ -1,6 +1,6 @@
 ---
-title: PWA — 任意のサイトをプログレッシブ Web アプリに変換する
-description: Web アプリか従来のサイトかに関わらず、サイトをモバイルデバイスにインストールし、1 回のクリックでオフラインで使用できるようにします。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: PWA – 任意のサイトをプログレッシブ Web アプリに変換する
+description: Web アプリでも従来のサイトでも、モバイルデバイスにインストールでき、クリックするだけでオフラインで利用できるようにします。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# PWA — 任意のサイトをプログレッシブ Web アプリに変換する
+# PWA – 任意のサイトをプログレッシブ Web アプリに変換する
 
-Web アプリか従来のサイトかに関わらず、サイトをモバイルデバイスにインストールし、1 回のクリックでオフラインで使用できるようにします。
+Web アプリでも従来のサイトでも、モバイルデバイスにインストールでき、クリックするだけでオフラインで利用できるようにします。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

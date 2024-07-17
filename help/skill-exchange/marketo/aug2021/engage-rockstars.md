@@ -1,6 +1,6 @@
 ---
-title: Marketo Engageロックスターズ
-description: 3 人の「Rockstar」のお客様がそれぞれ最高の [!DNL Marketo Engage] チップかトリックか。 誰が信じられないほどあなたを驚かせるでしょうか？ リアルタイムで視聴および投票します。
+title: Marketo Engage ロックスターズ
+description: 「Rockstar」を導入しているお客様 3 名がそれぞれ、最高のヒント  [!DNL Marketo Engage]  コツを提示します。 誰があなたを信じられないほど魅了しますか？ リアルタイムで視聴および投票できます。
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] ロックスター
+# [!DNL Marketo Engage] ロックスターズ
 
-3 人の「Rockstar」のお客様がそれぞれ最高の [!DNL Marketo Engage] チップかトリックか。 誰が信じられないほどあなたを驚かせるでしょうか？ リアルタイムで視聴および投票します。
+「Rockstar」を使用するお客様 3 名が、最高の [!DNL Marketo Engage] ール・ヒントやコツを提供します。 誰があなたを信じられないほど魅了しますか？ リアルタイムで視聴および投票できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

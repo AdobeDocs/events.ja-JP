@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics ROI
-description: Mandy George & Kaya Walton、2 人のエキスパート顧客とAdobe Analyticsユーザーに注目してください。 それぞれが、自分の最高のAdobe Analyticsのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。 これを見逃したくない。
+title: ADOBE ANALYTICS ROI
+description: 2 人のエキスパートのお客様とAdobe Analyticsユーザーである、Mandy George & Kaya Walton にご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 成長追跡 — Adobe Analytics ROI
+# Grow Track - Adobe Analyticsの ROI
 
-Adobe Analyticsは、市場で最も成熟した Digital Analytics ソリューションとして知られています。 お客様は 10 分以内に価値の創出を開始できますが、今日使用していない可能性のあるすべての素晴らしい機能を知ることが非常に重要です。 例えば、最後にカウンター eVar を使用したのはいつですか。 リスト変数に分類ルールを適用しているか。
+Adobe Analyticsは、市場で最も成熟したデジタル分析ソリューションとして知られています。 お客様は 10 分以内に価値を生み出すことができますが、現在使用していない可能性のあるすべての優れた機能を知ることが重要です。 例えば、最後にカウンター eVar を使用したのはいつですか？ リスト変数に分類ルールを適用していますか？
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411898/?quality=12&learn=on)

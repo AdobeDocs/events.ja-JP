@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Marketo Engage] Rockstar Segment
-description: 4 人の「Rockstar」のお客様がそれぞれ最高の [!DNL Marketo Engage] チップかトリックか。 誰が信じられないほどあなたを驚かせるでしょうか？
+title: Adobe [!DNL Marketo Engage]  ロックスターセグメント
+description: 「Rockstar」を導入しているお客様 4 名が、それぞれ最高のヒント  [!DNL Marketo Engage]  コツを提示します。 誰があなたを信じられないほど魅了しますか？
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Marketo Engage] Rockstar Segment
+# Adobe [!DNL Marketo Engage] ロックスター
 
-4 人の「Rockstar」のお客様がそれぞれ最高の [!DNL Marketo Engage] チップかトリックか。 誰が信じられないほどあなたを驚かせるでしょうか？
+「Rockstar」を使用するお客様 4 名が、最高の [!DNL Marketo Engage] ール・ヒントやコツを提供します。 誰があなたを信じられないほど魅了しますか？
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

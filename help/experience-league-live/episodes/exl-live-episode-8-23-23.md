@@ -26,9 +26,9 @@ Adobe Journey Optimizerは、パーソナライズされたリアルタイムの
 
 API トリガーキャンペーンを使用すると、企業はキャンペーンを設定し、それを複数回使用して、REST API を介してトリガーすることで、リアルタイムのコンテキスト情報でパーソナライズされたメッセージを配信できます。
 
-このExperience Leagueライブセッションでは、Adobe製品のエキスパートが、AJO の API トリガーメッセージ機能を使用して、トランザクションおよびマーケティングのユースケースを実行する方法を説明します。
+このExperience Leagueライブセッションでは、Adobeの製品エキスパートが、AJOの API トリガーメッセージ機能を使用して、トランザクションおよびマーケティングのユースケースを実行する方法を説明します。
 
-**上の画像をクリックしてショーを見る！**
+**上の画像をクリックすると、ショーを視聴できます！**
 
-～について議論を続ける [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132) でディスカッションを続けます。
 

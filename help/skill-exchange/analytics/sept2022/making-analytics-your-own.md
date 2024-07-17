@@ -1,6 +1,6 @@
 ---
-title: スキル交換イベント 2022 年 9 月 Analytics の成長に伴うAdobe Analyticsの独自性
-description: Adobe Analyticsをご利用いただけました。ユーザーやビジネスに固有の機能や戦略を活用して、独自の機能を実現できます。
+title: Skill Exchange Event 2022 年 9 月 Analytics Grow Making Your Own Adobe Analytics
+description: Adobe Analyticsは、ユーザーやビジネスに固有の機能と戦略を活用して、独自の製品を作成できるようになりました。
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# スキル交換イベント 2022 年 9 月 Analytics の成長に伴うAdobe Analyticsの独自性
+# Skill Exchange Event 2022 年 9 月 Analytics Grow Making Your Own Adobe Analytics
 
-Adobe Analyticsをご利用いただけました。ユーザーやビジネスに固有の機能や戦略を活用して、独自の機能を実現できます。
+Adobe Analyticsは、ユーザーやビジネスに固有の機能と戦略を活用して、独自の製品を作成できるようになりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411012/?quality=12&learn=on)

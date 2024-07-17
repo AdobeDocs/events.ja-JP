@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce 2.4.4 のアップグレードに関する情報が必要です
-description: 2.4.4.Commerce Service Pack が利用可能になり、メリットと、アップグレードの計画と配信に必要な知識を習得します。
+title: Adobe Commerce 2.4.4 へのアップグレードについて知っておく必要のあるすべて
+description: を 2.4.4 として使用します。Commerce サービスパックが入手可能になり、アップグレードの計画と提供に必要な利点と知識をすべて学びました。
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce 2.4.4 のアップグレードに関する情報が必要です
+# Adobe Commerce 2.4.4 へのアップグレードについて知っておく必要のあるすべて
 
-2.4.4.Commerce Service Pack が利用可能になり、メリットと、アップグレードの計画と配信に必要な知識を習得します。
+を 2.4.4 として使用します。Commerce サービスパックが入手可能になり、アップグレードの計画と提供に必要な利点と知識をすべて学びました。
 
-*ビーサンウィリアムズジェームズ* コマースソリューションコンサルタント/Adobe
+*Bethan Williams-James* Commerce ソリューションコンサルタント/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343813/?quality=12&learn=on)

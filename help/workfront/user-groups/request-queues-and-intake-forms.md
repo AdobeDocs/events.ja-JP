@@ -1,6 +1,6 @@
 ---
-title: リクエストキューとインテークForms（2021 年 5 月 11 日）
-description: Peter Rees と Julia Ziegler は、Merkle でリクエストキューとカスタムフォームを使用する方法のいくつかを共有します。
+title: リクエストキューと取り込みForms（2021 年 5 月 11 日（Pt））
+description: Peter Rees と Julia Ziegler が、Merkle でリクエストキューとカスタムフォームを使用する方法をいくつか紹介します。
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10006
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# リクエストキューとインテークForms（2021 年 5 月 11 日）
+# リクエストキューと取り込みForms（2021 年 5 月 11 日（Pt））
 
-Peter Rees と Julia Ziegler は、Merkle でリクエストキューとカスタムフォームを使用する方法のいくつかを共有します。
+Peter Rees と Julia Ziegler が、Merkle でリクエストキューとカスタムフォームを使用する方法をいくつか紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341215/?quality=12&learn=on)

@@ -1,19 +1,19 @@
 ---
 title: Commerceとコンポーザビリティによる多様なビジネスモデルの実現
-description: この会議では、Adobe Commerceにおける多様なビジネスモデルの実現、B2B コマースの成長トレンドのハイライト、シームレスなアップグレードのための統合の簡素化の重要性の強調、デモを通じたパーソナライズされた B2B と B2C のインタラクションの紹介、オムニチャネルサポートや API メッシュ統合などのAdobe Commerce機能の説明、構成可能なコマースサービスのメリットの説明、プラットフォーム内のスケーラブルなカスタマイズとサブスクリプション管理のための App Builder の導入について説明をしました。
+description: この会議では、Adobe Commerceにおける多様なビジネスモデルの実現、B2B コマースの成長トレンドのハイライト、シームレスなアップグレードのための統合の簡素化の重要性の強調、デモを通じたパーソナライズされた B2B と B2C のインタラクションの紹介、オムニチャネルサポートや API メッシュ統合などのAdobe Commerce機能の説明、構成可能なコマースサービスのメリットの説明、プラットフォーム内のスケーラブルなカスタマイズとサブスクリプション管理のためのApp Builderの導入について説明を行いました。
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Commerceとコンポーザビリティによる多様なビジネスモデルの実現
 
@@ -46,7 +46,7 @@ APAC Commerce ウェビナーシリーズの 5 月の発表で、ソリューシ
 
 * オムニチャネルサポート
 * パーソナライズされたエクスペリエンス
-* API メッシュと App Builder によるサードパーティシステムとの統合
+* API メッシュとApp Builderによるサードパーティシステムとの統合
 
 ### 検討されている技術的側面
 
@@ -54,7 +54,7 @@ APAC Commerce ウェビナーシリーズの 5 月の発表で、ソリューシ
 * オーケストレーションのための API メッシュの利用
 * カスタマイズと Platform 拡張のためのAdobeイベントの使用
 
-### App Builder の利点
+### App Builderの利点
 
 * スケーラブルなカスタマイズ
 * 統合

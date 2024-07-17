@@ -1,6 +1,6 @@
 ---
-title: Adobeクライアントデータレイヤー — 訪問者データの追跡
-description: ACDL のイベント駆動型 API を理解する。 コマースの例は、コアコンポーネントによってどのようにハイドレートされ、Launch 拡張機能と AA および AT のインターフェイスが組み込まれるかを示します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Adobeクライアントデータレイヤー – 訪問者データを追跡します
+description: ACDL のイベント駆動型 API について説明します。 Commerceの例で、コアコンポーネントがコアコンポーネントと、Launch 拡張機能が AA と AT とどのようにインターフェイスを強化するかを示します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager, Experience Manager Sites, Analytics, Target
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Adobeクライアントデータレイヤー — 訪問者データの追跡
+# Adobeクライアントデータレイヤー – 訪問者データを追跡します
 
-ACDL のイベント駆動型 API を理解する。 コマースの例は、コアコンポーネントによってどのようにハイドレートされ、Launch 拡張機能と AA および AT のインターフェイスが組み込まれるかを示します。
+ACDL のイベント駆動型 API について説明します。 Commerceの例で、コアコンポーネントがコアコンポーネントと、Launch 拡張機能が AA と AT とどのようにインターフェイスを強化するかを示します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331733/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/adobe-client-data-layer.pdf)** をクリックしてください。

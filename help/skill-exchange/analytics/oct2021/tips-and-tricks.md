@@ -1,6 +1,6 @@
 ---
 title: ヒントとテクニック
-description: 分析ワークフローを改善し、Adobe Analyticsで最近導入されたイノベーションを強調するためのヒント
+description: 分析ワークフローを改善するためのヒントと、Adobe Analytics内の最新のイノベーションに焦点を当てます
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # ヒントとテクニック
 
-Adobe Analyticsのマルチソリューションアーキテクトである Christos Voutsakis 氏が、分析ワークフローを改善し、製品内の最近のイノベーションを強調するためのヒントを紹介します。
+Adobe Analyticsのマルチソリューションアーキテクトである Christos Voutsakis が、分析ワークフローを改善し、製品内の最近のイノベーションをハイライトするためのヒントを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343345/?quality=12&learn=on)

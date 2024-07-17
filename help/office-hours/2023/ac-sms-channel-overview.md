@@ -1,6 +1,6 @@
 ---
 title: SMS チャネルの概要とトラブルシューティングのヒント
-description: SMS のアーキテクチャ、SMS チャネルの設定、SMPP 外部アカウントの設定、SMS 配信の作成、トラブルシューティングについて説明します。
+description: SMS のアーキテクチャ、SMS チャネルの設定、SMPP 外部アカウントの設定、SMS 配信の作成およびトラブルシューティングについて説明します。
 feature-set: Campaign
 feature: SMS, Architecture, Troubleshooting, External Account
 role: Admin, User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # SMS チャネルの概要とトラブルシューティングのヒント
 
-このセッションでは、SMS のアーキテクチャ、SMS チャネルの設定、SMPP 外部アカウントの設定、SMS 配信の作成、トラブルシューティングを説明します。
+このセッションでは、SMS アーキテクチャ、SMS チャネルの設定、SMPP 外部アカウントの設定、SMS 配信の作成、トラブルシューティングについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422741/?learn=on)

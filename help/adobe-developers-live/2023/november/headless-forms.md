@@ -1,6 +1,6 @@
 ---
 title: ヘッドレスFormsの概要
-description: ヘッドレスアダプティブFormsは、Adobe Experience Managerプラットフォーム内でヘッドレス Web フォームを作成および管理するためのソリューションです。 この機能を使用すると、従来のグラフィカルユーザーインターフェイスではなく、API を使用してアクセスし操作できるインタラクティブフォームを作成、公開、管理できます。
+description: ヘッドレスアダプティブFormsは、Adobe Experience Manager プラットフォーム内でヘッドレス web フォームを作成および管理するためのソリューションです。 この機能を使用すると、組織は、従来のグラフィカルユーザーインターフェイスを使用するのではなく、API を使用してアクセスし、操作できるインタラクティブフォームを作成、公開、管理できます。
 solution: Experience Manager Forms
 product: experience manager
 sub-product: forms
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 # ヘッドレスFormsの概要
 
-ヘッドレスアダプティブFormsは、Adobe Experience Managerプラットフォーム内でヘッドレス Web フォームを作成および管理するためのソリューションです。 この機能を使用すると、従来のグラフィカルユーザーインターフェイスではなく、API を使用してアクセスし操作できるインタラクティブフォームを作成、公開、管理できます。
+ヘッドレスアダプティブFormsは、Adobe Experience Manager プラットフォーム内でヘッドレス web フォームを作成および管理するためのソリューションです。 この機能を使用すると、組織は、従来のグラフィカルユーザーインターフェイスを使用するのではなく、API を使用してアクセスし、操作できるインタラクティブフォームを作成、公開、管理できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426336/?learn=on)

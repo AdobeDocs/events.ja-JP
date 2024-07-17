@@ -1,6 +1,6 @@
 ---
-title: コマースとコーヒー — AI とオートメーション
-description: このセッションでは、Adobe Commerceの AI 機能を詳しく説明します。 AI と自動化とは何か、お客様が期待するものと企業が無視できない理由について説明します。 その後、Corey は、Adobe Commerceプラットフォーム内での製品のRecommendationsとライブ検索の完全なデモを実行します。 プレゼンテーションとデモには、Corey とのライブ Q&A が伴います。
+title: Commerceとコーヒー – AI と自動処理
+description: このセッションでは、Adobe Commerceの AI 機能について詳しく説明します。 AI と自動化とは何か、お客様が期待することとは何か、なぜ企業がそれを無視できないのかについて話し合います。 次に、Corey は、Adobe Commerce プラットフォーム内の製品Recommendationsと Live Search の完全なデモを実行します。 プレゼンテーションとデモには、Corey とのライブ Q&A が付属しています。
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# コマースとコーヒー — AI とオートメーション
+# Commerceとコーヒー – AI と自動処理
 
-このセッションでは、Adobe Commerceの AI 機能を詳しく説明します。 AI と自動化とは何か、お客様が期待するものと企業が無視できない理由について説明します。 その後、Corey は、Adobe Commerceプラットフォーム内での製品のRecommendationsとライブ検索の完全なデモを実行します。 プレゼンテーションとデモには、Corey とのライブ Q&amp;A が伴います。
+このセッションでは、Adobe Commerceの AI 機能について詳しく説明します。 AI と自動化とは何か、お客様が期待することとは何か、なぜ企業がそれを無視できないのかについて話し合います。 次に、Corey は、Adobe Commerce プラットフォーム内の製品Recommendationsと Live Search の完全なデモを実行します。 プレゼンテーションとデモには、Corey とのライブ Q&amp;A が付属しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412709/?quality=12&learn=on)

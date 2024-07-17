@@ -1,6 +1,6 @@
 ---
-title: Experience Makers Spotlight
-description: Workfrontでのユーザーのオンボーディング、アップスキル、および有効化は、システム管理者の継続的なタスクです。 他の組織がどうやって取り組んでいるのか疑問に思ったことはありますか？ Experience Makers Spotlight セッションに参加して、3 つの異なる組織から、アプローチに関する情報や、初めての取り組み時に知って欲しかった情報をお聞かせください。
+title: Experience Makers スポットライト
+description: Workfrontでのユーザーのオンボーディング、スキルアップおよび有効化は、システム管理者にとって継続的なタスクです。 他の組織がどのようにこの問題に取り組んでいるか疑問に思ったことはありますか？ Experience Makers Spotlight セッションに参加して、3 つの非常に異なる組織から彼らのアプローチと、彼らが最初に始めたときに知っていたいと思っていたことについて聞いてください。
 solution: Workfront
 feature: Get Started with Workfront, System Setup and Administration
 topic: Administration, Architecture
@@ -19,16 +19,16 @@ ht-degree: 0%
 
 ---
 
-# Experience Makers Spotlight
+# Experience Makers スポットライト
 
-Workfrontでのユーザーのオンボーディング、アップスキル、イネーブルメントは、システム管理者の継続的なタスクです。 他の組織がどうやって取り組んでいるのか疑問に思ったことはありますか？
+Workfrontでのユーザーのオンボーディング、スキルアップ、イネーブルメントは、システム管理者にとって継続的なタスクです。 他の組織がどのようにこの問題に取り組んでいるか疑問に思ったことはありますか？
 
-Experience Makers Spotlight セッションに参加して、3 つの異なる組織から、アプローチに関する情報や、初めての取り組み時に知って欲しかった情報をお聞かせください。
+Experience Makers Spotlight セッションに参加して、3 つの非常に異なる組織から彼らのアプローチと、彼らが最初に始めたときに知っていたいと思っていたことについて聞いてください。
 
-聞こえるだろう
+聞こえますよ。
 
-* Liberty Mutual Insurance のシニアオペレーションアナリスト、Steven Enos は、カスタマイズされたレイアウトテンプレートを使用して、新規ユーザーがWorkfrontにオンボーディングできるだけ簡単にエクスペリエンスを作成する方法の概要です
-* Fidelity Investments のワークフロー管理Director、Amy Franz は、内部大使の会議を活用して、ユーザーの声を増幅し、継続的なトレーニングとフィードバックのループを作り出す方法
-* Stanley Black &amp; Decker の Content Studio Operations 担当シニアマネージャーである Monique Evans は、ユーザーが課題のトラブルシューティングと採用の促進にWorkfrontをどのように使用しているかをより深く理解するためのレビューを提供します。
+* Liberty Mutual Insurance のシニアオペレーションアナリスト、Steven Enos がカスタマイズされたレイアウトテンプレートを使用して、新規ユーザーがWorkfrontにオンボードする際のエクスペリエンスをできる限りシンプルにする方法の概要です
+* Fidelity Investments のワークフロー管理Directorである Amy Franz が、社内アンバサダーの評議会を活用して、ユーザーの声を増幅し、継続的なトレーニングとフィードバックのループを生み出す方法
+* Stanley Black &amp; Decker の Content Studio Operations のシニアマネージャーである Data Monique Evans 氏は、ユーザーがどのようにWorkfrontを使用して課題のトラブルシューティングを行い、導入を促進しているかを理解するために以下をレビューしています
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425809/?learn=on)

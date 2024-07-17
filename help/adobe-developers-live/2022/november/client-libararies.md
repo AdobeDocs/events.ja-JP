@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live- 11 月 22 日 — 動作するForms — クライアントライブラリとヘッドレスFormsの活用
-description: Formsの機能 — クライアントライブラリとヘッドレスフォームの活用 Adobe Experience Manager Formsは、Cloud Serviceに関する多くの新機能をリリースしました。 Forms 開発者は、カスタムスクリプトやサードパーティ JavaScript ライブラリを活用してAdobe Experience Manager Formsのユーザーエクスペリエンスを強化する必要がある場合があります。このセッションでは、高度な演算、日付操作、カスタムモーダルウィンドウの選択方法を示します。WhatsApp のようなインタラクティブなチャネルで、同じフォームを使用してデータ取得を行う方法を、WhatsApp のようなインタラクティブなチャネルで説明します。
+title: Adobe Developers Live - 11 月 22 日（PT） – 動作するForms - クライアントライブラリとヘッドレスFormsの活用
+description: 動作するForms - クライアントライブラリとヘッドレスフォームの活用 Adobe Experience Manager Formsは、Cloud Serviceに関する多くの優れた新機能をリリースしました。 JavaScript Adobe Experience Manager Formsこのセッションでは、高度な計算、日付操作、カスタムモーダルウィンドウを実行するために必要な機能を、クライアントライブラリを使用してフォーム作成者が簡単に選択できるようにする方法を示します。また、ヘッドレスアダプティブFormsで最新のイノベーションを紹介します。ここでは、フォームを 1 回作成して、Web、SPA アプリ、React アプリなど複数のチャネルで使用できます。お客様が必要とする正確な方法。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 ---
 
-# 動作するForms — クライアントライブラリとヘッドレスFormsの活用
+# 動作するForms - クライアントライブラリとヘッドレスFormsの活用
 
-Adobe Experience Manager Formsは、Cloud Serviceに関する数々のエキサイティングな新機能をリリースしました。 フォーム開発者の場合、カスタムスクリプトやサードパーティ JavaScript ライブラリを活用してAdobe Experience Manager Formsのユーザーエクスペリエンスを強化する必要が生じる場合があります。
+Adobe Experience Manager Formsは、Cloud Serviceに関する多くの魅力的な新機能をリリースしました。 フォーム開発者は、Adobe Experience Manager Formsのユーザーエクスペリエンスを強化するために、カスタムスクリプトやサードパーティのJavaScript ライブラリを活用しなければならない場合があります。
 
-このセッションでは、クライアントライブラリの使用方法と、フォーム作成者がスクリプトを使用して、高度な計算、日付操作、カスタムモーダルウィンドウの実行に必要な関数を簡単に選択できるようにする方法を示します。
+このセッションでは、クライアントライブラリを使用し、フォーム作成者が実行できるスクリプトの作成方法を示します。これにより、高度な計算、日付操作、カスタムモーダルウィンドウの実行に必要な関数を簡単に選択できます。
 
-また、Headless Adaptive Formsでは、フォームを 1 度作成して Web、SPAアプリ、React を使用した React アプリのカスタマイズなど、複数のチャネルで使用できる、最新のイノベーションも紹介します。
+また、ヘッドレスアダプティブFormsで最新のイノベーションを紹介します。これにより、フォームを 1 回作成し、Web、React を使用したSPA アプリなど複数のチャネルで使用し、React アプリをカスタマイズできます。
 
-WhatsApp などのインタラクティブなチャネルで、データキャプチャエクスペリエンスに同じフォームを使用する方法を製品のエキスパートが紹介します。これにより、フォームを好きなように正確に機能させることができます。
+アドビの製品エキスパートが、WhatsApp のようなインタラクティブチャネルで、同じフォームをデータキャプチャエクスペリエンスに使用する方法を実演します。これにより、フォームを思いどおりに動作させることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411301/?quality=12&learn=on)

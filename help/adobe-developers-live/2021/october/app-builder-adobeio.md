@@ -1,6 +1,6 @@
 ---
-title: サードパーティのAdobe向けマーケットプレイスである Exchange の概要
-description: Developer Console でサービス間統合を作成し、Admin Console上で管理し、AdobeExchange 上の公開アプリのリストを公開する方法について説明します。 AdobeAPI への接続を作成した後、AdobeExchange パートナーとしての登録、公開リストの作成、承認申請、公開の手順を順を追って説明します。
+title: Adobe Exchangeに関する概要、サードパーティ開発者向けマーケットプレイス
+description: Developer Consoleでサービス間統合を作成し、Adobe Exchangeで管理して、Admin Consoleで公開アプリケーションのリストを公開する方法を説明します。 AdobeAPI への接続を確立したら、Adobe Exchangeパートナーとしての登録、公開リストの作成、承認のための送信、公開の手順を説明します。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,16 +16,16 @@ ht-degree: 8%
 
 ---
 
-# サードパーティのAdobe向けマーケットプレイスである Exchange の概要
+# Adobe Exchangeに関する概要、サードパーティ開発者向けマーケットプレイス
 
-Developer Console でサービス間統合を作成し、Admin Console上で管理し、AdobeExchange 上の公開アプリのリストを公開する方法について説明します。 AdobeAPI への接続を作成した後、AdobeExchange パートナーとしての登録、公開リストの作成、承認申請、公開の手順を順を追って説明します。
+Developer Consoleでサービス間統合を作成し、Adobe Exchangeで管理して、Admin Consoleで公開アプリケーションのリストを公開する方法を説明します。 AdobeAPI への接続を確立したら、Adobe Exchangeパートナーとしての登録、公開リストの作成、承認のための送信、公開の手順を説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3ooiltm)**.
+**[Experience League コミュニティ ](https://adobe.ly/3ooiltm)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337841/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

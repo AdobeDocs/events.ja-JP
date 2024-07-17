@@ -1,6 +1,6 @@
 ---
-title: 2023 年 8 月学習トラック — Experience Makers Spotlight
-description: セグメントに関するすべて — インサイトを得るためにデータをスライスし、多角的に分析する方法
+title: 2023 年 8 月 Learn Track - Experience Makers Spotlight
+description: セグメントに関するすべて – データを多角的に分析してインサイトを得る方法
 feature: Segmentation
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# スキル交換イベント 2023 年 8 月 — グロートラック — Experience Makers Spotlight
+# スキル交換イベント 2023 年 8 月 – Grow Track - Experience Makers Spotlight
 
-セグメントに関するすべて — インサイトを得るためにデータをスライスし、多角的に分析する方法
+セグメントに関するすべて – データを多角的に分析してインサイトを得る方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)

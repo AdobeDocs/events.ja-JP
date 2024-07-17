@@ -1,6 +1,6 @@
 ---
-title: App Builder を使用したExperience Managerヘッドレスの拡張
-description: Experience ManagerヘッドレスとAdobeApp Builder について説明します。 AEMとサードパーティシステムを統合します。イベント駆動型統合から、スケーラブルなサーバーレス処理からシングルページアプリケーション (SPA) までを実現します。
+title: App BuilderによるExperience Managerヘッドレスの拡張
+description: Experience ManagerヘッドレスとAdobeApp Builderについて説明します。 AEMとサードパーティシステムの統合（イベント駆動型統合、スケーラブルなサーバーレス処理からシングルページアプリケーション（SPA）まで）。
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools, APIs, Integrations
 topic: Headless, Development
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# 拡張ガイド [!DNL Experience Manager] ヘッドレス (Adobe) [!DNL App Builder]
+# Adobe[!DNL App Builder] ール [!DNL Experience Manager] ヘッドレスを拡張
 
-Sean Steimer と Kelvin Xu が [!DNL Experience Manager] ヘッドレスおよび [!DNL App Builder]. イベント駆動型の統合から、スケーラブルなサーバーレス処理からシングルページアプリケーション (SPA) へ [!DNL App Builder] は、Adobeを統合するための強力な機能を提供します。 [!DNL Experience Manager] サードパーティ製システムがヘッドレス方式で導入されている 実際の使用例と一般的なパターンの概要 [!DNL App Builder] は、Adobeの拡張に使用されています。 [!DNL Experience Manager].
+Sean Steimer と Kelvin Xu が [!DNL Experience Manager] Headless and [!DNL App Builder] について語ります。 イベント駆動型統合、スケーラブルなサーバーレス処理からシングルページアプリケーション（SPA）に至るまで、[!DNL App Builder] はAdobe[!DNL Experience Manager] ータをサードパーティ製システムとヘッドレスで統合するための強力な機能を提供します。 Adobe[!DNL Experience Manager] ークフローの拡張に [!DNL App Builder] が使用されている、実際のユースケースと一般的なパターンについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345380/?quality=12&learn=on)

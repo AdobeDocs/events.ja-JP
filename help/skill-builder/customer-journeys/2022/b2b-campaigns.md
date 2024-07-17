@@ -1,6 +1,6 @@
 ---
-title: より良い組み合わせ —Adobe [!DNL Marketo Engage] とReal-Time CDP
-description: を使用して B2B キャンペーンを調整する方法を学ぶ [!DNL Marketo Engage] と RT-CDP（B2B エディション）
+title: AdobeとReal-Time CDP [!DNL Marketo Engage]  連携して向上
+description: および RT-CDP （B2B エディション）を使用して B [!DNL Marketo Engage] B キャンペーンを調整する方法を説明します
 solution: Marketo, Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# より良い組み合わせ —Adobe [!DNL Marketo Engage] とReal-Time CDP
+# 連携して機能強化 – Adobe [!DNL Marketo Engage] とReal-Time CDP
 
-このセッションでは、 [!DNL Marketo Engage] と RT-CDP（B2B エディション）と、何が最も重要な使用例で、何がロック解除されたメリットか。
+このセッションでは、[!DNL Marketo Engage] と RT-CDP （B2B エディション）を使用して B2B キャンペーンを調整する方法と、そのユースケースおよび利点について説明します。
 
-*ミハイプリサカリウ* ソリューションコンサルタント、CJM/Adobe
+*ミハイ・プリサカリウ* ソリューションコンサルタント、CJM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343824/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers LiveEdge Delivery Servicesブレークアウト 2 - 2023 年 11 月
-description: Ekrem Dogan は、本セッションでAdobe Developers Liveから Web サイトのパフォーマンスを最適化する際の重要な側面に対処しています。 2023 年 11 月 6 日に実稼働して記録され、Adobe Experience Managerで効率的で使いやすい Web サイトを確保し、最高の Lighthouse スコアを達成および維持するための戦略を学びます。 このトークは、実用的なヒントと実際の例が詰め込まれており、Web パフォーマンスの最適化に重点を置いた開発者の必須参加者となっています。
+title: Adobe Developers Live Edge Delivery Servicesのブレイクアウト 2 - 2023 年 11 月
+description: Ekrem Dogan 氏は、Adobe Developers Liveから Web サイトのパフォーマンスを最適化する上で重要な側面について説明します。 2023 年 11 月 6 日（PT）に公開録画し、Lighthouse のトップスコアを達成および維持し、Adobe Experience Managerで効率的で使いやすい web サイトを確保するための戦略を説明します。 この講演には、実用的なヒントと実際の例が多数掲載されており、web パフォーマンスの最適化に焦点を当てた開発者にとって必須です。
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers LiveEdge Delivery Servicesブレークアウト 2 - 2023 年 11 月
+# Adobe Developers Live Edge Delivery Servicesのブレイクアウト 2 - 2023 年 11 月
 
-Ekrem Dogan は、本セッションでAdobe Developers Liveから Web サイトのパフォーマンスを最適化する際の重要な側面に対処しています。 2023 年 11 月 6 日に実稼働して記録され、Adobe Experience Managerで効率的で使いやすい Web サイトを確保し、最高の Lighthouse スコアを達成および維持するための戦略を学びます。 このトークは、実用的なヒントと実際の例が詰め込まれており、Web パフォーマンスの最適化に重点を置いた開発者の必須参加者となっています。
+Ekrem Dogan 氏は、Adobe Developers Liveから Web サイトのパフォーマンスを最適化する上で重要な側面について説明します。 2023 年 11 月 6 日（PT）に公開録画し、Lighthouse のトップスコアを達成および維持し、Adobe Experience Managerで効率的で使いやすい web サイトを確保するための戦略を説明します。 この講演には、実用的なヒントと実際の例が多数掲載されており、web パフォーマンスの最適化に焦点を当てた開発者にとって必須です。
 
-次の場所で会話を続行します： [Experience Leagueコミュニティ](https://adobe.ly/3rC7TTm).
+[Experience League コミュニティ ](https://adobe.ly/3rC7TTm) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

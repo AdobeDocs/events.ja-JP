@@ -22,12 +22,12 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
-**詳細**:Adobe Journey Optimizerのコードベースの Experience Channel を使用すると、パーソナライゼーションおよび実験プログラムを拡大するブランドにとって大きなチャンスと新しいユースケースが可能になります。 この新しいチャネルにより、ネイティブアプリケーションの詳細な側面を変更できるHTMLまたは JSON コードベースのアクションを使用して、パーソナライゼーションコントロールを向上できます。 コードベースの Experience Channel は、クライアントサイド、サーバーサイド、ハイブリッドおよび API ベースの実装の柔軟性とパフォーマンスを拡張します。
+**詳細**:Adobe Journey Optimizerのコードベースの Experience Channel を使用すると、パーソナライゼーションおよび実験プログラムを拡大するブランドにとって、大きなチャンスと新しいユースケースが可能になります。 この新しいチャネルにより、ネイティブアプリケーションの詳細な側面を変更できるHTMLまたは JSON コードベースのアクションを使用して、パーソナライゼーションコントロールを向上できます。 コードベースの Experience Channel は、クライアントサイド、サーバーサイド、ハイブリッドおよび API ベースの実装の柔軟性とパフォーマンスを拡張します。
 
 このExperience Leagueライブエピソードでは、製品エキスパートの Robert Calangiu と Brent Kostak が、コードベースの Experience Channel の新機能とユースケースについて説明します。 開発者、製品マネージャーおよびマーケターが、Web、モバイル、テレビに接続されたデバイス、キオスク、ATM などをまたいで、静的コンテンツや動的コンテンツを作成して配信する方法について説明します。
 
->[!BEGINSHADEBOX 「ご質問がある場合」]
+>[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-**Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
+**このトピックに関するディスカッションは、Adobe Experience League[ コミュニティ投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"} で続けてください**。
 
 >[!ENDSHADEBOX]

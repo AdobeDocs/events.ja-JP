@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Power Automate を活用したワークフローの自動化
 
@@ -29,5 +29,3 @@ Microsoftのローコード/ノーコードソリューションである Power 
 * &#x200B;さらに、Power Automate を使用すると、IT スタッフを必要とせずに、Adobe Acrobat Sign内で自動ワークフローを作成および使用できます。
 * これらの自動ワークフローにより、効率と生産性を高め、エラーを減らすことができます。
 * また、Power Automate を使用すると、管理者以外のユーザーもワークフローを作成でき、様々なアプリケーションやサービスを接続するフローを作成することで、タスクやプロセスを自動化するプラットフォームが提供されます。 具体的なビジネスニーズに基づいてカスタマイズされたワークフローを作成するために使用できる、様々なトリガーとアクションが用意されています。
-
-

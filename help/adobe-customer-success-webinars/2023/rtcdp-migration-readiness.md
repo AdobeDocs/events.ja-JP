@@ -1,6 +1,6 @@
 ---
-title: リアルタイム CDP 移行対応
-description: リアルタイム CDP への移行の労力レベル、移行に伴う組織の移行、Adobe Audience Managerサポートの追加のAdobeリソース
+title: Real-time CDP 移行への対応
+description: Real-time CDP への移行に関する作業レベル、移行に伴う組織変更、Adobe Audience Manager サポートへのAdobeリソースの追加
 solution: Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ---
 
-# リアルタイム CDP 移行対応
+# Real-time CDP 移行への対応
 
 Adobeのリアルタイム CDP への移行について説明します。
 
-* 移行の労力のレベル
-* 移行に伴う組織の移行
-* その他のAdobeリソース (Adobe Audience Managerサポート )
+* 移行の作業レベル
+* 移行に伴う組織的変更
+* Adobe Audience Manager サポートのその他のAdobeリソース
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423829/?learn=on)

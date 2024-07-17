@@ -1,6 +1,6 @@
 ---
-title: 効率的なサイト構造 — パフォーマンスの向上
-description: 言語コピー、ライブコピー、大量の移動操作やコピー操作を扱う際の、開発者向けのベストプラクティスの詳細な概要です。
+title: 効率的なサイト構造 – パフォーマンスの向上
+description: 言語コピー、ライブコピー、大規模な移動やコピー操作を扱う際の、開発者向けのベストプラクティスをいくつか詳しく説明します。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 15%
 
 ---
 
-# 効率的なサイト構造 — パフォーマンスの向上
+# 効率的なサイト構造 – パフォーマンスの向上
 
-言語コピー、ライブコピー、大量の移動操作やコピー操作を扱う際の、開発者向けのベストプラクティスの詳細な概要です。
+言語コピー、ライブコピー、大規模な移動やコピー操作を扱う際の、開発者向けのベストプラクティスをいくつか詳しく説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/39DoIQT)**.
+**[Experience League コミュニティ ](https://adobe.ly/39DoIQT)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

@@ -1,6 +1,6 @@
 ---
-title: 高度なレポート機能
-description: モニク・エバンスは、仕事の進行状況を知り、それを成し遂げるために必要な組織の報告を共有している。 （2020 年 6 月 3 日）
+title: 高度なレポート
+description: Monique Evans は、彼女の組織が作業の進捗を知り、完了させるために必要だったことを伝えています。 （2020 年 6 月 2 日（PT））
 role: Admin, User
 level: Experienced
 kt: 9979
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 高度なレポート機能
+# 高度なレポート
 
-Monique Evans が彼女の組織が作成したレポートを共有し、仕事の進行状況と、何を行う必要があるかを理解します。  （2020 年 6 月 3 日）
+Monique Evans が、作業の進捗と完了に必要な事項を理解するために作成した組織のレポートを共有します。  （2020 年 6 月 2 日（PT））
 
 >[!VIDEO](https://video.tv.adobe.com/v/341212/?quality=12&learn=on)

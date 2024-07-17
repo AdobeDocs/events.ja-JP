@@ -1,6 +1,6 @@
 ---
-title: コマースエクスペリエンスと関連コンテンツの強化
-description: CIFアドオンは最近導入された製品エクスペリエンス管理で、アセット、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張し、Adobe Experience Managerのコンテンツを製品データに関連付けます。 関連コンテンツを活用すれば、CIFコアコンポーネントで作成した完全に動的な製品カタログをエンリッチメントして、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を学びます。 また、カスタムコンポーネントが関連コンテンツをどのように活用できるかを示す高度な使用例についても紹介します。
+title: 関連コンテンツでのCommerce エクスペリエンスのエンリッチメント
+description: CIF アドオンは最近、Product Experience Management を導入しました。これは、Assets、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張して、Adobe Experience Manager コンテンツを商品データに関連付けます。 関連コンテンツの機能を活用すると、CIF コアコンポーネントで構築された完全に動的な製品カタログを強化して、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を説明します。 また、カスタムコンポーネントで関連コンテンツをどのように活用できるかを示す、高度なユースケースについても紹介します。
 solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
@@ -17,14 +17,14 @@ ht-degree: 5%
 
 ---
 
-# コマースエクスペリエンスと関連コンテンツの強化
+# 関連コンテンツでのCommerce エクスペリエンスのエンリッチメント
 
-CIFアドオンは最近導入された製品エクスペリエンス管理で、アセット、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張し、Adobe Experience Managerのコンテンツを製品データに関連付けます。 関連コンテンツを活用すれば、CIFコアコンポーネントで作成した完全に動的な製品カタログをエンリッチメントして、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を学びます。 また、カスタムコンポーネントが関連コンテンツをどのように活用できるかを示す高度な使用例についても紹介します。
+CIF アドオンは最近、Product Experience Management を導入しました。これは、Assets、コンテンツフラグメント、エクスペリエンスフラグメントのオーサリング機能を拡張して、Adobe Experience Manager コンテンツを商品データに関連付けます。 関連コンテンツの機能を活用すると、CIF コアコンポーネントで構築された完全に動的な製品カタログを強化して、Adobe CommerceとAdobe Experience Managerの両方からのデータを表示できます。 このセッションでは、様々なレベルのマーケティング主導のエクスペリエンスでストアフロントプロジェクトを強化する方法を説明します。 また、カスタムコンポーネントで関連コンテンツをどのように活用できるかを示す、高度なユースケースについても紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337772/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

@@ -1,6 +1,6 @@
 ---
-title: TCO を削減するAdobe Commerceの進化
-description: Adobe Commerceプラットフォームの更新を維持することは、安全でパフォーマンスが高く信頼性の高い e コマースストアを維持するうえで重要です。 e コマースストアは、物理的なストアを扱う場合と同様に、顧客に最適なエクスペリエンスを提供するためにメンテナンスが必要です。  Adobeに関しては、お客様が摩擦のないアップグレードを実行できることが優先事項です。 このセッションでは、TCO（総所有コスト）を削減するためのAdobe Commerceのリリース戦略とベストプラクティスについて学びます。
+title: TCO を削減するためのAdobe Commerceの進化
+description: 安全で、パフォーマンスが高く、信頼性の高い e コマースストアを維持するには、Adobe Commerce プラットフォームを常に最新の状態に保つことが重要です。 実店舗の場合と同様に、e コマースストアでは、顧客に最適なエクスペリエンスを提供するためのメンテナンスが必要です。  Adobeのためには、お客様が摩擦のないアップグレードを実行できるようにすることが優先事項です。 このセッションでは、TCO を削減するためのAdobe Commerceのリリース戦略とベストプラクティスについて説明します。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -16,14 +16,14 @@ ht-degree: 6%
 
 ---
 
-# TCO を削減するAdobe Commerceの進化
+# TCO を削減するためのAdobe Commerceの進化
 
-Adobe Commerceプラットフォームの更新を維持することは、安全でパフォーマンスが高く信頼性の高い e コマースストアを維持するうえで重要です。 e コマースストアは、物理的なストアを扱う場合と同様に、顧客に最適なエクスペリエンスを提供するためにメンテナンスが必要です。  Adobeに関しては、お客様が摩擦のないアップグレードを実行できることが優先事項です。 このセッションでは、TCO（総所有コスト）を削減するためのAdobe Commerceのリリース戦略とベストプラクティスについて学びます。
+安全で、パフォーマンスが高く、信頼性の高い e コマースストアを維持するには、Adobe Commerce プラットフォームを常に最新の状態に保つことが重要です。 実店舗の場合と同様に、e コマースストアでは、顧客に最適なエクスペリエンスを提供するためのメンテナンスが必要です。  Adobeのためには、お客様が摩擦のないアップグレードを実行できるようにすることが優先事項です。 このセッションでは、TCO を削減するためのAdobe Commerceのリリース戦略とベストプラクティスについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337765/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

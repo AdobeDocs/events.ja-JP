@@ -1,6 +1,6 @@
 ---
-title: '[!DNL Adobe Analytics] 可能なドキュメントミッション'
-description: このセッションでは、ドキュメントが成功、ベストプラクティス、ヒントとテクニックにとって重要な理由、およびドキュメント化に取り組む方法について説明します。 [!DNL Adobe Analytics] インスタンス。 2022年6月
+title: '[!DNL Adobe Analytics] ドキュメントのミッションが可能'
+description: このセッションでは、成功、ベストプラクティス、ヒントとテクニック、およびインスタンスをドキュメント化するためのいくつかのアプローチにとって、ドキュメント化がなぜ重要かについ  [!DNL Adobe Analytics]  説明します。 2022年6月
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 3%
 
 ---
 
-# [!DNL Adobe Analytics] 可能なドキュメントミッション
+# [!DNL Adobe Analytics] ドキュメントのミッションが可能
 
-このセッションでは、ドキュメントが成功、ベストプラクティス、ヒントとテクニックにとって重要な理由、およびドキュメント化に取り組む方法について説明します。 [!DNL Adobe Analytics] インスタンス。
+このセッションでは、ドキュメントの作成が成功にとって重要な理由、ベストプラクティス、ヒントとテクニック、[!DNL Adobe Analytics] インスタンスのドキュメント化に取り組むことができるアプローチについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414194/?quality=12&learn=on)

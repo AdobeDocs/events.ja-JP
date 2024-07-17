@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager as a Cloud Serviceを使用した API 認証
-description: Adobe Experience Manager開発コンソールの新しいメカニズムにより、開発者として、またはサードパーティのアプリケーションから、クラウド内のAdobe Experience Managerのインスタンスに対する認証が可能になりました。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+description: Adobe Experience Manager開発コンソールの新しいメカニズムで、開発者とサードパーティ製アプリケーションの両方でクラウド内のAdobe Experience Managerのインスタンスへの認証が可能になったこと。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager
 product: experience manager
 feature: APIs
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Cloud Serviceを使用した API 認証
 
-Adobe Experience Manager開発コンソールの新しいメカニズムにより、開発者として、またはサードパーティのアプリケーションから、クラウド内のAdobe Experience Managerのインスタンスに対する認証が可能になりました。
+Adobe Experience Manager開発コンソールの新しいメカニズムで、開発者とサードパーティ製アプリケーションの両方でクラウド内のAdobe Experience Managerのインスタンスへの認証が可能になったこと。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331768/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/api-authentication.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/api-authentication.pdf)** をクリックしてください。

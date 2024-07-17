@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Customer Spotlight - Center Parcs
-description: このAdobe Campaign Insider セッションでは、Adobe Campaignのお客様に対して、課題を解決し、新しい標準に合わせて調整する方法をお知らせします。詳しくは、60 ～ 160 文字の範囲で説明します。
+title: Adobe Campaign カスタマースポットライト - Center Parcs
+description: このAdobe Campaign Insider セッションでは、Adobe Campaignのお客様に焦点を当てます。お客様は、どのように課題を克服し、ニューノーマルに適応し、より多くのものになるかを説明します（説明は 60 ～ 160 文字にする必要があります）。
 version: Classic v7
 solution: Campaign
 kt: 10502
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Campaign Customer Spotlight - Center Parcs
+# Adobe Campaign カスタマースポットライト - Center Parcs
 
-このAdobe Campaign Insider セッションでは、Adobe Campaignのお客様に焦点を当てます。このお客様は、課題の克服、新しい標準への適応、キャンペーン管理の効率化、Adobe Campaignを通じた有意義な価値の向上を実現する方法を共有します。
+このAdobe Campaign Insider セッションでは、Adobe Campaignのお客様に焦点を当てます。お客様は、どのように課題を克服し、ニューノーマルに適応し、キャンペーン管理を効率化し、Adobe Campaignを通じて有意義な価値を生み出しているかを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343521/?quality=12&learn=on)

@@ -19,7 +19,7 @@ ht-degree: 17%
 
 # データ収集のハイライトとロードマップ
 
-**リリース内容とAdobeデータ収集の検討内容**
+**リリース内容とAdobeデータ収集の今後の予定**
 
 Adobeでは、データ収集が非常に重要です。 使用するデータを信頼できる必要があります。昨年はリリースで盛りだくさんな年でしたが、今後も素晴らしいものを予定しています。
 
@@ -27,5 +27,5 @@ Adobeでは、データ収集が非常に重要です。 使用するデータ�
 
 上記のビデオをご覧になると、Adobeのデータ収集の専門家が、最近の重要な更新の概要と、今後のロードマップ項目を説明した、このライブストリームイベントをご覧いただけます。
 
-ご質問はありますか？ Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+ご質問はありますか？ 引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) で行います。
 

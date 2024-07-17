@@ -1,6 +1,6 @@
 ---
-title: モバイルおよびアプリ用の Analytics および Target アプリケーション
-description: このセッションでは、モバイルデバイスでの Analytics ダッシュボードの使用方法に関するベストプラクティスと、Target を使用してアプリをパーソナライズする方法について学びます。
+title: モバイルおよびアプリ用 Analytics および Target アプリケーション
+description: このセッションでは、モバイルデバイスで Analytics ダッシュボードを使用する方法のベストプラクティスと、Target を使用してアプリをパーソナライズする方法について説明します。
 solution: Analytics, Target
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# モバイルおよびアプリ用の Analytics および Target アプリケーション
+# モバイルおよびアプリ用 Analytics および Target アプリケーション
 
-このセッションでは、モバイルデバイスでの Analytics ダッシュボードの使用方法に関するベストプラクティスと、Target を使用してアプリをパーソナライズする方法について学びます。
+このセッションでは、モバイルデバイスで Analytics ダッシュボードを使用する方法のベストプラクティスと、Target を使用してアプリをパーソナライズする方法について説明します。
 
-*アシカラムジェ* ソリューションコンサルタント/Adobe
+*Ashika Ramjee* ソリューションコンサルタント/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: アセットの一括取り込み
-description: このセッションでは、Cloud Service でのアセットの一括取り込みの新機能と、そのスケーラビリティとパフォーマンスについて紹介します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: アセットの一括取得
+description: このセッションでは、Cloud Service でのアセットの一括取得の新機能と、そのスケーラビリティとパフォーマンスについて紹介します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# アセットの一括取り込み
+# アセットの一括取得
 
-このセッションでは、Cloud Service でのアセットの一括取り込みの新機能と、その拡張性とパフォーマンスについて説明します。
+このセッションでは、Cloud Service でのアセットの一括取得の新機能と、そのスケーラビリティとパフォーマンスについて紹介します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331769/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/asset-bulk-ingestion.pdf)** をクリックしてください。

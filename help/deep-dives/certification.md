@@ -1,6 +1,6 @@
 ---
-title: 自分への投資 —Adobe [!DNL Marketo Engage] 認定制度
-description: 認定プロセスと、マーケティングのキャリアに役立つ情報に興味を持ちましたか？ あるいは、試験の勉強、準備、受験のプロセスに興味があるのか？ 結合Adobe [!DNL Marketo Engage] Marketo認定エキスパートまたはアーキテクトになるための旅について話し合うチャンピオン！
+title: お客様への投資 – Adobe [!DNL Marketo Engage]  認定
+description: 資格認定プロセスに関心がありましたか？また、マーケティングキャリアにどのように役立ちますか？ それとも、勉強、準備、試験を受けるためのプロセスに興味があるでしょうか。 Adobe [!DNL Marketo Engage]  チャンピオンが、Marketo認定のエキスパートまたはアーキテクトになるまでの道のりを話し合います。
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# 自分への投資 —Adobe [!DNL Marketo Engage] 認定制度
+# 自分自身への投資 – Adobe[!DNL Marketo Engage] 認定
 
-認定プロセスと、マーケティングのキャリアに役立つ情報に興味を持ちましたか？ あるいは、試験の勉強、準備、受験のプロセスに興味があるのか？ 結合Adobe [!DNL Marketo Engage] Marketo認定エキスパートまたはアーキテクトになるための旅について話し合うチャンピオン！
+資格認定プロセスに関心がありましたか？また、マーケティングキャリアにどのように役立ちますか？ それとも、勉強、準備、試験を受けるためのプロセスに興味があるでしょうか。 Adobe[!DNL Marketo Engage] チャンピオンが、Marketo認定エキスパートまたはアーキテクトへの道のりを語ります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-クリック **[ここ](assets/certification.pdf){target="_blank"}** を参照してください。
+セッションスライドについては、**[こちら](assets/certification.pdf){target="_blank"}** をクリックしてください。

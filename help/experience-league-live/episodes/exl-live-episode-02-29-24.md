@@ -12,7 +12,7 @@ exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
 source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -24,9 +24,9 @@ Adobe Campaign v8 のルックアンドフィールは一新されます。 新�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
->[!BEGINSHADEBOX 「ご質問がある場合」]
+>[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"} で行います。
 
 >[!ENDSHADEBOX]
 
@@ -46,9 +46,9 @@ Adobe Experience Leagueでこのトピックに関するディスカッション
 
 ## その他のリソース
 
-* **[Campaign Web ユーザーインターフェイス – 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
-  *Adobe Campaign web ユーザーインターフェイスで現在使用可能な機能に関する詳細なドキュメントです。*
+* **[Campaign Web ユーザーインターフェイス – 主な機能 ](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
+  *Adobe Campaign Web ユーザーインターフェイスで現在使用可能な機能に関する詳細なドキュメント*
 
 * **[Adobe Campaign Web ユーザーインターフェイス -Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
-  *Adobe Campaign web ユーザーインターフェイスの特長と機能に関するハウツービデオおよびチュートリアル。*
+  *Adobe Campaign web ユーザーインターフェイスの特長と機能に関するハウツービデオおよびチュートリアル*。
 

@@ -1,6 +1,6 @@
 ---
 title: Sling コンテンツ配布のトラブルシューティング
-description: Sling コンテンツ配布（SCD）は、AEMで順方向、逆方向のコンテンツ配布と同期に使用することができます。このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。
+description: Sling コンテンツ配布（SCD）は、AEMで順方向、逆方向のコンテンツ配布と同期に使用することができます。 このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
@@ -9,21 +9,21 @@ duration: 3093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 67%
+ht-degree: 1%
 
 ---
 
 # Sling コンテンツ配布のトラブルシューティング{#troubleshooting-sling-content-distribution}
 
-Sling コンテンツ配布（SCD）は、AEMで順方向、逆方向のコンテンツ配布と同期に使用することができます。このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。
+Sling コンテンツ配布（SCD）は、AEMで順方向、逆方向のコンテンツ配布と同期に使用することができます。 このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*2017年8月23日（PT）に配信*
+*2017 年 8 月 23 日（PT）に配信*
 
 **発表者：**
 
-アドビ、シニアデベロッパー、Timothee Maret
+Adobe、シニアデベロッパー、Timothee Maret
 
 **発表者のスライド**
 
@@ -33,14 +33,14 @@ Sling コンテンツ配布（SCD）は、AEMで順方向、逆方向のコン�
 
 >[!WARNING]
 >
->AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
->このセッションに関しては、 *ユーザーの同期* (AEMドキュメント ) を参照してください。
+>このセッションに関連する内容については、AEM ドキュメントの *ユーザーの同期* を参照してください。
 
-* [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [概要に戻る](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Apache Sling コンテンツ配布 ](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [ 概要に戻る ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEM のインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
->* [Sling コンテンツ配布のトラブルシューティング](aem-troubleshooting-sling.md)
+>* [AEMのインデックス作成と JCR クエリ ](aem-indexing-jcr-query.md)
+>* [Sling コンテンツ配布のトラブルシューティング ](aem-troubleshooting-sling.md)

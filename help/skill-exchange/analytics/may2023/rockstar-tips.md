@@ -1,6 +1,6 @@
 ---
-title: 2023 年 5 月 APACAdobe Analytics Skill Exchange Grow Track CH1 Rockstar Tips
-description: ベガスに来れなかったの？ じゃあベガスが来る！ ロックスター・ワールド・ツアーは、今年のラスベガスでのAdobe Summit中に人気投票で勝ったヒントをアンコアで発表し、今年のチャンピオンで始まります。 では、ロックして学ぶ準備をしてください！
+title: 2023 年 5 月 APAC Adobe Analytics Skill Exchange Grow Track CH1 Rockstar Tips
+description: ベガスに来れなかったのか？ さて、ラスベガスがあなたにやってくる！ ロックスター・ワールドツアーは、今年のラスベガスでのAdobe Summit中に人気の投票で獲得したヒントをアンコールで発表する今年のチャンピオンから始まります。 だからロックする準備ができて学ぶ！
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# ロックスターのヒント — 2023 年 5 月 APAC Adobe Analytics Skill Exchange Grow Track
+# Rockstar のヒント - 2023 年 5 月 APAC Adobe Analytics Skill Exchange Grow Track
 
-ベガスに来れなかったの？ じゃあベガスが来る！ ロックスター・ワールド・ツアーは、今年のラスベガスでのAdobe Summit中に人気投票で勝ったヒントをアンコアで発表し、今年のチャンピオンで始まります。 では、ロックして学ぶ準備をしてください！
+ベガスに来れなかったのか？ さて、ラスベガスがあなたにやってくる！ ロックスター・ワールドツアーは、今年のラスベガスでのAdobe Summit中に人気の投票で獲得したヒントをアンコールで発表する今年のチャンピオンから始まります。 だからロックする準備ができて学ぶ！
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420946/?learn=on)

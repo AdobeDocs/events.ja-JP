@@ -1,6 +1,6 @@
 ---
 title: リソース管理スターターキット
-description: Adobe Workfrontのリソース管理ツールの使用を検討しているのに、どこから始めればよいかわからない場合は、これが最適なセッションです。 Workfrontは最近、Resource Management をできるだけ簡単に使える新しいブループリントバンドルを開始しました。
+description: Adobe Workfrontのリソース管理ツールの使用を考えていて、どこから始めればよいかわからない場合は、このセッションがおすすめです。 Workfrontは最近、リソース管理をできるだけ簡単に調査できる新しいブループリントバンドルを公開しました。
 solution: Workfront
 feature-set: Workfront
 feature: Resource Management
@@ -21,14 +21,14 @@ ht-degree: 0%
 
 # リソース管理スターターキット
 
-Adobe Workfrontのリソース管理ツールの使用を検討しているのに、どこから始めればよいかわからない場合は、これが最適なセッションです。
+Adobe Workfrontのリソース管理ツールの使用を考えていて、どこから始めればよいかわからない場合は、このセッションがおすすめです。
 
-Workfrontは最近、Resource Management をできるだけ簡単に使える新しいブループリントバンドルを開始しました。 Adobe Workfrontのチームリード、顧客成功アーキテクト（以前のお客様）の Corinna Jevons は、新しいバンドルに含まれる「リソース管理準備チェックリスト」と「リソース管理ユーザー準備」を順を追って説明します。
+Workfrontは最近、リソース管理をできるだけ簡単に調査できる新しいブループリントバンドルを公開しました。 Adobe Workfront（および以前のお客様）のカスタマーサクセスアーキテクトのチームリード、Corinna Jevons が、新しいバンドルに含まれている「Resource Management Preparation Checklist」と「Resource Management User Preparation」の両方を順を追って説明します。
 
 このセッションでは、
 
-* リソース・プランナとワークロード・バランサの概要
-* 新しいリソース管理ブループリントをインストールする手順
-* 新しい「作業時間」フィールドを使用してユーザー容量を調整する方法
+* リソースプランナーとワークロードバランサーの概要
+* 新しいリソース管理ブループリントのインストール手順
+* 新しい作業時間フィールドを使用してユーザーの処理能力を調整する方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425792/?learn=on)

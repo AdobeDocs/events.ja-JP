@@ -1,6 +1,6 @@
 ---
-title: Marketoとモチャス — Marketo Measure Attribution
-description: Marketo&モチャスのこのセッションでは、マーケティングオートメーションビジネスアドバイザー、エリザベス・ランドバーグ、ケイト・コルバートを紹介します。 このセッションでは、Liz と Kate はMarketo Measure(fka Bizible) 内で Attribution に飛び込みます。 アトリビューションとは何か、その有用性、Marketo Measureの様々なアトリビューション在庫モデル、およびビジネスに適したアトリビューションを選択するためのベストプラクティスについて説明します。 Q&A と共に、Liz と Kate が、登録者や出席者から生きた質問に答える。
+title: Marketoと Mocha - Marketo Measure アトリビューション
+description: Marketo&Mochas の今回のセッションでは、マーケティングオートメーションビジネスアドバイザー、エリザベス・ランバーグ、ケイト・コルバートが参加します。 このセッションでは、Liz と Kate がMarketo Measure内のアトリビューション（fka Bizible）について説明します。 アトリビューションとは何か、アトリビューションが役に立つ理由、Marketo Measureの様々なアトリビューションストックモデル、ビジネスに適したアトリビューションを選択するためのベストプラクティスについて説明します。 プレゼンテーションには Q&A が付き、Liz と Kate が登録者や出席者からの質問に答えます。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Marketoとモチャス — Marketo Measure Attribution
+# Marketoと Mocha - Marketo Measure アトリビューション
 
-Marketo&amp;モチャスのこのセッションでは、マーケティングオートメーションビジネスアドバイザー、エリザベス・ランドバーグ、ケイト・コルバートを紹介します。 このセッションでは、Liz と Kate はMarketo Measure(fka Bizible) 内で Attribution に飛び込みます。 アトリビューションとは何か、その有用性、Marketo Measureの様々なアトリビューション在庫モデル、およびビジネスに適したアトリビューションを選択するためのベストプラクティスについて説明します。 Q&amp;A と共に、Liz と Kate が、登録者や出席者から生きた質問に答える。
+Marketo&amp;Mochas の今回のセッションでは、マーケティングオートメーションビジネスアドバイザー、エリザベス・ランバーグ、ケイト・コルバートが参加します。 このセッションでは、Liz と Kate がMarketo Measure内のアトリビューション（fka Bizible）について説明します。 アトリビューションとは何か、アトリビューションが役に立つ理由、Marketo Measureの様々なアトリビューションストックモデル、ビジネスに適したアトリビューションを選択するためのベストプラクティスについて説明します。 プレゼンテーションには Q&amp;A が付き、Liz と Kate が登録者や出席者からの質問に答えます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413506/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 規模に応じたパーソナライゼーションの基盤の構築
-description: このウェビナーでは、パーソナライゼーションを大規模に調整するために必要な基礎知識の理解に焦点を当てています
+title: 大規模なPersonalizationの基盤の構築
+description: このウェビナーでは、パーソナライゼーションを大規模に調整するために必要な基盤の理解に焦点を当てます
 solution: Experience Cloud
 topic: Personalization
 role: Admin, Architect, Data Architect, Data Engineer, Leader
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 規模に応じたパーソナライゼーションの基盤の構築
+# 大規模なPersonalizationの基盤の構築
 
-このウェビナーでは、パーソナライゼーションを大規模に調整するために必要な基礎知識の理解に焦点を当てています
+このウェビナーでは、パーソナライゼーションを大規模に調整するために必要な基盤の理解に焦点を当てます
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421761/?learn=on)

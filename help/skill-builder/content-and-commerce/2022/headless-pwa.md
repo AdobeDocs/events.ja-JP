@@ -1,6 +1,6 @@
 ---
-title: コマースおよびPWA Studioのヘッドレス
-description: Adobe CommerceのPWAスタジオを使用して、デプロイメントを迅速かつコスト効率よく最適化するPWAの構築について詳しく説明します
+title: CommerceとPWA Studioのヘッドレス
+description: Adobe CommerceのPWAスタジオを使用して、デプロイと最適化のPWAを迅速かつコスト効率に優れた方法で構築する方法について説明します
 solution: Commerce
 role: Admin, Architect, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# コマースおよびPWA Studioのヘッドレス
+# CommerceとPWA Studioのヘッドレス
 
-ヘッドレスおよびプログレッシブ Web アプリ (PWA) は、顧客がモバイルデバイスをどのように使用するかを再定義し、迅速で魅力的なアプリのようなブラウジングエクスペリエンスを提供します。 このセッションに参加して、Adobe CommerceのPWAスタジオでデプロイPWAを迅速かつコスト効率よく構築する方法の詳細をご覧ください。
+ヘッドレスおよびプログレッシブ web アプリ（PWA）は、高速で魅力的な、アプリのようなブラウジングエクスペリエンスを提供することで、消費者のモバイルデバイスの使用方法を再定義しています。 このセッションでは、Adobe CommerceのPWAスタジオを使用して、デプロイとPWAの迅速かつコスト効率の高い最適化を構築する方法について説明します。
 
-*ビーサンウィリアムズジェームズ* コマースソリューションコンサルタント/Adobe
+*Bethan Williams-James* Commerce ソリューションコンサルタント/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343814/?quality=12&learn=on)

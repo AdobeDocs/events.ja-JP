@@ -1,6 +1,6 @@
 ---
-title: HTTP? 始まり方、進み方
-description: HTTP プロトコルの共著者である Roy Fielding 氏と、REST の発明者とのインタビュー。HTTP の初期の段階から QUIC & HTTP/3 での作業に至るまでの進化について。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: HTTP? どのように始まったか、どのように進んでいるか
+description: HTTP プロトコルの共著者であり、REST の発明者である Roy Fielding 氏に、HTTP の初期の段階から現在の QUIC と HTTP/3 に関する研究への進化についてインタビューした。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# HTTP? 始まり方、進み方
+# HTTP? どのように始まったか、どのように進んでいるか
 
-HTTP プロトコルの共著者である Roy Fielding 氏と、REST の発明者とのインタビュー。HTTP の初期の段階から QUIC &amp; HTTP/3 での作業に至るまでの進化について。
+HTTP プロトコルの共著者であり、REST の発明者である Roy Fielding 氏に、HTTP の初期の段階から現在の QUIC と HTTP/3 に関する研究への進化についてインタビューした。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

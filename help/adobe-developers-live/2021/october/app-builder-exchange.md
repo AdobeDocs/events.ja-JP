@@ -1,6 +1,6 @@
 ---
-title: App Builder Exchange
-description: Adobe Experience Managerを拡張する App Builder アプリケーションのアプリケーションアーキテクチャについて説明します。
+title: App Builder取引所
+description: Adobe Experience Managerを拡張するApp Builder アプリのアプリケーションアーキテクチャについて順を追って説明し、App Builderについて詳しく説明します。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 17%
 
 ---
 
-# App Builder Exchange
+# App Builder取引所
 
-Adobe Experience Managerを拡張する App Builder アプリケーションのアプリケーションアーキテクチャについて説明します。
+Adobe Experience Managerを拡張するApp Builder アプリのアプリケーションアーキテクチャについて順を追って説明し、App Builderについて詳しく説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3uragoI)**.
+**[Experience League コミュニティ ](https://adobe.ly/3uragoI)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

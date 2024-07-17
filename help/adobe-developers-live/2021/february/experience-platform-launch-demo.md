@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform Launch Demo
-description: AEP Launch を使用して、クライアント側のマーケティングタグと広告タグを迅速かつ簡単にデプロイおよび管理し、独自の拡張機能をカスタマイズおよび書き込む方法を学びます。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Adobe Experience Platform Launch デモ
+description: AEP Launch を使用すると、クライアントサイドのマーケティングおよび広告タグをすばやく簡単にデプロイおよび管理でき、独自の拡張機能をカスタマイズおよび記述する方法を学べます。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Data Collection
 product: experience platform
 sub-product: launch
@@ -19,12 +19,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Platform Launch Demo
+# Adobe Experience Platform Launch デモ
 
-AEP Launch を使用して、クライアント側のマーケティングタグと広告タグを迅速かつ簡単にデプロイおよび管理し、独自の拡張機能をカスタマイズおよび書き込む方法を学びます。
+AEP Launch を使用すると、クライアントサイドのマーケティングおよび広告タグをすばやく簡単にデプロイおよび管理でき、独自の拡張機能をカスタマイズおよび記述する方法を学べます。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** をクリックしてください。

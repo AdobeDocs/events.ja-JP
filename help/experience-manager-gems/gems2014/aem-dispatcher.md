@@ -1,5 +1,5 @@
 ---
-title: Dispatcher - 新機能とベストプラクティス
+title: Dispatcher – 新機能とベストプラクティス
 description: このセッションは、Dispatcher バージョン 4.1.9 以降の新機能を確認し、Dispatcher をデプロイする際のベストプラクティスをいくつか紹介します。
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
@@ -8,21 +8,21 @@ duration: 3623
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 100%
+ht-degree: 2%
 
 ---
 
-# Dispatcher - 新機能とベストプラクティス{#dispatcher-new-features-and-best-practices}
+# Dispatcher – 新機能とベストプラクティス{#dispatcher-new-features-and-best-practices}
 
 このセッションは、Dispatcher バージョン 4.1.9 以降の新機能を確認し、Dispatcher をデプロイする際のベストプラクティスをいくつか紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/20842/?quality=9)
 
-*2017年11月22日（PT）に配信*
+*2017 年 11 月 22 日（PT）に配信*
 
 **発表者：**
 
-アドビ、シニアコンピューターサイエンティスト、Dominique Pfister
+Adobe、シニアコンピューターサイエンティスト、Dominique Pfister
 
 **発表者のスライド**
 
@@ -30,11 +30,11 @@ ht-degree: 100%
 
 ## リソース {#resources}
 
-[Dispatcher キャッシュの詳細](https://github.com/cqsupport/webinar-dispatchercache)
+[Dispatcher キャッシュの詳細 ](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Rosetta Flash による JSONP の悪用](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Rosetta Flashによる JSONP の悪用 ](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
-[詳細情報](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
+[ 詳細情報 ](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

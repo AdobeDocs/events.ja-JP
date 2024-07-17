@@ -1,6 +1,6 @@
 ---
 title: エンタープライズワークフロー管理を最大限に活用
-description: このセッションでは、アセット管理にワークフローを使用するメリットと、それらをすばやく作成する方法について説明します。
+description: このセッションでは、アセット管理にワークフローを使用する利点と、ワークフローをすばやく作成する方法を学びます。
 role: Admin, Leader, User
 level: Intermediate, Experienced
 kt: 10564
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 # エンタープライズワークフロー管理を最大限に活用
 
-このセッションでは、アセット管理にワークフローを使用するメリットと、それらをすばやく作成する方法について説明します。
+このセッションでは、アセット管理にワークフローを使用する利点と、ワークフローをすばやく作成する方法を学びます。
 
-*Chris Sofokleous* ソリューションコンサルタント、AEM /Adobe
+*Chris Sofokleous* ソリューションコンサルタント、AEM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

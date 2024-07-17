@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce Platform の正常性とパフォーマンスの完全な可視性
-description: このセッションでは、Adobe Commerceプラットフォームの正常性、セキュリティ、品質を監視するために使用できるツールについて学びます。
+title: Adobe Commerce Platform のヘルスとパフォーマンスを完全に可視化
+description: このセッションでは、Adobe Commerce プラットフォームのヘルス、セキュリティおよび品質を監視するために使用できるツールについて説明します。
 role: User
 level: Beginner
 kt: 9792
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce Platform の正常性とパフォーマンスの完全な可視性
+# Adobe Commerce Platform のヘルスとパフォーマンスを完全に可視化
 
-このセッションでは、Adobe Commerceプラットフォームの正常性、セキュリティ、品質を監視するために使用できるツールについて学びます。
+このセッションでは、Adobe Commerce プラットフォームのヘルス、セキュリティおよび品質を監視するために使用できるツールについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)

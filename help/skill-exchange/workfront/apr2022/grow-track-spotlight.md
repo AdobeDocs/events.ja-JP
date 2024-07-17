@@ -1,6 +1,6 @@
 ---
-title: Track Experience Makers スポットライトを拡大
-description: 業務管理の成熟度に至る道のりは一晩では起こりません。 戦略的な計画、慎重な指導力、そして変化を受け入れるための文化が必要です。
+title: Experience Makers スポットライトを育てる
+description: 作業管理の成熟度への道のりは一朝一夕には訪れません。 戦略的計画、計画的なリーダーシップ、そして変化を受け入れる準備ができている文化が必要です。
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ---
 
-# 成長追跡 — Experience Makers スポットライト
+# Grow Track - Experience Makers Spotlight
 
-業務管理の成熟度に至る道のりは一晩では起こりません。 戦略的な計画、慎重な指導力、そして変化を受け入れるための文化が必要です。 Experience Makers Spotlight セッションに参加して、3 つの異なる組織から、組織が次のレベルでどのように機能しているかについてお知らせください。
+作業管理の成熟度への道のりは一朝一夕には訪れません。 戦略的計画、計画的なリーダーシップ、そして変化を受け入れる準備ができている文化が必要です。 Experience Makers Spotlight セッションに参加して、3 つの非常に異なる組織から、組織がどのように作業を次のレベルに引き上げてきたかについて聞いてください。
 
-聞こえます：
+聞こえるであろう：
 
-* Workfront Insights 組織全体でクリエイティブ操作の効率を高めるのに使用されるルーメン
-* T-Mobile が真の運用計測戦略を作り出した仕組み
-* 手順同期では、キャンペーンの実行を完全に調整するために、複数年にわたるジャーニーを実施しました
+* Workfrontのインサイト Lumen は、組織全体のクリエイティブオペレーションの効率化を推進するために使用されます
+* T-Mobile がどのようにして真の運用測定戦略を生み出したか
+* Synchrony がキャンペーンの実行を完全に調整するために実施した複数年にわたるジャーニー
 
 >[!VIDEO](https://video.tv.adobe.com/v/342524/?quality=12&learn=on)

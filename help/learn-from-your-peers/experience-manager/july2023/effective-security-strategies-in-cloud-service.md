@@ -1,6 +1,6 @@
 ---
-title: 効果的なセキュリティ戦略のCloud Service
-description: Adobe Experience Managerカスタマーチャンピオンの Rami El Gamal 氏が、AEM Cloud Serviceのセキュリティの様々な側面について話し合う際に参加します。
+title: Cloud Serviceにおける効果的なセキュリティ戦略
+description: Adobe Experience Manager カスタマーチャンピオンの Rami El Gamal が、AEM Cloud Serviceのセキュリティのさまざまな側面について説明します。
 solution: Experience Manager
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ---
 
-# オンデマンドCloud Serviceウェビナーでの効果的なセキュリティ戦略
+# Cloud Serviceオンデマンドウェビナーにおける効果的なセキュリティ対策
 
-企業はクラウドベースのソリューションにますます移行しているので、デジタルエクスペリエンスを確実に保護し、保護することが重要です。 Adobe Experience Managerカスタマーチャンピオンの Rami El Gamal 氏が、AEM Cloud Serviceのセキュリティの様々な側面について説明します。
+企業はクラウドベースのソリューションに移行しつつあり、デジタルエクスペリエンスのセキュリティを確保し、保護することが重要です。 Adobe Experience Manager カスタマーチャンピオンの Rami El Gamal が、AEM Cloud Serviceのセキュリティの様々な側面について説明します。
 
 * IMS を使用したユーザーの作成と様々な役割および責務の割り当て
-* デプロイメントとリポジトリアクセス用の Cloud Manager Access の設定
-* IMS グループとAEMグループを使用したAdobe Experience Manager Access
-* Cloud Manager を使用したAEM環境の保護。
+* デプロイメントおよびリポジトリアクセスのためのCloud Manager アクセスの設定
+* IMS およびAEM グループを使用したAdobe Experience Manager アクセス
+* Cloud Managerを使用したAEM環境の保護。
 
-プレゼンテーションスライドにアクセスできます [ここ](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf).
+プレゼンテーションのスライドには [ こちら ](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf) アクセスできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421772/?learn=on)

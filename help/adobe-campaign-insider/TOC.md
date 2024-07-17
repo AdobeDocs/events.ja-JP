@@ -1,26 +1,26 @@
 ---
-user-guide-title: Adobe [!DNL Campaign] インサイダーイベント
+user-guide-title: Adobe [!DNL Campaign]  インサイダーイベント
 user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
-user-guide-description: Adobeのヒントとテクニック [!DNL Campaign] お客様は、クロスチャネルマーケティング戦略の発展、チームマーケティングの実践者スキルの向上、組織がより高度なクロスチャネルマーケティング戦略を立ち上げるのに役立ちます。
+user-guide-description: Adobe [!DNL Campaign]  のお客様がクロスチャネルマーケティング戦略を発展させ、チームのマーケティング実践者のスキルを高め、より高度なクロスチャネルマーケティング戦略を立ち上げるのに役立つヒントとコツとインスピレーションです。
 solution: Campaign
 source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 25%
+ht-degree: 2%
 
 ---
 
 
-# Adobe [!DNL Campaign] Insider シリーズ {#adobe-campaign-insider-recordings}
+# Adobe [!DNL Campaign] インサイダーシリーズ {#adobe-campaign-insider-recordings}
 
-+ [Adobe [!DNL Campaign] Insider シリーズ](overview.md)
++ [Adobe [!DNL Campaign]  インサイダーシリーズ](overview.md)
 + 2022年 {#2022}
-   + [顧客スポットライト — [!DNL Microsoft]](2022/microsoft.md)
-   + [顧客スポットライト — [!DNL Center Parcs]](2022/center-parcs.md)
+   + [カスタマースポットライト - [!DNL Microsoft]](2022/microsoft.md)
+   + [カスタマースポットライト - [!DNL Center Parcs]](2022/center-parcs.md)
    + [配信品質のベストプラクティスと成果を導く戦略](2022/deliverability-best-practices.md)
    + [マーケティングエコシステムとの統合](2022/integrations.md)
-   + [クロスチャネルマーケティングのレベルアップに [!DNL Campaign Classic]](2022/cross-channel.md)
+   + [ [!DNL Campaign Classic] を使用したクロスチャネルマーケティングのレベルアップ](2022/cross-channel.md)
    + [クロスチャネルマーケティングをサポートするための必要なチーム、スキル、組織設計](2022/team-skills-org-design.md)
-   + [プロからの時間節約のヒント](2022/tips.md)
+   + [時間節約のためのプロからのヒント](2022/tips.md)
 + 2023年 {#2023}
-   + [顧客スポットライト](2023/customer-spotlight-center-parcs.md)
+   + [カスタマースポットライト](2023/customer-spotlight-center-parcs.md)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Standard Customer Spotlight - Microsoft
-description: セッションは、Adobe Campaign Standardのお客様向けです。 Microsoftのマーケティングチームから、Adobe Campaign Standardの使用方法に関する連絡が届きます。
+title: Adobe Campaign Standard カスタマースポットライト - Microsoft
+description: このセッションは、Adobe Campaign Standardのお客様向けです。 Microsoftのマーケティングチームの声を聞いて、Adobe Campaign Standardの使用方法をお伝えします。
 version: Standard
 solution: Campaign
 kt: 10503
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Campaign Standard Customer Spotlight - Microsoft
+# Adobe Campaign Standard カスタマースポットライト - Microsoft
 
-セッションは、Adobe Campaign Standardのお客様向けです。 Microsoftのマーケティングチームから、Adobe Campaign Standardの使用方法、アーキテクチャとガイドの原則、ベストプラクティスについてお知らせいたします。 また、製品のアップデートとロードマップについては、Adobe製品チームからもお知らせします。
+このセッションは、Adobe Campaign Standardのお客様向けです。 Microsoftのマーケティングチームの話を聞いて、Adobe Campaign Standardの使用方法、アーキテクチャと基本原則、ベストプラクティスを確認します。 また、Adobe製品チームから、製品のアップデートとロードマップについての説明も受けられます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343522/?quality=12&learn=on)

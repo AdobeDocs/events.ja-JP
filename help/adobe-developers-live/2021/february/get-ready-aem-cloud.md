@@ -1,6 +1,6 @@
 ---
-title: Cloud Serviceの準備 — 移行のベストプラクティス
-description: コードベースを適応させて、内部で処理される将来のアップグレードに対してクラウドフレンドリーで防弾性の高いものにすることが、Adobe Experience ManagerCloud Serviceのメリットを最大限に活かすための鍵となります。
+title: 移行に備える – Cloud Serviceのベストプラクティス
+description: コードベースをクラウドに対応させ、内部的に処理される今後のアップグレードに対して堅実に対応できるようにすることは、Adobe Experience ManagerCloud Serviceのメリットを最大限に活用するための鍵です。
 solution: Experience Manager
 product: experience manager
 feature: Migration
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Cloud Serviceの準備 — 移行のベストプラクティス
+# 移行に備える – Cloud Serviceのベストプラクティス
 
-コードベースを適応させて、内部で処理される将来のアップグレードに対してクラウドフレンドリーで防弾性の高いものにすることが、Adobe Experience ManagerCloud Serviceのメリットを最大限に活かすための鍵となります。
+コードベースをクラウドに対応させ、内部的に処理される今後のアップグレードに対して堅実に対応できるようにすることは、Adobe Experience ManagerCloud Serviceのメリットを最大限に活用するための鍵です。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** をクリックしてください。

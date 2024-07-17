@@ -1,5 +1,5 @@
 ---
-title: Customer Journey Analytics移行の準備
+title: Customer Journey Analytics移行への対応
 description: Customer Journey Analytics価値の概要、業界別のハイライト、推奨リソース
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Customer Journey Analytics移行の準備
+# Customer Journey Analytics移行への対応
 
-* CJA 価値の概要
-* 業界別の CJA の使用例のハイライト
+* CJA 値の概要
+* 業界別の CJA のユースケースのハイライト
 * 推奨リソース
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423904/?learn=on)

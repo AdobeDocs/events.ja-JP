@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live- 11 月 22 日 — 基調講演の開会
-description: Keynote - Headless Today & Tomorrow withAdobeExperience Manager Sr. Director、Michael Marth、Product Management のDirectorとのオープニング基調にご参加ください。Cedric Huesler はAdobe Experience Managerヘッドレス CMS の現在および将来の状態についての開発者向けてお話します。
+title: Adobe Developers Live- 11 月 22 日 – はじめに
+description: 基調講演 – Adobeエクスペリエンスマネージャーによるヘッドレスの今日と明日エンジニアリング担当のDirectorシニア、Michael Marth およびプロダクトマネジメント担当のDirector、Cedric Huesler によるオープニング基調講演に参加して、Adobe Experience Managerヘッドレス CMS の現在と将来の状況を開発者が振り返ります。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# 開口キーノート
+# オープニング キーノート
 
-基調講演：ヘッドレス今日&amp;明日とAdobe Experience Manager
+キーノート：Adobe Experience Managerによる今日と明日のヘッドレス
 
-Adobe Experience Managerヘッドレス CMS の現在および将来の状態に関する開発者向けの見解については、エンジニアリング担当シニアDirector、マイケル・マース、製品管理担当Directorとのオープニング・キーノートにご参加ください。
+エンジニアリング担当のDirector上院議員、Michael Marth およびプロダクトマネジメント担当のDirector、Cedric Huesler によるオープニング基調講演に参加して、Adobe Experience Manager ヘッドレス CMS の現在と将来の状況に関するデベロッパーの展望をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411296/?quality=12&learn=on)

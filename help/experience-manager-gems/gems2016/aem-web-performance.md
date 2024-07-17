@@ -1,6 +1,6 @@
 ---
-title: AEM web パフォーマンス
-description: 複雑な web エクスペリエンスを素早く構築するのは困難です。この講演では、一般的な落とし穴について、Joel が説明します。理論、例、ベストプラクティスを紹介し、ツールのデモを行います。
+title: AEM Web パフォーマンス
+description: 複雑な web エクスペリエンスを迅速に提供するのは困難です。 この講演では、一般的な落とし穴について、Joel が説明します。 理論、例、ベストプラクティスを紹介し、ツールのデモを行います。
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
@@ -8,21 +8,21 @@ duration: 3831
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 75%
+ht-degree: 0%
 
 ---
 
-# AEM web パフォーマンス{#aem-web-performance}
+# AEM Web パフォーマンス{#aem-web-performance}
 
-複雑な web エクスペリエンスを素早く構築するのは困難です。この講演では、一般的な落とし穴について、Joel が説明します。理論、例、ベストプラクティスに加えて、次の領域でツールのデモを行います。ネットワークと待ち時間：HTTP/1.1 および HTTP/2 の最適化 - AEM のサーバーリクエストの遅さ：問題の特定 - JavaScript：オーバーヘッドの最小化
+複雑な web エクスペリエンスを迅速に提供するのは困難です。 この講演では、一般的な落とし穴について、Joel が説明します。 理論、例、ベストプラクティスに加えて、次の領域でツールのデモを行います。ネットワークと待ち時間：HTTP/1.1 および HTTP/2 の最適化 – AEM サーバーリクエストの遅さ：問題の特定 – JavaScript：オーバーヘッドの最小化
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*2016年6月1日（PT）に配信*
+*2016 年 6 月 1 日（PT）に配信*
 
 **発表者：**
 
-* アドビ、デベロッパー、Joel Richard
+* Adobe、デベロッパー、Joel Richard
 
 **発表者のスライド**
 
@@ -32,7 +32,7 @@ ht-degree: 75%
 
 >[!WARNING]
 >
->AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
@@ -52,7 +52,7 @@ AEM コンポーネント：\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
 [https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 
-JavaScript パフォーマンス：\
+JavaScriptのパフォーマンス：\
 [https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\
 [https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 

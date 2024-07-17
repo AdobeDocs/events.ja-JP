@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce Cloudでの変更の追跡
-description: スクリプト統合を作成して、New Relicでの Commerce プロジェクトのデプロイメントイベントを追跡します。 New Relic Track の変更を簡単に有効化して、クラウドインフラストラクチャプロジェクト上の Commerce のデプロイメントイベントを監視できます。 Deployments のデータ収集は、CPU、メモリ、トランザクション応答時間など、デプロイメントの変更が全体的なパフォーマンスに与える影響を分析するのに役立ちます。
+description: スクリプト統合を作成して、New RelicでCommerce プロジェクトのデプロイメントイベントを追跡します。 New Relicの変更追跡機能を簡単に有効にして、クラウドインフラストラクチャプロジェクト上のCommerceのデプロイメントイベントを監視できます。 Deployments データ収集は、CPU、メモリ、トランザクション応答時間など、全体的なパフォーマンスに対するデプロイメントの変更の影響を分析するのに役立ちます。
 solution: Commerce
 feature-set: Commerce
 feature: Cloud, Deploy
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Adobe Commerce Cloudでの変更の追跡
 
-スクリプト統合を作成して、New Relicでの Commerce プロジェクトのデプロイメントイベントを追跡します。 New Relic Track の変更を簡単に有効化して、クラウドインフラストラクチャプロジェクト上の Commerce のデプロイメントイベントを監視できます。 Deployments のデータ収集は、CPU、メモリ、トランザクション応答時間など、デプロイメントの変更が全体的なパフォーマンスに与える影響を分析するのに役立ちます。
+スクリプト統合を作成して、New RelicでCommerce プロジェクトのデプロイメントイベントを追跡します。 New Relicの変更追跡機能を簡単に有効にして、クラウドインフラストラクチャプロジェクト上のCommerceのデプロイメントイベントを監視できます。 Deployments データ収集は、CPU、メモリ、トランザクション応答時間など、全体的なパフォーマンスに対するデプロイメントの変更の影響を分析するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)

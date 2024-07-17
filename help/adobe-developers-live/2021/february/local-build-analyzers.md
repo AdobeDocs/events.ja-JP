@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager as a Cloud Serviceを使用したローカルビルドアナライザー
-description: AEMのアーキタイプに追加された新しいアナライザーに重点を置き、Cloud Manager のデプロイメントパイプライン内で実行されるローカルでの検証を再現できます。
+description: AEM アーキタイプに追加された新しいアナライザーに焦点を当て、Cloud Manager デプロイメントパイプライン内で行われるローカルの検証を再現できるようにします。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Cloud Serviceを使用したローカルビルドアナライザー
 
-ACDL のイベント駆動型 API を理解する。 コマースの例は、コアコンポーネントによってどのようにハイドレートされ、Launch 拡張機能と AA および AT のインターフェイスが組み込まれるかを示します。
+ACDL のイベント駆動型 API について説明します。 Commerceの例で、コアコンポーネントがコアコンポーネントと、Launch 拡張機能が AA と AT とどのようにインターフェイスを強化するかを示します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** をクリックしてください。

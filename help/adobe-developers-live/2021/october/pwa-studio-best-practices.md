@@ -1,6 +1,6 @@
 ---
-title: PWA Studio初心者向けのベストプラクティス
-description: このセッションは、PWA Studioが提供する必要がある初心者向けの紹介です。 様々なPWA Studioライブラリと、ストアフロントプロジェクトでそれらを効果的に使用する方法について説明します。 例やデモに参加して、簡単に使い始めて、PWA Studioを使って作業を行う方法を確認してください。
+title: 初心者向けのPWA Studioのベストプラクティス
+description: このセッションは、PWA Studioが提供する機能を初心者でも簡単に紹介するものです。 様々なPWA Studioライブラリの概要と、それらをストアフロントプロジェクトで効果的に使用する方法について説明します。 例やデモをご覧になると、PWA Studioの使用が簡単に開始され、操作されていることがわかります。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -16,16 +16,16 @@ ht-degree: 9%
 
 ---
 
-# PWA Studio初心者向けのベストプラクティス
+# 初心者向けのPWA Studioのベストプラクティス
 
-このセッションは、PWA Studioが提供する必要がある初心者向けの紹介です。
-様々なPWA Studioライブラリと、ストアフロントプロジェクトでそれらを効果的に使用する方法について説明します。
-例やデモに参加して、簡単に使い始めて、PWA Studioを使って作業を行う方法を確認してください。
+このセッションは、PWA Studioが提供する機能を初心者でも簡単に紹介するものです。
+様々なPWA Studioライブラリの概要と、それらをストアフロントプロジェクトで効果的に使用する方法について説明します。
+例やデモをご覧になると、PWA Studioの使用が簡単に開始され、操作されていることがわかります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337764/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

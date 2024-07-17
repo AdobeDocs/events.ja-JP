@@ -1,6 +1,6 @@
 ---
-title: Analytics Grow Experience Makers Spotlight
-description: 2 人のエキスパート顧客、Adobe Analyticsユーザーを対象に、Andy Lunsford と Tyler Scott に注目してください。 それぞれが、自分の最高のAdobe Analyticsのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。 これを見逃したくない。
+title: Analytics Grow Experience Makers のスポットライト
+description: 2 人のエキスパートのお客様である Andy Lunsford と Tyler Scott、およびAdobe Analytics ユーザーにご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Analytics Grow Experience Makers Spotlight
+# Analytics Grow Experience Makers のスポットライト
 
-2 人のエキスパート顧客、Adobe Analyticsユーザーを対象に、Andy Lunsford と Tyler Scott に注目してください。 それぞれが、自分の最高のAdobe Analyticsのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。 これを見逃したくない。
+2 人のエキスパートのお客様である Andy Lunsford と Tyler Scott、およびAdobe Analytics ユーザーにご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411014/?quality=12&learn=on)

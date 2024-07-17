@@ -1,6 +1,6 @@
 ---
 title: Adobeカスタマーサクセスウェビナー
-description: Adobeカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化できるように設計されています。 価値を最大限に高め、Adobe・ソリューションの採用を促進するために、貴重なインサイトを得る。
+description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Adobeカスタマーサクセスウェビナー {#adobe-customer-success-webinars}
 
-Adobeカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化できるように設計されています。 価値を最大限に高め、Adobe・ソリューションの採用を促進するために、貴重なインサイトを得る。
+Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
 
 <!-- 
 ## Featured Sessions

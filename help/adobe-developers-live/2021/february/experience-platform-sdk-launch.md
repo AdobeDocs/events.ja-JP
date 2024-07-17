@@ -1,6 +1,6 @@
 ---
-title: Experience PlatformSDK と Launch Server Side
-description: AEP Web & Mobile SDK を使用して、AEP Launch Server Side の可能性を最大限に活用し、企業のデータ収集を最適化します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Experience Platform SDK と Launch サーバーサイド
+description: AEP Web および Mobile SDK を使用して AEP Launch サーバーサイドの可能性を最大限に引き出し、企業のデータ収集を最適化します。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Data Collection
 product: experience platform
 sub-product: launch
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Experience PlatformSDK と Launch Server Side
+# Experience Platform SDK と Launch サーバーサイド
 
-AEP Web &amp; Mobile SDK を使用して、AEP Launch Server Side の可能性を最大限に活用し、企業のデータ収集を最適化します。
+AEP Web および Mobile SDK を使用して AEP Launch サーバーサイドの可能性を最大限に引き出し、企業のデータ収集を最適化します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** をクリックしてください。

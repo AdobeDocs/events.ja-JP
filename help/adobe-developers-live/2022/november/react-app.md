@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live- 11 月 22 日 — 最初の React アプリのビルド
-description: Experience Managerヘッドレス CMS の概要Adobe Experience Managerヘッドレス CMS コンテンツフラグメントGraphQLの機能について説明します。このセッションでは、Adobe Experience Managerヘッドレス CMS からのデータで React アプリを素早く設定する方法を学びます。
+title: Adobe Developers Live - 11 月 22 日（PT） – 最初の React アプリを作成
+description: Experience Managerのヘッドレス CMS を使用して初めての React アプリを作成するAdobe Experience Manager ヘッドレス CMS コンテンツフラグメントのGraphQL機能の概要。このセッションでは、Adobe Experience Manager ヘッドレス CMS からのデータを活用した React アプリを迅速にセットアップする方法を説明します。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# 最初の React アプリの作成
+# 最初の React アプリを作成
 
-Adobe Experience Managerヘッドレス CMS コンテンツフラグメントGraphQL機能の紹介。
+Adobe Experience Manager ヘッドレス CMS コンテンツフラグメントのGraphQL機能の概要。
 
-このセッションでは、Adobe Experience Managerヘッドレス CMS からのデータで React アプリを素早く設定する方法を学びます。
+このセッションでは、Adobe Experience Manager ヘッドレス CMS からのデータを利用した React アプリをすばやくセットアップする方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411298/?quality=12&learn=on)

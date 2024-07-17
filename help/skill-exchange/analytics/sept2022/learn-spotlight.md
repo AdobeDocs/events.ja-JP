@@ -1,6 +1,6 @@
 ---
-title: Analytics 学習 Experience Makers スポットライト
-description: Mandy George & Kaya Walton、2 人のエキスパート顧客とAdobe Analyticsユーザーに注目してください。 それぞれが、自分の最高のAdobe Analyticsのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。 これを見逃したくない。
+title: Analytics Experience Makers Spotlight の概要
+description: 2 人のエキスパートのお客様とAdobe Analyticsユーザーである、Mandy George & Kaya Walton にご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
 solution: Analytics
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Analytics 学習 Experience Makers スポットライト
+# Analytics Experience Makers Spotlight の概要
 
-Mandy George &amp; Kaya Walton、2 人のエキスパート顧客とAdobe Analyticsユーザーに注目してください。 それぞれが、自分の最高のAdobe Analyticsのヒントやトリックを共有します。 セッションの後に、ライブで質問をする機会が続きます。 これを見逃したくない。
+2 人のエキスパートのお客様とAdobe Analyticsユーザーである、Mandy George &amp; Kaya Walton にご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411008/?quality=12&learn=on)

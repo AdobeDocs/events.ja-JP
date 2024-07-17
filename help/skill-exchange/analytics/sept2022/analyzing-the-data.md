@@ -1,6 +1,6 @@
 ---
 title: データの分析
-description: 基本的な訪問者指標の概要と、ディメンションと指標の追加について説明します。 このセッションでは、日付範囲の使用、比較およびセグメントの適用を開始します。
+description: 基本的な訪問者指標を理解し、ディメンションと指標を追加します。 このセッションでは、日付範囲の使用、比較およびセグメントの適用を開始します。
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Visualizations, Segmentation, Metrics
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # データの分析
 
-基本的な訪問者指標の概要と、ディメンションと指標の追加について説明します。 このセッションでは、日付範囲の使用、比較およびセグメントの適用を開始します。
+基本的な訪問者指標を理解し、ディメンションと指標を追加します。 このセッションでは、日付範囲の使用、比較およびセグメントの適用を開始します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411006/?quality=12&learn=on)

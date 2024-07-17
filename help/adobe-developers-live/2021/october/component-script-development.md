@@ -1,6 +1,6 @@
 ---
-title: コンポーネントスクリプトの開発とデプロイメントに関するベストプラクティス (Experience Manageras a Cloud Service)
-description: このセッションでは、より予測可能なアプリケーションデプロイメントを実現するために、Adobe Experience Manager開発者が従うことができる最新のベストプラクティスについて説明します。 2019 年に Apache Sling 機能として導入され、2020 年以降に AEMaCS で使用される、プリコンパイルされたバンドルスクリプトは、Adobe Experience Managerコンポーネントの従来のデプロイ方法に比べて 2 つの大きな改善を提供します — 1. スクリプトは、任意の Java API 2 のように、バージョン管理したり、明示的な依存関係チェーンを持つことができます。 スクリプトのコンパイルは、アプリケーションのビルドプロセス中に実行できるようになり、潜在的なエラー（依存関係の欠落、API の誤った使用など）を迅速に検出できます。 開発者がプロジェクトを設定して、スクリプトを事前コンパイル済みのバンドルとして提供し、ローカルのAdobe Experience Manager Sling 機能アナライザーを使用して API 要件が満たされていることを検証し、潜在的なエラーを早期に検出する方法に焦点を当てます。
+title: Experience Managerのas a Cloud Serviceにおけるコンポーネントスクリプトの開発とデプロイのベストプラクティス
+description: このセッションでは、アプリケーションのデプロイメントを予測可能にするためにAdobe Experience Managerの開発者が従うことのできる、最新のベストプラクティスについて説明します。 2019 年に Apache Sling 機能として導入され、2020 年以降 AEMaaCS で使用されている事前コンパイル済みバンドルスクリプトは、Adobe Experience Manager コンポーネントの従来のデプロイ方法と比べて、開発者に 2 つの大きな改善点を提供します – 1. スクリプトは、バージョンを管理し、Java API 2 と同様に、明示的な依存関係チェーンを持つことができます。 スクリプトのコンパイルはアプリケーションのビルドプロセス中に実行できるようになり、依存関係の欠落や API の誤った使用など、潜在的なエラーをすばやく見つけることができます ここでは、開発者がプロジェクトを設定して、スクリプトを事前コンパイル済みバンドルとして提供する方法と、ローカルのAdobe Experience Manager Sling Feature Analyzer を使用して API 要件が満たされていることを確認する方法に重点を置き、潜在的なエラーを早期に発見できるようにします。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 4%
 
 ---
 
-# コンポーネントスクリプトの開発とデプロイメントに関するベストプラクティス (Experience Manageras a Cloud Service)
+# Experience Managerのas a Cloud Serviceにおけるコンポーネントスクリプトの開発とデプロイのベストプラクティス
 
-このセッションでは、より予測可能なアプリケーションデプロイメントを実現するために、Adobe Experience Manager開発者が従うことができる最新のベストプラクティスについて説明します。 2019 年に Apache Sling 機能として導入され、2020 年以降に AEMaCS で使用される、プリコンパイルされたバンドルスクリプトは、Adobe Experience Managerコンポーネントの従来のデプロイ方法に対して 2 つの大きな改善を提供します。 1. スクリプトは、任意の Java API 2 のように、バージョン管理したり、明示的な依存関係チェーンを持つことができます。 スクリプトのコンパイルは、アプリケーションのビルドプロセス中に実行できるようになり、潜在的なエラー（依存関係の欠落、API の誤った使用など）を迅速に検出できます。 開発者がプロジェクトを設定して、スクリプトを事前コンパイル済みのバンドルとして提供し、ローカルのAdobe Experience Manager Sling 機能アナライザーを使用して API 要件が満たされていることを検証し、潜在的なエラーを早期に検出する方法に焦点を当てます。
+このセッションでは、アプリケーションのデプロイメントを予測可能にするためにAdobe Experience Managerの開発者が従うことのできる、最新のベストプラクティスについて説明します。 2019 年に Apache Sling 機能として導入され、2020 年以降 AEMaaCS で使用されている事前コンパイル済みバンドルスクリプトは、Adobe Experience Manager コンポーネントの従来のデプロイ方法に比べて、開発者に 2 つの大きな改善点を提供します。1. スクリプトは、バージョンを管理し、Java API 2 と同様に、明示的な依存関係チェーンを持つことができます。 スクリプトのコンパイルはアプリケーションのビルドプロセス中に実行できるようになり、依存関係の欠落や API の誤った使用など、潜在的なエラーをすばやく見つけることができます ここでは、開発者がプロジェクトを設定して、スクリプトを事前コンパイル済みバンドルとして提供する方法と、ローカルのAdobe Experience Manager Sling Feature Analyzer を使用して API 要件が満たされていることを確認する方法に重点を置き、潜在的なエラーを早期に発見できるようにします。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3zJrS0f)**.
+**[Experience League コミュニティ ](https://adobe.ly/3zJrS0f)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337851/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

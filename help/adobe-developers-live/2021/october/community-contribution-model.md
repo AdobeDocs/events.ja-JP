@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerceとコミュニティ貢献度モデル
-description: このセッションでは、コミュニティ貢献モデルに対する重要な変更について学びます。 このプロセスの変更により、パートナーやお客様は、合理化されたプロセスと標準化された配信チャネルを通じて、コミュニティからの重要な修正により迅速にアクセスできます。
+title: Adobe Commerceとコミュニティ投稿モデル
+description: このセッションでは、コミュニティ貢献モデルの重要な変更点について説明します。 プロセスに対するこれらの変更により、パートナーおよびお客様は、合理化されたプロセスと標準化された配信チャネルを通じて、コミュニティの重要な修正にはるかに迅速にアクセスできるようになります。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -16,14 +16,14 @@ ht-degree: 11%
 
 ---
 
-# Adobe Commerceとコミュニティ貢献度モデル
+# Adobe Commerceとコミュニティ投稿モデル
 
-このセッションでは、コミュニティ貢献モデルに対する重要な変更について学びます。 このプロセスの変更により、パートナーやお客様は、合理化されたプロセスと標準化された配信チャネルを通じて、コミュニティからの重要な修正により迅速にアクセスできます。
+このセッションでは、コミュニティ貢献モデルの重要な変更点について説明します。 プロセスに対するこれらの変更により、パートナーおよびお客様は、合理化されたプロセスと標準化された配信チャネルを通じて、コミュニティの重要な修正にはるかに迅速にアクセスできるようになります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337766/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

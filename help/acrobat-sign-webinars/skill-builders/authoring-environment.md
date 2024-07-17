@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # オーサリング環境に関する高度なトレーニング
 
@@ -28,4 +28,3 @@ Acrobat Sign オーサリング環境で使用できるオプションについ�
 * ファイル添付フィールド、ハイパーリンクフィールド、トランザクション ID フィールドなどの追加オプションについて説明します。
 * 参加者にフォームフィールドを割り当てたり、テンプレートのプロパティを設定してカスタマイズしたりできます。
 * 再利用可能なドキュメントテンプレートの作成、テンプレートの管理、署名済み契約書のエクスポートのプロセスについても説明します。
-

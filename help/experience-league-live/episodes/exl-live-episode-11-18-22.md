@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # オフィスまたは外出先での Analytics
 
-**Adobeを使用して、いつでもどこでもスムーズにインサイトを得られる[!DNL Analytics]**
+**Adobe[!DNL Analytics]** を使用して、いつでもどこでもスムーズにインサイトを得られる
 
 時間と注意に対する多くの需要があるので、デスクの中にいても外にいても、あらゆる設定でビジネスインサイトを作成し、アクセスできる必要があります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-上のビデオを視聴して、このライブストリームイベントをご覧ください。このイベントにはAdobeが含まれています [!DNL Analytics] エキスパートから、Analysis Workspaceと AEM でインサイトをカスタマイズしてアクセスするためのヒントが得られました。 [!DNL Analytics] ダッシュボードアプリ。
+上のビデオでは、Adobe[!DNL Analytics] のエキスパートが、Analysis Workspaceと [!DNL Analytics] ダッシュボードアプリでインサイトをカスタマイズしてアクセスするための優れたヒントを提供する、このライブストリームイベントをご覧ください。
 
-ご質問はありますか？ Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+ご質問はありますか？ 引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) で行います。
 

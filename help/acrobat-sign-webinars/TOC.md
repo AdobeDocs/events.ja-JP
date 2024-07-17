@@ -16,7 +16,7 @@ ht-degree: 1%
 + [電子サイン用の契約書の準備](./skill-builders/e-signature-setup.md)
 + [Microsoft アプリでの電子サインの操作](./skill-builders/e-signature-microsoft.md)
 + [署名用ドキュメントを送信するための高度なヒント](./skill-builders/advanced-sending-documents-signature.md)
-+ [入力可能な署名可能な Web フォームの投稿](./skill-builders/fillable-signable-web-form.md)
++ [入力可能な署名可能な Web フォームのPost](./skill-builders/fillable-signable-web-form.md)
 + [ワンクリックで多くの署名を集める](./skill-builders/collect-signatures.md)
 + [オーサリング環境](./skill-builders/authoring-environment.md)
 + [基本契約ステータスの表示](./skill-builders/agreement-status.md)

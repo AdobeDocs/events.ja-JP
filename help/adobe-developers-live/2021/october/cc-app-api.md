@@ -1,6 +1,6 @@
 ---
 title: Creative Cloudアプリエンジン API の概要
-description: Photoshop、Lightroom、InDesignのサービスを含む、Creative Cloudアプリエンジン API の機能の概要についてご参加ください。 アドビの製品チームは、アドビの Cloud Extensibility Platform(CXP) の詳細と、今すぐ開始する方法を共有します。
+description: Photoshop、Lightroom、InDesignのサービスを含む、Creative Cloudのアプリエンジン API 製品の概要についてご確認ください。 アドビの製品チームが、クラウド拡張プラットフォーム（CXP）の詳細と、今すぐ使い始める方法を説明します。
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -19,12 +19,12 @@ ht-degree: 11%
 
 # Creative Cloudアプリエンジン API の概要
 
-Photoshop、Lightroom、InDesignのサービスを含む、Creative Cloudアプリエンジン API の機能の概要についてご参加ください。 アドビの製品チームは、アドビの Cloud Extensibility Platform(CXP) の詳細と、今すぐ開始する方法を共有します。
+Photoshop、Lightroom、InDesignのサービスを含む、Creative Cloudのアプリエンジン API 製品の概要についてご確認ください。 アドビの製品チームが、クラウド拡張プラットフォーム（CXP）の詳細と、今すぐ使い始める方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337594/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

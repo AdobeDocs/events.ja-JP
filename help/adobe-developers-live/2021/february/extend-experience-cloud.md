@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Cloudを拡張
-description: 複数のソリューションで機能する最新のAdobeアーキテクチャを使用して、アーキテクチャソリューションを拡張したい場合は、 Adobe Developer App Builder を試してみる必要があると思います。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: そのため、Adobe Experience Cloudを拡張する必要があります
+description: 複数のソリューションに対応する最新のアーキテクチャを使用してAdobeソリューションを拡張したいとお考えですか？ さて、私たちは、あなたがAdobe Developer App Builderを試してみるべきだと思います。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Cloudを拡張する？
+# Adobe Experience Cloudを拡張したいとお考えですか？
 
-複数のソリューションで機能する最新のAdobeアーキテクチャを使用して、アーキテクチャソリューションを拡張したい場合は、 Adobe Developer App Builder を試してみる必要があると思います。
+複数のソリューションに対応する最新のアーキテクチャを使用してAdobeソリューションを拡張したいとお考えですか？ さて、私たちは、あなたがAdobe Developer App Builderを試してみるべきだと思います。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** をクリックしてください。

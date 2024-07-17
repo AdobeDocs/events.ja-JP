@@ -1,6 +1,6 @@
 ---
 title: Edge 配信サービス
-description: おそらくAEMの世界で最も話題になったのは、AEMファミリに参加する新しいEdge Delivery Servicesの詳細な技術概要です。
+description: おそらく、AEM業界で最も話題になっているのは、AEM ファミリーに加わる新Edge Delivery Servicesの技術的な概要を詳しく説明するページです。
 feature-set: Experience Manager
 feature: Edge Delivery Services
 product: experience manager
@@ -21,8 +21,8 @@ ht-degree: 5%
 
 ---
 
-# Edge Delivery Services技術概要
+# Edge Delivery Servicesの技術概要
 
-おそらくAEMの世界で最も話題になったのは、AEMファミリに参加する新しいEdge Delivery Servicesの詳細な技術概要です。
+おそらく、AEM業界で最も話題になっているのは、AEM ファミリーに加わる新Edge Delivery Servicesの技術的な概要を詳しく説明するページです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)

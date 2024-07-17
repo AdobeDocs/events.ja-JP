@@ -1,6 +1,6 @@
 ---
-title: リアルタイム CDP データ対応
-description: 合理化されたリアルタイム CDP の立ち上げに対する、データ対応の観点から組織の準備の背後にある戦略を学びます。 リアルタイム CDP データ対応の理解と組織としてのビジネスユースケースに沿った連携方法を学びます。リアルタイム CDP 対応に関する主なリソースとアクションです。
+title: Real-time CDP データ対応
+description: 合理化されたリアルタイム CDP のローンチに対するデータ準備の観点から、組織の準備の背後にある戦略を説明します。 Real-time CDP データの準備について、および組織としてのビジネスのユースケースに合わせる方法を説明します Real-time CDP の準備のための主要なリソースとアクション
 solution: Real-Time Customer Data Platform
 role: Admin, Architect, Data Architect, Data Engineer, Developer
 level: Intermediate
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# リアルタイム CDP データ対応
+# Real-time CDP データ対応
 
-合理化されたリアルタイム CDP の発売に対する、データ対応の観点から組織の準備の背後にある戦略を学びます。
+合理化された Real-time CDP のローンチに対して、データ準備の観点から組織の準備の背後にある戦略を説明します。
 
-* リアルタイム CDP データ対応の理解
-* 組織としてのビジネスユースケースを調整する方法を学ぶ
-* リアルタイム CDP 対応に関する主なリソースとアクション
+* Real-time CDP データの準備について
+* 組織としてのビジネスユースケースに合わせる方法を学ぶ
+* リアルタイム CDP 対応の主要なリソースとアクション
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)

@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Managerチャンピオンオフィスアワーズ — サイトフォーカス
+title: Adobe Experience Manager チャンピオンの営業時間 – Sites Focus
 description: 説明がありません
 solution: Experience Manager
 feature-set: Experience Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Managerチャンピオンオフィスアワーズ — サイトフォーカス
+# Adobe Experience Manager チャンピオンの営業時間 – Sites Focus
 
-AEM Sitesに焦点を当てる。
+AEM Sitesに焦点を当てます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420725/?learn=on)

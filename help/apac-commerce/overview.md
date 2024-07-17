@@ -24,11 +24,11 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
-        <strong>Adobe Commerce加速器の日</strong>
+        <strong>Adobe Commerce アクセラレータの日 </strong>
       </a>
     </div>
     <p>
-    <em>オーストラリアAdobe銀行（CBA）は、コマース、クラウド、ペイメントソリューションにおけるイノベーションを紹介しています。</em>
+    <em> オーストラリアAdobe銀行（CBA）は、コマース、クラウド、支払いソリューションのイノベーションを紹介します。</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
-        <strong>Adobe Commerce イノベーションスポットライト ウェビナー</strong>
+        <strong>Adobe Commerce イノベーションスポットライトのウェビナー </strong>
       </a>
     </div>
     <p>
-    <em>最新の機能とアーキテクチャを採用して、お客様に最高のエクスペリエンスを提供し、ビジネスを成長させる方法について、インスピレーションをご覧ください。</em>
+    <em> 最新の機能とアーキテクチャを採用して、お客様に最高のエクスペリエンスを提供し、ビジネスを成長させる方法について、インスピレーションをご覧ください。このウェビナーに参加してください。</em>
     <p>
   </td> 
   <td>
@@ -50,11 +50,11 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>クリエイティブエッジ – 先見性のある思考がCommerceをどのように変革しているか</strong>
+        <strong> クリエイティブ・Edge - Commerceを変革する先見性のある思考 </strong>
       </a>
     </div>
     <p>
-    <em>クリエイティビティとコマースの統合を探索します。</em>
+    <em> クリエイティビティとコマースの統合を探索 </em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ APAC Commerce ウェビナーシリーズは、Adobe Commerceのお客様向け�
 
 >[!TIP]
 >
->**記録されたすべてのセッションは、左側のナビゲーションに一覧表示されます**.
+>**記録されたすべてのセッションは、左側のナビゲーションに一覧表示されます**。

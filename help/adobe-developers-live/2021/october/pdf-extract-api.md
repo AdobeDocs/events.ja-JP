@@ -1,6 +1,6 @@
 ---
-title: 解析PDF-PDF抽出 API を使用して、PDFコンテンツを JSON 形式にインテリジェントに抽出します
-description: Adobe PDF Services API のPDF抽出サービスを使用して、JSON の解析と同じくらい簡単に解析PDFを作成できる方法を説明します。 このセッションでは、PDFPDFAPI の機能、これまでの経験とは違う理由、PDFの仕様やPDFの「内部」について何も知らずに独自の抽出エクスペリエンスを作成する方法について学びます。 PDF抽出 API では、単なる JSON です。
+title: 解析PDF- PDF抽出 API を使用して、PDFコンテンツを JSON 形式にインテリジェントに抽出する
+description: Adobe PDF サービス API のPDFExtract サービスを使用して、JSON の解析と同じくらい簡単に解析PDFを作成する方法を説明します。 このセッションでは、PDFエクストラクト API の機能、以前に見たことのあるものとは異なる理由、PDFの仕様やPDFの「内部構造」について知らなくても独自のPDFエクスペリエンスを作成する方法について説明します。 PDF抽出 API を使用すると、JSON だけです。
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -17,14 +17,14 @@ ht-degree: 7%
 
 ---
 
-# 解析PDF-PDF抽出 API を使用して、PDFコンテンツを JSON 形式にインテリジェントに抽出します
+# 解析PDF- PDF抽出 API を使用して、PDFコンテンツを JSON 形式にインテリジェントに抽出する
 
-Adobe PDF Services API のPDF抽出サービスを使用して、JSON の解析と同じくらい簡単に解析PDFを作成できる方法を説明します。 このセッションでは、PDFPDFAPI の機能、これまでの経験とは違う理由、PDFの仕様やPDFの「内部」について何も知らずに独自の抽出エクスペリエンスを作成する方法について学びます。 PDF抽出 API では、単なる JSON です。
+Adobe PDF サービス API のPDFExtract サービスを使用して、JSON の解析と同じくらい簡単に解析PDFを作成する方法を説明します。 このセッションでは、PDFエクストラクト API の機能、以前に見たことのあるものとは異なる理由、PDFの仕様やPDFの「内部構造」について知らなくても独自のPDFエクスペリエンスを作成する方法について説明します。 PDF抽出 API を使用すると、JSON だけです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338096/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

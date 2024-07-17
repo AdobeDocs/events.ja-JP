@@ -1,6 +1,6 @@
 ---
-title: AEM製品リーダーとの Fireside のチャット
-description: Adobe Experience Manager Product Leaders との Fireside Chat 1 日を通じて、顧客に向けて素晴らしい体験を提供するために何が構築されているかを聞き、見てきました。 次に、製品管理担当のセドリック・フースラー、製品管理担当のDirector、エンジニアリング担当のマイケル・マース、Director氏に質問をお寄せください。 Ron Nagy 主催。
+title: AEM製品リーダーとの Fireside チャット
+description: Adobe Experience Managerのプロダクトリーダーとのファイアサイドチャットお客様に素晴らしい体験を提供するために、何が構築されているかを聞いて確認することに一日を費やしました。 次に、アドビのプロダクトリーダーであるプロダクトマネジメントのDirectorである Cedric Huesler と、エンジニアリングのシニアDirectorである Michael Marth に、お問い合わせください。 Ron Nagy 主催。
 product: experience manager
 sub-product: sites
 topic: Development
@@ -19,10 +19,10 @@ ht-degree: 0%
 ---
 
 
-# AEM製品リーダーとの Fireside のチャット
+# AEM製品リーダーとの Fireside チャット
 
-Adobe Experience Manager Product Leaders との Fireside のチャット
+Adobe Experience Managerの製品リーダーとの Fireside チャット
 
-1 日を通じて聴聞を行い、顧客に向けて素晴らしい体験を作り出すために何が構築されているかを見てきました。 次に、製品管理担当のセドリック・フースラー、製品管理担当のDirector、エンジニアリング担当のマイケル・マース、Director氏に質問をお寄せください。 Ron Nagy 主催。
+顧客に素晴らしいエクスペリエンスを提供するために、何が構築されているかを聞いて確認することに一日を費やしました。 次に、アドビのプロダクトリーダーであるプロダクトマネジメントのDirectorである Cedric Huesler と、エンジニアリングのシニアDirectorである Michael Marth に、お問い合わせください。 Ron Nagy 主催。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419941/?learn=on)

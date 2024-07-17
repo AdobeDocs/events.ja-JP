@@ -1,6 +1,6 @@
 ---
 title: Brand Portal
-description: 内部および外部のチームとのアセット共有が容易
+description: 社内外のチームと簡単にアセットを共有
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -17,27 +17,27 @@ duration: 3095
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
-# Brand Portal - Adobe Experience Manager Asset Series
+# Brand Portal - Adobe Experience Manager Asset シリーズ
 
-この 5 部構成のウェビナーシリーズを使用して、ナレッジベースを構築し、Adobe Experience Manager Assetsへの投資を最大限に活用します。 Adobe Experience Manager Assetsを初めて利用する開業医、またはAdobe Experience Manager Assetsをしばらく使用していて、既存のスキルを磨きたいと考えている開業医の場合、これは、ソリューションの最も重要な 5 つの領域に深く掘り下げる最適な方法です。 Adobeの専門家が基本事項を確認し、高度なインサイトを提供します。これにより、すぐに実行できる実用的な次の手順が提供されます。
+この 5 部構成のウェビナーシリーズを使用すると、ナレッジベースを構築してAdobe Experience Manager Assetsへの投資を最大限に活用できます。 Adobe Experience Manager Assetsを初めて使用する場合や、しばらくAdobe Experience Manager Assetsを使用していて、既存のスキルをブラッシュアップしたいと考えている場合、これはソリューションの最も重要な 5 つの領域を深く掘り下げるための理想的な方法です。 Adobeのエキスパートが基本を確認し、高度なインサイトを提供することで、すぐに実践できる実用的な次のステップを提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
-Brand Portalを使用すると、内部チームや外部チームと簡単にアセットを共有できます。
+Brand Portalを使用すると、社内チームや外部チームとアセットを簡単に共有できます。
 
 ## リソース
 
-* [Brand Portalの概要](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=ja)
-* [Brand Portal Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
-* [アセットソーシング](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=ja)
+* [Brand Portalの概要 ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
+* [Brand Portal ビデオ ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
+* [ アセットソーシング ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
 ## シリーズ録画
 
-* [Asset Link](asset-link.md)
+* [アセットリンク](asset-link.md)
 * [Dynamic Media](dynamic-media.md)
 * [フォルダー構造と検索](folder-structure-search.md)
 * [メタデータ](metadata.md)

@@ -22,9 +22,9 @@ ht-degree: 25%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342810/?quality=12&learn=on)
 
-[iOS AEPSampleAPP をダウンロードします](https://github.com/adobe/aepsdk-sample-app-ios)
+[iOS AEPSampleAPP のダウンロード ](https://github.com/adobe/aepsdk-sample-app-ios)
 
-[Android AEPSampleAPP をダウンロードします](https://github.com/adobe/aepsdk-sample-app-android)
+[Android AEPSampleAPP のダウンロード ](https://github.com/adobe/aepsdk-sample-app-android)
 
-このセッションに関する会話を続けるには、 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+このセッションに関する会話を続けるには、[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869) にアクセスしてください。
 

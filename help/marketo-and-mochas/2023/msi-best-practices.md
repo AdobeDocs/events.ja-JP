@@ -1,6 +1,6 @@
 ---
 title: MSI のベストプラクティスと最適化
-description: Marketo Sales Insights と MSI のどちらをお聞きになりましたか？ ライセンスを持っているが、それが何であるか、またはその利用方法を知らない場合があります。 このウェビナーでは、Adobeのマーケティングオートメーションビジネスアドバイザ、Cynthia Chang とMarketo Customer Technical Advisor、James Ledom が、実装、立ち上げなどのツールとベストプラクティスを完全に活用する方法について話し合います。 Salesforce との統合、ライセンス管理、戦略を説明し、セールスチームやマーケティングチーム全体で運用効率を最適化します。 参加者からのライブ Q&A で締めくくります。
+description: Marketo Sales Insights （MSI）をご存知ですか？ ライセンスがあるのに、それが何であるか、どのように利用できるかわからない場合があります。 このウェビナーでは、Adobe独自のマーケティングオートメーションビジネスアドバイザー、Cynthia Chang とMarketo カスタマーテクニカルアドバイザー、James Leedom が、ツールを最大限に活用する方法と、実装、立ち上げなどのベストプラクティスについて説明します。Cynthia と James は、興味深い瞬間や最高の賭けなど、MSI の機能について詳しく説明します。 Salesforce との統合、ライセンス管理、セールスチームとマーケティングチーム全体の運用効率を最適化するための戦略について説明します。 最後に、出席者との間でライブ Q&A を行い、締めくくりを行う。
 solution: Marketo
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Marketoと Mocas - MSI のベストプラクティスと最適化
+# Marketoと Mocha - MSI のベストプラクティスと最適化
 
-Marketo Sales Insights と MSI のどちらをお聞きになりましたか？ ライセンスを持っているが、それが何であるか、またはその利用方法を知らない場合があります。 このウェビナーでは、Adobe独自のマーケティングオートメーションビジネスアドバイザ、Cynthia Chang、Marketo Customer Technical Advisor が、実装や導入に関するツールとベストプラクティスを完全に活用する方法、その他について話し合います。
+Marketo Sales Insights （MSI）をご存知ですか？ ライセンスがあるのに、それが何であるか、どのように利用できるかわからない場合があります。 このウェビナーでは、Adobe独自のマーケティングオートメーションビジネスアドバイザー、Cynthia Chang およびMarketo カスタマーテクニカルアドバイザー、James Leedom が、ツールを最大限に活用する方法と、実装、立ち上げなどのベストプラクティスについて説明します。
 
-シンシアとジェームスは、興味深い瞬間と最高の賭けを含む MSI の機能に飛び込みます。 Salesforce との統合、ライセンス管理、戦略を説明し、セールスチームやマーケティングチーム全体で運用効率を最適化します。 参加者からのライブ Q&amp;A で締めくくります。
+シンシアとジェームズは、興味深い瞬間や最高の賭けなど、MSI の機能を詳しく説明します。 Salesforce との統合、ライセンス管理、セールスチームとマーケティングチーム全体の運用効率を最適化するための戦略について説明します。 最後に、出席者との間でライブ Q&amp;A を行い、締めくくりを行う。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)

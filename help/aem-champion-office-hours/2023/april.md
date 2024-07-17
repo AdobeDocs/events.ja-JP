@@ -1,6 +1,6 @@
 ---
-title: AEMチャンピオンオフィスアワーズ — 4 月版
-description: Adobe Experience Manager Champions のパネルで、AdobeのAEMチャンピオンである Office Hours の 4 月版に参加して、ベストプラクティスについて話し合い、ヒントを共有し、周辺のAEMas a Cloud Serviceに関する Q&A のライブ活動に参加してください。 AEMを初めて使用する場合や、Cloud Serviceへの移行に関する質問がある場合、AEM as a Cloud Serviceへの移行が組織のニーズにどのように役立つかを簡単に理解したい場合でも、Adobe Experience Manager Champions から貴重なインサイトを得ることができます。
+title: AEM チャンピオンの営業時間 – 4 月版
+description: AdobeのAEM チャンピオン Office Hours の 4 月版に参加しましょう。Adobe Experience Manager Champions のパネルがベストプラクティスについて話し合い、ヒントを共有し、AEM as a Cloud Serviceに関するライブ Q&A を行います。 AEMを初めて使用する場合でも、Cloud Serviceへの移行について質問がある場合でも、AEM as a Cloud Serviceへの移行が組織のニーズにどのように役立つかを理解したい場合でも、Adobe Experience Manager チャンピオンから有益なインサイトを得ることができます。
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# AEMチャンピオンオフィスアワーズ — 4 月版
+# AEM チャンピオンの営業時間 – 4 月版
 
-4 月号のパネルとして、AdobeのAEMチャンピオン Office Hours にご参加ください。 [Adobe Experience Manager Champions |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]ベストプラクティスについて話し合い、ヒントを共有し、AEMas a Cloud Serviceを取り巻く Q&amp;A に関わるライブ環境を構築します。
+AdobeのAEM チャンピオン Office Hours の 4 月版に、[Adobe Experience Manager チャンピオンのパネルとしてご参加ください |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class] ベストプラクティスに関するディスカッション、ヒントの共有、AEM as a Cloud Serviceに関するライブ Q&amp;A への参加。
 
-AEMを初めて使用する場合や、Cloud Serviceへの移行に関する質問がある場合、AEM as a Cloud Serviceへの移行が組織のニーズにどのように役立つかを簡単に理解したい場合でも、Adobe Experience Manager Champions から貴重なインサイトを得ることができます。
+AEMを初めて使用する場合でも、Cloud Serviceへの移行について質問がある場合でも、AEM as a Cloud Serviceへの移行が組織のニーズにどのように役立つかを理解したい場合でも、Adobe Experience Manager チャンピオンから有益なインサイトを得ることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: クリエイティブエージェント — レポートとダッシュボード（2020 年 6 月 14 日）
-description: Cella の Sopy Regelous を聴くと、代理店でWorkfrontレポートを使用する方法に関する例と戦略を共有できます。
+title: クリエイティブエージェンシー – レポートおよびダッシュボード（2020 年 6 月 14 日（PT））
+description: Cella の Sophy Regelous が、エージェンシー向けのWorkfront レポートの使用方法に関する例と戦略を紹介します。
 role: Admin, User
 level: Beginner, Intermediate
 kt: 9992
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# クリエイティブエージェント：レポートとダッシュボード（2020 年 6 月 14 日）
+# クリエイティブエージェンシー：レポートおよびダッシュボード（2020 年 6 月 14 日（PT））
 
-Cella の Sopy Regelous を聴くと、代理店でWorkfrontレポートを使用する方法に関する例と戦略を共有できます。
+Cella の Sophy Regelous が、エージェンシー向けのWorkfront レポートの使用方法に関する例と戦略を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341221/?quality=12&learn=on)

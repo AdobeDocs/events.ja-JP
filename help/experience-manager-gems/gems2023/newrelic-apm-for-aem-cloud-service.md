@@ -1,6 +1,6 @@
 ---
 title: aem cloud service 用 newrelic apm
-description: 当社のセッションにご参加ください。このセッションでは、AEMas a Cloud Serviceプロジェクトの効率化、AEMas a Cloud Serviceシステムの外部サービスの影響の測定、カスタマイズされたビューの最大限の活用により、エンドユーザーのお客様に影響を与える課題の認識と解決をガイドします。 AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセスプロセスを確認します。 お問い合わせや質問に躊躇せずに参加してください。
+description: このセッションでは、エンドユーザーのお客様に影響を与える課題を特定して解決し、AEM as a Cloud Service プロジェクトの効率性を高め、AEM as a Cloud Service システムに対する外部サービスの影響を測定し、カスタマイズされた独自のビューを最大限に活用することで、優れたエクスペリエンスを確保します。 AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセス手順について説明します。 質問や問い合わせには、遠慮なくご参加ください。
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -16,40 +16,40 @@ duration: 3385
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
-# AEM as a Cloud Service向けNew Relic APM の潜在性の解放
+# AEM as a Cloud Service向けNew Relic APM の可能性を解き放つ
 
-パフォーマンスを最大化し、問題を迅速に解決します。
+パフォーマンスを最大化し、問題の解決を迅速化します。
 
-このウェビナーは **9 月 20 日**, 2023. 以下の録画をご覧ください。
+本ウェビナーは **2023 年 9 月 20 日** に実施されました。 以下の録画をご覧ください。
 
 ## セッションの説明
 
-当セッションにご参加ください。このセッションでは、お客様のエンドユーザーに影響を与える課題の認識と解決についてご案内し、次の点を通じて卓越した経験を提供します。
+アドビのセッションにご参加ください。セッションでは、エンドユーザーのお客様に影響を与える課題を認識し、解決し、優れたエクスペリエンスを次の方法で確保する方法について説明します。
 
-* AEM as a Cloud Service Project の効率の向上
-* AEMas a Cloud Serviceシステムの外部サービスの影響の測定
-* カスタマイズされたカスタマイズされたビューを最大限に活用する
+* AEM as a Cloud Service プロジェクトの効率性の向上
+* AEM as a Cloud Service システムに対する外部サービスの影響の測定
+* カスタマイズおよびカスタマイズされたビューの活用
 
-AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセスプロセスを確認します。 お問い合わせや質問に躊躇せずに参加してください。
+AEM as a Cloud Serviceにデフォルトで含まれている機能である、New Relicへのアクセス手順について説明します。 質問や問い合わせには、遠慮なくご参加ください。
 
 ## 講演者
 
-* New Relic、ソリューションアーキテクト、Alan Mon 氏
-* New Relic、ソリューションアーキテクト、Matshew Lowe 氏
-* Adam Pazik、Director Software Development、Adobe
-* Luciana Surdoiu、クラウドオートメーション部門の責任者、Adobe
-* Michael Campbell 氏 (Adobe、AEM Site Reliability Engineer)
+* New Relic、ソリューションアーキテクト、Alan Mon
+* New Relic、ソリューションアーキテクト、Matthew Lowe
+* Adobe、Director ソフトウェア開発、Adam Pazik
+* Adobe、Luciana Surdoiu 氏、Head of Cloud Automation
+* Adobe、シニア AEM サイト信頼性エンジニア、Michael Campbell
 
-## ウェビナー録画 - 2023/09/20（PT）
+## ウェビナー録画 – 2023 年 9 月 20 日
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424439/)
 
 >[!NOTE]
 >
->* セッション固有のコミュニティでのExperience Leagueのインタラクションについては、 [コンテキストスレッド](https://adobe.ly/3sV67N5).
+>* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、[ コンテキストスレッド ](https://adobe.ly/3sV67N5) を参照してください。
 >
->* 今後のウェビナーに関する通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に登録してください。
+>* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。

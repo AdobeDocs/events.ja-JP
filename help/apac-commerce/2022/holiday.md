@@ -1,6 +1,6 @@
 ---
-title: Holiday Readiness 2022
-description: 準備は成功の鍵となり、このウェビナーでは、Adobe Commerceを活用してこの重要な取引期間中に売上とパフォーマンスを最大化するためのベストプラクティスを順を追って説明します。
+title: ホリデー準備 2022
+description: このウェビナーでは、Adobe Commerceを活用してこの重要な取引期間における売上と業績を最大限に高めるためのベストプラクティスについて説明します。
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
@@ -12,20 +12,20 @@ duration: 2513
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Holiday Readiness 2022
+# ホリデー準備 2022
 
-準備は成功の鍵となり、このウェビナーでは、Adobe Commerceを活用してこの重要な取引期間（または、1 年を通じてお客様のビジネスで経験するその他の販売イベント）の売上とパフォーマンスを最大化するためのベストプラクティスを説明します。
+このウェビナーでは、Adobe Commerceを活用して、この重要な取引期間（または年間を通じてビジネスで発生する可能性のあるその他のセールスイベント）での売上とパフォーマンスを最大限に高めるためのベストプラクティスについて説明します。
 
-Jason Ford、Commerce Solutions Consulting APAC、Sophia Grey、シニアコマースアカウントマネージャーから連絡があります。次のトピックを取り上げます。
+Commerce Solutions Consulting APAC マネージャーの Jason Ford と、シニアCommerceアカウントマネージャーの Sophia Gray が、以下のトピックについて説明します。
 
 * キャンペーンの準備
 * パフォーマンスに関する考慮事項
 * 最適なパフォーマンスを実現するためのインフラストラクチャの急増
 
-2022 年はピークシーズンが強くなると予想され、e コマースは引き続きすべての買い物客のゴートゥチャネルとなります。 このセッションで共有されたテクニックを使用すると、貴社とチームは貴社のサイト上で商品やサービスを効果的かつ効果的にプロモーションすることができます。
+ピークシーズンは 2022 年に強くなると予想されており、e コマースは引き続きすべての買い物客にとって頼れるチャネルです。 このセッションで共有するテクニックを使用すると、サイト上で商品やサービスを効果的かつ効果的に宣伝できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410542/?quality=12&learn=on)

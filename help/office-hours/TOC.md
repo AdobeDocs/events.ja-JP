@@ -22,7 +22,7 @@ ht-degree: 14%
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [SMS チャネルの概要とトラブルシューティングのヒント](2023/ac-sms-channel-overview.md)
    + Adobe Commerce {#adobe-commerce-office-hours}
-      + [サイト全体分析ツール](2023/site-wide-analysis-tool.md)
+      + [Site-Wide Analysis Tool](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Admin Consoleの権限](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}

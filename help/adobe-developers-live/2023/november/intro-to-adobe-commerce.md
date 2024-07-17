@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerceの概要
-description: Adobe Commerceの現在の状態と、過去数年にわたる機能強化について説明します。 Adobe Commerceは、複数の業界や使用例に対応する最新のエンタープライズソリューションです。このライブディスカッションでは、Adobe Commerceを使用してコマースエクスペリエンスを完成させる方法と共に、複数の既存のお客様に説明します。
+title: Adobe Commerceについて
+description: Adobe Commerceの現在のステータスと、過去数年間の機能強化の一部について説明します。 Adobe Commerceは、複数の業界やユースケースに適応する最新のエンタープライズソリューションです。このライブディスカッションでは、既存のお客様と、Adobe Commerceを使用してコマースエクスペリエンスを完成させた方法について説明します。
 solution: Commerce
 feature: Best Practices
 role: Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerceの概要
+# Adobe Commerceについて
 
-Adobe Commerceの現在の状態と、過去数年にわたる機能強化について説明します。 Adobe Commerceは、複数の業界や使用例に対応する最新のエンタープライズソリューションです。このライブディスカッションでは、Adobe Commerceを使用してコマースエクスペリエンスを完成させる方法と共に、複数の既存のお客様に説明します。
+Adobe Commerceの現在のステータスと、過去数年間の機能強化の一部について説明します。 Adobe Commerceは、複数の業界やユースケースに適応する最新のエンタープライズソリューションです。このライブディスカッションでは、既存のお客様と、Adobe Commerceを使用してコマースエクスペリエンスを完成させた方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425803/?learn=on)

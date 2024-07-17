@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live Commerce ブレークアウト 2 - 2023 年 11 月
-description: 2023 年 11 月 6 日に記録されたAdobe Developers Liveの本セッションで、Adobe CommerceとAmazonSales Channelの統合について詳しくご紹介します。 Adobe Commerceの UI とイベント駆動型の拡張ツールの柔軟性を理解し、クラウドネイティブな環境で適応可能で堅牢なデジタルコマースアプリケーションを作成するためにそのツールを利用する方法を学びます。 デジタルコマース統合に関する実用的なインサイトを求める開発者の必見の機会です。
+title: Adobe Developers LiveCommerce第 2 章 – 2023 年 11 月
+description: Naomi Robichaud が、2023 年 11 月 6 日（PT）に録画されたAdobe Developers Liveのこのセッションで、Adobe CommerceとAmazon Sales Channelの統合について詳しく説明します。 Adobe Commerceの UI とイベント駆動型の拡張ツールの柔軟性と、それを利用してクラウドネイティブ環境で適応可能な堅牢なデジタルコマースアプリケーションを作成する方法について説明します。 デジタルコマースの統合に関する実践的なインサイトを求める開発者にとっては必見です。
 solution: Commerce
 feature-set: Commerce
 feature: Integration, Eventing, Extensibility
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Commerce ブレークアウト 2 - 2023 年 11 月
+# Adobe Developers LiveCommerce第 2 章 – 2023 年 11 月
 
-2023 年 11 月 6 日に記録されたAdobe Developers Liveの本セッションで、Adobe CommerceとAmazonSales Channelの統合について詳しくご紹介します。 Adobe Commerceの UI とイベント駆動型の拡張ツールの柔軟性を理解し、クラウドネイティブな環境で適応可能で堅牢なデジタルコマースアプリケーションを作成するためにそのツールを利用する方法を学びます。 デジタルコマース統合に関する実用的なインサイトを求める開発者の必見の機会です。
+Naomi Robichaud が、2023 年 11 月 6 日（PT）に録画されたAdobe Developers Liveのこのセッションで、Adobe CommerceとAmazon Sales Channelの統合について詳しく説明します。 Adobe Commerceの UI とイベント駆動型の拡張ツールの柔軟性と、それを利用してクラウドネイティブ環境で適応可能な堅牢なデジタルコマースアプリケーションを作成する方法について説明します。 デジタルコマースの統合に関する実践的なインサイトを求める開発者にとっては必見です。
 
-次の場所で会話を続行します： [Experience Leagueコミュニティ](https://adobe.ly/46M7lZK).
+[Experience League コミュニティ ](https://adobe.ly/46M7lZK) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425636/?learn=on)

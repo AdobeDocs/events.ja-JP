@@ -21,5 +21,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-このセッションに関する会話を続けるには、 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419)ここでは、セッションでライブで回答する時間がなかった質問にも回答します。
+このセッションに関する会話を続けるには、[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419) にアクセスしてください。この投稿では、セッションでライブで回答する時間がなかった質問にも回答します。
 

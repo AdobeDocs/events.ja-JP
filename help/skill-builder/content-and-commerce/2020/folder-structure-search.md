@@ -1,6 +1,6 @@
 ---
 title: フォルダー構造と検索
-description: DAM の設定と使用の基本
+description: DAM の設定および使用の基本
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -17,31 +17,31 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
-# フォルダー構造と検索 — Adobe Experience Manager Asset シリーズ
+# フォルダー構造と検索 – Adobe Experience Manager Asset シリーズ
 
-この 5 部構成のウェビナーシリーズを使用して、ナレッジベースを構築し、Adobe Experience Manager Assetsへの投資を最大限に活用します。 Adobe Experience Manager Assetsを初めて利用する開業医、またはAdobe Experience Manager Assetsをしばらく使用していて、既存のスキルを磨きたいと考えている開業医の場合、これは、ソリューションの最も重要な 5 つの領域に深く掘り下げる最適な方法です。 Adobeの専門家が基本事項を確認し、高度なインサイトを提供します。これにより、すぐに実行できる実用的な次の手順が提供されます。
+この 5 部構成のウェビナーシリーズを使用すると、ナレッジベースを構築してAdobe Experience Manager Assetsへの投資を最大限に活用できます。 Adobe Experience Manager Assetsを初めて使用する場合や、しばらくAdobe Experience Manager Assetsを使用していて、既存のスキルをブラッシュアップしたいと考えている場合、これはソリューションの最も重要な 5 つの領域を深く掘り下げるための理想的な方法です。 Adobeのエキスパートが基本を確認し、高度なインサイトを提供することで、すぐに実践できる実用的な次のステップを提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
-DAM の設定と使用の基本について説明します。
+DAM の設定および使用の基本。
 
 ## リソース
 
-* [AEM Assets User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja)
-* [AEM Assetsフォルダー構造の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [AEM Assetsフォルダーの権限の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=ja)
-* [コレクションを使用したアセットの整理と共有](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [機械学習を使用して、視覚的に類似したアセットを見つける](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
-* [動的検索ファセットを使用した正確で正確な検索結果の取得](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
-* [高度なフルテキスト検索構文](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [AEM Assets ユーザーガイド ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
+* [AEM Assets フォルダー構造の設定 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [AEM Assets フォルダー権限の設定 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=ja)
+* [ コレクションを使用したアセットの整理と共有 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
+* [ 機械学習で視覚的に類似したアセットを検索する ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [ 動的検索ファセットによる正確で正確な検索結果の取得 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [ 高度なフルテキスト検索構文 ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## シリーズ録画
 
-* [Asset Link](asset-link.md)
+* [アセットリンク](asset-link.md)
 * [Brand Portal](brand-portal.md)
 * [Dynamic Media](dynamic-media.md)
 * [メタデータ](metadata.md)

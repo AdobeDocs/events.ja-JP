@@ -13,7 +13,7 @@ duration: 3701
 source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
->[!BEGINSHADEBOX 「ご質問がある場合」]
+>[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-Adobe Experience Leagueでこのトピックに関するディスカッションを続ける [コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} で行います。
 
 >[!ENDSHADEBOX]
 

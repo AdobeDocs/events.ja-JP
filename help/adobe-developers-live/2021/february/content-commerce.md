@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager as a Cloud Serviceを使用したコンテンツとコマース
-description: このセッションでは、開発者がAdobe Experience Manager as a Cloud Serviceでのコマースを開始する際に役立ちます。Adobe Experience Manager SDK +Commerce integration framework機能をローカル設定から、クラウドのAdobe Experience Manager &Magento機能に至るまでです。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Adobe Experience Manager as a Cloud Serviceを使用したコンテンツとCommerce
+description: このセッションは、Adobe Experience Manager SDK とCommerce integration frameworkのローカル設定からクラウドのAdobe Experience ManagerとMagentoまで、開発者がAdobe Experience Manager as a Cloud ServiceでCommerceを使い始めるのに役立ちます。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager,Experience Manager Sites, Commerce
 product: experience manager
 sub-product: sites
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager as a Cloud Serviceを使用したコンテンツとコマース
+# Adobe Experience Manager as a Cloud Serviceを使用したコンテンツとCommerce
 
-このセッションでは、開発者がAdobe Experience Manager as a Cloud Serviceでのコマースを開始する際に役立ちます。Adobe Experience Manager SDK +Commerce integration framework機能をローカル設定から、クラウドのAdobe Experience Manager &amp;Magento機能に至るまでです。
+このセッションは、Adobe Experience Manager SDK とCommerce integration frameworkのローカル設定からクラウドのAdobe Experience ManagerとMagentoまで、開発者がAdobe Experience Manager as a Cloud ServiceでCommerceを使い始めるのに役立ちます。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/content-commerce.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/content-commerce.pdf)** をクリックしてください。

@@ -1,6 +1,6 @@
 ---
-title: Rockstar Segment
-description: 4 人の「ロックスター」のお客様がそれぞれ、最高のAdobe Analytics・チップまたはトリックを提示します。
+title: Rockstar セグメント
+description: 「Rockstar」を使用するお客様 4 名に、最高のAdobe Analyticsのヒントやテクニックを紹介します。
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Rockstar Segment
+# Rockstar セグメント
 
-4 人の「ロックスター」のお客様がそれぞれ、最高のAdobe Analytics・チップまたはトリックを提示します。 誰が信じられないほどあなたを驚かせるでしょうか？ リアルタイムで視聴および投票します。
+「Rockstar」を使用するお客様 4 名に、最高のAdobe Analyticsのヒントやテクニックを紹介します。 誰があなたを信じられないほど魅了しますか？ リアルタイムで視聴および投票できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343346/?quality=12&learn=on)

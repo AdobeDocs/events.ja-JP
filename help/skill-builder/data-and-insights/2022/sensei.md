@@ -1,6 +1,6 @@
 ---
-title: Senseiを使用したAnalysis Workspaceの次のレベルへの移行
-description: Adobeが提供する人工知能フレームワークであるSenseiを活用して、顧客やオーディエンスセグメントをに対してインテリジェントに分析する方法を見つけます（説明は 60～160 文字にする必要があります）。
+title: Senseiを使用したAnalysis Workspaceのレベルの向上
+description: Adobeが提供する人工知能フレームワーク、Senseiを活用して、顧客とオーディエンスセグメントをインテリジェントに分析して…（説明は 60～160 文字にする必要があります）
 solution: Analytics, Customer Journey Analytics
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Senseiを使用したAnalysis Workspaceの次のレベルへの移行
+# Senseiを使用したAnalysis Workspaceのレベルの向上
 
-Adobeが提供する人工知能フレームワークであるSenseiを活用して、顧客とオーディエンスセグメントをインテリジェントに分析し、有意な違いを見つけ、属性コンバージョン要因を見つけ、将来の行動を予測する方法を見つけます。
+Adobeが提供する人工知能フレームワーク、Senseiを活用して、顧客とオーディエンスセグメントをインテリジェントに分析し、意味のある違いを見つけ、コンバージョン要因を特定し、将来の行動を予測する方法を説明します。
 
-*マティアスコリッチ* シニアマルチソリューショントレーナー EMEA /Adobe
+*Matthias Kolitsch* シニアマルチソリューショントレーナー EMEA/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

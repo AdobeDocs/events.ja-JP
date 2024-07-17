@@ -1,6 +1,6 @@
 ---
-title: Experience Manager Cloud Serviceを使用した迅速なエクスペリエンスの提供
-description: Adobe Experience Manager as a Cloud Serviceは、コンテンツを効率的かつ効果的に配信するように設計されています。 この効率化にとって重要な要素は、プロジェクトが適切に設計されたキャッシュと無効化戦略を持つことです。 このセッションでは、プロジェクトに含まれるトラップの一部をカバーし、実際のシナリオ例を使用してキャッシュヒット率およびキャッシュカバレッジを改善する方法に関するヒントを示します。
+title: Experience Manager Cloud Serviceで高速なエクスペリエンスを提供
+description: Adobe Experience Manager as a Cloud Serviceは、コンテンツを効率的かつ効果的に配信するように設計されています。 この効率を高める上で重要な要素は、プロジェクトのキャッシュと無効化の戦略を適切に設計することです。 このセッションでは、プロジェクトが陥る落とし穴をいくつか取り上げ、実際のシナリオの例を使用して、キャッシュヒット率とキャッシュカバレッジを向上させる方法のヒントを説明します。
 solution: Experience Manager
 feature: Dispatcher
 topic: Performance
@@ -14,20 +14,20 @@ duration: 1780
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
-# Experience Manager Cloud Serviceを使用した迅速なエクスペリエンスの提供
+# Experience Manager Cloud Serviceで高速なエクスペリエンスを提供
 
-Adobe Experience Manager as a Cloud Serviceは、コンテンツを効率的かつ効果的に配信するように設計されています。 この効率化にとって重要な要素は、プロジェクトが適切に設計されたキャッシュと無効化戦略を持つことです。 このセッションでは、プロジェクトに含まれるトラップの一部をカバーし、実際のシナリオ例を使用してキャッシュヒット率およびキャッシュカバレッジを改善する方法に関するヒントを示します。
+Adobe Experience Manager as a Cloud Serviceは、コンテンツを効率的かつ効果的に配信するように設計されています。 この効率を高める上で重要な要素は、プロジェクトのキャッシュと無効化の戦略を適切に設計することです。 このセッションでは、プロジェクトが陥る落とし穴をいくつか取り上げ、実際のシナリオの例を使用して、キャッシュヒット率とキャッシュカバレッジを向上させる方法のヒントを説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3CUkzoB)**.
+**[Experience League コミュニティ ](https://adobe.ly/3CUkzoB)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337846/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-- [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
-- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)
+- [Adobe Experience Manager ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience ManagerCloud Serviceの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

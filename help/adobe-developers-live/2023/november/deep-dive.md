@@ -1,6 +1,6 @@
 ---
-title: エッジ配信とドキュメントベースのオーサリングに関する詳細
-description: Adobe Developers Liveで開かれたこの詳細なセッションで、Amol Anand と Darin Kuntze はAdobe Experience Manager(AEM) の革新的なEdge Delivery Servicesと最新のドキュメントベースのオーサリングを学びます。 2023 年 11 月 6 日に記録されたこれらのツールがコンテンツ作成に革新をもたらし、コンテンツ作成を迅速かつシンプルにし、継続的な最適化によるエンゲージメントとコンバージョンを促進する方法について説明します。 このセッションは、AEM GraphQL API やその他の柔軟なツールを使用して Web 開発戦略を強化したい開発者に最適です。
+title: Edge Deliveryとドキュメントベースのオーサリングの詳細
+description: Adobe Developers Liveのこのディープダイブセッションでは、Amol Anand と Darin Kuntze が、Adobe Experience Manager（AEM）の革新的なEdge Delivery Servicesと最新のドキュメントベースオーサリングについて説明します。 2023 年 11 月 6 日（PT）に録画されたこれらのツールが、コンテンツ作成に革命を起こし、迅速かつシンプルにする方法と、継続的な最適化でエンゲージメントとコンバージョンを促進する方法について説明します。 このセッションは、AEM GraphQL API やその他の柔軟なツールを使用して web 開発戦略を強化しようとしている開発者に最適です。
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Edge Delivery および Document-based Authoring に関する詳細 — 2023 年 11 月
+# Adobe Developers Live Edge Deliveryとドキュメントベースのオーサリングの詳細 – 2023 年 11 月
 
-Adobe Developers Liveで開かれたこの詳細なセッションで、Amol Anand と Darin Kuntze はAdobe Experience Manager(AEM) の革新的なEdge Delivery Servicesと最新のドキュメントベースのオーサリングを学びます。 2023 年 11 月 6 日に記録されたこれらのツールがコンテンツ作成に革新をもたらし、コンテンツ作成を迅速かつシンプルにし、継続的な最適化によるエンゲージメントとコンバージョンを促進する方法について説明します。 このセッションは、AEM GraphQL API やその他の柔軟なツールを使用して Web 開発戦略を強化したい開発者に最適です。
+Adobe Developers Liveのこのディープダイブセッションでは、Amol Anand と Darin Kuntze が、Adobe Experience Manager（AEM）の革新的なEdge Delivery Servicesと最新のドキュメントベースオーサリングについて説明します。 2023 年 11 月 6 日（PT）に録画されたこれらのツールが、コンテンツ作成に革命を起こし、迅速かつシンプルにする方法と、継続的な最適化でエンゲージメントとコンバージョンを促進する方法について説明します。 このセッションは、AEM GraphQL API やその他の柔軟なツールを使用して web 開発戦略を強化しようとしている開発者に最適です。
 
-次の場所で会話を続行します： [Experience Leagueコミュニティ](https://adobe.ly/46KMTsh).
+[Experience League コミュニティ ](https://adobe.ly/46KMTsh) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425622/?learn=on)

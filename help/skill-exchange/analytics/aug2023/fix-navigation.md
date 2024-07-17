@@ -1,6 +1,6 @@
 ---
 title: 2023 年 8 月 Grow Track - Adobe Analyticsを使用したナビゲーションの修正
-description: ナビゲーションは、訪問者がサイト内を移動してコンバージョンファネルに入るうえで重要です。 Adobe Analyticsでナビゲーションの効果を追跡する方法と、ナビゲーションを改善する方法について説明します。
+description: ナビゲーションは、訪問者がサイト内を移動する方法を見つけ、コンバージョンファネルに参加するための鍵となります。 Adobe Analyticsでナビゲーションの効果をトラッキングする方法と改善する方法について説明します。
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# スキル交換イベント 2023 年 8 月 — グロートラック — Adobe Analytics:Adobe Analyticsを使用したナビゲーションの修正
+# Skill Exchange Event 2023 年 8 月 – Grow Track - Adobe Analytics:Adobe Analyticsを使用したナビゲーションの修正
 
-ナビゲーションは、訪問者がサイト内を移動してコンバージョンファネルに入るうえで重要です。 Adobe Analyticsでナビゲーションの効果を追跡する方法と、ナビゲーションを改善する方法について説明します。
+ナビゲーションは、訪問者がサイト内を移動する方法を見つけ、コンバージョンファネルに参加するための鍵となります。 Adobe Analyticsでナビゲーションの効果をトラッキングする方法と改善する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)

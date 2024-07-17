@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live2022 年 11 月
-description: Adobe Developers Liveイベントの一部として提供される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
+title: Adobe Developers Live 2022 年 11 月
+description: Adobe Developers Live イベントの一部として提供される、Adobe Experience Manager Sitesのビデオとチュートリアルのコレクションです。
 sub-product: sites, content-services
 exl-id: ccb76ddd-f751-4e15-af09-b7b031e12134
 duration: 83
@@ -11,15 +11,15 @@ ht-degree: 2%
 
 ---
 
-# Adobe Developers Liveヘッドレス {#overview}
+# Adobe Developers Live ヘッドレス {#overview}
 
 <img alt="アドビ開発者ライブ" src="./../../assets/adl.png" />
 
-Adobe Developers Live：ヘッドレスは、多様な背景と特異な目的を持つフロントエンド開発者を統合し、ヘッドレス機能を備えた素晴らしいエンドツーエンドのエクスペリエンスをAdobe Experience Managerで作成します。
+Adobe Developers Live：ヘッドレスは、多様な背景と単一の目的を持つフロントエンド開発者を結集し、ヘッドレス機能を備えた素晴らしいエンドツーエンドのエクスペリエンスをAdobe Experience Managerで作り出します。
 
-これは、2022 年 11 月に開催された 1 日間の仮想会議で、ヘッドレスやGraphQL、Adobe Experience Manager as a Cloud Service、テクニカルセッション、コミュニティネットワークの機会など、重要なAdobe Experience Manager開発者向けの更新を含むライブセッションを紹介しました。
+このバーチャル会議は、2022 年 11 月に開催された 1 日間のバーチャルカンファレンスで、ヘッドレスとGraphQL、Adobe Experience Manager as a Cloud Service、技術セッション、コミュニティネットワークなどのAdobe Experience Manager開発者向けの重要なアップデートが含まれています。
 
-イベント後もスピーカーやセッションとの連携を維持 [コミュニティコンテキストスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511).
+イベント終了後も、講演者やセッションとの連絡は [ コミュニティのコンテキストスレッド ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511) で継続できます。
 
 <!-- 
 ## Highlights
@@ -72,4 +72,4 @@ Adobe Developers Live：ヘッドレスは、多様な背景と特異な目的�
 
 >[!TIP]
 >
->**左側のナビゲーションにすべてのセッションが表示されます**.
+>**すべてのセッションは左側のナビゲーションに一覧表示されます**。

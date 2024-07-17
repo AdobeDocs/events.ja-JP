@@ -1,6 +1,6 @@
 ---
 title: AEM Cloud Serviceへの移行
-description: AEM Cloud Serviceへの移行を容易にするためのテクニックとツールについて説明します。 コンテンツ転送ツールから、ベストプラクティスアナライザーと組み合わせて使用する新しい Cloud Acceleration Manager に移行し、環境を評価します。
+description: AEM Cloud Serviceへの移行を容易にするためのテクニックと使用可能なツールについて説明します。 コンテンツ転送ツールから、環境の評価にベストプラクティスアナライザーと組み合わせて使用する新しいCloud Acceleration Managerまで。
 role: Admin, User
 level: Beginner
 feature-set: Experience Manager
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # AEM Cloud Serviceへの移行
 
-このセッションでは、AEM Cloud Serviceへの移行を容易にするためのテクニックとツールについて説明します。 コンテンツ転送ツールから、ベストプラクティスアナライザーと組み合わせて使用する新しい Cloud Acceleration Manager に移行して環境を評価する場合は、このイネーブルメントセッションを見逃して、Cloud Serviceを正常に運用し始める準備が整っている必要があります。
+このセッションでは、AEM Cloud Serviceへの移行を容易にするための手法とツールについて説明します。 コンテンツ転送ツールから、環境を評価するためにベストプラクティスアナライザーと組み合わせて使用される新しいCloud Acceleration Managerまで、このイネーブルメントセッションをお見逃しなく。これで、Cloud Serviceの運用開始を成功に導くことができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422533/?learn=on)

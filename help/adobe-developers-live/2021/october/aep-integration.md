@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platform統合の概要
-description: このセッションでは、Adobe Experience Platformがエコシステム内に統合できる様々な方法と、統合作業の計画時に考慮すべき事項の概要を説明します。
+description: このセッションでは、Adobe Experience Platformをエコシステム内で統合する様々な方法と、統合作業を計画する際に考慮すべき事項の概要を説明します。
 solution: Experience Platform
 feature: Integrations
 topic: Development
@@ -19,13 +19,13 @@ ht-degree: 14%
 
 # Adobe Experience Platform統合の概要
 
-このセッションでは、Adobe Experience Platformがエコシステム内に統合できる様々な方法と、統合作業の計画時に考慮すべき事項の概要を説明します。
+このセッションでは、Adobe Experience Platformをエコシステム内で統合する様々な方法と、統合作業を計画する際に考慮すべき事項の概要を説明します。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337715/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

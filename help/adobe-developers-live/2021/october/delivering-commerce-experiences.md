@@ -1,6 +1,6 @@
 ---
-title: 大規模なコマースエクスペリエンスの配信
-description: Commerce integration frameworkを使用して、負荷中のパフォーマンスの高いエクスペリエンスを提供するAdobe Experience ManagerとAdobe Commerceを設定および設定する方法について説明します。
+title: 大規模なコマースエクスペリエンスの提供
+description: Commerce integration frameworkを使用してAdobe Experience ManagerとAdobe Commerceを設定し、負荷がかかった状態で高パフォーマンスのエクスペリエンスを提供する方法について説明します。
 solution: Commerce, Experience Manager
 feature: Developer Tools
 topic: Integrations
@@ -18,14 +18,14 @@ ht-degree: 17%
 
 ---
 
-# 大規模なコマースエクスペリエンスの配信
+# 大規模なコマースエクスペリエンスの提供
 
-Commerce integration frameworkを使用して、負荷中のパフォーマンスの高いエクスペリエンスを提供するAdobe Experience ManagerとAdobe Commerceを設定および設定する方法について説明します。
+Commerce integration frameworkを使用してAdobe Experience ManagerとAdobe Commerceを設定し、負荷がかかった状態で高パフォーマンスのエクスペリエンスを提供する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337582/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

@@ -1,6 +1,6 @@
 ---
-title: Workfrontの配達確認の活用（2021 年 11 月 10 日）
-description: Workfront Proof を活用して作業方法を強化する様々な方法を利用します。
+title: Workfront Proofの活用（2021 年 11 月 9 日）
+description: Workfront Proofを活用して作業を強化する様々な方法について説明します。
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10002
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Workfrontの配達確認の活用（2021 年 11 月 10 日）
+# Workfront Proofの活用（2021 年 11 月 9 日）
 
-Workfront Proof を活用して作業方法を強化する様々な方法を利用します。
+Workfront Proofを活用して作業を強化する様々な方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341217/?quality=12&learn=on)

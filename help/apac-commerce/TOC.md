@@ -15,7 +15,7 @@ ht-degree: 2%
 + [概要](overview.md)
 + 2024年 {#2024}
    + [アクセラレータの日](2024/accelerator-day/overview.md)
-   + アクセラレータの日{#accelerator-day}
+   + アクセラレータの日 {#accelerator-day}
       + [非表示：明日のナビゲーション](./2024/accelerator-day/navigating-tomorrow.md)
       + [非表示：境界線を越えたパネル](./2024/accelerator-day/panel-beyond-borders.md)
       + [非表示：エクスペリエンス進化](./2024/accelerator-day/experience-evolution.md)
@@ -33,11 +33,11 @@ ht-degree: 2%
    + [e コマースビジネスを有機的に成長させる 7 つの方法](2024/grow-ecommerce-business.md)
 + 2023年 {#2023}
    + [AI を活用したパーソナライゼーション](2023/ai-personalisation.md)
-   + [AdobePaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
+   + [Adobeの PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
    + [e コマースコンバージョンのブースト](2023/ecommerce-conversions.md)
    + [構成可能なコマース戦略](2023/composable-commerce.md)
    + [成長の力となるマーケットプレイス](2023/marketplaces.md)
-   + [ピークシーズンの準備](2023/peak-season-prep.md)
+   + [ ピークシーズンの準備 ](2023/peak-season-prep.md)
 + 2022年 {#2022}
    + [ホリデー準備 2022](2022/holiday.md)
    + [New Relic マスタークラス](2022/new-relic.md)

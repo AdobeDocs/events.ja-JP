@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Liveヘッドレスロックスターの成果と開発者にとっての今後の課題
-description: Closing - Rock Star Results and What's Next for DevelopersJoin Cedric Huesler 氏 ( 製品管理担当Director) が、2022 年のAdobe Experience Manager Rock Star Challenge の勝者を見つけ出すための重要な留意点と行動項目をまとめました。
+title: Adobe Developers Live ヘッドレス Rock Star の結果と開発者向けの次のステップ
+description: Closing - Rock Star Results and What's Next for DevelopersProduct Management のDirectorである Cedric Huesler が、今日の重要な留意点とアクション項目をまとめ、2022 年のAdobe Experience Manager Rock Star チャレンジの勝者を見つけます。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# クロージング — Rock Star の結果とデベロッパーの次の機能
+# まとめ – ロックスターの結果と開発者の次のステップ
 
-製品管理担当Directorの Cedric Huesler 氏にご参加いただき、今日の重要な留意点とアクション項目をまとめ、2022 年のAdobe Experience Manager Rock Star チャレンジの勝者を特定してください。
+Product Management のDirectorである Cedric Huesler が、今日の重要な留意点とアクションアイテムをまとめ、2022 年のAdobe Experience Manager Rock Star Challenge の勝者を見つけます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411307/?quality=12&learn=on)

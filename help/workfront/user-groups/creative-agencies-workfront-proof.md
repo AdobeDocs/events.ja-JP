@@ -1,6 +1,6 @@
 ---
-title: クリエイティブエージェント — Workfront Proof（2020 年 8 月 11 日）
-description: Brown-Forman がWorkfront Proof をどのように活用しているかについて、Cindy Reichert の話を聞いてください。
+title: クリエイティブエージェンシー – Workfront Proof（2020 年 8 月 11 日）
+description: Brown-Forman がどのようにWorkfront Proofを活用しているかについて、Cindy Reichert の話を聞いてください。
 role: User
 level: Beginner, Intermediate
 kt: 9999
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# クリエイティブエージェント：Workfront Proof（2020 年 8 月 11 日）
+# クリエイティブエージェンシー：Workfront Proof（2020 年 8 月 11 日）
 
-Brown-Forman がWorkfront Proof をどのように活用しているかについて、Cindy Reichert の話を聞いてください。
+Brown-Forman がどのようにWorkfront Proofを活用しているかについて、Cindy Reichert の話を聞いてください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341411/?quality=12&learn=on)

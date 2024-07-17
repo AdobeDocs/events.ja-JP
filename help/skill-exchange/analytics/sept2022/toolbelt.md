@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics Toolbelt のマスタリング
-description: Analysis Workspaceの使用を促進するAdobeと使用例について説明する戦略エキスパートから学びます。 このセッションでは、分析を次のレベルに進め、Adobe Analyticsの最新機能のデモを参照して、カスタマージャーニーのストーリーを作成する方法を学びます。
+title: Adobe Analytics Toolbelt のマスター
+description: Adobeエキスパートが、Analysis Workspaceの使用を進めるための戦略とユースケースを説明します。 このセッションでは、分析を次のレベルに進める方法と、カスタマージャーニーのストーリーを作成するのに役立つAdobe Analyticsの最新の機能のデモを確認します。
 solution: Analytics
 role: User
 level: Intermediate, Experienced
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics Toolbelt のマスタリング
+# Adobe Analytics Toolbelt のマスター
 
-Analysis Workspaceの使用を促進するAdobeと使用例について説明する戦略エキスパートから学びます。 このセッションでは、分析を次のレベルに進め、Adobe Analyticsの最新機能のデモを参照して、カスタマージャーニーのストーリーを作成する方法を学びます。
+Adobeエキスパートが、Analysis Workspaceの使用を進めるための戦略とユースケースを説明します。 このセッションでは、分析を次のレベルに進める方法と、カスタマージャーニーのストーリーを作成するのに役立つAdobe Analyticsの最新の機能のデモを確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411013/?quality=12&learn=on)

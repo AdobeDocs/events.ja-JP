@@ -1,5 +1,5 @@
 ---
-title: 有効なAudience Activation戦略の設定
+title: 効果的なAudience Activation方法の設定
 description: このセッションでは、データ管理戦略の重要性、Adobe Audience Manager の概要と機能、Adobe Audience Manager のユースケース、データ管理戦略を設定するための行動計画について説明します
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
@@ -17,13 +17,13 @@ ht-degree: 42%
 
 ---
 
-# 有効なAudience Activation戦略の設定
+# 効果的なAudience Activation方法の設定
 
 このセッションの内容は次のとおりです。
 
 - データ管理戦略の重要性
 - Adobe Audience Managerの概要と機能
 - Adobe Audience Managerの使用例
-- データ管理戦略を設定するためのアクションプラン
+- データ管理戦略の設定に関するアクション・プラン
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423008/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: コンテンツおよびエクスペリエンスフラグメントのマスター
-description: コンテンツの再利用性に関するこのウェビナーで、コンテンツを作成し、可能性を最大限に活用する方法を革新しました。
+title: コンテンツとエクスペリエンスフラグメントのマスタリング
+description: コンテンツの再利用性に関するこのウェビナーで、コンテンツの作成方法に革命を起こし、コンテンツの可能性を最大限に引き出します。
 solution: Experience Manager
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
@@ -22,18 +22,18 @@ ht-degree: 0%
 
 ---
 
-# コンテンツおよびエクスペリエンスフラグメントのオンデマンド Web セミナーの習得
+# オンデマンドのコンテンツおよびエクスペリエンスフラグメントの習得に関するウェビナー
 
-コンテンツの再利用性に関するこのウェビナーで、コンテンツを作成し、可能性を最大限に活用する方法を革新しました。 このセッションでは、コンテンツフラグメントとエクスペリエンスフラグメントを組み合わせて戦略的コンテンツ目標を達成する方法を学び、ページオーサリングのコンテンツとレイアウトの機能について詳しく説明します。
+コンテンツの再利用性に関するこのウェビナーで、コンテンツの作成方法に革命を起こし、コンテンツの可能性を最大限に引き出します。 このセッションでは、コンテンツフラグメントとエクスペリエンスフラグメントを構成要素として組み合わせて使用し、戦略的なコンテンツの目標を達成する方法を学び、ページのオーサリングのコンテンツとレイアウトの機能について詳しく説明します。
 
-Adobe Experience Manager・チャンピオンの Greg Dimeris 氏は、ビジネスと共に成長するスケーラブルなコンテンツ戦略を構築する方法について話し合います。
+Adobe Experience Manager チャンピオンの Greg Dimeris が、ビジネスと共に成長するスケーラブルなコンテンツ戦略を構築する方法について説明します。
 
-このセッションでは、次の内容を学習します。
+このセッションで学習する内容は次のとおりです。
 
-* コンテンツおよびエクスペリエンスフラグメントのベストプラクティス
-* 編集可能テンプレートのヒントとテクニック
-* これらをすべて組み合わせて、強力なコンテンツ構築ブロックを作成する
+* コンテンツとエクスペリエンスフラグメントのベストプラクティス
+* 編集可能なテンプレートのヒントとテクニック
+* 強力なコンテンツ構築ブロックの作成に役立ちます。
 
-プレゼンテーションスライドにアクセスできます [ここ](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+プレゼンテーションのスライドには [ こちら ](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf) アクセスできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Managerをクラウドに移行 — 課題、事例、ソリューション
-description: イアン・ボストン、トメック・レカウク、カルロス・サンチェスのパネルで、Adobe Experience Managerをクラウドに移行した経緯を紹介します。 このセッションは、Adobe Developers Live Content イベントの一部として配信されました。
+title: Adobe Experience Managerのクラウドへの移行 – 課題、ストーリー、ソリューション
+description: Ian Boston、Tomek Rekawek、Carlos Sanchez による、Adobe Experience Managerをどのようにしてクラウドに移行したかについて説明するパネル。 このセッションは、Adobe Developers Live コンテンツイベントの一環として提供されました。
 solution: Experience Manager
 product: experience manager
 feature: Migration
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Managerをクラウドに移行 — 課題、事例、ソリューション
+# Adobe Experience Managerのクラウドへの移行 – 課題、ストーリー、ソリューション
 
-イアン・ボストン、トメック・レカウク、カルロス・サンチェスのパネルで、Adobe Experience Managerをクラウドに移行した経緯を紹介します。
+Ian Boston、Tomek Rekawek、Carlos Sanchez による、Adobe Experience Managerをどのようにしてクラウドに移行したかについて説明するパネル。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)

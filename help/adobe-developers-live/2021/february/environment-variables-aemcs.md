@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager as a Cloud Serviceを使用した環境変数
-description: 環境変数をAdobe Experience Manager as a Cloud Serviceで管理し、ビルドプロセスまたは OSGI 設定変数のコンテキストで使用する方法について説明します。
+description: Adobe Experience Manager as a Cloud Serviceで環境変数を管理し、ビルドプロセスまたは OSGI 設定変数のコンテキストで使用する方法について説明します。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Cloud Serviceを使用した環境変数
 
-環境変数をAdobe Experience Manager as a Cloud Serviceで管理し、ビルドプロセスまたは OSGI 設定変数のコンテキストで使用する方法について説明します。
+Adobe Experience Manager as a Cloud Serviceで環境変数を管理し、ビルドプロセスまたは OSGI 設定変数のコンテキストで使用する方法について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332304/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** をクリックしてください。

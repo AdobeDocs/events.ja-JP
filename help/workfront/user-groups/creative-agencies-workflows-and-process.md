@@ -1,6 +1,6 @@
 ---
-title: クリエイティブエージェント — ワークフローとプロセス（2020 年 7 月 14 日）
-description: Esri の Linnie Ciepolowski を聞き、効率的なマーケティングプロセスを開発する方法に関する例と戦略を紹介します。
+title: クリエイティブエージェンシー – ワークフローとプロセス（2020 年 7 月 14 日（PT））
+description: Esri の Linnie Ciepolowski が、効率的なマーケティングプロセスのエンジニアリング方法に関する例と戦略を紹介します。
 role: Admin, User
 level: Beginner, Intermediate
 kt: 9993
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# クリエイティブエージェント：ワークフローとプロセス（2020 年 7 月 14 日）
+# クリエイティブエージェンシー：ワークフローとプロセス（2020 年 7 月 14 日（PT））
 
-Esri の Linnie Ciepolowski を聞き、効率的なマーケティングプロセスを開発する方法に関する例と戦略を紹介します。
+Esri の Linnie Ciepolowski が、効率的なマーケティングプロセスのエンジニアリング方法に関する例と戦略を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341220/?quality=12&learn=on)

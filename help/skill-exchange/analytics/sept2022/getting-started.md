@@ -1,6 +1,6 @@
 ---
 title: データの分析
-description: 基本的な Analytics ユーザーインターフェイスに慣れ、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーションおよびパネルの使用を開始します。
+description: Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics, Visualizations, Panels
@@ -21,6 +21,6 @@ ht-degree: 3%
 
 # はじめに
 
-基本的な Analytics ユーザーインターフェイスに慣れ、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーションおよびパネルの使用を開始します。
+Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411007/?quality=12&learn=on)

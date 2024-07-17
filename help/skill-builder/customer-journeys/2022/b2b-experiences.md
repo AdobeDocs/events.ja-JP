@@ -1,6 +1,6 @@
 ---
-title: B2B エクスペリエンスと [!DNL Marketo Engage] とAdobe Experience Cloud
-description: B2B エクスペリエンスを強化するには、 [!DNL Marketo Engage] Adobeアプリケーションを使用してプロセスを簡素化し、オーディエンス管理を合理化し、パーソナライゼーションを最大化します。
+title: とAdobe Experience Cloudによる B2B エクスペリ  [!DNL Marketo Engage]  ンス
+description: とAdobeアプリケーションを接続してプロセスを簡素化し、オーディエンス管理を合理化し、パーソナライゼーションを最大化するこ  [!DNL Marketo Engage]  で、B2B エクスペリエンスを強化します。
 solution: Marketo, Experience Cloud
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# B2B エクスペリエンスと [!DNL Marketo Engage] とAdobe Experience Cloud
+# [!DNL Marketo Engage] とAdobe Experience Cloudによる B2B エクスペリエンス
 
-B2B エクスペリエンスを強化するには、 [!DNL Marketo Engage] Adobeアプリケーションを使用してプロセスを簡素化し、オーディエンス管理を合理化し、パーソナライゼーションを最大化します。 このセッションでは、 [!DNL Marketo Engage] Adobe Experience Cloud・アプリケーションと、どのような痛点が解決されるのか。
+[!DNL Marketo Engage] とAdobeアプリケーションを連携させて、プロセスを簡素化し、オーディエンス管理を効率化し、パーソナライゼーションを最大化することで、B2B エクスペリエンスを強化します。 このセッションでは、[!DNL Marketo Engage] とAdobe Experience Cloud アプリケーションの統合を順を追って説明し、解決される問題点を説明します。
 
-*ミハイプリサカリウ* ソリューションコンサルタント、CJM/Adobe
+*ミハイ・プリサカリウ* ソリューションコンサルタント、CJM/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343826/?quality=12&learn=on)

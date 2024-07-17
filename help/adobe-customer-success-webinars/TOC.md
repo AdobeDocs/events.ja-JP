@@ -24,9 +24,9 @@ ht-degree: 1%
    + [ソリューションの機能へのユースケースのマッピング](2024/use-case-mapping.md)
    + [Web SDK 移行の基本事項](2024/web-sdk-migration.md)
 + 2023年 {#2023}
-   + [大規模なパーソナライゼーションの基盤の構築](2023/personalization-at-scale.md)
+   + [大規模なPersonalizationの基盤の構築](2023/personalization-at-scale.md)
    + [変更管理](2023/change-management.md)
-   + [コンテンツとエクスペリエンス – パーソナライゼーション](2023/content-experiences-personalization.md)
+   + [コンテンツとエクスペリエンス - Personalization](2023/content-experiences-personalization.md)
    + [Customer Journey Analytics移行への対応](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics統合の基本事項](2023/cja-integration-essentials.md)
    + [リアルタイムデータ収集およびアクティベーション戦略の開発](2023/data-collection-activation-strategy.md)

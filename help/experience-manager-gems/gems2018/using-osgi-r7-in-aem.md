@@ -1,5 +1,5 @@
 ---
-title: AEM での OSGi R7 の使用
+title: AEMでの OSGi R7 の使用
 description: OSGi R7 リリースは、多くの重要な新機能やパフォーマンスをもたらし、Java 開発者にとって重要な、使いやすく価値のある最新テクノロジーの多くにオープン標準ベースのアプローチを提供しています。
 discoiquuid: da05c4fb-e8b7-4f01-b588-dea904eaddf9
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
@@ -8,18 +8,18 @@ duration: 2785
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# AEM での OSGi R7 の使用{#using-osgi-r-in-aem}
+# AEMでの OSGi R7 の使用{#using-osgi-r-in-aem}
 
-OSGi R7 リリースは、多くの重要な新機能やパフォーマンスをもたらし、Java 開発者にとって重要な、使いやすく価値のある最新テクノロジーの多くにオープン標準ベースのアプローチを提供しています。主な新機能は以下のとおりです。
+OSGi R7 リリースは、多くの重要な新機能やパフォーマンスをもたらし、Java 開発者にとって重要な、使いやすく価値のある最新テクノロジーの多くにオープン標準ベースのアプローチを提供しています。  主な新機能は次のとおりです。
 
 * 宣言サービスのアップデート
 * 新しいバンドル注釈
 * プッシュストリームとプロミス
-* コンバーター
+* コンバータ
 * Http Whiteboard
 * 設定ツールおよび設定管理
 * Java 9 サポート
@@ -28,21 +28,21 @@ OSGi R7 リリースは、多くの重要な新機能やパフォーマンスを
 
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 
-*2018年10月17日（PT）に配信*
+*2018 年 10 月 17 日（PT）に配信*
 
 **発表者：**
 
-* アドビ、コンピューターサイエンティスト、Karl Pauls
-* アドビ、プリンシパルサイエンティスト、Carsten Ziegeler
-* アドビ、シニアソフトウェアエンジニア、David Bosschaert
+* Adobe、コンピューターサイエンティスト、Karl Pauls
+* Adobe、プリンシパルサイエンティスト、Carsten Ziegeler
+* Adobe、シニアソフトウェアエンジニア、David Bosschaert
 
-日付：2018年10月17日（PT）
+日付：2018 年 10 月 17 日（Pt）
 
 [ファイルを入手](assets/aem-gems-osg-r7inaem-10172018.pdf)
 
 ## 関連リンク {#related-links}
 
-[OSGi Alliance ブログ](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
+[OSGi Alliance ブログ ](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
 [OSGi 仕様ライセンス、バージョン 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 

@@ -1,6 +1,6 @@
 ---
-title: SRE ギルドメンバーとAdobe Experience Managerの舞台裏
-description: Joerg Hoh、Peter Acsai、Tom Blackford、当社サイトリライアビリティエンジニアギルドのメンバーが、AEMのas a Cloud Serviceのために「列車を時間通りに保つ」ための舞台裏での作業を行うパネル。 効率的な SRE に必要なスキルと最も細心な知識、システムの堅牢性と回復性に関する彼らの見解、停止を防ぐために使用する指標とアラートの種類について学びます。
+title: Adobe Experience Managerと SRE ギルドメンバーの舞台裏
+description: Jeerg Hoh 氏、Peter Acsai 氏、Tom Blackford 氏（Site Reliability Engineers guild のメンバー）のパネルが、AEM as a Cloud Serviceの「電車を時間通りに保つ」ための作業を背後で行いました。 効率的な SRE を実現するために必要なスキルと最小限の事柄、システムの堅牢性と回復力を高めるための考え方、システム停止を防ぐために使用する指標とアラートの種類について説明します。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -14,20 +14,20 @@ duration: 3621
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
-# SRE ギルドメンバーとAdobe Experience Managerの舞台裏
+# Adobe Experience Managerと SRE ギルドメンバーの舞台裏
 
-Joerg Hoh、Peter Acsai、Tom Blackford、当社サイトリライアビリティエンジニアギルドのメンバーが、AEMのas a Cloud Serviceのために「列車を時間通りに保つ」ための舞台裏での作業を行うパネル。 効率的な SRE に必要なスキルと最も細心な知識、システムの堅牢性と回復性に関する彼らの見解、停止を防ぐために使用する指標とアラートの種類について学びます。
+Jeerg Hoh 氏、Peter Acsai 氏、Tom Blackford 氏（Site Reliability Engineers guild のメンバー）のパネルが、AEM as a Cloud Serviceの「電車を時間通りに保つ」ための作業を背後で行いました。 効率的な SRE を実現するために必要なスキルと最小限の事柄、システムの堅牢性と回復力を高めるための考え方、システム停止を防ぐために使用する指標とアラートの種類について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/2WoCVOU)**.
+**[Experience League コミュニティ ](https://adobe.ly/2WoCVOU)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337527/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-- [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
-- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)
+- [Adobe Experience Manager ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience ManagerCloud Serviceの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

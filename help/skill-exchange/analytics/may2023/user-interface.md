@@ -1,6 +1,6 @@
 ---
-title: ユーザーインターフェイスの基本 — 2023 年 5 月 APAC Adobe Analytics Skill Exchange
-description: 基本的な Analytics ユーザーインターフェイスに慣れ、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーションおよびパネルの使用を開始します。
+title: ユーザーインターフェイスの基本 – 2023 年 5 月 APAC Adobe Analytics Skill Exchange
+description: Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# ユーザーインターフェイスの基本 — 2023 年 5 月 APAC Adobe Analytics Skill Exchange
+# ユーザーインターフェイスの基本 – 2023 年 5 月 APAC Adobe Analytics Skill Exchange
 
-基本的な Analytics ユーザーインターフェイスに慣れ、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーションおよびパネルの使用を開始します。
+Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420943/?learn=on)

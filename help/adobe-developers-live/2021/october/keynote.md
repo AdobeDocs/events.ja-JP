@@ -1,6 +1,6 @@
 ---
-title: Keynote
-description: Adobe Creative Cloud、Document Cloud、Experience Cloudで利用可能な最新の技術進歩と開発者ツールのアップデートについてお聞かせください。
+title: キーノート
+description: Adobe Creative Cloud、Document Cloud、Experience Cloud全体で利用できる最新の技術進歩と開発者ツールの更新について説明します。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,16 +16,16 @@ ht-degree: 19%
 
 ---
 
-# 開口キーノート
+# オープニング キーノート
 
-Adobe Creative Cloud、Document Cloud、Experience Cloudで利用可能な最新の技術進歩と開発者ツールのアップデートについてお聞かせください。
+Adobe Creative Cloud、Document Cloud、Experience Cloud全体で利用できる最新の技術進歩と開発者ツールの更新について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3F2g1ym)**.
+**[Experience League コミュニティ ](https://adobe.ly/3F2g1ym)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337490/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

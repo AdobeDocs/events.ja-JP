@@ -1,6 +1,6 @@
 ---
-title: 2023 年 8 月開口部キーノート
-description: Adobe Analyticsの行き先は？ Customer Journey AnalyticsおよびAdobe Analytics向け製品管理担当の Ben Gaines 氏が、今後の予定について少しお話しします。
+title: 2023 年 8 月開会基調講演
+description: Adobe Analyticsの行き先は？ Customer Journey AnalyticsおよびAdobe Analyticsの Product Management のDirectorである Ben Gaines が、期待される内容について少しお話します。
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# スキル交換イベント 2023 年 8 月 — 基調講演の開会
+# Skill Exchange Event 2023 年 8 月 – 基調講演
 
-Adobe Analyticsの行き先は？ Customer Journey AnalyticsおよびAdobe Analytics向け製品管理担当の Ben Gaines 氏が、今後の予定について少しお話しします。
+Adobe Analyticsの行き先は？ Customer Journey AnalyticsおよびAdobe Analyticsの Product Management のDirectorである Ben Gaines が、期待される内容について少しお話します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425984/?learn=on)

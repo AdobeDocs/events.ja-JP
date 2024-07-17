@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live- 11 月 22 日 — Adobe Experience Managerサイトのスピードアップに関するヒント（トップ 10）
-description: Adobe Experience Manager Site の高速化に関するトップ 10 のヒント優れたエクスペリエンスのパフォーマンスが、エクスペリエンスを成功に導く上で重要な役割を果たします。 このセッションでは、開発者がAdobe Experience Manager Web サイトをより迅速に作成できるよう支援する、アドビの上位 10 のヒントのベストプラクティスをお客様と共有します。
+title: Adobe Developers Live - 11 月 22 日（PT） – Adobe Experience Manager サイトを高速化するためのトップ 10 ヒント
+description: Adobe Experience Manager サイトを高速化するためのトップ 10 ヒント優れたエクスペリエンスパフォーマンスは、エクスペリエンスを成功させる上で重要です。 このセッションでは、開発者がAdobe Experience Managerの web サイトをより迅速に開発するのに役立つヒントのベストプラクティス上位 10 件を紹介します。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Site のスピードアップに関するトップ 10 のヒント
+# Adobe Experience Manager サイトを高速化するためのトップ 10 ヒント
 
-優れたエクスペリエンスパフォーマンスが、エクスペリエンスを成功させる上での鍵となります。 このセッションでは、開発者がAdobe Experience Manager Web サイトをより迅速に作成できるよう支援する、アドビの上位 10 のヒントのベストプラクティスをお客様と共有します。
+優れたエクスペリエンスパフォーマンスは、エクスペリエンスの成功の鍵です。 このセッションでは、開発者がAdobe Experience Managerの web サイトをより迅速に開発するのに役立つヒントのベストプラクティス上位 10 件を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)

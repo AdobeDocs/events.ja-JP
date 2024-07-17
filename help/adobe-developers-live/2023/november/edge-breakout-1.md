@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers LiveEdge Delivery Servicesブレークアウト 1 - 2023 年 11 月
-description: Adobe Developers Liveでライブ録画されたこの実践セッションに Markus Haack に参加しましょう。 Adobe Experience ManagerのEdge Delivery Servicesを使用して、Web サイトを一から構築する方法を学びます。 このセッションでは、GitHub リポジトリの設定、ドキュメントライブラリ管理、最初のコンテンツの公開、サイトのスタイル設定、カスタムブロックの作成など、あらゆる内容について取り上げます。 Adobe Experience Managerを初めて使用する開発者に最適なこのガイドでは、AEMに最適化されたツールを使用した効率的な Web 開発に関する包括的な情報を提供します。
+title: Adobe Developers Live Edge Delivery Servicesのブレイクアウト 1 - 2023 年 11 月
+description: Adobe Developers Liveでライブで録画された、Markus Haack による実践セッションにご参加ください。 Adobe Experience ManagerのEdge Delivery Servicesを使用して web サイトをゼロから構築する方法を説明します。 このセッションでは、GitHub リポジトリの設定、ドキュメントライブラリの管理、最初のコンテンツの公開、サイトのスタイル設定、カスタムブロックの作成に至るまで、あらゆることをカバーします。 Adobe Experience Managerを初めて使用する開発者に最適なこのガイドでは、AEM最適化ツールを使用した効率的な web 開発を包括的に説明します。
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers LiveEdge Delivery Servicesブレークアウト 1 - 2023 年 11 月
+# Adobe Developers Live Edge Delivery Servicesのブレイクアウト 1 - 2023 年 11 月
 
-Adobe Developers Liveでライブ録画されたこの実践セッションに Markus Haack に参加しましょう。 Adobe Experience ManagerのEdge Delivery Servicesを使用して、Web サイトを一から構築する方法を学びます。 このセッションでは、GitHub リポジトリの設定、ドキュメントライブラリ管理、最初のコンテンツの公開、サイトのスタイル設定、カスタムブロックの作成など、あらゆる内容について取り上げます。 Adobe Experience Managerを初めて使用する開発者に最適なこのガイドでは、AEMに最適化されたツールを使用した効率的な Web 開発に関する包括的な情報を提供します。
+Adobe Developers Liveでライブで録画された、Markus Haack による実践セッションにご参加ください。 Adobe Experience ManagerのEdge Delivery Servicesを使用して web サイトをゼロから構築する方法を説明します。 このセッションでは、GitHub リポジトリの設定、ドキュメントライブラリの管理、最初のコンテンツの公開、サイトのスタイル設定、カスタムブロックの作成に至るまで、あらゆることをカバーします。 Adobe Experience Managerを初めて使用する開発者に最適なこのガイドでは、AEM最適化ツールを使用した効率的な web 開発を包括的に説明します。
 
-次の場所で会話を続行します： [Experience Leagueコミュニティ](https://adobe.ly/3Q82EUF).
+[Experience League コミュニティ ](https://adobe.ly/3Q82EUF) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)

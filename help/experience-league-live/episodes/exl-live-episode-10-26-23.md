@@ -27,5 +27,5 @@ Workfrontのホームページを一新し、生産力の大国へと成長さ�
 
 このExperience Leagueライブセッションでは、製品エキスパートのベン・ロビンズが、2024 年に予定されている新しい管理レイアウトコントロールや優れた機能強化など、新しいホームエクスペリエンスについて説明します。 また、Workfrontのお客様である Jamie Smith が、新しいホームエクスペリエンスによって AT&amp;T の生産性がどのように向上しているかについてインサイトを提供します。
 
-**議論を続けるには、次の URL にアクセスしてください [Experience Leagueコミュニティポスト！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**話し合いを続けるには、[Experience League コミュニティ Postにアクセスしてください！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
 

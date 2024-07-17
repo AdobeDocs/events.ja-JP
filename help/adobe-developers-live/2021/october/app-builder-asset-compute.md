@@ -1,6 +1,6 @@
 ---
-title: App Builder およびPhotoshop API を使用したカスタムAdobe Experience Manager Assets Compute Worker
-description: Adobe Experience Manager as aCloud ServiceのAsset computeマイクロサービスは、カスタムアセットレンディションを生成するカスタムワーカーの開発とデプロイメントをサポートします。 標準搭載の大規模なasset compute実稼動用コンテンツ自動化機能を活用するほか、開発者はPhotoshop API を使用して独自のアセットワーカーを作成し、より多くのカスタム使用例を実現することもできます。 このセッションでは、App Builder SDK とPhotoshop API を使用してasset computeワーカーを開発し、カスタムアセットレンディションを自動化するすべての手順を順を追って説明します。
+title: App Builder API とPhotoshop API を使用したカスタム Adobe Experience Manager Assets Compute ワーカー
+description: Adobe Experience Manager as Cloud ServiceのAsset computeマイクロサービスは、カスタムアセットレンディションを生成するカスタムワーカーの開発とデプロイをサポートしています。 デベロッパーは、大規模なアセット作成に既製のコンテンツ自動処理を利用する以外に、Photoshop API を使用して独自のasset computeワーカーを作成し、より多くのカスタムユースケースに使用することもできます。 このセッションでは、App Builder SDK とPhotoshop API を使用してasset computeワーカーを開発し、カスタムアセットレンディションを自動化するすべての手順について説明します。
 solution: Experience Manager
 feature: Asset Compute Microservices
 topic: Development
@@ -14,20 +14,20 @@ duration: 1724
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
-# App Builder およびPhotoshop API を使用したカスタムAdobe Experience Manager Assets Compute Worker
+# App Builder API とPhotoshop API を使用したカスタム Adobe Experience Manager Assets Compute ワーカー
 
-Adobe Experience Manager as aCloud ServiceのAsset computeマイクロサービスは、カスタムアセットレンディションを生成するカスタムワーカーの開発とデプロイメントをサポートします。 標準搭載の大規模なasset compute実稼動用コンテンツ自動化機能を活用するほか、開発者はPhotoshop API を使用して独自のアセットワーカーを作成し、より多くのカスタム使用例を実現することもできます。 このセッションでは、App Builder SDK とPhotoshop API を使用してasset computeワーカーを開発し、カスタムアセットレンディションを自動化するすべての手順を順を追って説明します。
+Adobe Experience Manager as Cloud ServiceのAsset computeマイクロサービスは、カスタムアセットレンディションを生成するカスタムワーカーの開発とデプロイをサポートしています。 デベロッパーは、大規模なアセット作成に既製のコンテンツ自動処理を利用する以外に、Photoshop API を使用して独自のasset computeワーカーを作成し、より多くのカスタムユースケースに使用することもできます。 このセッションでは、App Builder SDK とPhotoshop API を使用してasset computeワーカーを開発し、カスタムアセットレンディションを自動化するすべての手順について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3F6f5sG)**.
+**[Experience League コミュニティ ](https://adobe.ly/3F6f5sG)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337769/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-- [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
-- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)
+- [Adobe Experience Manager ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience ManagerCloud Serviceの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

@@ -1,6 +1,6 @@
 ---
 title: ヘッドレス実装における多数の API リクエストに対するAdobe Commerce Cloudのサイズ設定
-description: Adobe Commerce Cloudは、複数のチャネルをまたいだ 7-Eleven Australia の e コマースプラットフォームとして使用されます。 このプレゼンテーションでは、Adobe CampaignとAdobe Commerceを組み合わせて使用し、パーソナライズされたオファーの例に基づいて、リソースを消費する API インタラクションを多数使用したAdobe Commerce Cloudの使用経験を共有します。 期待される需要、テストアプローチ、利用可能な監視データの解釈に基づくインフラストラクチャの推定とサイジングに関する経験を共有します。
+description: Adobe Commerce Cloudは、複数のチャネルにわたる 7-Eleven Australia の e コマースプラットフォームとして使用されています。 このプレゼンテーションでは、Adobe CampaignとAdobe Commerceを組み合わせてパーソナライズされたオファーの例に基づいて、リソースを消費する API のインタラクションが多い状況でAdobe Commerce Cloudを使用した経験を紹介します。 期待される需要に基づくインフラストラクチャの推定とサイジング、アプローチのテスト、利用可能な監視データの解釈に関する経験を共有します。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -18,12 +18,12 @@ ht-degree: 6%
 
 # ヘッドレス実装における多数の API リクエストに対するAdobe Commerce Cloudのサイズ設定
 
-Adobe Commerce Cloudは、複数のチャネルをまたいだ 7-Eleven Australia の e コマースプラットフォームとして使用されます。 このプレゼンテーションでは、Adobe CampaignとAdobe Commerceを組み合わせて使用し、パーソナライズされたオファーの例に基づいて、リソースを消費する API インタラクションを多数使用したAdobe Commerce Cloudの使用経験を共有します。 予想される需要、テストアプローチ、利用可能な監視データの解釈に基づくインフラストラクチャの推定とサイジングに関する経験を共有します
+Adobe Commerce Cloudは、複数のチャネルにわたる 7-Eleven Australia の e コマースプラットフォームとして使用されています。 このプレゼンテーションでは、Adobe CampaignとAdobe Commerceを組み合わせてパーソナライズされたオファーの例に基づいて、リソースを消費する API のインタラクションが多い状況でAdobe Commerce Cloudを使用した経験を紹介します。 期待される需要に基づくインフラストラクチャの推定とサイジング、アプローチのテスト、利用可能な監視データの解釈に関する経験を共有します
 
 >[!VIDEO](https://video.tv.adobe.com/v/337726/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

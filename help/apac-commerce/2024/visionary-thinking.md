@@ -1,5 +1,5 @@
 ---
-title: クリエイティブエッジ – 先見性のある思考がCommerceをどのように変革しているか
+title: クリエイティブなEdge - ビジョナリー・シンキングがCommerceをどのように変革するか
 description: このウェビナーでは、クリエイティビティとコマースの統合について説明し、Adobeのツールとテクノロジーがアセットの管理、コンテンツ作成のスケール、コンテンツサプライチェーンの合理化にどのように役立つかを示します。 パーソナライズされたエクスペリエンス、アセットの管理、Adobe Workfront、Adobe Experience Manager、Adobe Stockなどのツールを使用したコンテンツ作成プロセスの合理化などのトピックについて説明します。
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# クリエイティブEdge：先見性のある思考がCommerceを変革する方法
 
-# クリエイティブエッジ：先見性のある思考がCommerceをどのように変革しているか
-
-The Creative Edge：ビジョナリーな思考が変革する方法 E コマースは、Gen AI がクリエイティブな環境に革命を起こし、前例のない洞察と可能性を提供するイノベーションの最前線に掘り下げています。 参加者は、AI がどのようにブランドとスタイルのガイドラインの管理を合理化し、様々なプラットフォームやチャネル間で一貫性を確保しているかについて学びます。
+The Creative Edge: How Visionary Thinking is Transforming E コマースは、Gen AI がクリエイティブな環境に革命をもたらし、これまでにない洞察と可能性を提供するイノベーションの最前線に踏み込んでいます。 参加者は、AI がどのようにブランドとスタイルのガイドラインの管理を合理化し、様々なプラットフォームやチャネル間で一貫性を確保しているかについて学びます。
 
 シームレスな統合を通じて、クリエイティブアセットをマーケティングの実施とコマースに簡単に組み込み、顧客エンゲージメントとコンバージョン率を高める方法を見つけ出します。
 

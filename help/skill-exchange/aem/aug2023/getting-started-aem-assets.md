@@ -1,6 +1,6 @@
 ---
 title: AEM Assetsの概要
-description: レンディションを使用したカスタムレンディションの作成デジタルアセットの切り抜き、編集、注釈の付け、デジタルアセットの作成または編集時に他のユーザーとの共同作業
+description: レンディションの使用とカスタムレンディションの作成デジタルアセットの切り抜き、編集、注釈の付け、デジタルアセットの作成または編集時の他のユーザーとの共同作業
 solution: Experience Manager Assets
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# スキル交換イベント 2022 年 8 月 — AEM Web Track — はじめに — AEM Assets
+# スキル交換イベント 2022 年 8 月 – AEM Web Track - AEM Assetsの基本を学ぶ
 
-このセッションでは、以下の方法について学習します。
+このセッションでは、以下の方法を学びます。
 
-* レンディションを使用してカスタムレンディションを作成する
-* デジタルアセットの切り抜き、編集、注釈の付け
-* デジタルアセットの作成または編集時に他のユーザーと共同作業する
+* レンディションの使用とカスタムレンディションの作成
+* デジタルアセットの切り抜き、編集、注釈
+* デジタルアセットを作成または編集する際の他のユーザーとの共同作業
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424012/?learn=on)

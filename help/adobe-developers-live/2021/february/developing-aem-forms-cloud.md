@@ -1,6 +1,6 @@
 ---
-title: クラウドでのAdobe Experience Manager Formsを使用した開発
-description: このセッションでは、開発者は、Adobe Experience Manager Formsのローカル設定からForms on Adobe Experience Manager as a Cloud Serviceを使い始め、カスタマイズをカバーするのに役立ちます。
+title: クラウド内のAdobe Experience Manager Formsを使用した開発
+description: このセッションは、開発者がAdobe Experience Manager Formsのローカル設定からAdobe Experience Manager as a Cloud Service上のFormsの基本を学び、カスタマイズ内容をカバーするのに役立ちます。
 solution: Experience Manager,Experience Manager Forms
 product: experience manager
 sub-product: forms
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# クラウドでのAdobe Experience Manager Formsを使用した開発
+# クラウド内のAdobe Experience Manager Formsを使用した開発
 
-このセッションでは、開発者は、Adobe Experience Manager Formsのローカル設定からForms on Adobe Experience Manager as a Cloud Serviceを使い始め、カスタマイズをカバーするのに役立ちます。
+このセッションは、開発者がAdobe Experience Manager Formsのローカル設定からAdobe Experience Manager as a Cloud Service上のFormsの基本を学び、カスタマイズ内容をカバーするのに役立ちます。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/36Yd3v6)**.
+**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332306/?quality=12&learn=on&hidetitle=true)
 
-クリック **[ここ](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** を参照してください。
+セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** をクリックしてください。

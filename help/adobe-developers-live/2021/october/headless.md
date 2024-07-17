@@ -1,6 +1,6 @@
 ---
 title: ヘッドレスAdobe Experience Manager Sites
-description: Adobe Experience Manager 6.5 およびAdobe Experience Manager as a Cloud Serviceで使用できるGraphQL for Content Fragments を使用して、Adobe Experience Managerをヘッドレス CMS として使用する方法を見てみましょう。 Adobe Experience Managerのコーディングを使用せずに、コンテンツフラグメントモデルを使用して構造化コンテンツを定義し、関係を持ち、実務者の編集エクスペリエンスを最適化する方法を定義し、GraphQLと永続的なクエリを使用して、コンテンツをアプリケーションやサービスにキャッシュ可能な
+description: Adobe Experience Manager 6.5 およびAdobe Experience Manager as a Cloud Serviceで使用可能なコンテンツフラグメント用GraphQLを使用して、Adobe Experience Managerをヘッドレス CMS として使用する方法を見ていきます。 Adobe Experience Managerのコーディングを使用せずに、コンテンツフラグメントモデルとコンテンツフラグメントモデル間の関係、実務担当者の編集体験を最適に最適化する方法を使用して構造化コンテンツを定義したあと、GraphQLと永続クエリを使用して、コンテンツをキャッシュ可能で低遅延/高スループットでアプリケーションやサービスに配信します。
 solution: Experience Manager
 feature: GraphQL API, Deploying
 topic: Headless
@@ -14,20 +14,20 @@ duration: 1957
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # ヘッドレスAdobe Experience Manager Sites
 
-Adobe Experience Manager 6.5 およびAdobe Experience Manager as a Cloud Serviceで使用できるGraphQL for Content Fragments を使用して、Adobe Experience Managerをヘッドレス CMS として使用する方法を見てみましょう。 Adobe Experience Managerのコーディングを使用せずに、コンテンツフラグメントモデルを使用して構造化コンテンツを定義し、関係を持ち、実務者の編集エクスペリエンスを最適化する方法を定義し、GraphQLと永続的なクエリを使用して、コンテンツをアプリケーションやサービスにキャッシュ可能な
+Adobe Experience Manager 6.5 およびAdobe Experience Manager as a Cloud Serviceで使用可能なコンテンツフラグメント用GraphQLを使用して、Adobe Experience Managerをヘッドレス CMS として使用する方法を見ていきます。 Adobe Experience Managerのコーディングを使用せずに、コンテンツフラグメントモデルとコンテンツフラグメントモデル間の関係、実務担当者の編集体験を最適に最適化する方法を使用して構造化コンテンツを定義したあと、GraphQLと永続クエリを使用して、コンテンツをキャッシュ可能で低遅延/高スループットでアプリケーションやサービスに配信します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/39H5BWo).**
+**[Experience League コミュニティ ](https://adobe.ly/39H5BWo).** で会話を続ける
 
 >[!VIDEO](https://video.tv.adobe.com/v/337576/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-- [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
-- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)
+- [Adobe Experience Manager ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience ManagerCloud Serviceの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

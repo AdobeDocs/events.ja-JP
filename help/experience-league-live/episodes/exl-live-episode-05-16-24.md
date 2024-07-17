@@ -22,12 +22,12 @@ Adobe Analyticsを Web SDK に移行するための最新の最適な（新規�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428791/?quality=12&learn=on)
 
-**詳細**：このセッションでは、Adobe Analyticsを Web SDK に移行するための最新の最適な（新規）方法について説明します。 これにより、新しく高速なライブラリ、多くの新機能、および将来的に実装される可能性のある機能を使用して、Adobe Experience Platformを使用しつつ、データをAdobe Analytics（および Target とAAM）に簡単に送信できます。
+**詳細**：このセッションでは、Adobe Analyticsを Web SDK に移行するための最新かつ最大限の（新しい）方法について説明します。 これにより、新しく高速なライブラリ、多くの新機能、および将来的に実装される可能性のある機能を使用して、Adobe Experience Platformを使用しつつ、データをAdobe Analytics（および Target とAAM）に簡単に送信できます。
 
 エッジでデータストリームを設定し、タグプロパティに web SDK 拡張機能をインストールして設定します。 様々なルールタイプを Analytics 拡張機能から Web SDK に移行する方法を説明します。
 
-Adobeの専門家や同業者との質問やインターフェイスについては、を参照してください。 [Experience Leagueコミュニティのディスカッション](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Adobeの専門家や同業者に質問したり、インターフェイスを使用したりするには、[Experience League コミュニティ ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"} を参照してください。
 
-その他のドキュメントについては、 [Adobe Experience Platform Web SDK を使用したAdobe Analyticsの実装](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+その他のドキュメントについては、[Adobe Experience Platform Web SDK を使用したAdobe Analyticsの実装 ](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview) を参照してください。
 
-次の予定に出席する **web SDK 実装の戦略的手順に関するウェビナー**、登録 [こちら](https://engage.adobe.com/step_by_step_guide_implement.html).
+Web SDK 実装の戦略的手順に関する今後の **ウェビナー** に参加するには、[ こちら ](https://engage.adobe.com/step_by_step_guide_implement.html) に登録してください。

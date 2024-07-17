@@ -1,6 +1,6 @@
 ---
-title: 規模を拡大/縮小するコンテンツサプライチェーンの構築
-description: Marc Angelinovich に参加して、パーソナライゼーションに合わせて拡張できるコンテンツサプライチェーンを構築する方法を学びます。
+title: 拡張するコンテンツのサプライチェーンの構築
+description: Marc Angelinovich と共に、パーソナライゼーションに合わせて拡張できるコンテンツサプライチェーンを構築する方法を学びます。
 solution: Experience Manager,Experience Manager as a Cloud Service
 topic: Personalization
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 規模を拡大/縮小するコンテンツサプライチェーンの構築
+# 拡張するコンテンツのサプライチェーンの構築
 
-Marc Angelinovich に参加して、パーソナライゼーションに合わせて拡張できるコンテンツサプライチェーンを構築する方法を学びます。
+Marc Angelinovich と共に、パーソナライゼーションに合わせて拡張できるコンテンツサプライチェーンを構築する方法を学びます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345382/?quality=12&learn=on)

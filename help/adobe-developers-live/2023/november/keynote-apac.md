@@ -1,6 +1,6 @@
 ---
 title: Developers Live APAC Keynote
-description: 2023 年 11 月 14 日にAdobe Developers Live APAC で開催されるAdobe Experience Manager Keynote - Content and Commerce の主要なプロダクトマネージャおよび APAC 地域エバンジェリストの Mark Szulc と、シニアエバンジェリストの Ron Nagy に参加します。
+description: 2023 年 11 月 14 日（PT）に、Adobe Developers Live APAC - コンテンツおよびCommerceで行われたAdobe Experience Manager基調講演で、プリンシパルプロダクトマネージャーで APAC 地域エバンジェリストの Mark Szulc とシニアエバンジェリストの Ron Nagy が参加します。
 solution: Commerce, Experience Manager as a Cloud Service
 topic: Development
 role: Admin, Developer
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Liveオープン基調書 (APAC) - 2023 年 11 月
+# Adobe Developers Liveオープニング基調講演（APAC） - 2023 年 11 月
 
-2023 年 11 月 14 日のAdobe Developers Live APAC でのAdobe Experience Manager Keynote：コンテンツとコマースに関しては、主要プロダクトマネージャおよび APAC 地域エバンジェリストの Mark Szulc とシニアエバンジェリストの Ron Nagy にご参加ください。
+2023 年 11 月 14 日（PT）に、Adobe Developers Live APAC：コンテンツとCommerceで行われたAdobe Experience Manager基調講演で、プリンシパルプロダクトマネージャーで APAC 地域エバンジェリストの Mark Szulc とシニアエバンジェリストの Ron Nagy が参加します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426342/?learn=on)

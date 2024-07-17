@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live Commerce ブレークアウト 4 - 2023 年 11 月
-description: Cristian Patica は、2023 年 11 月 6 日に公開されているこの情報セッションで、Adobe Commerce内での API 統合の課題に対応しています。 API Mesh を使用すると、様々なワークフローを効率的に管理し、データの一貫性を確保し、今日のデジタルコマースの状況での合理化されたユーザーエクスペリエンスを提供できます。 このセッションは、急速に進化するAdobe Commerce圏内で API 統合に対して効果的な戦略を探している開発者に最適です。
+title: Adobe Developers LiveCommerceブレイクアウト 4 - 2023 年 11 月
+description: Cristian Partica は、2023 年 11 月 6 日（PT）にライブで記録されたこの有益なセッションで、Adobe Commerce内での API 統合の課題に取り組んでいます。 API メッシュが、様々なワークフローを効率的に管理し、データの一貫性を確保し、現在のデジタルコマース環境で合理化されたユーザーエクスペリエンスを提供する際にどのように役立つかを調べます。 このセッションは、急速に進化するAdobe Commerceの範囲内で API を統合するための効果的な戦略を模索している開発者に最適です。
 solution: Commerce
 feature-set: Commerce
 feature: API Mesh, Integration
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Commerce ブレークアウト 4 - 2023 年 11 月
+# Adobe Developers LiveCommerceブレイクアウト 4 - 2023 年 11 月
 
-Cristian Patica は、2023 年 11 月 6 日に公開されているこの情報セッションで、Adobe Commerce内での API 統合の課題に対応しています。 API Mesh を使用すると、様々なワークフローを効率的に管理し、データの一貫性を確保し、今日のデジタルコマースの状況での合理化されたユーザーエクスペリエンスを提供できます。 このセッションは、急速に進化するAdobe Commerce圏内で API 統合に対して効果的な戦略を探している開発者に最適です。
+Cristian Partica は、2023 年 11 月 6 日（PT）にライブで記録されたこの有益なセッションで、Adobe Commerce内での API 統合の課題に取り組んでいます。 API メッシュが、様々なワークフローを効率的に管理し、データの一貫性を確保し、現在のデジタルコマース環境で合理化されたユーザーエクスペリエンスを提供する際にどのように役立つかを調べます。 このセッションは、急速に進化するAdobe Commerceの範囲内で API を統合するための効果的な戦略を模索している開発者に最適です。
 
-次の場所で会話を続行します： [Experience Leagueコミュニティ](https://adobe.ly/3ttN8tz).
+[Experience League コミュニティ ](https://adobe.ly/3ttN8tz) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425628/?learn=on)

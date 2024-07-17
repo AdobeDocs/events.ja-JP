@@ -1,6 +1,6 @@
 ---
-title: Adobe Developer Console の概要
-description: Adobe Developerコンソールは、AdobeAPI、イベント、ランタイムおよび App Builder のゲートウェイです。 Adobe Developer Ecosystem の一部として利用できるサービスとツールの概要については、こちらをご覧ください。
+title: Adobe Developer Consoleの概要
+description: Adobe Developer Consoleは、AdobeAPI、イベント、ランタイム、App Builderへのゲートウェイです。 Adobe Developer エコシステムの一部として利用できるサービスとツールの概要について説明します。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 12%
 
 ---
 
-# Adobe Developer Console の概要
+# Adobe Developer Consoleの概要
 
-Adobe Developerコンソールは、AdobeAPI、イベント、ランタイムおよび App Builder のゲートウェイです。 Adobe Developer Ecosystem の一部として利用できるサービスとツールの概要については、こちらをご覧ください。
+Adobe Developer Consoleは、AdobeAPI、イベント、ランタイム、App Builderへのゲートウェイです。 Adobe Developer エコシステムの一部として利用できるサービスとツールの概要について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/2Y2DDld)**.
+**[Experience League コミュニティ ](https://adobe.ly/2Y2DDld)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337771/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

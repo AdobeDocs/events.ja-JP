@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager のテンプレートエディターを使用したコンテンツの管理
-description: Adobe Experience Manager 6.2 では、デジタルプロパティを構築、構造化、設定するための新しい強力な方法を提供する新しいテンプレートエディターが導入されました。この機能をスーパーオーサーの観点から確認し、様々なページテンプレートを作成し、対応するページで作成者が実行できるコンテンツを正確に制御する方法を説明します。さらに、内部構造を詳しく見ていき、その仕組みを説明します。
+title: Adobe Experience Managerのテンプレートエディターを使用したコンテンツの管理
+description: Adobe Experience Manager 6.2 では、デジタルプロパティを構築、構造化、設定するための新しい強力な手段を提供する新しいテンプレートエディターが導入されました。 この機能をスーパーオーサーの観点から確認し、様々なページテンプレートを作成し、対応するページで作成者が実行できるコンテンツを正確に制御する方法を説明します。 最後に、内部構造を詳しく見ていき、その仕組みを説明します。
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
@@ -8,25 +8,25 @@ duration: 2962
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 77%
+ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager のテンプレートエディターを使用したコンテンツの管理{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
+# Adobe Experience Managerのテンプレートエディターを使用したコンテンツの管理{#managing-your-content-with-the-template-editor-of-adobe-experience-manager}
 
-Adobe Experience Manager 6.2 では、デジタルプロパティを構築、構造化、設定するための新しい強力な方法を提供する新しいテンプレートエディターが導入されました。この機能をスーパーオーサーの観点から確認し、様々なページテンプレートを作成し、対応するページで作成者が実行できるコンテンツを正確に制御する方法を説明します。さらに、内部構造を詳しく見ていき、その仕組みを説明します。このセッションでは、テンプレートエディターでサイトをより柔軟に設定する方法と、テンプレートの仕組みの概要について説明します。
+Adobe Experience Manager 6.2 では、デジタルプロパティを構築、構造化、設定するための新しい強力な手段を提供する新しいテンプレートエディターが導入されました。 この機能をスーパーオーサーの観点から確認し、様々なページテンプレートを作成し、対応するページで作成者が実行できるコンテンツを正確に制御する方法を説明します。 最後に、内部構造を詳しく見ていき、その仕組みを説明します。 このセッションでは、テンプレートエディターでサイトをより柔軟に設定する方法と、テンプレートの仕組みの概要について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19300/?quality=9)
 
-*2016年9月14日（PT）に配信*
+*2016 年 9 月 14 日（PT）に配信*
 
 **発表者：**
 
-* アドビ、ソフトウェアエンジニア、Patrick Fauchere
+* Adobe、ソフトウェアエンジニア、Patrick Fauchere
 
 チャットエキスパート、
 
-* アドビ、製品マネージャー、Gabriel Walt
+* Adobe、製品マネージャー、Gabriel Walt
 
 **発表者のスライド**
 
@@ -36,6 +36,6 @@ Adobe Experience Manager 6.2 では、デジタルプロパティを構築、構
 
 >[!WARNING]
 >
->AEMバージョン 6.4 以前は提供終了で、Adobeによる販売は終了しました。  Adobeでは、最新バージョンへのアップグレードをお勧めします。 [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja).  ドキュメントのアーカイブバージョンは、ここからアクセスできます [ページ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja).
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
->このセッションに関しては、 *ページテンプレート* および *ページテンプレートの作成* (AEM 6.2 ドキュメント )。
+>このセッションに関連する内容については、AEM 6.2 ドキュメントの *ページテンプレート* および *ページテンプレートの作成* を参照してください。

@@ -1,6 +1,6 @@
 ---
-title: IT ワークフローおよび承認（2020 年 6 月 7 日）
-description: Diane Kubarek と Heather Verschneider は、コーネル大学で IT プロジェクトガバナンスプロセスを導入した経験を共有しています。
+title: IT ワークフローと承認（2020 年 6 月 6 日（PT））
+description: Diane Kubarek と Heather Verschneider が、コーネル大学で IT プロジェクトガバナンスプロセスをどのように実装したかについて、その経験を語ります。
 role: User
 level: Beginner, Intermediate
 kt: 10000
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# IT ワークフローおよび承認（2020 年 6 月 7 日）
+# IT ワークフローと承認（2020 年 6 月 6 日（PT））
 
-Diane Kubarek と Heather Verschneider は、コーネル大学で IT プロジェクトガバナンスプロセスを導入した経験を共有しています。
+Diane Kubarek と Heather Verschneider が、コーネル大学で IT プロジェクトガバナンスプロセスをどのように実装したかについて、その経験を語ります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341219/?quality=12&learn=on)

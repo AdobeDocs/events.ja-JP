@@ -1,6 +1,6 @@
 ---
 title: サイト全体分析ツール
-description: このセッションでは、SWAT の概要とライブデモ (SWAT Cloud Sandbox) について学びます
+description: このセッションでは、SWAT の概要とライブデモ（SWAT Cloud Sandbox）について説明します
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # サイト全体分析ツール
 
-このセッションでは、SWAT の概要とライブデモ (SWAT Cloud Sandbox) について学習します。
+このセッションでは、SWAT の概要とライブデモ（SWAT クラウドサンドボックス）について説明します
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422529/?learn=on)

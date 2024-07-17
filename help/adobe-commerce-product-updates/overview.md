@@ -1,31 +1,31 @@
 ---
-title: Adobe Commerce製品アップデート
-description: Adobe Commerce製品チームが提示する、Adobe Commerceの最新の製品イノベーションです。
+title: Adobe Commerce製品のアップデート
+description: Adobe Commerceの最新の製品イノベーションについて、Adobe Commerce製品チームが発表します。
 user-guide-breadcrumb: Adobe Commerce Release Updates
 exl-id: 838b1ed9-eb45-4818-9a8e-807b557d0bce
 duration: 105
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 7%
 
 ---
 
-# Adobe Commerce製品アップデート
+# Adobe Commerce製品のアップデート
 
-Adobe Commerce Product Update ウェビナーに参加して、多くの新機能と魅力的な機能でプラットフォームを変える方法をご確認ください。 最新のコマースイノベーションを紹介し、販売の成長、開発の合理化、パフォーマンスの向上に役立つイノベーションを紹介します。
+Adobe Commerceの製品アップデートウェビナーに参加して、多くの新しい魅力的な機能でプラットフォームを変革する方法をご確認ください。 Commerceの最新のイノベーションを紹介し、売上の増加、開発の合理化、パフォーマンスの向上に役立つ方法を説明します。
 
-## 最新のアップデート
+## 最新の更新
 
 <table style="max-width: 50%;">
   <tr>
     <td>
       <a href="2023/nov2023.md">
-        <img alt="2023.11.0リリース" src="https://video.tv.adobe.com/v/3425732/?format=jpeg" />
+        <img alt="2023.11.0 リリース" src="https://video.tv.adobe.com/v/3425732/?format=jpeg" />
       </a>
       <div>
         <a href="2023/nov2023.md">
-          <strong>2023 年 11 月</strong>
+          <strong>2023 年 11 月 </strong>
           <br/>
         </a>
           <!-- <em>Release date June 2023 </em> -->
@@ -47,7 +47,7 @@ Adobe Commerce Product Update ウェビナーに参加して、多くの新機�
       </a>
       <div>
         <a href="2023/july2023.md">
-          <strong>2023 年 7 月</strong>
+          <strong>2023 年 7 月 </strong>
           <br/>
         </a>
           <!-- <em>Release date June 2023 </em> -->

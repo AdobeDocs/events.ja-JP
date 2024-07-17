@@ -21,5 +21,5 @@ Adobe TargetとAdobe Real-time Customer Data Platformを統合すると、より
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-詳しくは、ドキュメントを参照してください。 [エッジのセグメント化](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ja) および [ストリーミングセグメント化](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja).
+[Edgeのセグメント化 ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ja) と [ ストリーミングセグメント化 ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja) について詳しくは、ドキュメントを参照してください。
 

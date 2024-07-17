@@ -1,6 +1,6 @@
 ---
-title: AEMas a Cloud Serviceのデプロイメント失敗の分析
-description: AEMのas a Cloud Service的なデプロイメントの内部的な手順とトラブルシューティングを説明します。
+title: AEM as a Cloud Service デプロイメントのエラー分析
+description: AEM as a Cloud Service デプロイメントの内部情報とトラブルシューティング。
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEMas a Cloud Serviceのデプロイメント失敗の分析
+# AEM as a Cloud Service デプロイメントのエラー分析
 
-このセッションでは、AEMのas a Cloud Service的なデプロイメントの内部機能とトラブルシューティングについて学びます。
+このセッションでは、AEM as a Cloud Service デプロイメントの内部構造とトラブルシューティングについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

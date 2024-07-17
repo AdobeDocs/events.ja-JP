@@ -1,8 +1,8 @@
 ---
-title: コマースインテリジェンスを使用した休日対応
-description: ホリデーシーズンの間に e コマースデータを使用して成功を収める方法については、このウェビナーをご覧ください。
-landing-page-description: 休暇シーズン中に e コマースデータを使用して成功を収める方法については、録画済みのウェビナーをご覧ください。
-short-description: 休暇シーズン中に e コマースデータを使用して成功を収める方法については、録画済みのウェビナーをご覧ください。
+title: Commerce Intelligenceで休日に備えれる
+description: ホリデーシーズンに e コマースデータを成功に使用する方法については、このウェビナーをご覧ください。
+landing-page-description: ホリデーシーズンに e コマースデータを成功に使用する方法については、録画済みのウェビナーをご覧ください。
+short-description: ホリデーシーズンに e コマースデータを成功に使用する方法については、録画済みのウェビナーをご覧ください。
 kt: 10409
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -13,23 +13,23 @@ duration: 3197
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# コマースインテリジェンスを使用した休日対応
+# Commerce Intelligenceで休日に備えれる
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
+>Adobe Commerce Intelligenceは、以前は [!DNL Magento Business Intelligence (MBI)] として知られていました。 過去のイベントの録画には、以前の名前が反映されます。
 
-ホリデーシーズンの間、e コマースデータを成功に使用します。 このウェビナーでは、次のような主要な MBI 機能を使用して対処する、一般的な季節ごとの分析の使用例と方法を紹介します。
+ホリデーシーズン中に成功するために e コマースデータを使用します。 このウェビナーでは、季節分析の一般的なユースケースと、主要な MBI 機能を使用して対処するための方法について重点的に説明します。
 
-- 新しい在庫トラッキングレポートを作成し、電子メールの概要から毎日の更新を送信することで、在庫切れを回避します。
-- 計算列を使用して、重要な日付（ブラックフライデーなど）に関する前年比の実績に関するレポートを作成し、今年の販売戦略の調整の影響を判断します
-- 既存のレポートと新しいレポートを一元化された休日レポートダッシュボードに組み合わせることで、複数の KPI にわたるストアの休日のパフォーマンスの主な変更にすばやく対応できます。
+- 新しい在庫トラッキングレポートを作成し、電子メールの概要を介して毎日更新を送信することで、在庫切れを回避します
+- 計算列を使用して、主要な日付（ブラックフライデーなど）の前年比パフォーマンスに関するレポートを作成することにより、今年の販売戦略の調整が及ぼす影響を判断します
+- 既存のレポートと新しいレポートを一元化されたホリデーレポートダッシュボードに組み合わせることで、複数の KPI をまたいでストアのホリデーパフォーマンスの注目すべき変更にすばやく対応します
 
-## このビデオは誰のためのものですか？
+## このビデオの目的は誰ですか。
 
 - ビジネスユーザー
 - データアナリスト
@@ -40,5 +40,5 @@ ht-degree: 1%
 
 ## 役に立つリソース
 
-[Commerce Intelligence ユーザーガイド](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)
-[コマースインテリジェンスのサポート](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence ユーザーガイド ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)
+[Commerce Intelligence サポート ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

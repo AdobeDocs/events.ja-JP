@@ -1,6 +1,6 @@
 ---
-title: XDとの協調PWAストアフロントデザイン
-description: PWA StudioXD Kit を使用して、設計からエンジニアリングに至るまでのコラボレーションを促進し、ストアフロントをテーマにした将来についてのプレビューを行う方法を説明します。
+title: XDを使用した共同PWAストアフロントの設計
+description: PWA Studio XD キットが、設計からエンジニアリングまでのより優れた共同作業を促進し、将来のストアフロントのテーマ設定を簡単に確認する方法を説明します。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
@@ -16,14 +16,14 @@ ht-degree: 15%
 
 ---
 
-# XDとの協調PWAストアフロントデザイン
+# XDを使用した共同PWAストアフロントの設計
 
-PWA StudioXD Kit を使用して、設計からエンジニアリングに至るまでのコラボレーションを促進し、ストアフロントをテーマにした将来についてのプレビューを行う方法を説明します。
+PWA Studio XD キットが、設計からエンジニアリングまでのより優れた共同作業を促進し、将来のストアフロントのテーマ設定を簡単に確認する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337725/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

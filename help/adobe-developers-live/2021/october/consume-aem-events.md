@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Events を使用するアプリの作成
-description: イベント駆動型アプリケーションを構築するのはなぜか、そして App Builder を使用して簡単に構築できる方法を説明します。 このセッションの対象 — イベント製品からのイベントに応じたイベント駆動型アプリケーションの構築を開始するために必要なすべてのAdobe。 Adobe Experience Manager Events に応答する App Builder アプリケーションを構築するライブデモです。 App Builder コンポーネントの概要 —Adobe I/Oイベントと I/O Runtime。 魅力的なカスタマーエクスペリエンスを提供するための準備をしましょう！
+title: Adobe Experience Manager イベントを使用するアプリの作成
+description: イベント駆動型のアプリケーションを構築することが適切な理由と、App Builderを使用して簡単に構築する方法について説明します。 Adobeプロダクツのイベントに応えるイベント駆動型アプリケーションの構築を開始するために知っておく必要のあるすべての事項について説明します。 Adobe Experience Manager イベントに応答するApp Builder アプリケーションの構築に関するライブデモ。 App Builder コンポーネントの概要 – Adobe I/Oイベントと I/O Runtime。 魅力的な顧客体験を提供する準備をしましょう。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,16 +18,16 @@ ht-degree: 6%
 
 ---
 
-# Adobe Experience Manager Events を使用するアプリの作成
+# Adobe Experience Manager イベントを使用するアプリの作成
 
-イベント駆動型アプリケーションを構築するのはなぜか、そして App Builder を使用して簡単に構築できる方法を説明します。 このセッションでは、イベント製品からのイベントに応じたイベント駆動型アプリケーションの構築を開始するために必要なすべてのAdobeについて説明します。 Adobe Experience Manager Events に応答する App Builder アプリケーションを構築するライブデモです。 App Builder コンポーネントの概要 —Adobe I/Oイベントと I/O Runtime。 魅力的なカスタマーエクスペリエンスを提供するための準備をしましょう！
+イベント駆動型のアプリケーションを構築することが適切な理由と、App Builderを使用して簡単に構築する方法について説明します。 Adobeプロダクツのイベントに応えるイベント駆動型アプリケーションの構築を開始するために知っておくべきことすべて。 Adobe Experience Manager イベントに応答するApp Builder アプリケーションの構築に関するライブデモ。 App Builder コンポーネントの概要 – Adobe I/Oイベントと I/O Runtime。 魅力的な顧客体験を提供する準備をしましょう。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3ipjs8p)**.
+**[Experience League コミュニティ ](https://adobe.ly/3ipjs8p)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337566/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

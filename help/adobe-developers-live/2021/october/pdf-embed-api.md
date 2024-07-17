@@ -1,6 +1,6 @@
 ---
-title: Web 上のPDFをプロのように扱う
-description: 無料のAdobe PDF Embed API の使用方法を見ると、Web サイトでPDFを簡単に使用できます。 PDFの使用方法、PDFのユーザーインターフェイスを制御する様々な方法、イベントをリッスンして使用状況を追跡する方法、およびイベントの分析方法を示します。
+title: プロのようにウェブ上でPDFをラングルさせる
+description: 無料のAdobe PDF埋め込み API の使用方法を参照すると、web サイトでのPDFの使用が容易になります。 使用方法、PDFのユーザーインターフェイスを制御する様々な方法、PDFの使用状況やその他の分析結果を追跡できるイベントのリッスン方法について説明します。
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -17,15 +17,15 @@ ht-degree: 8%
 
 ---
 
-# Web 上のPDFをプロのように扱う
+# プロのようにウェブ上でPDFをラングルさせる
 
-無料のAdobe PDF Embed API の使用方法を見ると、Web サイトでPDFを簡単に使用できます。 PDFの使用方法、PDFのユーザーインターフェイスを制御する様々な方法、イベントをリッスンして使用状況を追跡する方法、およびイベントの分析方法を示します。
+無料のAdobe PDF埋め込み API の使用方法を参照すると、web サイトでのPDFの使用が容易になります。 使用方法、PDFのユーザーインターフェイスを制御する様々な方法、PDFの使用状況やその他の分析結果を追跡できるイベントのリッスン方法について説明します。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337602/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

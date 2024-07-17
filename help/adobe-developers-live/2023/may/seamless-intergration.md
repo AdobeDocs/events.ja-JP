@@ -1,6 +1,6 @@
 ---
 title: Experience Manager Assetsとアプリケーションのシームレスな統合
-description: Experience Manager Assetsとアプリケーションのシームレスな統合非AdobeCMS からAdobe Experience Manager(AEM) でホストされたアセットを配信したいとお考えですか。 安定した、テスト可能な、保守可能なAEM Assets統合を、数時間から数日間ではなく、数分で書く方法を知りたいですか？ 本セッションでは、開発速度（TTV の高速化）を向上させる目的で構築されたExperience Manager Assetsの新しいイノベーションである次世代統合機能を導入し、超低いメンテナンスオーバーヘッド（TCO の削減）を実現します。 この革新により、AEM AssetsCloud Serviceでホストされるブランド承認済みアセットの消費と配信が可能になり、組織はアセットの可用性（コンテンツのオーサリングと配信）を管理し、消費に関するインサイトを得ることができます。
+description: Experience Manager AssetsとAdobeのシームレスな統合組織は、アプリケーション以外の CMS からAdobe Experience Manager（AEM）でホストされるアセットを配信したいと考えていますか？ 安定した、テスト可能で保守可能なAEM Assets統合を、数時間/数日ではなく数分で記述する方法を知りたいですか？ 本セッションでは、開発速度（TTV の高速化）の向上を目的に開発されたExperience Manager Assetsの最新技術により、メンテナンスのオーバーヘッドを超低コスト（TCO の削減）で実現する Asset Delivery の次世代統合機能についてご紹介します。 この革新的な機能により、AEM Assets Cloud Serviceでホストされたブランド承認済みアセットの使用と配信が可能になり、組織はアセットの可用性（コンテンツのオーサリングと配信）を管理し、その使用に関するインサイトを取得できます。
 product: experience manager
 sub-product: assets
 topic: Development
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Experience Manager Assetsとアプリケーションのシームレスな統合
 
-Adobe以外の CMS からAdobe Experience Manager(AEM) でホストされたアセットを配信しますか？ 安定した、テスト可能な、保守可能なAEM Assets統合を、数時間から数日間ではなく、数分で書く方法を知りたいですか？ 本セッションでは、開発速度（TTV の高速化）を向上させる目的で構築されたExperience Manager Assetsの新しいイノベーションである次世代統合機能を導入し、超低いメンテナンスオーバーヘッド（TCO の削減）を実現します。 この革新により、AEM AssetsCloud Serviceでホストされるブランド承認済みアセットの消費と配信が可能になり、組織はアセットの可用性（コンテンツのオーサリングと配信）を管理し、消費に関するインサイトを得ることができます。 → https://adobe.ly/3LQUiijで会話を続けます。
+Adobe Experience Manager（AEM）でホストされるアセットをAdobe以外の CMS から配信したいとお考えですか？ 安定した、テスト可能で保守可能なAEM Assets統合を、数時間/数日ではなく数分で記述する方法を知りたいですか？ 本セッションでは、開発速度（TTV の高速化）の向上を目的に開発されたExperience Manager Assetsの最新技術により、メンテナンスのオーバーヘッドを超低コスト（TCO の削減）で実現する Asset Delivery の次世代統合機能についてご紹介します。 この革新的な機能により、AEM Assets Cloud Serviceでホストされたブランド承認済みアセットの使用と配信が可能になり、組織はアセットの可用性（コンテンツのオーサリングと配信）を管理し、その使用に関するインサイトを取得できます。 →次の場所で会話を続けてください：https://adobe.ly/3LQUiij
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419943/?learn=on)

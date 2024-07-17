@@ -1,6 +1,6 @@
 ---
-title: Experience ManagerのPWA Studio拡張
-description: Adobe Experience Managerは、コンテンツ管理に関する業界トップのソリューションです。 このPWA拡張機能は、Experience Managerをコンテンツプロバイダーとして追加します。 これにより、マーケターは、強力なコンテンツ管理ツールを使用して、リッチなコンテンツやコマースのエクスペリエンスを構築できます。 このセッションでは、1) コンテンツフラグメントとGraphQL API に基づくExperience Managerのヘッドレス機能を使用した拡張機能の仕組み、2) この拡張機能を使用した新しいPWAプロジェクトの設定方法について説明します。
+title: PWA Studio用Experience Manager拡張機能
+description: Adobe Experience Managerは、コンテンツ管理のための業界をリードするソリューションです。 このPWA拡張機能は、Experience Managerをコンテンツプロバイダーとして追加します。 これにより、マーケターは強力なコンテンツ管理ツールを使用して、豊富なコンテンツおよびコマースエクスペリエンスを構築できます。 このセッションでは、1） コンテンツフラグメントとGraphQL API に基づくExperience Managerのヘッドレス機能を使用した拡張機能の仕組み、および 2）この拡張機能を使用して新しいPWAプロジェクトをセットアップする方法について説明します。
 solution: Experience Manager
 feature: GraphQL API
 topic: Development
@@ -14,18 +14,18 @@ duration: 1796
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
-# Experience ManagerのPWA Studio拡張
+# PWA Studio用Experience Manager拡張機能
 
-Adobe Experience Managerは、コンテンツ管理に関する業界トップのソリューションです。 このPWA拡張機能は、Experience Managerをコンテンツプロバイダーとして追加します。 これにより、マーケターは、強力なコンテンツ管理ツールを使用して、リッチなコンテンツやコマースのエクスペリエンスを構築できます。 このセッションでは、1) コンテンツフラグメントとGraphQL API に基づくExperience Managerのヘッドレス機能を使用した拡張機能の仕組み、2) この拡張機能を使用した新しいPWAプロジェクトの設定方法について説明します。
+Adobe Experience Managerは、コンテンツ管理のための業界をリードするソリューションです。 このPWA拡張機能は、Experience Managerをコンテンツプロバイダーとして追加します。 これにより、マーケターは強力なコンテンツ管理ツールを使用して、豊富なコンテンツおよびコマースエクスペリエンスを構築できます。 このセッションでは、1） コンテンツフラグメントとGraphQL API に基づくExperience Managerのヘッドレス機能を使用した拡張機能の仕組み、および 2）この拡張機能を使用して新しいPWAプロジェクトをセットアップする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337581/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-- [Adobe Experience ManagerCloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
-- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)
+- [Adobe Experience Manager ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience ManagerCloud Serviceの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

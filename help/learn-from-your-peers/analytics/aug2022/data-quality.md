@@ -1,6 +1,6 @@
 ---
-title: データの品質と導入
-description: Adobe Analyticsのあらゆる側面にデータ品質を構築し、その周りに共有文化を作り出す方法を学びます。
+title: データ品質と採用
+description: Adobe Analyticsのあらゆる側面にデータ品質を組み込み、それを中心に共有文化を醸成する方法を説明します。
 solution: Analytics
 role: User
 doc-type: Event
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# でのデータ品質と採用 [!DNL Analytics]
+# [!DNL Analytics] でのデータ品質と採用
 
-企業は、データを将来のビジネスを成功に導く重要な要素として特定しています。 これを実現するには、高レベルのデータ品質と成熟したデータスタックの採用が必要です。 のあらゆる側面にデータ品質を構築する方法を学ぶ [!DNL Adobe Analytics] そして、その周りに共通の文化を作り出す。
+企業は、将来のビジネス成功の主要なイネーブラとしてデータを特定しています。 これを実現するには、高度なデータ品質と成熟したデータスタックの採用が必要です。 データ品質を [!DNL Adobe Analytics] のあらゆる側面に組み込み、それを中心に共有文化を醸成する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

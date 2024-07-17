@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce SaaS サービスの検索とカタログサービス
-description: ストアフロントエクスペリエンスを強化および最適化するための検索およびカタログのサービスについて説明します。  このデモでは、コマースサービスコネクタと、GraphQLを使用したストアフロントでのコマースサービスコネクタの活用方法について説明します。
+title: Adobe Commerce SaaS 製品の検索およびカタログサービス
+description: ストアフロントのエクスペリエンスを強化および最適化するための検索およびカタログのサービスについて説明します。  このデモでは、commerce services コネクタと、GraphQLを使用してストアフロントで活用する方法について説明します。
 solution: Commerce
 feature-set: Commerce
 feature: Saas, Services, Catalog Service
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce SaaS の機能 — Search and Catalog Service の詳細
+# Adobe Commerce SaaS 製品 – 検索およびカタログサービスについて説明します
 
-ストアフロントエクスペリエンスを強化および最適化するための検索およびカタログのサービスについて説明します。  このデモでは、コマースサービスコネクタと、GraphQLを使用したストアフロントでのコマースサービスコネクタの活用方法について説明します。
+ストアフロントのエクスペリエンスを強化および最適化するための検索およびカタログのサービスについて説明します。  このデモでは、commerce services コネクタと、GraphQLを使用してストアフロントで活用する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)

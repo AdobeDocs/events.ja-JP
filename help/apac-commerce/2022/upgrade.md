@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce 2.4.4 にアップグレードするメリット
-description: Adobe Commerce 2.4.4 へのアップグレード最新のAdobe Commerceリリースは、コマース機能、セキュリティおよびパフォーマンスに一歩前進します。 このウェビナーに参加して、最新の改善点を活用するためのスムーズなアップグレードの計画と実行方法をご確認ください。
+title: Adobe Commerce 2.4.4 へのアップグレードの利点
+description: Adobe Commerce 2.4.4 へのアップグレード最新のAdobe Commerce リリースは、コマース機能、セキュリティ、パフォーマンスの向上を一歩前進させるものです。 このウェビナーでは、最新の機能改善を活用するためのスムーズなアップグレードを計画および実行する方法を説明します。
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce 2.4.4 にアップグレードするメリット
+# Adobe Commerce 2.4.4 へのアップグレードの利点
 
-最新のAdobe Commerceリリースは、コマース機能、セキュリティ、パフォーマンスに一歩近づいています。 このウェビナーに参加して、最新の改善点を活用するためのスムーズなアップグレードの計画と実行方法をご確認ください。
+最新のAdobe Commerce リリースは、コマースの機能、セキュリティ、パフォーマンスにおける一歩前進をマークしています。 このウェビナーでは、最新の機能改善を活用するためのスムーズなアップグレードを計画および実行する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344453/?quality=12&learn=on)

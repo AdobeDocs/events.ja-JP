@@ -1,6 +1,6 @@
 ---
-title: AEM の機械学習 - 強化されたスマートタグ、スマートレイアウトなど
-description: 機械学習により、Experience Manager バージョン 6.4 の生産性を向上させ、新しいユースケースを活用する方法を説明します。
+title: AEMの機械学習 – 強化されたスマートタグ、スマートレイアウトなど
+description: 機械学習により、Experience Managerバージョン 6.4 の生産性を向上させ、新しいユースケースを活用する方法を説明します。
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
 targetaudience: target-audience advanced
@@ -9,19 +9,19 @@ duration: 3539
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 100%
+ht-degree: 1%
 
 ---
 
-# AEM の機械学習：強化されたスマートタグ、スマートレイアウトなど{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
+# AEMの機械学習：強化されたスマートタグ、スマートレイアウトなど{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*2018年4月18日（PT）に配信*
+*2018 年 4 月 18 日（PT）に配信*
 
 **発表者：**
 
-アドビ、製品マネージャー、Jonas Dahl
+Adobe、製品マネージャー、Jonas Dahl
 
 **発表者のスライド**
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 ## リソース {#resources}
 
-[強化されたスマートタグ - AEM Assets](https://helpx.adobe.com/jp/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[ 拡張スマートタグ - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -37,4 +37,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [AEM の機械学習：強化されたスマートタグ、スマートレイアウトなど](aem-machine-learning.md)
+>* [AEMの機械学習：強化されたスマートタグ、スマートレイアウトなど ](aem-machine-learning.md)

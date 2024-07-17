@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence の概要
-description: このウェビナーでは、Adobe CommerceまたはMagento Open Sourceストア向けの Commerce Intelligence のコア機能について説明します。
-landing-page-description: この録画ウェビナーを見て、Adobe CommerceまたはMagento Open Sourceストア向けの Commerce Intelligence のコア機能について学びましょう。
-short-description: この録画ウェビナーを見て、Adobe CommerceまたはMagento Open Sourceストア向けの Commerce Intelligence のコア機能について学びましょう。
+title: Commerce Intelligenceの概要
+description: Adobe CommerceまたはMagento Open Sourceストア向けのCommerce Intelligenceのコア機能については、このウェビナーをご覧ください。
+landing-page-description: この録画済みのウェビナーでは、Adobe CommerceまたはMagento Open Sourceストア向けのCommerce Intelligenceのコア機能について説明します。
+short-description: この録画済みのウェビナーでは、Adobe CommerceまたはMagento Open Sourceストア向けのCommerce Intelligenceのコア機能について説明します。
 kt: 10408
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -17,19 +17,19 @@ ht-degree: 1%
 
 ---
 
-# Commerce Intelligence の概要
+# Commerce Intelligenceの概要
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence は、以前は [!DNL Magento Business Intelligence (MBI)]. 過去のイベントの記録は、以前の名前を反映しています。
+>Adobe Commerce Intelligenceは、以前は [!DNL Magento Business Intelligence (MBI)] として知られていました。 過去のイベントの録画には、以前の名前が反映されます。
 
-事前設定済みのダッシュボードとカスタマイズオプションを詳細に確認し、コマース製品チームから直接コマースインテリジェンスのコア機能について説明します。
+事前設定済みのダッシュボードとカスタマイズオプションを詳細に調べ、Commerce製品チームから直接Commerce Intelligenceのコア機能について説明します。
 
-使用例は全体で共有され、1 日目以降、商人がより多くの洞察を得て、BI を使用して店舗の成長を促進している例が示されています。
+ユースケースは全体で共有されており、マーチャントが初日からより多くのインサイトを得て、BI を使用して店舗でより多くの成長を促している例を示しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425736?quality=12&learn=on)
 
 ## その他のリソース
 
-[Commerce Intelligence の概要](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[コマースインテリジェンスのサポート](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligenceの概要 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Commerce Intelligence サポート ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

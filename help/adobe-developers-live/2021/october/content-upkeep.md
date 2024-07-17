@@ -1,6 +1,6 @@
 ---
-title: コンテンツ更新
-description: Adobe Experience Manager Modernization ツールスイートで使用できる機能を紹介します。 開発チームがコンテンツを使用して、コンポーネントライブラリの発展に伴う作成者の負担を軽減する方法を説明します。
+title: コンテンツの維持
+description: Adobe Experience Manager最新化ツールスイートで使用できる機能を示します。 コンポーネントライブラリの進化に伴う作成者の負担を軽減するために、開発チームでコンテンツを統合、変換またはアップグレードする方法について説明します。
 solution: Experience Manager
 role: User
 level: Beginner
@@ -16,16 +16,16 @@ ht-degree: 12%
 
 ---
 
-# コンテンツ更新
+# コンテンツの維持
 
-Adobe Experience Manager Modernization ツールスイートで使用できる機能を紹介します。 開発チームがコンテンツを使用して、コンポーネントライブラリの発展に伴う作成者の負担を軽減する方法を説明します。
+Adobe Experience Manager最新化ツールスイートで使用できる機能を示します。 コンポーネントライブラリの進化に伴う作成者の負担を軽減するために、開発チームでコンテンツを統合、変換またはアップグレードする方法について説明します。
 
-次の場所で会話を続行します： **[Experience Leagueコミュニティ](https://adobe.ly/3zJuUBH)**.
+**[Experience League コミュニティ ](https://adobe.ly/3zJuUBH)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 
 ## その他のリソース
 
-- [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)
