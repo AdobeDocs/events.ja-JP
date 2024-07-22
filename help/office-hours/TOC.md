@@ -2,9 +2,9 @@
 user-guide-title: Adobeの営業時間
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: Office Hours は、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 3853bd9eb1464cf41b54d09ffb7c5b6a466a5dcd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 14%
 
 ---
@@ -36,3 +36,6 @@ ht-degree: 14%
       + [JavaScript ライブラリの概要、デバッグのヒントとテクニック](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [重複する連絡先の修正](2023/workfront-fix-duplicate-contacts.md)
+      + [プルーフ承認レポート](2023/workfront-proof-approval-reports.md)
+
+
