@@ -9,18 +9,27 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
+exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
+source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-
 # Adobe ID のMarketo Engageの準備
+
+これは、[Adobe Marketo EngageのサブスクリプションをAdobeのIdentity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) と統合するための移行に関するトレーニングです。 このコンテンツは、Marketo Engage管理者に最も適しています。 このトレーニングにより、部門を超えた組織の準備や、今後の変更に関する社内ユーザーの教育に必要な知識を習得できます。
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## 概要
 
-このトレーニングセッションの主な焦点は、Marketo EngageをAdobe ID およびAdobe管理コンソールに移行することです。 移行ジャーニーの各段階（製品、ユーザー、サポートの移行）の基本的な側面について説明し、ユーザーの移行に重点を置きます。変更点と変更点、組織の管理者またはユーザーが必要とするアクション、マイルストーンごとのAdobeからのお知らせです。 事前移行段階での移行日のスケジュール設定、ユーザー移行中に期待されること、自己移行中に移行コンソールを操作する方法など、主要な領域について詳しく説明します。 役立つリソースへのリンクと組織を準備するための 4 つの主な手順を入力します。
+このトレーニングセッションでは、Marketo EngageのサブスクリプションをAdobe ID およびAdobe管理コンソールに移行する方法に重点を置いています。 ユーザーの移行に主に焦点を当て、移行ジャーニーの各ステージ（製品、ユーザー、サポートの移行）の基本的な側面について説明します。
+
+## このセッションでは、以下の内容について説明します。
+
+1. 変更内容と不変更内容、組織の管理者またはユーザーが必要とする移行処理、各マイルストーンでのAdobeとのやり取りの概要です。
+1. 主な移行操作には、事前移行時の移行日のスケジュール、ユーザーの移行中に予測されること、自己移行の対象となるインスタンスの移行コンソールへの移動が含まれます。
+1. 今後の変更に備えて組織を準備するために、役に立つリソースと 4 つの主な手順について管理者が説明します。
