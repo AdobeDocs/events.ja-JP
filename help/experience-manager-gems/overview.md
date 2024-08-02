@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 今後のAEM GEM ウェビナー – AEM Cloud Managerのプライベート GitHub リポジトリの統合
+## 今後のAEM GEM ウェビナー – AEM AssetsとEdge Delivery Servicesの統合
 
-このウェビナーは、7 月 31 日（水）午後 5 時（CEST）/午前 8 時（PDT）/午後 8 時 30 分（IST）に実施されます。 このウェビナーには登録のみが必要です。[ こちら ](https://adobe.ly/3LmXfGk) からご登録ください。
+このウェビナーは、8 月 21 日（水）午後 5 時（CEST）/午前 8 時（PDT）/午後 8 時 30 分（IST）に実施されます。 このウェビナーには登録のみが必要です。[ こちら ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/) からご登録ください。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -48,11 +48,11 @@ ht-degree: 0%
 
 -->
 
-## 以前のAEM GEM イベント
+## 以前のAEM GEMs ウェビナー
 
-最新のAEM GEM ウェビナー **新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上** は *2024 年 6 月 19 日（PT）* に実施されました。
+最新のAEM GEM ウェビナー **AEM Cloud Managerのプライベート GitHub リポジトリの統合** は *2024 年 7 月 31 日（PT）* に実施されました。
 **録画** は、次の場所にあります。
-[ 新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上 ](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+[AEM Cloud Manager でのプライベート GitHub リポジトリの統合 ](gems2024/private-github-for-aem-cloud-manager.md)
 
 >[!NOTE]
 >

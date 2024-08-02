@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # ウェビナー日付：2024 年 7 月 31 日（PT）
 
-このウェビナーは、7 月 31 日（水）午後 5 時（CEST）/午前 8 時（PDT）/午後 8 時 30 分（IST）に実施されます。 このウェビナーには登録のみが必要です。[ こちら ](https://adobe.ly/3LmXfGk) からご登録ください。
+このウェビナーは終了しました。以下の録画をご覧ください。
 
 ## AEM Cloud Managerでのプライベート GitHub リポジトリの統合
 
@@ -34,12 +35,14 @@ ht-degree: 0%
 * Adobe、プリンシパル製品マネージャー、Shankari Panchapakesan
 * Adobe、ソフトウェア開発エンジニア、Florin Stancu
 
-## ウェビナー登録
+## ウェビナー録画
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## ウェビナーコミュニティインタラクション
 
 >[!NOTE]
-> 
->* このウェビナーは無料です。登録のみが必要です。 ご登録ください [ こちら ](https://adobe.ly/3LmXfGk)。
 >
->* このウェビナーに関するウェビナー/トピック固有のコミュニティのインタラクションのExperience Leagueについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/4f1jhMo) を参照してください。
+>* このウェビナーに関するウェビナー/トピック固有のコミュニティのインタラクションのExperience Leagueについては、それぞれの [ コンテキストスレッド ](tbd) を参照してください。
 >
 >* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。
