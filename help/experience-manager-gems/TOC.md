@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
 breadcrumb-title: AEM GEM イベント
-source-git-commit: ccb92953d827b8ce9a9f7282a83598a6e3d0b2b2
+source-git-commit: 0402d8225d1892db2f2179ff88ef854abff38a85
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 + [概要](overview.md)
 + 2024年 {#gems2024}
    + [AEM AssetsとEdge Delivery Servicesの統合](gems2024/edge-delivery-for-aem-assets.md)
-   + [AEM Cloud Managerでのプライベート GitHub リポジトリの統合](/gems2024/private-github-for-aem-cloud-manager.md)
+   + [AEM Cloud Managerでのプライベート GitHub リポジトリの統合](gems2024/private-github-for-aem-cloud-manager.md)
    + [新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [AEM Forms用Edge Delivery Servicesの概要](gems2024/edge-delivery-for-aem-forms.md)
    + [AEM オーサリングとEdge Delivery Servicesの概要 ](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
