@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 このウェビナーは、2024 年 8 月 21 日（PT）午後 5 時（CEST）/午前 8 時（PDT）/午後 8 時 30 分（IST）に実施されます。
 このウェビナーは無料で、登録のみが必要です。
-参加するには、[ こちら ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-integrating-aem-assets-with-edge-delivery-services/) にご登録ください。
+参加するには、[ こちら ](https://adobe.ly/3LTT3hg) にご登録ください。
 
 ## AEM AssetsとEdge Delivery Servicesの統合
 
@@ -34,5 +34,7 @@ ht-degree: 0%
 ## ウェビナーコミュニティインタラクション
 
 >[!NOTE]
+>
+>* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/4aCz0OE) を参照してください。
 >
 >* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。
