@@ -8,7 +8,7 @@ doc-type: Event
 duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
-source-git-commit: aa6147e16b48c10fa163e3a939d1edde30f7989c
+source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# マーケターズマップ：Marketo キャンペーンを戦略、構築、分析するための包括的なガイド
+# マーケターのマップ：Marketo キャンペーンを戦略し、構築し、分析するための包括的なガイド
 
 このMarketo ユーザーグループ セッションでは、マーケティング戦略の理解やMarketo アーキテクチャ内での検証など、キャンペーン構築プロセスの計画の重要性について説明します。
 

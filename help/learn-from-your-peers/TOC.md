@@ -2,9 +2,9 @@
 user-guide-title: 「[!DNL Experience Makers Learn from your peers]」
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「の録画コレクショ  [!DNL Experience Makers Learn from your peers]」
-source-git-commit: aa6147e16b48c10fa163e3a939d1edde30f7989c
+source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '292'
 ht-degree: 3%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 3%
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + 2024 年 7 月 {#july2024}
-      + [マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド](marketo/july2024/marketers-map-marketo-campaigns.md)
+      + [マーケターのマップ：Marketo キャンペーンの戦略を立て、構築し、分析する](marketo/july2024/marketers-map-marketo-campaigns.md)
    + 2024 年 4 月{#april2024}
       + [Marketo EngageREST API の実用的な用途](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + 2024 年 1 月 {#jan2024}
