@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ ht-degree: 0%
 
 ウェビナーは、次のような構成で定期的に実施されます。
 
-* 最長 60 分
-* 最後に Q&amp;A があり、ウェビナー全体でエキスパートとチャットできます
+* ウェビナーごとに最長 60 分
+* &lt; ウェビナー全体で 15 分の Q&amp;A とチャットエキスパートの利用が可能
 * 各ウェビナー終了後に録画を提供
 * すべてのAEM GEM ウェビナーは無料で、バーチャルで実施されるので、登録のみが必要です。
 
