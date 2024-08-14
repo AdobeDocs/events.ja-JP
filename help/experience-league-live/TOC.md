@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 38：夏物スポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37：最新のAdobe Real-Time CDP リリースがビジネスの方向性をどのように変えるか](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36：これが、Analytics を Web SDK に移行する方法です](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35:Journey Optimizerの新しいコードベースのエクスペリエンスチャネル](episodes/exl-live-episode-04-24-24.md)

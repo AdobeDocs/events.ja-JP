@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 3%
 
 ---
@@ -26,8 +26,16 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-      <b> 近日公開予定の新しい番組についてご確認ください。 それまでの間、下のリンクをクリックするか、左側のナビゲーションでリンクをクリックして、以前のエピソードを確認してください。</b>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
+      <img alt="Experience Leagueライブ 8 月 28 日（PT）" src="episodes/assets/WebBanner-aug-28-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-08-28-24.md">
+        <strong> サマースポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法 </strong>
+      </a>
+      <br/><em> サンドラ・ハウスマン、キーラ・フォセット、アーロン・フォレスト、ジャスティン・グローバーも </em>
+      <br/><em>2024 年 8 月 28 日 </em>
+    </div>
   </td>
 </tr>
 </table>
