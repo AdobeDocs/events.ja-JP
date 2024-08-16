@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '163'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,9 @@ ht-degree: 1%
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
    + [ソリューションの機能へのユースケースのマッピング](2024/use-case-mapping.md)
    + [Web SDK 移行の基本事項](2024/web-sdk-migration.md)
+   + [お客様のユースケース向けの AEP アプリケーションサービス統合](2024/aep-apps-services-integrations.md)
+   + [Commerceとコーヒー：B2B e コマースの戦略](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
+   + [Marketo Measureと Mocha：アクティビティとカスタムモデル](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023年 {#2023}
    + [大規模なPersonalizationの基盤の構築](2023/personalization-at-scale.md)
    + [変更管理](2023/change-management.md)
