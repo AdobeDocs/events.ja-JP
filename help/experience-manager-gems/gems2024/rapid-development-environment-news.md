@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 75e71817dd313f37d258b0edc8b66dab95f70cbd
+source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 このウェビナーは、2024 年 9 月 4 日（PT）午後 5 時（CEST）/午前 8 時（PDT）/午後 8 時 30 分（IST）に実施されます。
 このウェビナーは無料で、登録のみが必要です。
-参加するには、[ こちら ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-whats-new-in-rapid-development-environments/) にご登録ください。
+参加するには、[ こちら ](https://adobe.ly/4cwc5W4) にご登録ください。
 
 ## 迅速な開発環境の新機能
 
@@ -37,6 +37,6 @@ RDE を使用すると、デベロッパーは、ローカル開発環境での�
 
 >[!NOTE]
 >
->* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、8 月 23 日（PT）に公開される各コンテキストスレッドを参照してください。
+>* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/3M8MFTE) を参照してください。
 >
 >* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。
