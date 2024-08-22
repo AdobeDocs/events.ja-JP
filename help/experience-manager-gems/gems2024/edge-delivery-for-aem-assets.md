@@ -9,18 +9,16 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
 # ウェビナー日付：2024 年 8 月 21 日（PT）
 
-このウェビナーは、2024 年 8 月 21 日（PT）午後 5 時（CEST）/午前 8 時（PDT）/午後 8 時 30 分（IST）に実施されます。
-このウェビナーは無料で、登録のみが必要です。
-参加するには、[ こちら ](https://adobe.ly/3LTT3hg) にご登録ください。
+このウェビナーは終了しました。以下の録画をご覧ください。
 
 ## AEM AssetsとEdge Delivery Servicesの統合
 
@@ -31,8 +29,10 @@ ht-degree: 0%
 * Satya Deep Maheshwari、プリンシパルサイエンティスト、Adobe
 * Adobe、シニアコンピューターサイエンティスト、Ashutosh Shroti
 
-## ウェビナーコミュニティインタラクション
+## ウェビナー録画
 
+>[!VIDEO](https://video.tv.adobe.com/v/3433046/)
+>
 >[!NOTE]
 >
 >* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/4aCz0OE) を参照してください。

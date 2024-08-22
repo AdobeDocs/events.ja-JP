@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 0%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 今後のAEM GEM ウェビナー – AEM AssetsとEdge Delivery Servicesの統合
+## 今後のAEM GEM ウェビナー – AEMの迅速な開発環境の新機能
 
-このウェビナーは、8 月 21 日（水）午後 5 時（CEST）/午前 8 時（PDT）/午後 8 時 30 分（IST）に実施されます。 このウェビナーには登録のみが必要です。[ こちら ](https://adobe.ly/3LTT3hg) からご登録ください。
+このウェビナーは、9 月 4 日（水）午後 4:00～5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に実施されます。 このウェビナーに必要なのは登録のみであることに注意してください。
+ご興味のある方は [ こちら ](https://adobe.ly/3LTT3hg) にご登録ください。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,9 +51,9 @@ ht-degree: 0%
 
 ## 以前のAEM GEMs ウェビナー
 
-最新のAEM GEM ウェビナー **AEM Cloud Managerのプライベート GitHub リポジトリの統合** は *2024 年 7 月 31 日（PT）* に実施されました。
+最新のAEM GEM ウェビナー **AEM AssetsとEdge Delivery Servicesの統合** は *2024 年 8 月 21 日（PT）* に実施されました。
 **録画** は、次の場所にあります。
-[AEM Cloud Manager でのプライベート GitHub リポジトリの統合 ](gems2024/private-github-for-aem-cloud-manager.md)
+[AEM AssetsとEdge Delivery Servicesの統合 ](gems2024/edge-delivery-for-aem-assets.md)
 
 >[!NOTE]
 >
