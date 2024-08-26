@@ -2,9 +2,9 @@
 user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
-source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
+source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 0%
 + アジャイル {#agile}
    + [マーケティングにおけるアジャイル](user-groups/agile-in-marketing.md)
 + レポートとダッシュボード {#reporting-and-dashboards}
-   + [高度なレポート](user-groups/advanced-reporting.md)
    + [クリエイティブエージェンシー：レポートとダッシュボード](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [品質とエンゲージメントの評価](webinars/gauging-quality-and-engagement.md)
    + [テキストモードレポートの概要](webinars/introduction-to-text-mode-reporting.md)
