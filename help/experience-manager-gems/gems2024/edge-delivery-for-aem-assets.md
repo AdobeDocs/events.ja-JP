@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,6 +35,6 @@ ht-degree: 0%
 >
 >[!NOTE]
 >
->* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/4aCz0OE) を参照してください。
+>* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/3LSCVfX) を参照してください。
 >
 >* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。
