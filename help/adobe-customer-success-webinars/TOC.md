@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -16,12 +16,15 @@ ht-degree: 1%
 + 2024年 {#2024}
    + [お客様のユースケース向けの AEP アプリケーションサービス統合](2024/aep-apps-services-integrations.md)
    + [AEP のユースケースの計画](2024/aep-use-case-planning.md)
+   + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - リーンチーム](2024/workfront-lean-teams.md)
    + [データストリームの優先順位付け](2024/data-stream-prioritization.md)
    + [効果的な変更管理](2024/effective-change-management.md)
    + [リーンチームの権限付与](2024/empowering-lean-teams.md)
    + [Expedia がAdobe AnalyticsからCustomer Journey Analyticsに移行](2024/expedia-aa-to-cja.md)
    + [Workfront システムとグループ管理者の後見の基本](2024/workfront-admin-guardianship.md)
+   + [リーン チームとCustomer Journey Analytics](2024/lean-teams-cja.md)
+   + [Target Personalization](2024/target-personalization.md)
    + [Hyperpersonalization](2024/hyperpersonalization.md)
    + [Journey Optimizer モバイルの機能](2024/journey-optimizer-mobile-capabilities.md)
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
