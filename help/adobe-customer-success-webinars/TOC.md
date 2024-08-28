@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
@@ -23,10 +23,13 @@ ht-degree: 1%
    + [リーンチームの権限付与](2024/empowering-lean-teams.md)
    + [Expedia がAdobe AnalyticsからCustomer Journey Analyticsに移行](2024/expedia-aa-to-cja.md)
    + [Workfront システムとグループ管理者の後見の基本](2024/workfront-admin-guardianship.md)
+   + [Adobe Journey Optimizer Analysis の概要](2024/getting-started-ajo-analysis.md)
    + [リーン チームとCustomer Journey Analytics](2024/lean-teams-cja.md)
+   + [Cookie とデータプライバシーのマスター](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
    + [Hyperpersonalization](2024/hyperpersonalization.md)
    + [Journey Optimizer モバイルの機能](2024/journey-optimizer-mobile-capabilities.md)
+   + [Real-time Customer Data Platformへの移行への対応](2024/rtcdp-migration-readiness.md)
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
    + [ソリューションの機能へのユースケースのマッピング](2024/use-case-mapping.md)
    + [Web SDK 移行の基本事項](2024/web-sdk-migration.md)
