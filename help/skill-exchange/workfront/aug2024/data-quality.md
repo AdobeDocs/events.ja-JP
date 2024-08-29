@@ -1,6 +1,6 @@
 ---
 title: 混乱から明確化へ – データ品質のレベルアップ
-description: このセッションでは、次の実用的なヒントと戦略を確認します。データクリーンアップの計画の開発と実行データ品質の問題を明らかにするために使用できるレポートの例すべてのペルソナのユーザーがデータを整理および維持できるようにするボーナス！ キャンバスダッシュボードの高まる機能に合わせたデータの準備」
+description: このセッションでは、データのクリーンアップ計画の開発と実行に関する実践的なヒントと戦略を確認します。データ品質の問題を明らかにするために使用できるレポートの例すべてのペルソナのユーザーがデータを整理および維持できるようにするボーナス！ キャンバスダッシュボードの高まる機能に合わせたデータの準備」
 solution: Workfront
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: 9f58c7c83054cee5296a120f9d55dee84254f5f7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
