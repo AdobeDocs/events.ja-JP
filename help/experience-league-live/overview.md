@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
+source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '178'
 ht-degree: 3%
 
 ---
@@ -26,15 +26,15 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
-      <img alt="Experience Leagueライブ 8 月 28 日（PT）" src="episodes/assets/WebBanner-aug-28-2024.png">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-18-24.md">
+      <img alt="Experience Leagueライブ 8 月 28 日（PT）" src="episodes/assets/WebBanner-09-18-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08-28-24.md">
-        <strong> サマースポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法 </strong>
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong> モバイル分析アプリをレベルアップする準備はできていますか？</strong>
       </a>
-      <br/><em> サンドラ・ハウスマン、キーラ・フォセット、アーロン・フォレスト、ジャスティン・グローバーも </em>
-      <br/><em>2024 年 8 月 28 日 </em>
+      <br/><em> ダニエル・ライト、ミッチ・ライス、ケビン・リンド </em>
+      <br/><em>2024 年 9 月 18 日 PT8 時 30 分 </em>
     </div>
   </td>
 </tr>
