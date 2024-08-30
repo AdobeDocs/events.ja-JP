@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 5%
 + [概要](overview.md)
 + Adobe Commerce {#commerce}
    + 2024 年 8 月 {#aug2024}
-      + [オープニング キーノート](workfront/aug2024/keynote.md)
+      + [オープニング キーノート](commerce/aug2024/keynote.md)
       + [Adobe Commerceのパフォーマンスの向上](commerce/aug2024/commerce-performance.md)
       + [有効な拡張性](commerce/aug2024/extensibility.md)
       + [移行ワークフロー全体で SEO を最大化](commerce/aug2024/seo-migration-workflows.md)
@@ -94,7 +94,6 @@ ht-degree: 5%
       + [ユニバーサルエディターを使用したAEM Sites](aem/aug2024/universal-editor.md)
       + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [AEMのカスタマイズとガバナンスに関する包括的なエクスペリエンス](aem/aug2024/customize-elements.md)
-      + [要素のカスタマイズ](aem/aug2024/customize-elements.md)
       + [マスターヘッドレスとSPA Editor のアプローチ](aem/aug2024/headless-spa-editor.md)
       + [デジタルアセット管理戦略](aem/aug2024/spotlight-dam-strategies.md)
    + 2023 年 8 月 {#aug2023}
