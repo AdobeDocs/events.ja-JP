@@ -3,10 +3,10 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 6%
+source-wordcount: '615'
+ht-degree: 5%
 
 ---
 
@@ -16,10 +16,13 @@ ht-degree: 6%
 + [概要](overview.md)
 + Adobe Commerce {#commerce}
    + 2024 年 8 月 {#aug2024}
+      + [オープニング キーノート](workfront/aug2024/keynote.md)
       + [Adobe Commerceのパフォーマンスの向上](commerce/aug2024/commerce-performance.md)
+      + [有効な拡張性](commerce/aug2024/extensibility.md)
       + [移行ワークフロー全体で SEO を最大化](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
    + 2024 年 8 月 {#aug2024}
+      + [オープニング キーノート](analytics/aug2024/keynote.md)
       + [アトリビューションの概要](analytics/aug2024/attribution-concepts.md)
       + [貴重なインサイトの発見](analytics/aug2024/uncover-valuable-insights.md)
       + [計算指標の使用](analytics/aug2024/calculated-metrics.md)
@@ -87,7 +90,11 @@ ht-degree: 6%
       + [まとめ](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + 2024 年 8 月 {#aug2024}
+      + [オープニング キーノート](aem/aug2024/keynote.md)
       + [ユニバーサルエディターを使用したAEM Sites](aem/aug2024/universal-editor.md)
+      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+      + [AEMのカスタマイズとガバナンスに関する包括的なエクスペリエンス](aem/aug2024/customize-elements.md)
+      + [要素のカスタマイズ](aem/aug2024/customize-elements.md)
       + [マスターヘッドレスとSPA Editor のアプローチ](aem/aug2024/headless-spa-editor.md)
       + [デジタルアセット管理戦略](aem/aug2024/spotlight-dam-strategies.md)
    + 2023 年 8 月 {#aug2023}
@@ -112,6 +119,11 @@ ht-degree: 6%
          + [AEMのコンテンツパーソナライゼーションによるビジネス価値の向上](aem/aug2022/personalization.md)
          + [AEMの実装を最大化](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+   + 2024 年 8 月 {#aug2024}
+      + [オープニング キーノート](marketo/aug2024/keynote.md)
+      + [エンゲージメントプログラムの高度なアプリケーション](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [リテンションとエンゲージメントのジャーニー](marketo/aug2024/retention-engagement-journey.md)
+      + [スマート・リスト・ロジック](marketo/aug2024/smart-list-logic.md)
    + 2022 年 2 月 {#feb2022}
       + [データメンテナンス](marketo/feb2022/data-maintenance.md)
       + [動的コンテンツとPersonalizationの機能](marketo/feb2022/dynamic-content.md)
@@ -143,7 +155,6 @@ ht-degree: 6%
       + [Workfront Fusion とボード](workfront/aug2024/fusion-boards.md)
       + [マーケティングコンテンツのサプライチェーン](workfront/aug2024/content-supply-chain.md)
       + [プロセスの強化と運用効率](workfront/aug2024/spotlight-process-operations.md)
-      + [リテンションとエンゲージメントのジャーニー](workfront/aug2024/retention-engagement-journey.md)
       + [Workfront ホームページの調整](workfront/aug2024/tailoring-homepages.md)
       + [Workfrontへのプロセスフローの変換が優れています](workfront/aug2024/spotlight-process-flows.md)
    + 2023 年 8 月 {#aug2023}
