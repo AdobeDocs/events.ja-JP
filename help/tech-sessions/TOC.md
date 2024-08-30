@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloudテクニカルセッション
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloudテクニカルセッションは、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '112'
+ht-degree: 12%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 13%
 
 + [Experience Cloudテクニカルセッション](overview.md)
 + 2024年 {#2024}
+   + Real-Time Content Data Platform {#rtcdp-office-hours-2024}
+      + [Real-Time Content Data Platform のタイミング](2024/rtcdp-timings.md)
    + Adobe Marketo {#adobe-marketo-office-hours-2024}
       + [Champion 技術セッション - 5 月](2024/champion-office-hours.md)
 + 2023年 {#2023}

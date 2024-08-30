@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '658'
 ht-degree: 5%
 
 ---
@@ -20,10 +20,15 @@ ht-degree: 5%
       + [Adobe Commerceのパフォーマンスの向上](commerce/aug2024/commerce-performance.md)
       + [有効な拡張性](commerce/aug2024/extensibility.md)
       + [移行ワークフロー全体で SEO を最大化](commerce/aug2024/seo-migration-workflows.md)
+      + [カスタマーエクスペリエンスのパーソナライズ](commerce/aug2024/personalization.md)
 + Analytics {#analytics}
    + 2024 年 8 月 {#aug2024}
       + [オープニング キーノート](analytics/aug2024/keynote.md)
+      + [アラートと注釈](analytics/aug2024/alerts-annotations.md)
+      + [Experience Makers スポットライト](analytics/aug2024/spotlight-reporting-analysis.md)
       + [アトリビューションの概要](analytics/aug2024/attribution-concepts.md)
+      + [セグメント化の詳細](analytics/aug2024/segmentation.md)
+      + [マーケティングチャネルとアトリビューション](analytics/aug2024/marketing-channels-attribution.md)
       + [貴重なインサイトの発見](analytics/aug2024/uncover-valuable-insights.md)
       + [計算指標の使用](analytics/aug2024/calculated-metrics.md)
       + [Analysis Workspaceでのビジュアライゼーション](analytics/aug2024/spotlight-visualizations.md)
@@ -92,10 +97,12 @@ ht-degree: 5%
    + 2024 年 8 月 {#aug2024}
       + [オープニング キーノート](aem/aug2024/keynote.md)
       + [ユニバーサルエディターを使用したAEM Sites](aem/aug2024/universal-editor.md)
-      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
       + [AEMのカスタマイズとガバナンスに関する包括的なエクスペリエンス](aem/aug2024/customize-elements.md)
-      + [マスターヘッドレスとSPA Editor のアプローチ](aem/aug2024/headless-spa-editor.md)
       + [デジタルアセット管理戦略](aem/aug2024/spotlight-dam-strategies.md)
+      + [Dynamic Media Classic Asset Management](aem/aug2024/dmc-asset-management.md)
+      + [コンテンツサプライチェーンの強化](aem/aug2024/spotlight-content-supply-chain.md)
+      + [マスターヘッドレスとSPA Editor のアプローチ](aem/aug2024/headless-spa-editor.md)
+      + [Print Production](aem/aug2024/print-production.md)
    + 2023 年 8 月 {#aug2023}
       + Developer Track {#developer-track}
          + [AEM開発者スターターキット](aem/aug2023/deploy-new-project.md)
@@ -121,8 +128,13 @@ ht-degree: 5%
    + 2024 年 8 月 {#aug2024}
       + [オープニング キーノート](marketo/aug2024/keynote.md)
       + [エンゲージメントプログラムの高度なアプリケーション](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [A/B テストによるパフォーマンスの向上](marketo/aug2024/a-b-testing.md)
+      + [ライフサイクル管理と分析](marketo/aug2024/lifecycle-management-analytics.md)
+      + [マーケティング業務の効率化](marketo/aug2024/spotlight-marketing-ops-efficiency.md)
       + [リテンションとエンゲージメントのジャーニー](marketo/aug2024/retention-engagement-journey.md)
       + [スマート・リスト・ロジック](marketo/aug2024/smart-list-logic.md)
+      + [スポットライト – インタラクティブウェビナー](marketo/aug2024/spotlight-interactive-webinars.md)
+      + [監査記録と Campaign インスペクターの使用](marketo/aug2024/audit-trail-campaign-inspector.md)
    + 2022 年 2 月 {#feb2022}
       + [データメンテナンス](marketo/feb2022/data-maintenance.md)
       + [動的コンテンツとPersonalizationの機能](marketo/feb2022/dynamic-content.md)
