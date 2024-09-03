@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## 今後のAEM GEM ウェビナー – AEMの迅速な開発環境の新機能
 
 このウェビナーは、9 月 4 日（水）午後 4:00～5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に実施されます。 このウェビナーに必要なのは登録のみであることに注意してください。
-ご興味のある方は [ こちら ](https://adobe.ly/3LTT3hg) にご登録ください。
+ご興味のある方は [ こちら ](https://adobe.ly/3yWr9OY) にご登録ください。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
