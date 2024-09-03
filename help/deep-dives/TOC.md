@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '56'
 ht-degree: 5%
 
 ---
@@ -31,4 +31,5 @@ ht-degree: 5%
    + [スケーラビリティのための PMCF フィールドの活用](pmcf-fields.md)
    + [少人数のチームでインスタンスを最大化](small-team-instance.md)
    + [アクティビティログでの複雑なプロセスの確認](activity-log.md)
+   + [グローバルマーケティングの解放](global-marketing.md)
    + [Webhook を使用したデータ転送](webhooks.md)

@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce イベント
 breadcrumb-title: APAC Commerce イベント
 user-guide-description: Adobe Commerce Events は、エキスパートや同業者がAdobe Commerceの使用方法に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 2%
+source-wordcount: '145'
+ht-degree: 4%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 2%
       + [隠し：クロスチャネル交響曲](./2024/accelerator-day/cross-channel-symphony.md)
       + [隠された：Commerceの芸術](./2024/accelerator-day/the-art-of-commerce.md)
    + [Commerceとコンポーザビリティ](2024/commerce-and-composability.md)
+   + [Edge 配信サービス](2024/edge-delivery-services.md)
    + [イノベーションスポットライト ウェビナー](2024/innovation-spotlight.md)
    + [先見性に満ちた思考がCommerceを変革する方法](2024/visionary-thinking.md)
    + [Adobe Commerceのセキュリティ](2024/security-overview.md)
