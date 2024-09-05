@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 今後のAEM GEM ウェビナー – AEMの迅速な開発環境の新機能
+## 今後のAEM GEM ウェビナー – AEM Sitesのパワーを解き放つ：Content Management API のマスター
 
-このウェビナーは、9 月 4 日（水）午後 4:00～5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に実施されます。 このウェビナーに必要なのは登録のみであることに注意してください。
-ご興味のある方は [ こちら ](https://adobe.ly/3yWr9OY) にご登録ください。
+このウェビナーは、10 月 9 日（水）午後 9:00～5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に実施されます。 このウェビナーに必要なのは登録のみであることに注意してください。
+ご興味のある方は [**こちら**](https://adobe.ly/4g6TYck) にご登録ください。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,12 @@ ht-degree: 0%
 
 ## 以前のAEM GEMs ウェビナー
 
-最新のAEM GEM ウェビナー **AEM AssetsとEdge Delivery Servicesの統合** は *2024 年 8 月 21 日（PT）* に実施されました。
-**録画** は、次の場所にあります。
-[AEM AssetsとEdge Delivery Servicesの統合 ](gems2024/edge-delivery-for-aem-assets.md)
+最新のAEM GEM ウェビナー：**AEMの迅速な開発環境の新機能？** は *2024 年 9 月 4 日* に行われました。
+**録画** はすぐに利用できるようになります…
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
