@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
+source-git-commit: 3e9a442e67fab387b886d57bebcc1940631c6ffe
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 今後のAEM GEM ウェビナー – AEM Sitesのパワーを解き放つ：Content Management API のマスター
+## 今後のAEM GEM ウェビナー – AEM Sites:Content Management API のマスター
 
 このウェビナーは、10 月 9 日（水）午後 9:00～5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に実施されます。 このウェビナーに必要なのは登録のみであることに注意してください。
 ご興味のある方は [**こちら**](https://adobe.ly/4g6TYck) にご登録ください。
