@@ -2,9 +2,9 @@
 user-guide-title: 「[!DNL Experience Makers Learn from your peers]」
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「の録画コレクショ  [!DNL Experience Makers Learn from your peers]」
-source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
+source-git-commit: ac811378b605024bc49232b84932b029fe783c45
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '297'
 ht-degree: 3%
 
 ---
@@ -45,6 +45,8 @@ ht-degree: 3%
    + {#may2023} 年 5 月
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + 2024 年 9 月 {#sept2024}
+      + [マルチストリームエンゲージメントプログラム](marketo/sept2024/multi-stream-engagement-programs.md)
    + 2024 年 7 月 {#july2024}
       + [マーケターのマップ：Marketo キャンペーンの戦略を立て、構築し、分析する](marketo/july2024/marketers-map-marketo-campaigns.md)
    + 2024 年 4 月{#april2024}
