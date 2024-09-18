@@ -1,6 +1,6 @@
 ---
 title: モバイル分析アプリをレベルアップする準備はできていますか？
-description: このセッションでは、Edge Bridge拡張機能を使用して、移行に伴うギャップを埋める方法を説明します。 Edge Bridgeを使用するために、モバイルプロパティを設定し、クライアントサイド実装を更新する手順を説明します。
+description: このセッションでは、Edge Bridge拡張機能を使用して、移行に伴うギャップを埋める方法を説明します。 Edge Bridgeを使用するためにモバイルプロパティを設定し、クライアントサイド実装を更新する手順が提供されます。
 kt: KT-16047
 solution: Analytics, Customer Journey Analytics
 feature: Data Configuration and Collection
@@ -9,21 +9,21 @@ event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: facc08465a1a13b3b4ca1bfaa8f993bdbeff8c6b
+source-git-commit: dd6f30d6c664992770f473d0ab80de561defcb35
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # モバイル分析アプリをレベルアップする準備はできていますか？
 
-このセッションでは、Edge Bridge拡張機能を使用して、移行に伴うギャップを埋める方法を説明します。 Edge Bridgeを使用するために、モバイルプロパティを設定し、クライアントサイド実装を更新する手順を説明します。
+Edge Bridge拡張機能を使用して、移行に伴うギャップを埋める方法を説明します。 Edge Bridgeを使用するためにモバイルプロパティを設定し、クライアントサイド実装を更新する手順が提供されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
+**引き続き議論を進めるには、[Experience Leagueコミュニティに関する議論 ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"} にアクセスしてください。**
 
-**引き続きExperience Leagueに関する議論 [ をご覧ください ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}**。
 
 **詳細を表示**:
 モバイルアプリでAdobe Analyticsを使用して、デジタルビジネスに関するインサイトを得て、顧客がアプリをどのように使用しているかを理解してきました。
