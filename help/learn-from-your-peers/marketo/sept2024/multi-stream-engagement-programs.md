@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ ht-degree: 0%
 * 移行戦略：スマートキャンペーンを利用してエンゲージメントプログラム内のストリーム間を移行することで、制御と自動化が可能になります。&#x200B; ライフサイクルステージやコンテンツの枯渇などの要因に基づいてリードを移行するタイミングと方法を理解することは、リードの効果的な育成に不可欠です。
 
 * プログラムの成功指標：エンゲージメントプログラムの明確な成功指標を定義することは、有効性を測定するために不可欠です。&#x200B; メールのクリック数、web サイトの訪問数、その他のアクション数のいずれに関しても、達成基準を定義することで、エンゲージメントプログラムのパフォーマンスと影響を正確に評価できます。&#x200B;
+
+## このプレゼンテーションで参照されているリソース
+
+* [ 業務プログラムについて ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [ エンゲージメントスコアについて ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [ 契約プログラムストリームへのプログラムの追加 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [ プログラムインポートライブラリの概要 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [ マーケティングネーションコミュニティディスカッションスレッド ](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
