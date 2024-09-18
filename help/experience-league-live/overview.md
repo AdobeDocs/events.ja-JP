@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 3481a7e4b34febb1d570e87d789ada6d1550be4b
+source-git-commit: 9a3b27dfc0c74cbcaceda0d7dc6b0c27086f7f3b
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '186'
 ht-degree: 3%
 
 ---
@@ -23,22 +23,6 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 
 ## 今後のExperience Leagueライブイベント
 
-<table>
-<tr>
-
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-18-24.md">
-      <img alt="Experience Leagueライブ 8 月 28 日（PT）" src="episodes/assets/WebBanner-09-18-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-09-18-24.md">
-        <strong> モバイル分析アプリをレベルアップする準備はできていますか？</strong>
-      </a>
-      <br/><em> ダニエル・ライト、ミッチ・ライス、ケビン・リンド </em>
-      <br/><em>2024 年 9 月 18 日 PT8 時 30 分 </em>
-    </div>
-  </td>
-</tr>
-</table>
 <table>
 <tr>
 
