@@ -8,9 +8,10 @@ event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
+source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 このセッションでは、Edge Bridge拡張機能を使用して、移行に伴うギャップを埋める方法を説明します。 Edge Bridgeを使用するために、モバイルプロパティを設定し、クライアントサイド実装を更新する手順を説明します。
 
-[![ExL LIVE 2024 年 8 月 28 日 ](assets/WebBanner-09-18-2024.jpg)](https://www.youtube.com/live/QKz1slMT36Y)
+[!VIDEO](https://video.tv.adobe.com/v/3434575)
 
-**[YouTubeでの表示に関するリマインダーの設定 ](https://www.youtube.com/live/QKz1slMT36Y){target="_blank"}**
+**引き続きExperience Leagueに関する議論 [ をご覧ください ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}**。
 
 **詳細を表示**:
 モバイルアプリでAdobe Analyticsを使用して、デジタルビジネスに関するインサイトを得て、顧客がアプリをどのように使用しているかを理解してきました。
