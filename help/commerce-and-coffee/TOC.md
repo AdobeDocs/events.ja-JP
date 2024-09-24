@@ -2,9 +2,9 @@
 user-guide-title: Commerceとコーヒーイベント
 breadcrumb-title: Commerceとコーヒーイベント
 user-guide-description: Adobe Commerce and Coffee は、エキスパートや同業者がAdobe Commerceの使用方法に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: c68bc0fbcdefc563819294a6f9a2dc842951c4b2
+source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '88'
 ht-degree: 5%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 5%
 + [概要](overview.md)
 + 2024年 {#2024}
    + [E コマースの基本事項](2024/ecommerce-essentials.md)
+   + [ピークシーズンの準備](2024/peak-season-prep.md)
    + [AI を使用した e コマースエクスペリエンスのパーソナライズ](2024/personalize-ecommerce.md)
    + [B2B e コマースの戦略](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
 + 2023年 {#2023}
