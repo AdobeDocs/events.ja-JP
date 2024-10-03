@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
+source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '472'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 41:Experience Platformで Federated Audience Composition を使用してオーディエンスを調和させる](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40:AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの力を解き放つ](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39：モバイル分析アプリのレベルアップの準備はできていますか？](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38：夏物スポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法](episodes/exl-live-episode-08-28-24.md)

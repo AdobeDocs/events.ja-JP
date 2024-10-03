@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f375ee9f4477c514a0787eede047f80b25172c61
+source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 4%
+source-wordcount: '195'
+ht-degree: 3%
 
 ---
 
@@ -23,28 +23,21 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 
 ## 今後のExperience Leagueライブイベント
 
-その他のイベントも近日公開予定です。
-
-<!-- 
-
 <table>
 <tr>
-  
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
-      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-09-26-2024.png">
+
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
+      <img alt="Experience Leagueライブ 10 月 24 日" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-09-18-24.md">
-        <strong>Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. </strong>
-      </a>
-      <br/><em>with Rachel Hannessian, Amarnath Vannararth, and Arthur Lacroix</em>
-      <br/><em>September 26, 2024 at 8:30 PT</em>
+      <strong>Federated Audience Composition が、Real-Time CDPとJourney Optimizerで、オーディエンスのキュレーションとアクティベーションに対する包括的なアプローチを提供する方法について説明します。 </strong>
+      <br/><em> アリッサ・エスピリツ、アビジット・ゴシュ、アーサー・ラクロワ </em>
+      <br/><em>2024 年 10 月 24 日 PT8 時 30 分 </em>
+      <br/><br/><a href="https://youtube.com/live/ghN-XWdBLvg">YouTubeでの番組のブックマーク </a>
     </div>
   </td>
 </tr>
-</table> 
-
--->
+</table>
 
 </div>
 
