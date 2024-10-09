@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
+source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 3%
 
 ---
@@ -30,10 +30,10 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
       <img alt="Experience Leagueライブ 10 月 24 日" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <strong>Federated Audience Composition が、Real-Time CDPとJourney Optimizerで、オーディエンスのキュレーションとアクティベーションに対する包括的なアプローチを提供する方法について説明します。 </strong>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>Federated Audience Composition が、Real-Time CDPとJourney Optimizerで、オーディエンスのキュレーションとアクティベーションに対する包括的なアプローチを提供する方法について説明します。 </strong></a>
       <br/><em> アリッサ・エスピリツ、アビジット・ゴシュ、アーサー・ラクロワ </em>
       <br/><em>2024 年 10 月 24 日 PT8 時 30 分 </em>
-      <br/><br/><a href="https://youtube.com/live/ghN-XWdBLvg">YouTubeでの番組のブックマーク </a>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html"> このイベントに登録 </a>
     </div>
   </td>
 </tr>
