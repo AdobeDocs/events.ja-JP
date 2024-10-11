@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 今後のAEM GEM ウェビナー – AEM Sites:Content Management API のマスター
+## 今後のAEM GEMs ウェビナーについては、近日中にお知らせします
 
-このウェビナーは、10 月 9 日（水）午後 9:00～5:00 （CEST）/午前 8:00 （PDT）/午後 8:30 （IST）に実施されます。 このウェビナーに必要なのは登録のみであることに注意してください。
-ご興味のある方は [**こちら**](https://adobe.ly/4g6TYck) にご登録ください。
+通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) にご登録ください。
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ ht-degree: 0%
 
 ## 以前のAEM GEMs ウェビナー
 
-最新のAEM GEM ウェビナー：**AEMの迅速な開発環境の新機能？** は *2024 年 9 月 4 日* に行われました。
+最新のAEM GEM ウェビナー **AEM Sitesの力を解き放つ – コンテンツ管理 API のマスター** は *2024 年 10 月 9 日（PT）* に実施されました。
 **録画** はこちらで確認できます：
-[AEMの迅速な開発環境の新機能 ](gems2024/rapid-development-environment-news.md)
+[AEM Sitesのパワーのロック解除 – コンテンツ管理 API のマスター](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
