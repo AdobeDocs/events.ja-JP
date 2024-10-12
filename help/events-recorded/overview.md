@@ -4,7 +4,7 @@ description: Adobeのエンタープライズ製品の使用に焦点を当て�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
+source-git-commit: ac867e3983725543f7a63bcf7e0db1598e1de6c9
 workflow-type: tm+mt
 source-wordcount: '1091'
 ht-degree: 3%
@@ -346,7 +346,7 @@ ht-degree: 3%
           <p class="is-size-6">
          Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法について説明します。 実務担当者向けに選択されたトピックを使用して、これらのインタラクティブセッションでは、「可能な」ユースケース、ベストプラクティス、ヒントとコツを共有します。</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
       </a>
     </div>
@@ -355,7 +355,7 @@ ht-degree: 3%
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing イベント" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="GenStudio for Performance Marketing イベント" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing イベント">
         </a>
       </figure>
