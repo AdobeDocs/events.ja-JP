@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 6%
 + 2024年 {#2024}
    + [成熟度パート 1 – 基盤の構築](2024/maturity-part1-foundation.md)
    + [成熟度第 2 部 – Marketoの使用の最適化](2024/optimize-marketo-usage.md)
+   + [成熟度パート 3 - レポートによる成長の促進](2024/drive-growth-with-reporting.md)
    + [リード育成の成功](2024/lead-nurture-success.md)
    + [新しい Discover ダッシュボード](2024/new-discover-dashboard.md)
    + [属性ダッシュボードの記録](2024/attribution-dashboard-recording.md)

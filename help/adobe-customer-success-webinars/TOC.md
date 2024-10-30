@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + 2024年 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - リーンチーム](2024/workfront-lean-teams.md)
+   + [Adobe Workfrontの達人](2024/workfront-mastery.md)
+   + [AEM オーサリングの主要概念](2024/aem-authoring-concepts.md)
+   + [AEM Sitesの効率性](2024/aem-sites-efficiencies.md)
    + [お客様のユースケース向けの AEP アプリケーションサービス統合](2024/aep-apps-services-integrations.md)
    + [AEP のユースケースの計画](2024/aep-use-case-planning.md)
    + [AI を活用したコピーライティング](2024/ai-copywriting.md)
