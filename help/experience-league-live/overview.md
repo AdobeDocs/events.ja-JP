@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 645f97a48747f22008ca12a6cb832dfb89bb67e2
+source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -27,12 +27,12 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 <tr>
 
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience Leagueライブ 10 月 24 日" src="episodes/assets/30Oct24-webbanner.png">
+      <img alt="Experience Leagueライブ 10 月 24 日" src="assets/WebBanner-Nov-6-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong> モバイルアプリケーションや web アプリケーション全体でユーザーエンゲージメントを強化し、会話を強化するために設計された、Adobe Journey Optimizerの新しい多目的メッセージングチャネルであるコンテンツカードについて説明します。 </strong></a>
+      <a href="episodes/exl-live-episode-10-30-24.md"><strong> モバイルアプリケーションや web アプリケーション全体でユーザーエンゲージメントを強化し、会話を強化するために設計された、Adobe Journey Optimizerの新しい多目的メッセージングチャネルであるコンテンツカードについて説明します。 </strong></a>
       <br/><em>Don Huyhn と Pravin Kumar は </em>
-      <br/><em>2024 年 10 月 30 日 PT8 時 30 分 </em>
+      <br/><em>2024 年 11 月 6 日 PT8 時 30 分 </em>
       <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp="> このイベントに登録 </a>
     </div>
   </td>
