@@ -7,22 +7,20 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: fe04eef54d34f1bcc0ce9d164d4d212096908f0a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Adobe Journey Optimizerのコンテンツカードの公開
 
-**シームレスで非割り込み型の永続的なメッセージにより、エンゲージメント戦略に革命を起こしましょう**
+Adobe Journey Optimizerのコンテンツカードを使用して、シームレスで非侵入的な永続メッセージでエンゲージメント戦略を刷新する方法を説明します。
 
-このセッションでは、Don Huynh と Pravin Prakash Kumar が、モバイルアプリケーションや web アプリケーション全体でユーザーエンゲージメントを強化し、会話を強化するために設計された、Adobe Journey Optimizerの新しい多目的メッセージングチャネルであるコンテンツカードについて紹介します。 従来のプッシュ通知やアプリ内通知とは異なり、コンテンツカードは重要な更新、プロモーション、メッセージをアプリや web サイト内でシームレスに配信し、邪魔にならないユーザーエクスペリエンスを確保します。
+>[!VIDEO](https://video.tv.adobe.com/v/3436281/?quality=12&learn=on)
 
+**詳細を表示**:
 
-![experience league ライブ ](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
-
-[ このイベントに登録 ](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
-
+このセッションでは、Don Huynh と Pravin Prakash Kumar が、モバイルアプリケーションや web アプリケーション全体でユーザーエンゲージメントを高め、会話を強化するように設計された、Adobe Journey Optimizerの多目的メッセージングチャネルであるコンテンツカードの紹介とデモを行います。 従来のプッシュ通知やアプリ内通知とは異なり、コンテンツカードは重要な更新、プロモーション、メッセージをアプリや web サイト内でシームレスに配信し、邪魔にならないユーザーエクスペリエンスを確保します。
 
