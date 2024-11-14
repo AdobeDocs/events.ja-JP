@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f08cc0e05763e738a03c508896a7122e121127a0
+source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '178'
 ht-degree: 3%
 
 ---
@@ -26,15 +26,10 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
-      <img alt="Experience Leagueライブ 10 月 24 日" src="episodes/assets/WebBanner_nov13_2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Adobe製品およびエンジニアリングのエキスパートが、最新の画期的な技術革新であるオーディエンス用 AI アシスタントを見るエキサイティングなライブセッションにご参加ください。Adobe Real-Time CDPで近日公開される予定で、オーディエンスのインサイトとアクションを強化します。 </strong></a>
-      <br/><em>Shivakumar Vaithyanathan、Ali Nazer、Horia Galatanu の共著 </em>
-      <br/><em>2024 年 11 月 13 日 PT9 時 00 分 </em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html"> このイベントに登録 </a>
-    </div>
+<td style="vertical-align: top;">
+    今後のExperience Leagueライブの予定は、こちらをご覧ください。
+    </br>
+    このページの左側にある目次から前のエピソードを選択します。
   </td>
 </tr>
 </table>
