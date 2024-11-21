@@ -1,6 +1,6 @@
 ---
 title: 変更内を移動 – 効果的な変更管理に関するシニアリーダーシップウェビナー
-description: 主な話し合いポイント – 変化の取り組みを包括的な組織の目標や目標に合わせる方法を学びます。マスター様々な関係者に変化を伝える技術を学びます。効率的なイネーブルメント戦略と計画を実装します。リスクを軽減し、スムーズな移行を確実にするためのプロアクティブな戦略を学びます。
+description: 変更管理のニュアンスを掘り下げ、戦略的なインサイトを提供することで、変革のジャーニーを通じて組織を運営する際の支援を行います。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

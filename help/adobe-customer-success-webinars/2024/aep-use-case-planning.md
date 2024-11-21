@@ -1,6 +1,6 @@
 ---
 title: ビジョンから価値まで – AEP のユースケース計画
-description: 1）ビジネス成果と KPI に合致する、2）達成可能な価値実現へのロードマップの提供、3）Adobeソリューション機能の効果的な活用という明確な目標と成功要因を持つ戦略を定義することで、効果的なカスタマーエクスペリエンスを提供する方法を説明します。
+description: ビジネスの成果と KPI に合致する明確な目標と成功要因を持つ戦略を定義し、達成可能な価値実現へのロードマップを提供し、Adobeソリューションの機能を効果的に活用することで、効果的なカスタマーエクスペリエンスを提供する方法を学びます。
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
-
 
 # ビジョンから価値まで：AEP のユースケース計画
 

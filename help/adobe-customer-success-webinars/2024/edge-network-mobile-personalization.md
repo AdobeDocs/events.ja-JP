@@ -1,23 +1,23 @@
 ---
 title: AdobeソリューションによるEdge NetworkおよびモバイルPersonalizationに関するインサイト
-description: Edge アーキテクチャの仕組みと、Assurance を使用した実装のデバッグ方法を説明します。Mobile SDKHow を設定し、Target とAJOでパーソナライズされたエクスペリエンスを提供する方法に関する技術ガイダンスです。
+description: Adobeソリューションを使用して、モバイル戦略を強化し、ユーザーエンゲージメントを向上し、パーソナライズされたエクスペリエンスを効果的に提供する方法を説明します。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-
 # AdobeソリューションによるEdge NetworkおよびモバイルPersonalizationに関するインサイト
 
-Edge アーキテクチャの仕組みと、Assurance を使用して実装をデバッグする方法について説明します
+Edge アーキテクチャの仕組みと、Assuranceを使用して実装をデバッグする方法を説明します
 Mobile SDK のセットアップおよび設定方法に関する技術ガイダンス
 Target とAJOでパーソナライズされたエクスペリエンスを提供する方法
 
@@ -41,6 +41,6 @@ Target とAJOでパーソナライズされたエクスペリエンスを提供�
 
 * カスタマイズされた機能のために、同意、ID、Analytics などの特定の拡張機能を実装する。
 * Campaign Classicおよびメディアメッセージング用の拡張機能を設定します。
-* Assurance を活用して、データ収集プロセスのデバッグ、検証、シミュレーションを行います。
+* Assuranceを活用した、データ収集プロセスのデバッグ、検証、シミュレーション。
 
 これらの重要なポイントに焦点を当てることで、企業はモバイル戦略を強化し、ユーザーエンゲージメントを向上し、Adobeソリューションを効果的に使用してパーソナライズされたエクスペリエンスを提供できます。

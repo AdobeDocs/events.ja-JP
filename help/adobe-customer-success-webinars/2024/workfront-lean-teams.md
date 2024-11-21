@@ -1,6 +1,6 @@
 ---
 title: Adobe Workfrontによる効率の最大化 – リーンチームウェビナー
-description: 無駄のない方法論を通じて、業務の合理化と生産性の向上を目指す組織のための洞察に満ちた戦略と実践的なアプローチ。 業界の専門家がホストするこのウェビナーでは、リーン思考のコア原則とAdobe Workfront内での応用について詳しく説明します。主な論点 – リーン原理の理解​Workfrontを使用したリーンプロジェクト管理のサポート継続的な学習と適応
+description: 業界の専門家が提示する、Adobe Workfrontによるリーン方式を使用した生産性の向上とオペレーションの合理化に関する戦略と実践的なアプローチを確認します。
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---

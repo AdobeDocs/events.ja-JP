@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP - ソリューション機能へのユースケースのマッピング
-description: このウェビナーでは、ユースケースを調査して優先順位を付け、特定の RTCDP 機能にマッピングし、ビジネス成果と価値に確実に合致させる主な方法について説明します。 主要なディスカッションポイント – ユースケース RT-CDP は、ビジネス成果に固有のをについて解決し、優先順位を付けます​RT-CDP 機能を優先順位の付いたユースケースに合わせます
+description: このウェビナーでは、ユースケースを調査して優先順位を付け、特定の Real-time CDP 機能にマッピングし、ビジネス成果と価値に確実に合致させる主な方法について説明します。
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * 有料メディアリターゲティングやパーソナライゼーションなどのユースケースへの影響
 
-**Real-time CDP と DMPAudience Managerの比較**
+**Real-time CDP とDMP Audience Managerの比較**
 
 * データ取り込み、オーディエンス管理、データ出力構造に焦点を当てる
 

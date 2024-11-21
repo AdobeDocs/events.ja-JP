@@ -1,6 +1,6 @@
 ---
 title: Workfrontの習熟 – 成功のための戦略
-description: Adobe Workfrontを最大限に活用するための戦略で、チームを強化します。 このセッションでは、アドビのエキスパートが、価値を提供し、ガバナンスを簡素化し、導入を促進するベストプラクティスを順を追って説明します。主な話し合いポイント：ビジネスに価値を提供 – 作業を戦略的目標に合わせる際の考慮事項Workfrontのガバナンスの鍵 – 導入を成熟させつつ増分価値を提供する方法を学ぶエンドユーザーエクスペリエンスの最適化を通じて採用する方法をWorkfront確認する
+description: Adobe Workfrontを最大限に活用するための戦略で、チームを強化します。 このセッションでは、アドビのエキスパートが、価値を提供し、ガバナンスを簡素化し、導入を促進するベストプラクティスを順を追って説明します。
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2132
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16415
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: d14b344c-5b41-4e9c-bae1-02db12771b48
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # Workfrontのマスター：成功のための戦略
 

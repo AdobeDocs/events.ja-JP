@@ -1,6 +1,6 @@
 ---
 title: Expedia とリーディングブランドがAdobe AnalyticsからCustomer Journey Analyticsへと組織を進化
-description: adswerve のプリンシパルリードである Jake Winter、Expedia の Data Product Management 担当シニアマネージャーである Erika Ulmer、Adobeの Product Management 担当Directorの Ben Gaines、Adobeの Product Management 担当Directorの Trevor Paulsen が、組織の標準化に関する最初の経験をAdobe Customer Journey Analyticsと共有し、分析の次の進化について説明します。 分析の最新のトレンドとベストプラクティスに加え、Customer Journey Analyticsの活用に伴う課題と機会について説明します。 Analytics の専門家であれ、組織の分析機能の向上を目指すビジネスリーダーであれ、このウェビナーを見逃すことはありません。
+description: Adswerve、Expedia、Adobeの業界リーダーと共に、Adobe Customer Journey Analyticsを活用して組織分析を変革するためのインサイト、トレンド、ベストプラクティスを、この必須のウェビナーで紹介します。
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Adswerve のプリンシパルリードである Jake Winter、Expedia の Data 
 
 
 ## 重要な留意点
-
 
 * フィールドグループを使用したデータのモデリングや、ID とイベントの範囲の理解など、データの深い理解を得ます。
 * 過剰にCustomer Journey Analytics（CJA）の目的とメリットを関係者に伝え、個人がデータ駆動型の意思決定を行えるようにするトレーニングを提供します。

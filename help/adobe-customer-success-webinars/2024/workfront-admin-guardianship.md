@@ -1,6 +1,6 @@
 ---
 title: Workfront システムとグループ管理者の後見の基本
-description: Workfront インスタンスにおけるシステム管理者のグループ管理者に対する適切な割合、およびいくつかの鍵を王国に渡すことが、最初に認識した場合ほどリスクや恐ろしい必要がない理由を、適切に判断する方法を説明します。 この録画では、管理者スタッフの配置、管理ワークロードの分散、エンタープライズインスタンスにおけるデータの整合性とスケーラビリティの維持に関するベストプラクティスの概要を説明すると同時に、作業の一部を共有します。
+description: Workfront システムとグループ管理者の適切なバランスを判断し、ワークロードを分散し、データの整合性を維持して効率的かつ安全に企業を拡張するためのベストプラクティスについて説明します。
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Workfront システムとグループ管理者の後見の基本
 
