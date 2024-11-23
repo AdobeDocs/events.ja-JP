@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage チャンピオンの詳細 – Marketo API を使用したキャンペーン操作の自動化と効率化
+title: Marketo API を使用したキャンペーン操作の自動化と効率化
 description: Marketo API を使用してマーケティング業務を効率化する方法について、この詳しい説明では、電子メールニュースレターの作成、プログラムのトラッキング、重複の結合、プログラムコストの更新、プログラムのクローン作成などの繰り返しタスクを自動化し、戦略的な取り組みに集中する方法を説明します。
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -7,9 +7,9 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '339'
 ht-degree: 1%
 
 ---
