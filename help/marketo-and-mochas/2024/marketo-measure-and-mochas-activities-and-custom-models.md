@@ -1,19 +1,19 @@
 ---
 title: Marketo Measureと Mochas のアクティビティとカスタムモデル
-description: カスタムアトリビューションモデルとアクティビティアトリビューションを使用してAdobe Marketo Measureを最大限に活用するための戦略について説明します。 Adobeのエキスパートである Kate Colbert と James Leedom が、アトリビューションの重み付けの調整、CRM アクティビティからのタッチポイントの作成、セールスおよびマーケティングデータの調整の方法を説明します。 実際の例を確認し、ライブ Q&A セッションで質問に答えてもらいます。
+description: Adobeビジネスアドバイザーの Kate Colbert とカスタマーテクニカルアドバイザーの James Leedom が、Adobe Marketo Measureでカスタムアトリビューションモデルとアクティビティアトリビューションを活用する戦略を探索し、実際の例を示し、ライブ Q&A セッションで締めくくります。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4080
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15926
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 21a6d921-abe4-4787-b51f-f57faf669c1f
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measureと Mocha：アクティビティとカスタムモデル
 

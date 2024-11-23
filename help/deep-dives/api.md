@@ -1,6 +1,6 @@
 ---
 title: API
-description: AdobeMarketo API の使用方法、ベースライン接続の形成方法、山岳モーション拡張機能の利用方法および最初の API 呼び出し方法を説明します。 Webhook と API の違いについて説明し、ソリューションに最も適したツールを確認します。 権限セットの縮小を含む、セキュリティのベストプラクティスについて説明します。 クラウドとの統合、ストレージの活用、インポート/エクスポートタスク用の一括 API の機能の利用。
+description: 初めての API 呼び出しから読み込み/書き出しタスクでの一括 API の利用、Webhook と API の比較、データセキュリティとクラウド統合のベストプラクティスの学習まで、AdobeのMarketo API の可能性を最大限に活用しましょう。
 solution: Marketo Engage
 role: Admin, Architect, Developer, User
 level: Intermediate
@@ -10,9 +10,9 @@ jira: KT-13773
 thumbnail: 3422479.jpeg
 exl-id: 9620a016-8e4a-4cd9-9d63-2a731e0f226c
 duration: 3550
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '171'
 ht-degree: 1%
 
 ---

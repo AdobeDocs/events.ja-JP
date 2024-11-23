@@ -1,6 +1,6 @@
 ---
 title: Marketoと Mocha - リードスコアリング
-description: Marketo&モカスの最初のセッションでは、マーケティングオートメーションのビジネスアドバイザー、シンシア・チャンとケルヴィン・イエンが参加します。 このセッションでは、リードスコアリングのメリット、リードスコアリングモデルの設定、戦略およびレビュー方法について説明します。 Kelvin は、内でリードスコアリングモデルを設定する方法のライブデモを実行し  [!DNL Marketo Engage] 3 つの重要な留意点を結びます。 プレゼンテーションとデモには、ケルヴィンとシンシアとのライブ Q&A が付属しています。
+description: Marketo&モカスの Cynthia Chang と Kelvin Ieng が、戦略、セットアップ、Marketo Engageでのライブデモ、主要な留意点、ライブ Q&A を通じてリードスコアリングのメリットを説明します。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---

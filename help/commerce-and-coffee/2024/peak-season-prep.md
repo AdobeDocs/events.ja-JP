@@ -1,6 +1,6 @@
 ---
 title: Commerce&コーヒー – ピークシーズンの準備
-description: サイトをピークシーズンに合わせて適切に準備するために必要な知識がすべて、年間任意のタイミングで入手できます。 競争力を維持するだけでなく、競争に先立つ効果的な戦略。 Web サイトのパフォーマンスを最適化し、在庫を管理し、プロアクティブにカスタマーサポートを強化する方法について説明します。 また、コンバージョンを促進する効果的なマーケティングキャンペーンを計画し、注文を処理し、ピーク後のシーズンを分析してレポートすることでキャンペーンを分析するためのベストプラクティスについても説明します。
+description: Corey Gelato 氏のセッションでは、Web サイトのパフォーマンスの最適化、在庫の管理、AI ツールによる顧客エンゲージメントの強化、シーズン後の分析を活用してリテンションとロイヤルティを向上させることで、ピークシーズンに e コマース企業が成功するための戦略を提供します。
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce&amp;コーヒー：ピークシーズンの準備
 

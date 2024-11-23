@@ -1,6 +1,6 @@
 ---
 title: 新しい Discover ダッシュボード
-description: すべてのMarketo Measure インスタンスで利用できるようになった 9 つの新しい Discover ダッシュボードについて説明します。 これらの新しくリリースされたダッシュボードは、売上高、起因する売上高、ROI、エンゲージメント、リードベロシティ、商談速度、ウェブトラフィックなどの重要な指標にわたる動的な視点と強化されたインサイトを提供します。
+description: Adobeのシニアビジネスアドバイザーである Kate Colbert とテクニカルアドバイザーである James Leedom が、Marketo Measureの 9 つの新しい Discover ダッシュボードについて説明します。ライブデモと Q&A セッションで、売上高、ROI、エンゲージメント、リードベロシティなどの指標に関する動的なインサイトを提供します。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,5 @@ Adobeのシニアビジネスアドバイザーである Kate Colbert と、テ�
 * 新しいダッシュボードには、データセグメント化、タッチポイント抑制、マーケティングパフォーマンスを分析および追跡するための様々な指標およびビジュアライゼーションなどの機能が含まれています。
 * ボードは、売上高の概要、起因する売上高、ROI、リードパスポート、商談パスポート、ベロシティ、web トラフィック、エンゲージメントなど、様々な領域をカバーしています。
 * 特定のビジネスニーズとデータの精度に基づいてダッシュボードを設定することは、正確で有意義なインサイトを得るために重要です。
-* Discover ダッシュボードは、全体的なトレンド分析や ROI を把握するのに適しています。一方、Salesforce レポートはより詳細で、特定の個人やレコードに焦点を当てています。
+* Discover ダッシュボードは、全体的なトレンド分析や ROI において優れていますが、Salesforce レポートはより詳細で、特定の個人やレコードに焦点を当てています。
 * 「Data Warehouse」オプションを使用すると、より高度なデータ分析およびビジュアライゼーション機能が提供されます。

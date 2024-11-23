@@ -1,19 +1,19 @@
 ---
 title: Marketoとモカス – 成熟度パート 1 – 基盤の構築
-description: Adobeのビジネスアドバイザーである Cynthia Chang 氏と Carly Gaver 氏が、Marketoの成熟度カーブに関する貴重なインサイトを提供し、組織のMarketo利用の拡大をガイドします。
+description: Adobeのビジネスアドバイザーである Cynthia Chang 氏と Carly Gaver 氏が、Marketoの成熟度カーブを探索し、テクニカルセットアップの最適化、ベストプラクティスの実装、効果的なドキュメントとプラットフォームガバナンスの維持に関するインサイトを得て、プログラムテンプレートライブラリのライブデモを視聴します。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15907
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+exl-id: fc39cc75-a8b9-4398-a059-7a5fe947e296
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Marketo&amp;モカス：成熟度第 1 部 – 基盤の構築
 

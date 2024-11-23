@@ -1,6 +1,6 @@
 ---
 title: Marketoと Mocha – 成熟度パート 2 - Marketo使用の最適化
-description: Marketoの成熟度に関する 3 部構成のシリーズの第 2 部で、Marketoの使用状況の最適化に関するインサイトを得ることができます。 このセッションでは、まずデータ管理のベストプラクティスから始め、データ正規化とレコード管理を強化するデータディクショナリやシステムスマートリストなどのツールに焦点を当てます。 次に、統合のベストプラクティスの概要を、ネイティブの CRM 統合とサードパーティのプラグインの両方を強調して説明します。 また、アドビのビジネスアドバイザーが、パーソナライゼーションを改善し、ターゲットオーディエンスを拡大するためのプログラム最適化のヒントも共有します。
+description: Adobeのビジネスアドバイザーである Cynthia Chang と Carly Gaver が、Marketo Maturity シリーズの第 2 部で、データ管理、CRM 統合、キャンペーンの最適化に焦点を当て、ライブ Q&A を通じてMarketoの使用状況を強化します。
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Marketoと Mocha：成熟度パート 2 - Marketoの使用の最適化
 

@@ -1,6 +1,6 @@
 ---
 title: Marketo Engageを使用したグローバルマーケティングの解放 – Adobeチャンピオンの詳細 – 2024 年 8 月
-description: Marketo Engageを活用して複数の言語、国、事業部門、商品をサポートする準備が整ったら、この変革を適切な方法で開始することをお勧めします。 8 月の Deep Dive に参加して、グローバルマーケティングの取り組みの立ち上げ、維持、レポートという複雑さに関する包括的なガイドをご覧ください。 ワークスペースとパーティションを使用してデータとインスタンスを構造化する方法、世界中の様々な法的要件に準拠する方法、セグメント化、スニペット、動的コンテンツなどでキャンペーンをサポートする方法について説明します。
+description: 8 月のディープダイブに参加して、Marketo Engageでグローバルマーケティングを活用しましょう。データ構造化、法務コンプライアンス、セグメント化によるキャンペーンサポート、スニペット、動的コンテンツなどをカバーし、複数のブランドとインスタンス向けのワークスペースとパーティションの最適化に関するインサイトを得ることができます。
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
+exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Engageを使用したグローバルマーケティングの解放 – Adobeチャンピオンの詳細 – 2024 年 8 月
 

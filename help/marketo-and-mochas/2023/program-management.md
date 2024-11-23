@@ -1,6 +1,6 @@
 ---
 title: Marketoと Mocha - プログラム管理のベストプラクティス
-description: プログラムは、Marketoで最も重要な要素の 1 つです。 フォルダーの設定、命名規則の操作、メンバーの検索、プログラムのステータスの確認などを行う場合でも、ベストプラクティスの管理に関心がある場合でも、  プログラムライブラリテンプレートとクリエイティブアセットの最新の更新、プログラム管理のベストプラクティスの共有、デモ。
+description: プログラムライブラリテンプレート、クリエイティブアセット、ベストプラクティスデモンストレーションの最新のアップデートにより、フォルダーの設定、命名規則、メンバーの検索、プログラムのステータスチェックなど、Marketo プログラムの基本的な要素について説明します。
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
@@ -12,9 +12,9 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---

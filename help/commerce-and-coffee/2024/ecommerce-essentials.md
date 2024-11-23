@@ -1,6 +1,6 @@
 ---
 title: Commerceとコーヒー – E コマースの基本事項の習得
-description: このセッションでは、シニア Commerce戦略コンサルタントの Corey Gelato が、Adobe Commerceでの e コマースの成功に不可欠な要素について説明します。 カスタマイズプロモーションを簡単に作成し、顧客のロイヤルティプログラムを活用して、顧客体験をパーソナライズしながらコンバージョンを促進する方法を説明します。 支払い方法と配送業者をネイティブでサポートし、支払いと配送を最適化する方法の概要を説明します。 また、コーリーは、手動での編成からより自動化されたスマート製品の割り当てまで、カテゴリマーチャンダイジング技術のライブデモと、コンテンツおよび顧客管理のベストプラクティスを紹介します。
+description: Corey Gelato のセッションでは、Adobe Commerceの e コマースの基本事項を取り上げ、パーソナライズされたマーチャンダイジング、ロイヤルティプログラム、最適化された支払いと配送、効果的なマーケティングキャンペーンなどの戦略を重点的に解説し、顧客エンゲージメント、リテンション、コンバージョンを促進します。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
 exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

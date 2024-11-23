@@ -1,8 +1,8 @@
 ---
 title: スケーラビリティのための PMCF フィールドの活用
-description: ここでは、スケーラビリティのためのMarketoでのプログラムメンバーカスタムフィールド（PMCF）の使用について説明します。 このセッションでは、PMCF の定義、目的、ルールおよびユースケースについて説明します。 PMCF を使用してデータを変更、情報を参照し、ウェビナーの UTM パラメーターなどの一意のイベントデータを追跡するためのベストプラクティス。 全体的に、PMCF は、Marketoで複雑なマーケティングプログラムを管理および拡張しようとしているマーケターにとって貴重なツールです。
+description: Marketo チャンピオンの詳細ビデオで説明されているように、データ管理、パーソナライズされたコミュニケーション、正確なレポートのベストプラクティスなど、スケーラビリティのためにAdobe Marketo Engageのプログラムメンバーカスタムフィールド（PMCF）を活用する方法について説明します。
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # スケーラビリティのための PMCF フィールドの活用
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 * プログラムレベルでコンテキストデータを許可します。
 * プログラムあたり 20 個のカスタムフィールドを作成する制限。
 * データのインポートメソッド：リストのインポート、フォームへの入力、フローステップ。
-* データの一貫性を保つために Salesforce キャンペーンメンバーと同期します。
+* データの一貫性を保つために、Salesforce キャンペーンメンバーと同期します。
 * パーソナライズされたコミュニケーションのためのメール、ランディングページ、アラートでの使用。
 * プログラム固有のデータのトラッキング、分析、レポート機能を強化します。
 

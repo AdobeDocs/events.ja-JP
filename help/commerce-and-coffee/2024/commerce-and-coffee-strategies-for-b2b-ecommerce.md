@@ -1,19 +1,19 @@
 ---
 title: B2B e コマースのCommerceとコーヒー戦略
-description: このセッションでは、Commerceシニア戦略コンサルタントの Corey Gelato が、Adobe Commerceのネイティブ B2B 機能を最大限に活用するための戦略について説明します。
+description: Corey Gelato 氏は、セルフサービスオプション、Shared Catalog、Quote、クイックオーダーなど、Adobe Commerceのネイティブ B2B 機能を最大限に活用するための戦略に焦点を当てるとともに、成長を促す主要な e コマースのトレンドを探索し、B2B ビジネスを成功に導くためのポジショニングを立てます。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3568
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15908
-source-git-commit: 332855765dd58d837ae0daaf73a5227ee44153ec
+exl-id: 3b43fbb1-cc8f-4ac7-85bb-e1f410722edc
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Commerceとコーヒー：B2B e コマースの戦略
 

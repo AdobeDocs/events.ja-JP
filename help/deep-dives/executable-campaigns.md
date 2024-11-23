@@ -1,6 +1,6 @@
 ---
 title: 実行可能なキャンペーン – 実行可能なキャンペーンによって効率と効果を高める方法を説明します
-description: このセッションは、Marketo 管理者とキャンペーン運営のプロフェッショナル向けにカスタマイズされており、実行可能なキャンペーンを把握し、導入して、キャンペーンとプログラムに価値を付加し、効率を高め、成長を促進することに重点を置いています。
+description: このAdobeチャンピオンの Chris Willis、Courtny Edwards-Jones、Jane Musatova が、Marketoの実行可能なキャンペーンでプロセスを合理化し、データの精度を確保し、複雑なワークフローを自動化する方法を、実践的な例とエラーとバックログを最小限に抑える方法を詳しく説明します。
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,10 +9,10 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 6%
+source-wordcount: '479'
+ht-degree: 0%
 
 ---
 

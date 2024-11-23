@@ -1,6 +1,6 @@
 ---
 title: Marketo&モカス – 鉛育成を支える基盤づくり
-description: ビジネスアドバイザーのシンシア・チャン氏とカーリー・ギャバー氏と共に、Adobe Marketo Engageでのリード育成の最大化に関するインサイトを共有しましょう。 リードの育成により、マーケターはチャネルをまたいで一貫してコミュニケーションを取ることができ、最初のインタラクションと購入の間のギャップを埋めることができます。 また、定義されたスケジュールで指定されたオーディエンスにコンテンツを配信できるエンゲージメントプログラムタイプについても説明します。 Marketo Engageプログラムを利用すると、マーケターは、パーソナライズされたコンテンツとエクスペリエンスを通じて、常時稼動のキャンペーンを作成し、リードや顧客を引き付けることができます。 また、Carly はライブデモをリードし、Marketo プログラムライブラリのベストプラクティステンプレートを使用したエンゲージメントプログラムの設定をガイドします。 いつものように、Q&A の際にもライブで質問にお答えします！
+description: ビジネスアドバイザーの Cynthia Chang と Carly Gaver が、Adobe Marketo Engageでのリード育成を最大化する方法、コンテンツ配信のエンゲージメントプログラムを探索する方法、ライブ Q&A を含むベストプラクティステンプレートを使用したエンゲージメントプログラムの設定に関するライブデモをご覧ください。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

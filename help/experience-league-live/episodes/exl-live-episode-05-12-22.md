@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizerを使用したプッシュ通知
-description: プッシュ通知は、モバイルアプリのユーザー、特にアプリを積極的に使用していないユーザーにいつでもリーチするのに役立ちます。Journey Optimizerは、プッシュをサポートしません（説明は 60～160 文字にする必要があります）
+description: このExperience Leagueライブエピソードでは、Adobe Journey Optimizerを使用したプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platformを使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。
 solution: Journey Optimizer
 kt: 10407
 feature: Push
@@ -9,10 +9,10 @@ event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
 duration: 2963
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 1f64d5c4388bbcb13256e188b540a7f932b4c9e6
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 25%
+source-wordcount: '169'
+ht-degree: 12%
 
 ---
 

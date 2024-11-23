@@ -1,6 +1,6 @@
 ---
 title: Adobe Marketo Engage チャンピオンの詳細 – Webhook を使用したデータ転送
-description: API の作成、テスト、デプロイの全体的手順が必要ない場合があります。 代わりに、Webhook を使用してセルフサービス方式で、CRM や他の統合システムへの様々なデータ転送を実行できます。 Darshil Shah と Josh Arrington が、この機能の使用方法を学び、すばやく効率を上げる方法を説明します。 モデレーター：John Grundy
+description: John Grundy 氏の監修による構造化データ処理、エラー管理、認証方法、CRM 統合や e コマースなどの実用的なユースケースについて、Darshil Shah 氏と Josh Arrington 氏が、Marketoで Webhook を使用してデータを効率的に転送する方法を説明します。
 feature: Webhooks, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,9 +9,9 @@ duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
 exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
-source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

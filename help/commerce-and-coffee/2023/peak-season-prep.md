@@ -1,6 +1,6 @@
 ---
 title: ピークシーズンの準備
-description: Corey Gelato は、ピークシーズンのベストプラクティスと戦略を深く掘り下げ、サイトで商品やサービスを成功かつ効果的に宣伝し、ピークシーズン中いつでも競争力を維持する方法を学びます。 コンテンツのステージングとプレビュー、プロモーション、カタログと買い物かごの価格ルールなどの機能のデモに続いて、Corey はライブ Q&A セッションで質問に答えます。
+description: Corey Gelato が、プロモーション、コンテンツのステージング、価格ルールなどのピークシーズン戦略を、ライブデモやエキスパートのヒントと共に探索し、e コマースサイトが一年中競争力を維持できるようにします。
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

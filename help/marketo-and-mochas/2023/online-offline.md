@@ -1,6 +1,6 @@
 ---
 title: オンラインチャネルとオフラインチャネル
-description: チャネルとサブチャネルの戦略的設定、オンラインとオフラインのチャネル管理に関する手順の概要、その仕組み、製品内デモを紹介し、アトリビューションのエキスパートが使用するベストプラクティスをレビューします
+description: Adobeのマーケティングオートメーションビジネスアドバイザーである Kate Colbert と Elizabeth Lundberg が、戦略的設定、ベストプラクティス、ライブ Q&A を取り上げ、Marketo Measure Attribution を使用したオンラインおよびオフラインチャネルの最適化に関する 90 分の詳細なセッションに参加します。
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
