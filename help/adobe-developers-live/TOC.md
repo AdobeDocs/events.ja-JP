@@ -2,9 +2,9 @@
 user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '801'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 4%
 # アドビ開発者ライブイベント {#adobe-developers-live-recordings}
 
 + [概要](overview.md)
++ 2024年 {#2024}
+   + {#nov2024} 年 11 月
+      + [AEM EDS への AI とPersonalizationの導入](2024/nov/ai-and-personalization.md)
+      + [AEM SitesのExtension Manager](2024/nov/extension-manager.md)
+      + [Web コンポーネントとのHTML](2024/nov/html-and-web-components.md)
+      + [ヘッドレス実装向けCommerce API の調整](2024/nov/commerce-api-headless.md)
 + 2023年 {#2023}
    + {#nov2023} 年 11 月
       + [オープニング キーノート](2023/november/keynote.md)
@@ -68,7 +74,7 @@ ht-degree: 4%
       + [結語](2022/february/closing-remarks.md)
    + 11 月 – ヘッドレス {#nov2022}
       + [概要](2022/november/overview.md)
-      + [Adobe Experience Manager as a Headless CMS](2022/november/headless-cms.md)
+      + [Adobe Experience Manager as a ヘッドレスCMS](2022/november/headless-cms.md)
       + [AEM Rockstar ヘッドレス](2022/november/rockstar.md)
       + [Next.JS アプリにコンテキスト内オーサリングとヘッドレスオーサリングを追加](2022/november/next-js.md)
       + [最初の React アプリを作成](2022/november/react-app.md)
