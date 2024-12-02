@@ -2,7 +2,7 @@
 user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
-source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
+source-git-commit: a27c81e245b1dae18bb62135ed2c9e4a60bc0694
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 4%
@@ -16,13 +16,13 @@ ht-degree: 4%
 + 2024年 {#2024}
    + {#nov2024} 年 11 月
       + [キーノート](2024/nov/keynote.md)
-      + [AEM Cloud Service] {#aem-cloud-service}
+      + AEM Cloud Service {#aem-cloud-service}
          + [AEM API とイベント](2024/nov/apis-eventing.md)
          + [AEM EDS への AI とPersonalizationの導入](2024/nov/ai-and-personalization.md)
          + [AEM CS での CDN およびWAFの設定](2024/nov/cdn-waf-aemcs.md)
          + [マジックボタンとその構築方法](2024/nov/magic-buttons.md)
          + [迅速な開発環境](2024/nov/rapid-development-environments.md)
-      + [AEM Sites] {#aem-sites}
+      + AEM Sites {#aem-sites}
          + [Edge Delivery Servicesへの実際のジャーニー](2024/nov/journey-to-edge-delivery-services.md)
          + [Edge Delivery Services:1 年間で 6 つの方法で向上](2024/nov/edge-delivery-services.md)
          + [AEM SitesのExtension Manager](2024/nov/extension-manager.md)
@@ -30,15 +30,15 @@ ht-degree: 4%
          + [Web コンポーネントとのHTML](2024/nov/html-and-web-components.md)
          + [200 の堀から伝わる物語](2024/nov/tales-200-trenches.md)
          + [ユニバーサルエディター、AEM オーサリングおよびEdge Delivery Services](2024/nov/universal-editor-eds.md)
-      + [AEM Assets] {#aem-assets}
+      + AEM Assets {#aem-assets}
          + [Assets移行ブループリント](2024/nov/asset-migration-blueprint.md)
          + [パフォーマンスの高い配信のベストプラクティス](2024/nov/performant-delivery.md)
          + [Open API でのDynamic Mediaの使用](2024/nov/dynamic-media-open-api.md)
-      + [AEM Forms] {#aem-forms}
+      + AEM Forms {#aem-forms}
          + [EdgeのForms!](2024/nov/forms-on-the-edge.md)
-      + [Cloud Manager] {#cloud-manager}
+      + Cloud Manager {#cloud-manager}
          + [Cloud Managerによる DevOps の合理化](2024/nov/dev-ops-cloud-manager.md)
-      + [Adobe Commerce] {#commerce}
+      + Adobe Commerce {#commerce}
          + [統合スターターキットを含んだAdobe Commerce](2024/nov/back-office-integrations.md)
          + [AEM Assetsと GenAI のCommerce](2024/nov/commerce-aem-assets-gen-ai.md)
          + [Edge Delivery ServicesとAdobe Commerce](2024/nov/commerce-storefront-eds.md)
