@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [Real-time Customer Data Platformの概要](2024/getting-started-rtcdp.md)
    + [顧客体験のための AI の活用](2024/ai-customer-experience.md)
    + [リーン チームとCustomer Journey Analytics](2024/lean-teams-cja.md)
+   + [Adobe Admin Consoleの習得](2024/adobe-admin-console.md)
    + [Cookie とデータプライバシーのマスター](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
    + [Hyperpersonalization](2024/hyperpersonalization.md)
@@ -39,6 +40,9 @@ ht-degree: 0%
    + [Real-time Customer Data PlatformとMarketoの統合](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platformへの移行への対応](2024/rtcdp-migration-readiness.md)
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
+   + [認証の効率化](2024/streamline-authentication.md)
+   + [データからアクションへの変換](2024/turning-data-into-action.md)
+   + [Edge サービスのパワーの解放](2024/edge-delivery-services.md)
    + [ソリューションの機能へのユースケースのマッピング](2024/use-case-mapping.md)
    + [Web SDK 移行の基本事項](2024/web-sdk-migration.md)
 
