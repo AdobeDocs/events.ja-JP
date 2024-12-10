@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 + [Adobeカスタマーサクセスウェビナー](overview.md)
 + 2024年 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
+   + [Adobe Targetの AI 駆動型Personalization](2024/ai-personalization.md)
    + [Adobe Workfront - リーンチーム](2024/workfront-lean-teams.md)
    + [Adobe Workfrontの達人](2024/workfront-mastery.md)
    + [AEM オーサリングの主要概念](2024/aem-authoring-concepts.md)
@@ -22,6 +23,7 @@ ht-degree: 0%
    + [お客様のユースケース向けの AEP アプリケーションサービス統合](2024/aep-apps-services-integrations.md)
    + [AEP のユースケースの計画](2024/aep-use-case-planning.md)
    + [AI を活用したコピーライティング](2024/ai-copywriting.md)
+   + [基本的な分析機能から中間的な分析機能](2024/basic-to-intermediate-analysis-capabilities.md)
    + [データストリームの優先順位付け](2024/data-stream-prioritization.md)
    + [Edge NetworkとモバイルPersonalization](2024/edge-network-mobile-personalization.md)
    + [効果的な変更管理](2024/effective-change-management.md)
@@ -31,16 +33,17 @@ ht-degree: 0%
    + [Adobe Journey Optimizer Analysis の概要](2024/getting-started-ajo-analysis.md)
    + [Real-time Customer Data Platformの概要](2024/getting-started-rtcdp.md)
    + [顧客体験のための AI の活用](2024/ai-customer-experience.md)
+   + [Hyperpersonalization](2024/hyperpersonalization.md)
+   + [Journey Optimizer モバイルの機能](2024/journey-optimizer-mobile-capabilities.md)
    + [リーン チームとCustomer Journey Analytics](2024/lean-teams-cja.md)
    + [Adobe Admin Consoleの習得](2024/adobe-admin-console.md)
    + [Cookie とデータプライバシーのマスター](2024/mastering-cookies-data-privacy.md)
-   + [Target Personalization](2024/target-personalization.md)
-   + [Hyperpersonalization](2024/hyperpersonalization.md)
-   + [Journey Optimizer モバイルの機能](2024/journey-optimizer-mobile-capabilities.md)
+   + [コンテンツのサプライチェーンに対する組織の対応](2024/organizational-readiness-content-supply-chain.md)
    + [Real-time Customer Data PlatformとMarketoの統合](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platformへの移行への対応](2024/rtcdp-migration-readiness.md)
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
    + [認証の効率化](2024/streamline-authentication.md)
+   + [Target Personalization](2024/target-personalization.md)
    + [データからアクションへの変換](2024/turning-data-into-action.md)
    + [Edge サービスのパワーの解放](2024/edge-delivery-services.md)
    + [ソリューションの機能へのユースケースのマッピング](2024/use-case-mapping.md)
