@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 49b386b6729419261265a3d022a87df77f294137
+source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops" title="2024.11.0 AEM リリースの概要" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM リリースの概要" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM リリースの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -86,7 +86,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM リリースの概要">2024.10.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの技術革新に重点を置いており、次のものが含まれます。AEM Assets Assets Ultimate および Asset PrimeAEM Cloud Serviceを使用したAEM Assetsの新しい価格とパッケージ化より多くの宛先への転送ログ ビジネスユーザー向けのパイプラインを使用しない URL リダイレクト ​ RDE がサポートされる設定パイプライン YAML​ インタラクティブ AEM Developer Console</p>
+                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの技術革新に重点を置いており、次のものが含まれます。AEM Assets Assets Ultimateおよび Asset PrimeAEM Cloud Serviceを使用したAEM Assetsの新しい価格とパッケージ化より多くの宛先への転送ログ ビジネスユーザー向けのパイプラインを使用しない URL リダイレクト ​ RDE がサポートされます設定パイプライン YAML​ インタラクティブ AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
