@@ -2,9 +2,9 @@
 user-guide-title: Experience Cloudテクニカルセッション
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloudテクニカルセッションは、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '123'
 ht-degree: 15%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 15%
 + [Experience Cloudテクニカルセッション](overview.md)
 + 2024年 {#2024}
    + Real-Time Content Data Platform {#rtcdp-office-hours-2024}
+      + [AEP Web SDKのトラブルシューティング](2024/aep-web-sdk-troubleshooting.md)
       + [AI アシスタント](2024/ai-assistant.md)
       + [Real-Time Content Data Platform のタイミング](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
