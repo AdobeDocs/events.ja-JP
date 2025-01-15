@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
    + [リーン チームとCustomer Journey Analytics](2024/lean-teams-cja.md)
    + [Adobe Admin Consoleの習得](2024/adobe-admin-console.md)
    + [Cookie とデータプライバシーのマスター](2024/mastering-cookies-data-privacy.md)
+   + [順次論理の習得](2024/sequential-logic.md)
    + [コンテンツのサプライチェーンに対する組織の対応](2024/organizational-readiness-content-supply-chain.md)
    + [Real-time Customer Data PlatformとMarketoの統合](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platformへの移行への対応](2024/rtcdp-migration-readiness.md)
@@ -47,7 +48,7 @@ ht-degree: 0%
    + [データからアクションへの変換](2024/turning-data-into-action.md)
    + [Edge サービスのパワーの解放](2024/edge-delivery-services.md)
    + [ソリューションの機能へのユースケースのマッピング](2024/use-case-mapping.md)
-   + [Web SDK 移行の基本事項](2024/web-sdk-migration.md)
+   + [Web SDKの移行の基本事項](2024/web-sdk-migration.md)
 
 + 2023年 {#2023}
    + [大規模なPersonalizationの基盤の構築](2023/personalization-at-scale.md)

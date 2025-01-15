@@ -8,17 +8,18 @@ doc-type: Event
 duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # 何でも質問する
 
 Corey と Agbi は、ライブで質問に回答するだけでなく、登録者からの質問にも回答し、ベストプラクティスを共有し、お客様が年を通じて成功できるようAdobe Commerceで機能を示しました。
+
 >[!VIDEO](https://video.tv.adobe.com/v/3437034/?learn=on&enablevpops)
 
 ## キーポイント
