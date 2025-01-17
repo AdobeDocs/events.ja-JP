@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League イベント録画
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Adobeエンタープライズ製品の使用時に役立つイベント録画のコレクション
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 12%
+source-wordcount: '428'
+ht-degree: 11%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 12%
    + [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM チャンピオンの営業時間 ](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce イベント ](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
-   + [ ビールの裏で ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [ ビールの裏で ](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
    + [Commerceとコーヒー ](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja)
-   + [ データドリップ ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [ データドリップ ](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
    + [ ディープダイブ ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
-   + [ エスプレッソス&amp;Experience Manager](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [ エスプレッソス&amp;Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
    + [Experience Cloudテクニカルセッション ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience Managerの宝石 ](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -38,7 +38,7 @@ ht-degree: 12%
    + [Marketoとモカ ](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [ スキルビルダー ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [ スキル交換 ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
-   + [Workfrontで目を覚ます ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [Workfrontで目を覚ます ](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + ソリューション {#solution} 別
    + Acrobat Sign {#as}
@@ -49,6 +49,7 @@ ht-degree: 12%
       + [Experience Leagueライブ ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + Adobe Analytics {#aa}
       + [Adobeカスタマーサクセスウェビナー ](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
+      + [ データドリップ ](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
       + [Experience Cloudテクニカルセッション ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience Leagueライブ ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [ 他のユーザーから学ぶ ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -64,6 +65,7 @@ ht-degree: 12%
       + [Adobe Commerce製品のアップデート ](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
       + [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [APAC Commerce イベント ](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+      + [ ビールの裏で ](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
       + [Commerceとコーヒー ](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [Experience Cloudテクニカルセッション ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ スキルビルダー ](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
@@ -74,6 +76,7 @@ ht-degree: 12%
       + [Adobe コンテンツ管理フォーラム ](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [AEM チャンピオンの営業時間 ](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
+      + [ エスプレッソス&amp;Experience Manager](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
       + [Experience Cloudテクニカルセッション ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience Leagueライブ ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Experience Managerの宝石 ](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -111,4 +114,5 @@ ht-degree: 12%
       + [Experience Cloudテクニカルセッション ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [ 他のユーザーから学ぶ ](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [ スキル交換 ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
+      + [Workfrontで目を覚ます ](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
