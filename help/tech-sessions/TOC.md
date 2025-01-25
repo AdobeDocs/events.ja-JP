@@ -2,7 +2,7 @@
 user-guide-title: Experience Cloudテクニカルセッション
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloudテクニカルセッションは、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 15%
@@ -43,5 +43,3 @@ ht-degree: 15%
    + Workfront {#workfront-office-hours}
       + [重複する連絡先の修正](2023/workfront-fix-duplicate-contacts.md)
       + [プルーフ承認レポート](2023/workfront-proof-approval-reports.md)
-
-
