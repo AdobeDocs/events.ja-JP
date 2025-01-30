@@ -1,23 +1,23 @@
 ---
-title: Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得
-description: Andy Powers のセッションで取り上げているように、基本的な側面、実践的な例、ビジネスアプリケーションを備えたCustomer Journey Analyticsにおけるシーケンシャルロジックと分析（CJA）をマスターします。
+title: Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 基盤
+description: Andy Powers のセッションで取り上げたとおり、基礎的な側面、実践的な例、ビジネスアプリケーションを備えた AA と CJA でのマスターの順次セグメント化とフィルター。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # AA と CJA での順次ロジックの習得：基盤
 
-Adobe AnalyticsとCustomer Journey Analyticsの THEN および関連する順次論理演算子の基礎的な理解を深めます。 シーケンシャル・ロジックにより、Adobe AnalyticsとCustomer Journey Analyticsの価値の高い分析が可能ですが、使用率が低く、多くの場合は誤解されています。 このウェビナーでは、これらの演算子がAnalysis Workspaceでどのように評価されるかの基礎を説明します。
+Adobe Analytics（順次セグメント）およびCustomer Journey Analytics（順次フィルター）の THEN および関連する順次論理演算子について、基本的に理解します。 シーケンシャル・ロジックにより、Adobe AnalyticsとCustomer Journey Analyticsの価値の高い分析が可能ですが、使用率が低く、多くの場合は誤解されています。 このウェビナーでは、これらの演算子がAnalysis Workspaceでどのように評価されるかの基礎を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
