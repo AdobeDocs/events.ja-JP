@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
 breadcrumb-title: AEM GEM イベント
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 1%
 # Experience Manager GEMS イベント {#experience-manager-gems-recordings}
 
 + [概要](overview.md)
++ 2025 年 {#gems2025}
+   + [Adobe管理による CDN の概要](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024年 {#gems2024}
    + [AEM Sitesの機能のロック解除 – コンテンツ管理 API のマスター](gems2024/content-management-apis.md)
    + [AEMの迅速な開発環境の新機能](gems2024/rapid-development-environment-news.md)
@@ -45,7 +47,7 @@ ht-degree: 1%
 + 2018 {#gems2018}
    + [Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform-Experience Cloudの心臓部](gems2018/aem-acp.md)
-   + [リアルタイムで軽量：Adobe I/Oイベントを使用したAEMとのイベント駆動型統合の構築](gems2018/aem-adobe-io.md)
+   + [リアルタイムで軽量：Adobe I/O Eventsを使用したAEMとのイベント駆動型統合の構築](gems2018/aem-adobe-io.md)
    + [Adobe Developer（IO）イベント - Analytics トリガー](gems2018/aem-analytics-triggers.md)
    + [AEM オーサーのスケーラビリティの実験](gems2018/aem-author-scalability1.md)
    + [AEM コアコンポーネント](gems2018/aem-core-components.md)
@@ -56,8 +58,8 @@ ht-degree: 1%
    + [AEM クエリとインデックスのトラブルシューティング（続き）](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM SPAエディター](gems2018/aem-spa-editor.md)
    + [AEMのOak インデックスとしての Solr](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [SPA エディター SDK の詳細 – 第 1 部 – React](gems2018/spa-editor-sdk-deep-dive-react.md)
-   + [SPA Editor SDK の詳細 – 第 2 部 – angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
+   + [SPA エディターSDKの詳細 – 第 1 部 – react](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [SPA エディターSDKの詳細 – 第 2 部 – angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [AEMでの OSGi R7 の使用](gems2018/using-osgi-r7-in-aem.md)
 + 2017 {#gems2017}
    + [Brand Portal のメジャーリリースと、アセット共有の新しいリファレンス実装](gems2017/aem-brand-portal.md)

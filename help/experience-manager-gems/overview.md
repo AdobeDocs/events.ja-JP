@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: e9206a4e6fe5e866affdc298cf7f32fe7cb29752
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1372'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,42 @@ ht-degree: 0%
 * セッションに参加できなかった場合は、こちらで録画をご確認ください
 * AEM GEM は通常 1 時間で、15 分間の Q&amp;A が行われます
 
-## 2024 年のAEM GEM
+## 2025
+
+<!-- CARDS
+
+* gems2025/getting-started-adobe-managed-cdn.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM GEMs - Getting started with Adobe Managed CDN">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="gems2025/getting-started-adobe-managed-cdn.md" title="AEM GEM - Adobe管理 CDN の概要" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443168/?format=jpeg&nocache=1738357042293" alt="AEM GEM - Adobe管理 CDN の概要"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" title="AEM GEM - Adobe管理 CDN の概要">AEM GEM - Adobe管理 CDN の概要 </a>
+                    </p>
+                    <p class="is-size-6">新しい CDN 設定機能を使用してパフォーマンスとセキュリティを強化するために、AEM Cloud ServiceでAdobeが管理する CDN を設定する方法について説明します。</p>
+                </div>
+                <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 2024年
 
 <!-- CARDS
 * https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery
@@ -50,8 +85,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="AEM オーサリングとEdge Delivery Servicesの概要">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1731455287876" alt="AEM オーサリングとEdge Delivery Servicesの概要"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="AEM オーサリングとEdge Delivery Servicesの概要" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427919/?format=jpeg&nocache=1738357043803" alt="AEM オーサリングとEdge Delivery Servicesの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -59,12 +94,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" title="AEM オーサリングとEdge Delivery Servicesの概要">AEM オーサリングとEdge Delivery Servicesの概要 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" title="AEM オーサリングとEdge Delivery Servicesの概要">AEM オーサリングとEdge Delivery Servicesの概要 </a>
                     </p>
                     <p class="is-size-6">このAEM GEMs ウェビナーには、AEM オーサリングがEdge Delivery Servicesと連携してどのように機能するかを示す、プレゼンテーションとデモが含まれています。 AEM Cloud Service as a content source を使用したAEM オーサリングが有効な新しいEdge Delivery Servicesプロジェクトの作成プロセスを順を追って説明し、Edge Delivery Servicesに付属するリーンでアジャイルな開発エクスペリエンスを活用しながら、実務担当者のWYSIWYG オーサリングエクスペリエンスを維持する方法を示します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/aem-authoring-and-edge-delivery" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
@@ -73,8 +108,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEM - AEM Sitesのパワーのロック解除 – Content Management API のマスター">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1731455287892" alt="AEM GEM - AEM Sitesのパワーのロック解除 – Content Management API のマスター"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEM - AEM Sitesのパワーのロック解除 – Content Management API のマスター" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435036/?format=jpeg&nocache=1738357043849" alt="AEM GEM - AEM Sitesのパワーのロック解除 – Content Management API のマスター"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,12 +117,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" title="AEM GEM - AEM Sitesのパワーのロック解除 – Content Management API のマスター">AEM GEM - AEM Sitesのパワーのロック解除 – コンテンツ管理 API のマスター</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" title="AEM GEM - AEM Sitesのパワーのロック解除 – Content Management API のマスター">AEM GEM - AEM Sitesのパワーのロック解除 – コンテンツ管理 API のマスター</a>
                     </p>
                     <p class="is-size-6">Adobe Experience Manager（AEM）のコンテンツ API に関するウェビナーでは、コンテンツ管理と配信を強化するために、最新化された新しい API を導入しました。​Matthias、Catalina、Leonard、Prashant などの主要スピーカーが、構造化コンテンツ管理、最適化されたコンテンツ配信、自動翻訳プロセスなど、これらの API の機能を紹介しました。​主な機能には、新しい UI スキーマ機能、改善された参照処理、バッチリクエスト機能、高速なコンテンツ配信 API が含まれまし​。出席者は、Adobeの開発者向けドキュメントを通じてこれらの API を探索し、早期導入プログラムに参加して早期アクセスとダイレクトエンジニアリングサポートを受けることを奨励されました。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
@@ -96,8 +131,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="AEM AssetsとEdge Delivery Servicesの統合">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?quality=12&format=jpeg&nocache=1731455287893" alt="AEM AssetsとEdge Delivery Servicesの統合"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="AEM AssetsとEdge Delivery Servicesの統合" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433046/?format=jpeg&nocache=1738357043796" alt="AEM AssetsとEdge Delivery Servicesの統合"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -105,12 +140,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" title="AEM AssetsとEdge Delivery Servicesの統合">AEM AssetsとEdge Delivery Servicesの統合 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" title="AEM AssetsとEdge Delivery Servicesの統合">AEM AssetsとEdge Delivery Servicesの統合 </a>
                     </p>
                     <p class="is-size-6">このAEM GEMs ウェビナーでは、AEM Edge Delivery Servicesで構築されたサイトでAEM Assetsを使用する方法を説明します。  まず、開発者がAEM Assets リポジトリをサイトオーサリングフローに統合できる統合手順から始めます。 次に、サイト固有のオーサリング要件に基づいて、開発者が統合をカスタマイズする方法を示します。 また、Open API を搭載したAEM Dynamic Mediaを使用してアセットを配信する方法についても説明し、Dynamic Media Open API 機能を活用できるようにします。 さらに、実用的なユースケースとベストプラクティスについて詳しく説明し、この統合がサイトオーサリングフローでアセット管理ソリューションを活用するのにどのように役立つかについて包括的に説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-assets" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
@@ -119,8 +154,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="AEM Forms用Edge Delivery Servicesの概要">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1731455287893" alt="AEM Forms用Edge Delivery Servicesの概要"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="AEM Forms用Edge Delivery Servicesの概要" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428434/?format=jpeg&nocache=1738357043810" alt="AEM Forms用Edge Delivery Servicesの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,12 +163,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" title="AEM Forms用Edge Delivery Servicesの概要">AEM Forms用Edge Delivery Servicesの概要 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" title="AEM Forms用Edge Delivery Servicesの概要">AEM Forms用Edge Delivery Servicesの概要 </a>
                     </p>
                     <p class="is-size-6">Edge Delivery Servicesを使用してAEM Formsを作成および公開し、エッジ全体を通して例外的なエクスペリエンスとして提供する方法を説明します。 これらのフォームをオーサリングする方法として、ドキュメントベースのオーサリングとAEM ベースのオーサリングの 2 つを説明します。 Formsのブロックとコンポーネントをカスタマイズしたり、サーバーサイドEdge Delivery Servicesを使用したりするための、AEM Forms Extensions プロジェクトの設定方法について説明します。 また、送信後にFormsのバックエンド処理にAEM Formsのas a Cloud Serviceを活用する方法についても説明します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/edge-delivery-for-aem-forms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
@@ -142,8 +177,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1731455287900" alt="新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430198?format=jpeg&nocache=1738357043829" alt="新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -151,12 +186,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" title="新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上"> 新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" title="新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上"> 新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上 </a>
                     </p>
                     <p class="is-size-6">AEM デベロッパーは、新しく導入されたAssets Open API と、アドビが提供するクラウドネイティブな I/O イベントを探索できます。 これらの機能強化により、プロセス外のAEM拡張機能を作成できます。 このセッションでは、これらのツールを効果的に実装する方法を示します。 このデモでは、ワークフローを効率化、開発スピードを向上、継続的なメンテナンス作業を軽減する方法を開発者に示します。 さらに、実用的な使用例とベストプラクティスを掘り下げ、これらのイノベーションをどのように活用して開発プロセスを最適化できるかを包括的に理解します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
@@ -165,8 +200,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="AEM Cloud Managerでのプライベート GitHub リポジトリの統合">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1731455287891" alt="AEM Cloud Managerでのプライベート GitHub リポジトリの統合"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="AEM Cloud Managerでのプライベート GitHub リポジトリの統合" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432350?format=jpeg&nocache=1738357043823" alt="AEM Cloud Managerでのプライベート GitHub リポジトリの統合"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,12 +209,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" title="AEM Cloud Managerでのプライベート GitHub リポジトリの統合">AEM Cloud Managerのプライベート GitHub リポジトリの統合 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" title="AEM Cloud Managerでのプライベート GitHub リポジトリの統合">AEM Cloud Managerのプライベート GitHub リポジトリの統合 </a>
                     </p>
                     <p class="is-size-6">このAEM GEMs ウェビナーでは、Cloud Managerで独自のプライベート GitHub リポジトリを追加して、最大限に活用する方法について説明します。 リポジトリのオンボーディングから始めます。これにより、GitHub リポジトリをCloud Manager パイプラインに直接リンクできるようになり、コードをAdobeリポジトリと一貫して同期する必要がなくなります。 次に、この機能を使用してテストプロセスを左方向にシフトし、コードが結合される前にプルリクエストレベルでCloud Manager コード品質チェックを行う方法を紹介します。 これにより、AEM開発者は、開発サイクルの早い段階でCloud Manager ビルドに失敗する可能性のある問題を特定できます。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/private-github-for-aem-cloud-manager" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
@@ -188,8 +223,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="AEMの迅速な開発環境の新機能">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1731455287900" alt="AEMの迅速な開発環境の新機能"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="AEMの迅速な開発環境の新機能" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433337/?format=jpeg&nocache=1738357043868" alt="AEMの迅速な開発環境の新機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -197,12 +232,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" title="AEMの迅速な開発環境の新機能">AEMの迅速な開発環境の新機能 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" title="AEMの迅速な開発環境の新機能">AEMの迅速な開発環境の新機能 </a>
                     </p>
                     <p class="is-size-6">RDE を使用すると、デベロッパーは、ローカル開発環境での動作が証明済みの機能に要するテスト時間を最小限に抑え、変更を迅速にデプロイおよび確認できます。 このセッションでは、RDE を使用して開発中のターンアラウンド時間を短縮し、コード変更のフィードバックをほぼ瞬時に得る方法を説明します。 さらに、ログの改善やフロントエンドのサポートなど、最新の機能についても紹介します。 RDE でできることについて詳しく学び、次に追加したいことを教えてください。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/rapid-development-environment-news" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
@@ -211,8 +246,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Adobe Commerceを使用したEdge Delivery Services上のストアフロントの構築">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1731455287892" alt="Adobe Commerceを使用したEdge Delivery Services上のストアフロントの構築"
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Adobe Commerceを使用したEdge Delivery Services上のストアフロントの構築" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427729?format=jpeg&nocache=1738357043816" alt="Adobe Commerceを使用したEdge Delivery Services上のストアフロントの構築"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,12 +255,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" title="Adobe Commerceを使用したEdge Delivery Services上のストアフロントの構築">Adobe CommerceとのEdge Delivery Servicesにおける店舗構築 </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" title="Adobe Commerceを使用したEdge Delivery Services上のストアフロントの構築">Adobe CommerceとのEdge Delivery Servicesにおける店舗構築 </a>
                     </p>
                     <p class="is-size-6">このAEM GEMs ウェビナーでは、Adobe CommerceのEdge Delivery Servicesで高性能のストアフロントを構築する方法を説明します。 Commerce ボイラープレートを使用したプロジェクトの設定プロセスと、新しいCommerce SaaS サービスを使用してSensei UI を活用した商品カタログの統合を迅速に行う方法について説明します。 ストアフロント開発を高速化する、カスタマイズ可能なフロントエンドコンポーネントのセットであるドロップインコンポーネントを紹介します。 拡張およびスタイル設定の方法に関するベストプラクティスについて説明します。 最後に、新しいEdge Delivery オーサリング機能を紹介し、オーサリング済みコンテンツでCommerceのエクスペリエンスを強化します。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベント録画をご覧ください </span>
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/storefronts-on-edge-delivery-with-adobe-commerce" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
         </div>
