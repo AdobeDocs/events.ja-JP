@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 3%
+source-wordcount: '175'
+ht-degree: 4%
 
 ---
 
@@ -25,11 +25,16 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 
 <table>
 <tr>
-
-<td style="vertical-align: top;">
-    今後のExperience Leagueライブの予定は、こちらをご覧ください。
-    </br>
-    このページの左側にある目次から前のエピソードを選択します。
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
+      <img alt="Experience Leagueライブ 2 月 27 日" src="episodes/assets/WebBanner-02-27-25.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-27-25.md">
+        <strong>Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除 </strong>
+      </a>
+      <br/><em>Rudi Shumpert、Namita Krishnan、Huong Vu 付 </em>
+      <br/><em>2025 年 2 月 27 日 </em>
+    </div>
   </td>
 </tr>
 </table>
@@ -70,7 +75,7 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
       <img alt="Experience League LIVE EP8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong> これが、Analytics を Web SDK に移行する方法です </strong></a>
+      <a href="episodes/exl-live-episode-05-16-24.md"><strong> これが、Analytics を Web SDKに移行する方法です </strong></a>
       <br/><em> ミッチ・ライス、ジョー・コーリー、ダグ・ムーア </em>
       <br/><em>2024 年 5 月 16 日 </em>
     </div>

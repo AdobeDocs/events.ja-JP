@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '505'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 44:Adobe Experience Platformの AI アシスタントで運用インサイトを解放する](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Real-Time CDPでのマーケター向け AI オーディエンスの概要](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42:Adobe Journey Optimizerのコンテンツカードの公開](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41:Experience Platformで Federated Audience Composition を使用してオーディエンスを調和させる](episodes/exl-live-episode-40-2024-10-24.md)
@@ -28,7 +29,7 @@ ht-degree: 4%
    + [Ep. 39：モバイル分析アプリのレベルアップの準備はできていますか？](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38：夏物スポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37：最新のAdobe Real-Time CDP リリースがビジネスの方向性をどのように変えるか](episodes/exl-live-episode-06-26-24.md)
-   + [Ep. 36：これが、Analytics を Web SDK に移行する方法です](episodes/exl-live-episode-05-16-24.md)
+   + [Ep. 36：これが、Analytics を Web SDKに移行する方法です](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35:Journey Optimizerの新しいコードベースのエクスペリエンスチャネル](episodes/exl-live-episode-04-24-24.md)
    + [Ep. 34:Marketo Measureの新しい discover ダッシュボード](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33：新しいAdobe Campaign v8 UI による飛躍](episodes/exl-live-episode-02-29-24.md)
@@ -48,10 +49,10 @@ ht-degree: 4%
    + [Ep. 19：意思決定管理で適切なオファーを適切なタイミングで提供](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18:Adobe Journey Optimizerでキャンペーンを実行する](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17：よりパーソナライズされた顧客体験をリアルタイムで提供する](episodes/exl-live-episode-09-20-22.md)
-   + [Ep. 16：エキスパートに質問する – タグ（Launch）の便利な拡張機能は、Web SDK の超充電に役立ちます](episodes/exl-live-episode-08-23-22.md)
+   + [Ep. 16：エキスパートに質問する – タグ（Launch）の便利な拡張機能を使用して、web SDKを大幅に充電できます](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15: エキスパートに質問する – データストリームとデータ準備](episodes/exl-live-episode-07-21-22.md)
    + [Ep. 14：エキスパートへの質問 – RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
-   + [Ep. 13：エキスパートに質問する – Web SDK の基本](episodes/exl-live-episode-05-26-22.md)
+   + [Ep. 13：エキスパートに質問する – Web SDKの基本](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12:Journey Optimizerを使用したプッシュ通知](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11:AAMと Real-time CDP – これらのオーディエンスをどのように処理しますか。](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10: ヘッドフルからヘッドレス（およびその間のすべて）に対応するAEM](episodes/exl-live-episode-04-21-22.md)
