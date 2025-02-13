@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 72c55a817d1783da88dbb56027fde44debc1429f
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '82'
+ht-degree: 4%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 5%
 # Marketoとモカス {#marketo-and-mochas-recordings}
 
 + [概要](overview.md)
++ 2025 年 {#2025}
+   + [Marketoの 5 つの知っておくべき機能](2025/5-features-to-know.md)
 + 2024年 {#2024}
    + [何でも質問する](2024/ask-me-anything.md)
    + [成熟度パート 1 – 基盤の構築](2024/maturity-part1-foundation.md)
