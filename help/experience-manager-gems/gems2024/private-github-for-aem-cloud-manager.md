@@ -1,6 +1,6 @@
 ---
 title: AEM Cloud Managerでのプライベート GitHub リポジトリの統合
-description: このAEM GEMs ウェビナーでは、Cloud Managerで独自のプライベート GitHub リポジトリを追加して、最大限に活用する方法について説明します。 リポジトリのオンボーディングから始めます。これにより、GitHub リポジトリをCloud Manager パイプラインに直接リンクできるようになり、コードをAdobeリポジトリと一貫して同期する必要がなくなります。 次に、この機能を使用してテストプロセスを左方向にシフトし、コードが結合される前にプルリクエストレベルでCloud Manager コード品質チェックを行う方法を紹介します。 これにより、AEM開発者は、開発サイクルの早い段階でCloud Manager ビルドに失敗する可能性のある問題を特定できます。
+description: AEM GEMs ウェビナーでは、Cloud Managerにプライベート GitHub リポジトリを追加し、パイプラインに直接リンクし、コードを結合する前に左シフト式テストを使用してプルリクエストレベルで問題を特定する方法を説明します。
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## AEM Cloud Managerでのプライベート GitHub リポジトリの統合
 
-このAEM GEMs ウェビナーでは、Cloud Managerで独自のプライベート GitHub リポジトリを追加して、最大限に活用する方法について説明します。 リポジトリのオンボーディングから始めます。これにより、GitHub リポジトリをCloud Manager パイプラインに直接リンクできるようになり、コードをAdobeリポジトリと一貫して同期する必要がなくなります。 次に、この機能を使用してテストプロセスを左方向にシフトし、コードが結合される前にプルリクエストレベルでCloud Manager コード品質チェックを行う方法を紹介します。 これにより、AEM開発者は、開発サイクルの早い段階でCloud Manager ビルドに失敗する可能性のある問題を特定できます。
+このAEM GEMs ウェビナーでは、Cloud Managerで独自のプライベート GitHub リポジトリを追加して、最大限に活用する方法について説明します。 リポジトリのオンボーディングから始めます。オンボーディングでは、コードをAdobe リポジトリと一貫して同期する必要をなくすために、GitHub リポジトリをCloud Manager パイプラインに直接リンクできるようになりました。 次に、この機能を使用してテストプロセスを左方向にシフトし、コードが結合される前にプルリクエストレベルでCloud Manager コード品質チェックを行う方法を紹介します。 これにより、AEM開発者は、開発サイクルのより早い段階で、Cloud Manager ビルドに失敗する可能性のある問題を特定できます。
 
 ## 講演者
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 ## チャットエキスパート
 
 * Adobe、シニアエンジニアリングマネージャー、Dan Balescu
-* Adobe、プリンシパル製品マネージャー、Shankari Panchapakesan
+* Adobe、プリンシパルプロダクトマネージャー、Shankari Panchapakesan
 * Adobe、ソフトウェア開発エンジニア、Florin Stancu
 
 ## ウェビナー録画
@@ -43,6 +43,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* このウェビナーに関するウェビナー/トピック固有のコミュニティのインタラクションのExperience Leagueについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/4f1jhMo) を参照してください。
+>* Experience Leagueに関するこのウェビナー/トピック固有のコミュニティのインタラクションについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/4f1jhMo) を参照してください。
 >
 >* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。

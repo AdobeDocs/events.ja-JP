@@ -1,6 +1,6 @@
 ---
 title: AEMの迅速な開発環境の新機能
-description: RDE を使用すると、デベロッパーは、ローカル開発環境での動作が証明済みの機能に要するテスト時間を最小限に抑え、変更を迅速にデプロイおよび確認できます。 このセッションでは、RDE を使用して開発中のターンアラウンド時間を短縮し、コード変更のフィードバックをほぼ瞬時に得る方法を説明します。 さらに、ログの改善やフロントエンドのサポートなど、最新の機能についても紹介します。 RDE でできることについて詳しく学び、次に追加したいことを教えてください。
+description: このセッションでは、RDE を使用して変更を迅速にデプロイおよびレビューし、開発のターンアラウンドタイムを短縮し、ほぼ瞬時にフィードバックを提供する方法を説明します。 また、ログの改善やフロントエンドのサポートなどの新機能も紹介します。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---

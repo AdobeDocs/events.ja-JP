@@ -1,6 +1,6 @@
 ---
 title: AEM AssetsとEdge Delivery Servicesの統合
-description: このAEM GEMs ウェビナーでは、AEM Edge Delivery Servicesで構築されたサイトでAEM Assetsを使用する方法を説明します。  まず、開発者がAEM Assets リポジトリをサイトオーサリングフローに統合できる統合手順から始めます。 次に、サイト固有のオーサリング要件に基づいて、開発者が統合をカスタマイズする方法を示します。 また、Open API を搭載したAEM Dynamic Mediaを使用してアセットを配信する方法についても説明し、Dynamic Media Open API 機能を活用できるようにします。 さらに、実用的なユースケースとベストプラクティスについて詳しく説明し、この統合がサイトオーサリングフローでアセット管理ソリューションを活用するのにどのように役立つかについて包括的に説明します。
+description: AEM GEMs ウェビナーでは、AEM Edge Delivery Services上に作成されたサイトへのAEM Assetsの統合、統合のカスタマイズ、Open API を使用したAEM Dynamic Media を使用したアセットの配信、実践的なユースケースとベストプラクティスの検討について説明します。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
-source-git-commit: 866d6e9338d485ee48f526ec035574454090378e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 
 **講演者**
 
-* Satya Deep Maheshwari、プリンシパルサイエンティスト、Adobe
+* Adobe、プリンシパルサイエンティスト、Satya Deep Maheshwari 氏
 * Adobe、シニアコンピューターサイエンティスト、Ashutosh Shroti
 
 ## AEM AssetsとEdge Delivery Servicesの統合
 
-このAEM GEMs ウェビナーでは、AEM Edge Delivery Servicesで構築されたサイトでAEM Assetsを使用する方法を説明します。  まず、開発者がAEM Assets リポジトリをサイトオーサリングフローに統合できる統合手順から始めます。 次に、サイト固有のオーサリング要件に基づいて、開発者が統合をカスタマイズする方法を示します。 また、Open API を搭載したAEM Dynamic Mediaを使用してアセットを配信する方法についても説明し、Dynamic Media Open API 機能を活用できるようにします。 さらに、実用的なユースケースとベストプラクティスについて詳しく説明し、この統合がサイトオーサリングフローでアセット管理ソリューションを活用するのにどのように役立つかについて包括的に説明します。
+このAEM GEMs ウェビナーでは、AEM Edge Delivery Services上に構築されたサイトでAEM Assetsを使用する方法を説明します。  まず、開発者がAEM Assets リポジトリをサイトオーサリングフローに統合できる統合手順から始めます。 次に、サイト固有のオーサリング要件に基づいて、開発者が統合をカスタマイズする方法を示します。 また、Dynamic Media Open API 機能を活用できるよう、AEM Dynamic Media を使用してアセットを配信する方法についても説明します。 さらに、実用的なユースケースとベストプラクティスについて詳しく説明し、この統合がサイトオーサリングフローでアセット管理ソリューションを活用するのにどのように役立つかについて包括的に説明します。
 
 Experience Leagueに関するセッション固有のコミュニティのやり取りについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/3LSCVfX) を参照してください。
 

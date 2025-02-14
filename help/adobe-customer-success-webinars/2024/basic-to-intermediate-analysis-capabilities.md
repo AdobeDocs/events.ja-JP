@@ -1,6 +1,6 @@
 ---
 title: Adobe Analyticsと CJA のクイックスタート：基本的な分析から中間分析までの機能
-description: Kirsten Schaffer 博士が率いるセッション「基本的な中間分析機能のためのクイックスタート」では、堅牢な分析機能、ガバナンス、分析パスの設定、Adobe AnalyticsとCustomer Journey Analyticsの比較、分析の種類についての議論、データレポートのための唯一の情報源の重要性について説明しました。
+description: このセッションでは、分析機能の設定、Adobe AnalyticsとCustomer Journey Analyticsの比較、マーケティングレポートの主な機能について説明しました。
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analyticsと CJA：基本分析から中間分析までの機能のクイックスタート
 
@@ -34,13 +34,13 @@ Adobe AnalyticsとCustomer Journey Analytics（CJA）をすぐに使い始めて
 
 * **セッションコンテンツ**
    * このセッションでは、堅牢な分析機能の組織の設定、ガバナンス面、分析と customer journey analytics のパスの実行について説明します。
-   * 様々なAdobeソリューションを使用するタイミングと、デジタルインサイトに対するAdobeの推奨事項に関するディスカッション。
+   * 様々なAdobe ソリューションを使用するタイミングと、デジタルインサイトに対するAdobeの推奨事項に関するディスカッション。
 
 * **主なトピック**
    * **外部および内部の力** 市場のシフト、プライバシーとガバナンス、データの民主主義、データの複雑さなど、デジタル分析に影響を与える。
    * **堅牢な分析基盤の構築** 測定戦略、データ収集、インサイトと分析、学習、データガバナンス。
    * **デジタル分析チームの設定** 役割と責務、ハイブリッドチームの作成および分析リクエストの効率的な管理。
-   * **Adobeのイネーブルメントオプション** Experience League、オンデマンドコース、トレーナーベースのクラス、コミュニティサポート。
+   * **Adobe イネーブルメントオプション** Experience League、オンデマンドコース、トレーナーベースのクラス、コミュニティサポート。
 
 * **Adobe AnalyticsとCustomer Journey Analytics（CGA）の比較**
    * Adobe Analyticsは、デジタル分析の基盤です。
@@ -61,5 +61,5 @@ Adobe AnalyticsとCustomer Journey Analytics（CJA）をすぐに使い始めて
 * **Q&amp;A のハイライト**
    * コンポーネントと静的データスキーマについて説明します。
    * オフラインデータの説明。
-   * Adobe Analyticsから CGA への移行に関するRecommendations。
+   * Adobe Analyticsから CGA への移行に関する推奨事項。
    * データレポートのための単一の信頼できる情報源を定義することの重要性。

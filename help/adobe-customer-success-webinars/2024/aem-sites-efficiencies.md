@@ -1,6 +1,6 @@
 ---
 title: AEM Sitesの効率性 – パフォーマンスの最適化、設定、トラブルシューティング
-description: このセッションでは、Adobe Experience Manager（AEM） Sites の基本的なトラブルシューティングスキルを取り上げ、パフォーマンスの問題、複雑な設定、ユーザー権限に関する実践的なソリューションに焦点を当てます。
+description: AMP サイトの効率性に関するウェビナーでは、パフォーマンスの最適化、Dispatcher の設定、権限管理のベストプラクティス、パフォーマンス上の問題に対処するための戦略について説明しました。
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # AEM Sitesの効率性：パフォーマンスの最適化、設定およびトラブルシューティング
 
-このウェビナーでは、Adobe Experience Manager（AEM） Sites のトラブルシューティングの基本事項を説明します。 パフォーマンス上の問題が発生した場合でも、複雑な設定を扱う場合でも、このセッションでは、AEM環境を維持および最適化するための実践的なスキルを習得します。 スライドよりもライブデモの方が優先され、実際の課題に取り組む上での実践的な経験を提供します&#x200B;
+このウェビナーでは、Adobe Experience Manager（AEM） Sites のトラブルシューティングの基本事項を説明します。 パフォーマンス上の問題が発生した場合でも、複雑な設定を扱う場合でも、このセッションでは、AEM環境を維持管理し最適化するための実践的なスキルを身に付けることができます。 スライドよりもライブデモの方が優先され、実際の課題に取り組む上での実践的な経験を提供します&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: AEM Forms用Edge Delivery Servicesの概要
-description: Edge Delivery Servicesを使用してAEM Formsを作成および公開し、エッジ全体を通して例外的なエクスペリエンスとして提供する方法を説明します。 これらのフォームをオーサリングする方法として、ドキュメントベースのオーサリングとAEM ベースのオーサリングの 2 つを説明します。 Formsのブロックとコンポーネントをカスタマイズしたり、サーバーサイドEdge Delivery Servicesを使用したりするための、AEM Forms Extensions プロジェクトの設定方法について説明します。 また、送信後にFormsのバックエンド処理にAEM Formsのas a Cloud Serviceを活用する方法についても説明します。
+title: Edge Delivery Services for AEM Formsの概要
+description: Edge Delivery Servicesを使用してAEM Formsを作成および公開する方法を説明します。ドキュメントベースおよびAEM ベースのオーサリング、カスタマイズのためのプロジェクト設定、バックエンド処理のためのAEM Forms as a Cloud Serviceの活用について説明します。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,9 +10,9 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 このウェビナーは終了しました。以下の録画をご覧ください。
 
-## AEM Forms用Edge Delivery Servicesの概要
+## Edge Delivery Services for AEM Formsの概要
 
-Edge Delivery Servicesを使用してAEM Formsを作成および公開し、エッジ全体を通して例外的なエクスペリエンスとして提供する方法を説明します。 これらのフォームをオーサリングする方法として、ドキュメントベースのオーサリングとAEM ベースのオーサリングの 2 つを説明します。 Formsのブロックとコンポーネントをカスタマイズしたり、サーバーサイドEdge Delivery Servicesを使用したりするための、AEM Forms Extensions プロジェクトの設定方法について説明します。 また、送信後にFormsのバックエンド処理にAEM Formsのas a Cloud Serviceを活用する方法についても説明します。
+Edge Delivery Servicesを使用してAEM Formsを作成および公開し、エッジを通じて例外的なエクスペリエンスとして提供する方法を説明します。 これらのフォームをオーサリングする方法として、ドキュメントベースのオーサリングとAEM ベースのオーサリングの 2 つを説明します。 Formsのブロックとコンポーネントをカスタマイズしたり、サーバーサイド拡張機能を使用したりするための、AEM Forms Edge Delivery Services プロジェクトの設定方法について説明します。 また、送信後にFormsをバックエンド処理するためにAEM Forms as a Cloud Serviceを活用する方法についても説明します。
 
 ## 講演者
 
-* Adobe、Product Management Director、Arun Taneja
+* Adobe、製品管理ディレクター、Arun Taneja
 * Adobe、シニアエンジニアリングマネージャー、Vijay Kumar Jalagari
 
 ## ウェビナー録画

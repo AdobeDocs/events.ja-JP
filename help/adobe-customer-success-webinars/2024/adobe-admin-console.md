@@ -1,29 +1,29 @@
 ---
 title: Adobe Admin Consoleの習得
-description: Adobe Admin Consoleは、Adobeのエンタープライズソリューションを管理するための一元化されたプラットフォームです。ユーザーおよびライセンスの管理、セキュリティおよびコンプライアンス機能、サポートリソース、管理者の役割、スケーリングのベストプラクティス、およびオペレーションを合理化するための様々なシステムとの統合について説明します。
+description: Adobe Admin Consoleは、Adobe エンタープライズソリューションを管理するための一元的なプラットフォームであり、ユーザーおよび製品の管理、セキュリティとコンプライアンスに関する機能、サポートリソース、拡張性の高いベストプラクティスを提供します。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Admin Consoleの習得
 
-このウェビナーでは、Adobe Experience PlatformのAdobe Admin Consoleの操作の包括的な概要を説明します。 Admin Consoleの主要機能と他のAdobeソリューションとの統合について説明します。 さらに、ユーザーベースの拡大に合わせたAdmin Consoleオペレーションのスケーリングのベストプラクティスについて説明します。
+このウェビナーでは、Adobe Experience PlatformのAdobe Admin Consoleの操作の包括的な概要を説明します。 Admin Consoleの主要機能と他のAdobe ソリューションとの統合について説明します。 さらに、ユーザーベースの拡大に合わせたAdmin Console操作のスケーリングのベストプラクティスについて説明し、User Sync Tool の概要を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440937/?learn=on&enablevpops)
 
 ## 重要ポイント
 
-* **Adobe Admin Consoleの概要** このAdmin Consoleは、Adobeのエンタープライズ ソリューションを管理するための一元化されたプラットフォームであり、Creative Cloud、Document Cloud、およびExperience Cloudと統合されています。
+* **Adobe Admin Consoleの概要** Admin Consoleは、Adobe エンタープライズソリューションを管理するための一元化されたプラットフォームであり、Creative Cloud、Document CloudおよびExperience Cloudと統合されます。
 
 * **ユーザー管理** 管理者は、ユーザーの追加/削除、製品の割り当ておよびユーザーグループの管理を行うことができます。 また、安全にログインするための SSL 機能もサポートしています。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * **ユーザー同期ツール** ユーザー・プロビジョニングと製品アクセスを自動化し、LDAP との統合をサポートし、ユーザーのライフサイクルを管理します。
 
-* **Global Admin Console** 複数の組織が存在する組織の中央管理ハブとして機能し、リソースの配布と管理の合理化を実現します。
+* **Global Admin Console** 複数の組織が一元的な管理ハブとして機能するので、リソースの配布と管理の合理化が可能になります。
 
 * **設定と管理** コンソールでは、プライバシー、セキュリティ、ID、アセット共有、認証、暗号化の各設定に対して様々な設定をサポートしています。
 

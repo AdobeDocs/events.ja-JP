@@ -1,6 +1,6 @@
 ---
 title: AEM オーサリングとEdge Delivery Servicesの概要
-description: このAEM GEMs ウェビナーには、AEM オーサリングがEdge Delivery Servicesと連携してどのように機能するかを示す、プレゼンテーションとデモが含まれています。 AEM Cloud Service as a content source を使用してAEM オーサリングが有効な新しいEdge Delivery Servicesプロジェクトを作成するプロセスを順を追って説明します。また、Edge Delivery Servicesに付属するリーンでアジャイルな開発エクスペリエンスを活用しながら、実務担当者の WYSIWYG オーサリングエクスペリエンスを維持する方法を説明します。
+description: AEM GEM ウェビナーでは、AEM オーサリングと AEM との統合、Edge Delivery Services Cloud Service とのプロジェクトの作成、WYSIWYG オーサリングインターフェイスの保守について説明します。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
 exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## AEM オーサリングとEdge Delivery Servicesの概要
 
-このAEM GEMs ウェビナーには、AEM オーサリングがEdge Delivery Servicesと連携してどのように機能するかを示す、プレゼンテーションとデモが含まれています。 AEM Cloud Service as a content source を使用してAEM オーサリングが有効な新しいEdge Delivery Servicesプロジェクトを作成するプロセスを順を追って説明します。また、Edge Delivery Servicesに付属するリーンでアジャイルな開発エクスペリエンスを活用しながら、実務担当者の WYSIWYG オーサリングエクスペリエンスを維持する方法を説明します。
+このAEM GEMs ウェビナーには、AEM オーサリングがEdge Delivery Servicesと連携して動作する仕組みを示すプレゼンテーションとデモが含まれています。 AEM Cloud Service をコンテンツソースとして使用し、AEM オーサリングが有効な新しいEdge Delivery Services プロジェクトの作成プロセスを順を追って説明します。また、Edge Delivery Servicesに付属するリーンで機敏な開発エクスペリエンスを活用しながら、実務担当者によるWYSIWYG オーサリングエクスペリエンスを維持する方法を示します。
 
 ## 講演者
 
