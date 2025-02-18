@@ -1,19 +1,21 @@
 ---
-user-guide-title: Adobeカスタマーサクセスウェビナー
-breadcrumb-title: Adobeカスタマーサクセスウェビナー
-user-guide-description: Adobeのカスタマーサクセス主導のウェビナーは、AdobeのExperience Cloudに対する投資を最適化する際にお客様を支援するように設計されています。 価値を最大限に高め、Adobeソリューションの採用を増やすための貴重なインサイトを得ます。
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+user-guide-title: Adobe カスタマーサクセスウェビナー
+breadcrumb-title: Adobe カスタマーサクセスウェビナー
+user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
 
-# Adobeカスタマーサクセスウェビナー {#adobe-customer-success-webinar-recordings}
+# Adobe カスタマーサクセスウェビナー {#adobe-customer-success-webinar-recordings}
 
-+ [Adobeカスタマーサクセスウェビナー](overview.md)
++ [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 年 {#2025}
+   + [コンテンツ・サプライ・チェーンの基本](2025/content-supply-chain-basics.md)
+   + [効果的な測定を実現する方法の開発](2025/impactful-insights.md)
    + [顧客エンゲージメントの促進](2025/driving-customer-engagement.md)
    + [Personalizationとデータを通じたロイヤルティプログラムの強化](2025/enhance-loyalty-programs.md)
    + [順次論理の習得](2025/mastering-sequential-logic.md)
@@ -35,7 +37,7 @@ ht-degree: 0%
    + [Expedia がAdobe AnalyticsからCustomer Journey Analyticsに移行](2024/expedia-aa-to-cja.md)
    + [Workfront システムとグループ管理者の後見の基本](2024/workfront-admin-guardianship.md)
    + [Adobe Journey Optimizer Analysis の概要](2024/getting-started-ajo-analysis.md)
-   + [Real-time Customer Data Platformの概要](2024/getting-started-rtcdp.md)
+   + [Real-Time Customer Data Platformの概要](2024/getting-started-rtcdp.md)
    + [顧客体験のための AI の活用](2024/ai-customer-experience.md)
    + [Hyperpersonalization](2024/hyperpersonalization.md)
    + [Journey Optimizer モバイルの機能](2024/journey-optimizer-mobile-capabilities.md)
@@ -44,8 +46,8 @@ ht-degree: 0%
    + [Cookie とデータプライバシーのマスター](2024/mastering-cookies-data-privacy.md)
    + [順次論理の習得](2024/sequential-logic.md)
    + [コンテンツのサプライチェーンに対する組織の対応](2024/organizational-readiness-content-supply-chain.md)
-   + [Real-time Customer Data PlatformとMarketoの統合](2024/aep-marketo-integration.md)
-   + [Real-time Customer Data Platformへの移行への対応](2024/rtcdp-migration-readiness.md)
+   + [Real-Time Customer Data PlatformとMarketoの統合](2024/aep-marketo-integration.md)
+   + [Real-time Customer Data Platform 移行への対応](2024/rtcdp-migration-readiness.md)
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
    + [認証の効率化](2024/streamline-authentication.md)
    + [Target Personalization](2024/target-personalization.md)
@@ -58,7 +60,7 @@ ht-degree: 0%
    + [大規模なPersonalizationの基盤の構築](2023/personalization-at-scale.md)
    + [変更管理](2023/change-management.md)
    + [コンテンツとエクスペリエンス - Personalization](2023/content-experiences-personalization.md)
-   + [Customer Journey Analytics移行への対応](2023/cja-migration-readiness.md)
+   + [Customer Journey Analyticsへの移行への対応](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics統合の基本事項](2023/cja-integration-essentials.md)
    + [リアルタイムデータ収集およびアクティベーション戦略の開発](2023/data-collection-activation-strategy.md)
    + [効果的な測定戦略](2023/measurement-strategy.md)
@@ -66,5 +68,5 @@ ht-degree: 0%
    + [知能・計測の優先順位付け](2023/intelligence-and-measurement.md)
    + [Real-time CDP データ対応](2023/rtcdp-migration-data-readiness.md)
    + [Real-time CDP 移行への対応](2023/rtcdp-migration-readiness.md)
-   + [効果的なAudience Activation方法の設定](2023/audience-activation.md)
+   + [効果的なAudience Activation戦略の設定](2023/audience-activation.md)
    + [リアルタイム CDP への移行](2023/aam-to-rtcdp.md)
