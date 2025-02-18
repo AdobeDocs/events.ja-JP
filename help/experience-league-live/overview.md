@@ -1,6 +1,6 @@
 ---
-title: Experience Leagueライブイベント
-description: 以前のExperience Leagueライブイベントへのリンクのコレクション
+title: Experience League ライブイベント
+description: 以前のExperience League LIVE イベントへのリンクのコレクション
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 4%
@@ -17,22 +17,22 @@ ht-degree: 4%
 
 # Experience League LIVE
 
-Experience Leagueライブは、Experience Leagueチームが制作したライブストリーミング番組です。  Adobe製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで活用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
+Experience LeagueLIVE は、Experience Leagueチームが制作したライブストリーミング番組です。  Adobeの製品エキスパートとつながり、Adobe Experience Cloud アプリケーションで活用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
 <div id="upcoming-events">
 
-## 今後のExperience Leagueライブイベント
+## 今後のExperience League LIVE イベント
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience Leagueライブ 2 月 27 日" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 2 月 27 日" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>Adobe Experience Platformの AI アシスタントを使用した運用インサイトのロック解除 </strong>
       </a>
-      <br/><em>Rudi Shumpert、Namita Krishnan、Huong Vu 付 </em>
+      <br/><em> ダニエル・ライト、ナミタ・クリシュナン、フォン・ブー </em>
       <br/><em>2025 年 2 月 27 日 </em>
     </div>
   </td>
@@ -59,7 +59,7 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience Leagueライブ 4 月 21 日" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE 4 月 21 日" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
@@ -83,7 +83,7 @@ Experience Leagueライブは、Experience Leagueチームが制作したライ�
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="5 月 26 日（PT）Experience League" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League LIVE 5 月 26 日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">

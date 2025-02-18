@@ -1,13 +1,14 @@
 ---
 title: Adobe Experience Platformの AI アシスタントで運用インサイトを引き出す
-description: Adobeの製品エキスパートとの排他的なライブセッションに参加して、AI アシスタントがAdobe Experience Platformとそのプラットフォームベースのアプリケーションで生産性を高め、作業を再定義する方法を学びましょう。
+description: Adobeの製品エキスパートとのライブセッションにご参加ください。AI アシスタントを使用して、Adobe Experience Platformとそのプラットフォームベースのアプリケーションで、生産性を高め、作業を再定義する際に役立つ運用上のインサイトを活用する方法をご確認ください。
 kt: KT-17230
 solution: Experience Platform
 feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/fGgFwAOZle8
 event-start-time: 2025-02-27 08:30-8
 event-guests: Daniel Wright, Rudi Shumpert, Namita Krishnan, Huong Vu
-source-git-commit: c0d5ae4419c2e42322faa752a7cecca75f7c3aaf
+exl-id: d04e52e5-b6d0-4f9a-b6e6-f78e8f8cb7d0
+source-git-commit: 356cf28cdd2e8d6731ce58b4ae98267a73990582
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 # Adobe Experience Platformの AI アシスタントで運用インサイトを引き出す
 
-Adobeの製品エキスパートとの排他的なライブセッションに参加して、AI アシスタントがAdobe Experience Platformとそのプラットフォームベースのアプリケーションで生産性を高め、作業を再定義する方法を学びましょう。
+Adobeの製品エキスパートとのライブセッションにご参加ください。AI アシスタントを使用して、Adobe Experience Platformとそのプラットフォームベースのアプリケーションで、生産性を高め、作業を再定義する際に役立つ運用上のインサイトを活用する方法をご確認ください。
 
 このセッションでは、以下について説明します。
 
@@ -24,6 +25,6 @@ Adobeの製品エキスパートとの排他的なライブセッションに参
 * マーケティング業務からデータエンジニアやアーキテクトまで、組織全体のチームが AI アシスタントを通じて運用インサイトを活用する方法
 * Adobe Experience Platform ベースのアプリケーションで生産性を高め、ワークフローを再定義する、AI アシスタントの最新のイノベーションと機能
 
-[![ExL LIVE 2025 年 2 月 27 日 ](assets/WebBanner-02-27-25.jpg)](https://www.youtube.com/live/fGgFwAOZle8)
+[![ExL LIVE 2025 年 2 月 27 日 ](assets/WebBanner-Feb-27-2025.png)](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 **画像をクリックして、Youtube へのリマインダーを設定してください。**
