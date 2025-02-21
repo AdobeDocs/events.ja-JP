@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+source-git-commit: 2cf84ad56c96ca9e1355aa50e60d3f15124fc5bc
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,14 @@ ht-degree: 0%
 
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 年 {#2025}
+   + [Adobe デジタルインサイト](2025/adobe-digital-insights.md)
+   + [効果的な Web ページの構築](2025/build-effective-web-pages.md)
    + [コンテンツ・サプライ・チェーンの基本](2025/content-supply-chain-basics.md)
    + [効果的な測定を実現する方法の開発](2025/impactful-insights.md)
    + [顧客エンゲージメントの促進](2025/driving-customer-engagement.md)
    + [Personalizationとデータを通じたロイヤルティプログラムの強化](2025/enhance-loyalty-programs.md)
+   + [Personalizationの強化](2025/enhancing-personalization.md)
+   + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
    + [順次論理の習得](2025/mastering-sequential-logic.md)
 + 2024年 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
