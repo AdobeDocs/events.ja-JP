@@ -1,19 +1,19 @@
 ---
 title: 環境の最適化と保守
-description: Adobe Workfrontを使用した作業管理の最適化 – クリーンアップとチューンアップ戦略を使用して効率を向上させます
+description: 効率性、データ整合性、スケーラビリティに関するエキスパートのヒントを活用して、Adobe Workfrontを最適化できます。 ツール、戦略、継続的な改善プラクティスについて説明します。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3655
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17168
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+exl-id: 36805420-e73f-47f7-b853-f7df9a358b3d
+source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # 環境の最適化と保守
 
@@ -28,3 +28,56 @@ ht-degree: 0%
 Adobe Workfrontを使用して作業管理環境を更新およびアップグレードするこの機会をお見逃しなく。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443024/?learn=on&enablevpops)
+
+*講演者*
+
+* **Alana Cohen** Adobe シニアデジタルイベントマネージャー
+* **Samantha Miller** Adobeのビジネスアドバイザー。
+* **Marianne Erickson** Adobeビジネスアドバイザー。
+* **Aaron Baker** Work Front Expert、Q&amp;A の処理。
+
+## 議題
+
+* Adobe Work Front インスタンスを維持するメリット。
+* 各アジェンダ項目に従ったデモ。
+* 参加者を引き付けるために質問をポーリングします。
+
+
+## 重要ポイント
+
+セッションの焦点は、作業環境の最適化と維持でした。
+
+* **作業面を保持する利点**
+
+   * 運用効率。
+   * データの整合性、速度、正確性。
+   * 拡張性と拡張性。
+
+* **ツールと戦略**
+
+   * システム管理者リクエストキュー。
+   * システム管理者ダッシュボード。
+   * ペルソナ別のレイアウトテンプレート。
+   * システムメンテナンスと作業フロントでの使用のブループリント。
+
+* **継承されたインスタンスのチェックリスト**
+
+   * 新規または現在の管理者がインスタンスを理解し、最適化するのに役立つブループリント。
+
+* **オブジェクト階層**
+
+   * ポートフォリオ、プログラム、プロジェクト、タスクおよびイシューの理解と整理の重要性。
+
+* アクセス権限と共有権限**
+
+   * 権限の設定と管理の重要性。
+
+* **新しいホームエクスペリエンス**
+
+   * タスク、イシュー、リクエスト、承認を管理するためのカスタマイズ可能なスペース。
+
+* **継続的改善**
+
+   * 定期的なメンテナンスおよびクリーンアップの実施。
+   * システム監査ログの利用。
+   * 年次の監視およびメンテナンスプロジェクトを作成します。
