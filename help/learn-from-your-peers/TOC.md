@@ -1,10 +1,10 @@
 ---
-user-guide-title: 「[!DNL Experience Makers Learn from your peers]」
+user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
-user-guide-description: 「の録画コレクショ  [!DNL Experience Makers Learn from your peers]」
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
+source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '313'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 3%
    + {#sept2023} 年 9 月
       + [AEM Sitesのツールの詳細](experience-manager/sept2023/aem-sites-tools.md)
    + {#july2023} 年 7 月
-      + [Cloud Serviceにおける効果的なセキュリティ対策 ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [Cloud Serviceの効果的なセキュリティ戦略 ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + {#may2023} 年 5 月
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
@@ -52,9 +52,9 @@ ht-degree: 3%
    + 2024 年 7 月 {#july2024}
       + [マーケターのマップ：Marketo キャンペーンの戦略を立て、構築し、分析する](marketo/july2024/marketers-map-marketo-campaigns.md)
    + 2024 年 4 月{#april2024}
-      + [Marketo EngageREST API の実用的な用途](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+      + [Marketo Engage REST API の実用化](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
    + 2024 年 1 月 {#jan2024}
-      + [Marketo Engageで首位を取った人](marketo/jan2024/person-scoring-mastery.md)
+      + [Marketo Engageで首位を取った人物](marketo/jan2024/person-scoring-mastery.md)
    + 2023 年 11 月 {#nov2023}
       + [Marketo EngageとDynamic Chat](marketo/nov2023/dynamic-chat.md)
    + 2023 年 9 月 {#sept2023}
@@ -66,6 +66,9 @@ ht-degree: 3%
    + 2023 年 3 月 {#mar2023}
       + [コンテンツをスケ  [!DNL Adobe Marketo Engage]  ラブルにする方法](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
+   + 2025年 {#2025}
+      + {#february2025} 年 2 月
+         + [影響の特定 – Workfront値の測定方法と共有方法](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024年 {#2024}
       + {#april2024} 年 4 月
          + [Workfront システム管理業務のスタッフの配置](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
@@ -107,4 +110,4 @@ ht-degree: 3%
          + [Workfrontガバナンスとは](workfront/2022/03/what-is-workfront-governance.md)
       + {#february} 年 2 月
          + [ユーザー管理について](workfront/2022/02/understanding-user-management.md)
-+ [際立ったAdobeチャンピオンの申請書を送信する方法を学ぶ](./adobe-champion-application.md)
++ [際立ったAdobe チャンピオンの申請書を送信する方法を学ぶ](./adobe-champion-application.md)
