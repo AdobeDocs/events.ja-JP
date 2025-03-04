@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '75'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 4%
    + [インスタンスの継承](inheriting-an-instance.md)
    + [リード ライフサイクル](lead-lifecycles.md)
    + [スケーラビリティのための PMCF フィールドの活用](pmcf-fields.md)
+   + [Marketo forms とAEM Forms](marketo-forms-aem-forms.md)
    + [メールの配信品質の最大化](maximize-email-deliverability.md)
    + [少人数のチームでインスタンスを最大化](small-team-instance.md)
    + [アクティビティログでの複雑なプロセスの確認](activity-log.md)
