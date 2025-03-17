@@ -1,6 +1,6 @@
 ---
 title: MarketoのAdobe Admin Consoleへの移行 – （移行後）
-description: テクニカルセッションウェビナーに参加して、Adobe Admin Consoleでの新しいMarketo設定を習得しましょう。 Adobeのカスタマーエクスペリエンス & ID チームから、主な機能、ベストプラクティス、トラブルシューティングのヒントを学びます。 ユーザー、権限、設定の管理に関するインサイトを得て、移行後の一般的な質問に対する回答を得ます。 実際のソリューションに関するライブ Q&A や、ワークフローを最適化するための実用的なインサイトをお見逃しなく。
+description: Marketoのユーザー管理をAdobe Admin Consoleで一元化します。 ロール（システム、製品、プロファイル、サポート管理者）と ID タイプ（Adobe、Enterprise、Federated ID）を管理します。 シングルサインオン用の SSL の設定、ユーザー管理の処理、証明書の更新を 3 年ごとに行います。 ログインの問題などの一般的な問題に対処し、統合されたエクスペリエンスのためにディレクトリの信頼を使用します。 大きなユーザーのコンバージョンを 500 のバッチに分割します。 AdobeのExperience Leagueページから、セッションの録画にアクセスします。
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3194
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17534
-source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
+exl-id: d9ccabf4-5eff-4e07-a7ff-6509bb6ff3c8
+source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
-
 
 # MarketoのAdobe Admin Consoleへの移行 – 移行後
 
@@ -34,3 +34,39 @@ MarketoをAdobe Admin Consoleに移行したので、次は何をしますか？
 ワークフローを強化し、Marketoへの移行を最大限に活用するためのこの機会をお見逃しなく。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451635/?learn=on&enablevpops)
+
+## 重要ポイント
+
+* **Admin Consoleの目的** Marketoのユーザー、管理者、ID を、他のAdobe製品と連携させて一元的に管理します。
+
+* **Admin Consoleにおける役割**
+
+   * **システム管理者** フルアクセス
+   * **製品管理者** 特定の製品を管理します
+   * **プロファイル管理者** 特定のプロファイルを管理します
+   * **サポート管理者** サポートチケットを送信
+
+* **ID タイプ**
+
+   * **Adobe ID** 個人用アカウント
+   * **Enterprise ID** SSL なしで会社管理
+   * **Federated ID** シングルサインオン（SSL）
+
+* **シングルサインオン（SSL）** ディレクトリ設定、ドメイン追加、メタデータファイルのアップロードが必要です。
+
+* **User Management** Admin Consoleを介してユーザーと管理者を追加/削除し、CSV ファイルを使用してAdobe IDをFederated IDに変換します。
+
+* **サポートプロセス** Experience League Directory を使用してケースを送信します。「サポート管理者」の役割が必要です。
+
+* **よくある問題**
+
+   * 広告ブロッカー、ID タイプの不一致、SSL エラーなどによるログインの問題。
+   * パスワードを忘れた場合や、ネットワークパスワードの問題。
+
+* **証明書の更新** SSL 証明書は、Admin Consoleを使用して 3 年ごとに更新する必要があります。
+
+* **ユーザーグループ** 特定のツールのユーザーを整理します。ローカルで管理することも、Active Directory と同期することもできます。
+
+* **移行後の考慮事項** 製品間で一貫した ID タイプを確保します。統合されたユーザーエクスペリエンスのためにディレクトリの信頼を使用します。
+
+* **大規模なユーザーベース管理** 効率を高めるために、ユーザー変換を 500 のバッチに分割します。
