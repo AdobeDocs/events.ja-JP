@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 98c81f4400d80ca7991c9df94c3fa400600391c8
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 4%
 
 ---
@@ -25,10 +25,18 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 <table>
 <tr>
-<td>
-  今後のショーの詳細については、すぐにこのページに戻ってください。
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-10-25.md">
+      <img alt="Experience League LIVE 4 月 10 日" src="episodes/assets/WebBanner_Apr10_2025.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-04-10-25.md">
+        <strong> 待たずに…共同作業！ Real-Time CDP Collaborationの概要 </strong>
+      </a>
+      <br/><em> ニーナ・カルーソ、クレイトン・スミス、ダグ・ムーア </em>
+      <br/><em>2025 年 4 月 10 日 </em>
+    </div>
   </td>
-</tr>
+  </tr>
 </table>
 
 </div>

@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -21,10 +21,11 @@ ht-degree: 4%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 45：待たないで…共同作業！ Real-Time CDP Collaborationについて](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44:Adobe Experience Platformの AI アシスタントで運用インサイトを解放する](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Real-Time CDPでのマーケター向け AI オーディエンスの概要](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42:Adobe Journey Optimizerのコンテンツカードの公開](episodes/exl-live-episode-10-30-24.md)
-   + [Ep. 41:Experience Platformで Federated Audience Composition を使用してオーディエンスを調和させる](episodes/exl-live-episode-40-2024-10-24.md)
+   + [Ep. 41:Experience Platformの Federated Audience Composition を使用してオーディエンスを調和させる](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40:AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの力を解き放つ](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39：モバイル分析アプリのレベルアップの準備はできていますか？](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38：夏物スポットライト - Adobe Journey Optimizerの機能を試してみる 3 つの方法](episodes/exl-live-episode-08-28-24.md)
@@ -34,7 +35,7 @@ ht-degree: 4%
    + [Ep. 34:Marketo Measureの新しい discover ダッシュボード](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33：新しいAdobe Campaign v8 UI による飛躍](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32：ユースケースプレイブック、数クリックでユースケースをデプロイするセルフサービステンプレート](episodes/exl-live-episode-02-08-24.md)
-   + [Ep. 31:Adobe Analyticsのデータと分析のCustomer Journey Analytics化](episodes/exl-live-episode-01-17-24.md)
+   + [Ep. 31: Adobe Analytics データと分析のCustomer Journey Analyticsへの取り込み](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30:Adobe Real-Time CDPの上位 5 つの新機能を使用した 2024 年までのカウントダウン](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29:Real-Time CDPとAJOの行動イベントデータを最大限に活用する](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28:Workfrontリリースの詳細 – 新しいWorkfrontホーム](episodes/exl-live-episode-10-26-23.md)
@@ -51,18 +52,18 @@ ht-degree: 4%
    + [Ep. 17：よりパーソナライズされた顧客体験をリアルタイムで提供する](episodes/exl-live-episode-09-20-22.md)
    + [Ep. 16：エキスパートに質問する – タグ（Launch）の便利な拡張機能を使用して、web SDKを大幅に充電できます](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15: エキスパートに質問する – データストリームとデータ準備](episodes/exl-live-episode-07-21-22.md)
-   + [Ep. 14：エキスパートへの質問 – RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
+   + [Ep. 14：エキスパートに質問 – RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
    + [Ep. 13：エキスパートに質問する – Web SDKの基本](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12:Journey Optimizerを使用したプッシュ通知](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11:AAMと Real-time CDP – これらのオーディエンスをどのように処理しますか。](episodes/exl-live-episode-04-28-22.md)
-   + [Ep. 10: ヘッドフルからヘッドレス（およびその間のすべて）に対応するAEM](episodes/exl-live-episode-04-21-22.md)
+   + [Ep. 10：ヘッドフルからヘッドレス（およびその間のすべて）に対応するAEM](episodes/exl-live-episode-04-21-22.md)
    + [Ep. 9: AEMのすべての新しいリファレンスデモの紹介](episodes/exl-live-episode-02-03-22.md)
-   + [Ep. 8:Customer Journey Analytics：内側のスクープ](episodes/exl-live-episode-08.md)
-   + [Ep. 7:Adobe App Builderを使用したAEMの拡張](episodes/exl-live-episode-07.md)
+   + [Ep. 8:Customer Journey Analytics：インサイドスクープ](episodes/exl-live-episode-08.md)
+   + [Ep. 7: Adobe App Builderを使用したAEMの拡張](episodes/exl-live-episode-07.md)
    + [Ep. 6：デバイスではなく人物を測定](episodes/exl-live-episode-06.md)
    + [Ep. 5：迅速なサイト作成により、これまで以上に高速に運用を開始](episodes/exl-live-episode-05.md)
    + [Ep. 4：クリックしたのは誰ですか？ その後何をしましたか？](episodes/exl-live-episode-04.md)
    + [Ep. 3：ホリデーキャンペーンを目立たせるためのエキスパートのヒント](episodes/exl-live-episode-03.md)
    + [Ep. 2：次のオーディエンスセグメントを従来よりもスマートに](episodes/exl-live-episode-02.md)
-   + [Ep. 1:Adobe実装に関する 3 つのお気に入り  [!DNL Analytics]  ヒント](episodes/exl-live-episode-01.md)
-+ [Experience League ライブ Assets](exl-live-assets.md)
+   + [Ep. 1:Adobeの実装に関する 3 つのお気に入り  [!DNL Analytics]  ヒント](episodes/exl-live-episode-01.md)
++ [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
