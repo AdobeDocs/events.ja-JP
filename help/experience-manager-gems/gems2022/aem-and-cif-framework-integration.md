@@ -3,7 +3,7 @@ title: AEMとCIF フレームワークを統合し、リッチで没入感のあ
 description: アドビの CIF フレームワークを使用して、豊富なコンテンツを備えた一貫性のある没入型コマースエクスペリエンスを構築する方法を説明します。
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
@@ -11,7 +11,7 @@ level: Intermediate
 kt: 10220
 exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
 duration: 3561
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 9%
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 # AEMとCIF フレームワークを統合し、リッチで没入感のある e コマースエクスペリエンスを構築
 
-このAEM GEMs ウェビナーでは、AdobeのCIF フレームワークを使用して、一貫性があり、コンテンツに富んだ、没入感のあるコマースエクスペリエンスを構築する方法を、プレゼンテーションとデモを交えてご紹介します。 Experience ManagerとAdobe Commerceは、Commerce integration framework（CIF）を使用してシームレスに統合されています。 CIFを使用すると、AEMはAdobe Commerce GraphQL API を使用して、コマースインスタンスに直接アクセスしてやり取りできます（以下のアジェンダ概要をご覧ください）。
+このAEM GEM ウェビナーでは、AdobeのCIF フレームワークを使用して、一貫性があり、コンテンツに富んだ、没入感のあるコマースエクスペリエンスを構築する方法を、プレゼンテーションとデモを交えてご紹介します。 Experience ManagerとAdobe Commerceは、Commerce integration framework（CIF）を使用してシームレスに統合されています。 CIFを使用すると、AEMはAdobe Commerce GraphQL API を使用して、コマースインスタンスに直接アクセスして通信できます（以下のアジェンダ概要をご覧ください）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
@@ -30,7 +30,7 @@ ht-degree: 9%
 >
 >* [ 対応するAdobe Experience Manager ユーザーグループのイベントページ ](https://adobe.ly/3O0uXl5/)
 >* [ 対応するコンテキストスレッド ](https://adobe.ly/3jorz5r)
->* 今後のウェビナーの通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) にご登録ください。
+>* 今後のウェビナーの通知を受け取るには ](https://aem-augs.adobe.com/)[AdobeのAEM ユーザーグループ } にご登録ください。
 
 **概要レベルのアジェンダ：**
 
@@ -40,7 +40,7 @@ ht-degree: 9%
 
 * CIF コンポーネントライブラリ
 
-   * AEM CIFコアコンポーネント
+   * AEM CIF コアコンポーネント
 
    * PWA studio library react コンポーネント
 

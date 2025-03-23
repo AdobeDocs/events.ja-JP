@@ -1,8 +1,8 @@
 ---
-title: Cloud Serviceにおける効果的なセキュリティ戦略
-description: Adobe Experience Manager カスタマーチャンピオンの Rami El Gamal が、AEM Cloud Serviceのセキュリティのさまざまな側面について説明します。
+title: Cloud Serviceの効果的なセキュリティ戦略
+description: Adobe Experience Manager カスタマーチャンピオンの Rami El Gamal が、AEM Cloud Service のセキュリティのさまざまな側面について説明します。
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
 feature: Cloud Manager, Security, Learn From Your Peers
 topic: Security
@@ -14,16 +14,16 @@ jira: KT-13708
 thumbnail: KT-13708.jpeg
 exl-id: ffac5c39-a1db-4533-947f-609e4d8dc7b4
 duration: 3580
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Cloud Serviceオンデマンドウェビナーにおける効果的なセキュリティ対策
+# Cloud Service オンデマンドウェビナーでの効果的なセキュリティ戦略
 
-企業はクラウドベースのソリューションに移行しつつあり、デジタルエクスペリエンスのセキュリティを確保し、保護することが重要です。 Adobe Experience Manager カスタマーチャンピオンの Rami El Gamal が、AEM Cloud Serviceのセキュリティの様々な側面について説明します。
+企業はクラウドベースのソリューションに移行しつつあり、デジタルエクスペリエンスのセキュリティを確保し、保護することが重要です。 Adobe Experience Manager カスタマーチャンピオンの Rami El Gamal が、AEM Cloud Service のセキュリティの様々な側面について説明します。
 
 * IMS を使用したユーザーの作成と様々な役割および責務の割り当て
 * デプロイメントおよびリポジトリアクセスのためのCloud Manager アクセスの設定

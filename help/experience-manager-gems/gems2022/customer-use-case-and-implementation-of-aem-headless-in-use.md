@@ -1,16 +1,16 @@
 ---
 title: お客様のユースケースと使用中のAEM ヘッドレス実装
 description: Session announcement
-solution: Experience Manager
+solution: Experience Manager, Experience Manager 6.5
 feature-set: Experience Manager
-version: 6.5
+version: Experience Manager 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
 exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
 duration: 3729
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -23,19 +23,19 @@ ht-degree: 0%
 
 この特別なAEM GEM セッションでは、AEMを顧客として使用する 2 人の講演者が登場します。 セッションは、次のように 2 部構成になっています。
 
-## パート 1：ヘッドレス CMS としてのAEM – 導入箇所/時期/理由
+## 第 1 部：ヘッドレス CMSとしてのAEM – 導入箇所/時期/理由
 
 講演者：Vengadesh Shanmugavelu 様 – テクニカルアーキテクト（カタール航空）
 
 **セッションの説明：**
-AEMを使用してヘッドレス CMS を実装する方法はたくさんあります。
+AEMを使用してヘッドレス CMSを実装する方法はたくさんあります。
 このセッションで扱うトピックは次のとおりです。
 
 * エクスポーター/サーブレットを使用したコンテンツサービス
 * アセット API を使用したコンテンツフラグメント（デモ）
 * Graphql を使用したコンテンツフラグメント（デモ）
 * コンテンツフラグメントの使用とそのアプローチに関するいくつかのリアルタイムユースケース
-* SPA Editor の習得事項（選択時期に関するいくつかのソリューションアプローチ）（デモ）
+* SPA エディターの習得事項（選択時期に関するいくつかのソリューションアプローチ）（デモ）
 
 ## パート 2:GraphQL API とコンテンツフラグメントを使用したヘッドレスコンテンツの配信
 

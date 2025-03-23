@@ -9,12 +9,12 @@ feature-set: Experience Manager Assets
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7339
 exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
 duration: 2964
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 3%
@@ -23,7 +23,7 @@ ht-degree: 3%
 
 # メタデータ - Adobe Experience Manager Asset シリーズ
 
-この 5 部構成のウェビナーシリーズを使用すると、ナレッジベースを構築してAdobe Experience Manager Assetsへの投資を最大限に活用できます。 Adobe Experience Manager Assetsを初めて使用する場合や、しばらくAdobe Experience Manager Assetsを使用していて、既存のスキルをブラッシュアップしたいと考えている場合、これはソリューションの最も重要な 5 つの領域を深く掘り下げるための理想的な方法です。 Adobeのエキスパートが基本を確認し、高度なインサイトを提供することで、すぐに実践できる実用的な次のステップを提供します。
+この 5 部構成のウェビナーシリーズを使用すると、ナレッジベースを構築してAdobe Experience Manager Assetsへの投資を最大限に活用できます。 Adobe Experience Manager Assetsを初めて使用する場合や、しばらくAdobe Experience Manager Assetsを使用していて、既存のスキルをブラッシュアップしたいと考えている場合、これはソリューションの最も重要な 5 つの領域を深く掘り下げるための理想的な方法です。 Adobeのエキスパートが、基本を確認し、高度なインサイトを提供します。これにより、すぐに実践できる実用的な次のステップが得られます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 

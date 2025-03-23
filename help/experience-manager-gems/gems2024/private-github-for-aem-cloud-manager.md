@@ -2,7 +2,7 @@
 title: AEM Cloud Managerでのプライベート GitHub リポジトリの統合
 description: AEM GEMs ウェビナーでは、Cloud Managerにプライベート GitHub リポジトリを追加し、パイプラインに直接リンクし、コードを結合する前に左シフト式テストを使用してプルリクエストレベルで問題を特定する方法を説明します。
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

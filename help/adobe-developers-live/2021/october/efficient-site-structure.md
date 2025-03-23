@@ -6,12 +6,12 @@ feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9182
 type: Event
 exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
 duration: 1165
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 15%
@@ -22,7 +22,7 @@ ht-degree: 15%
 
 言語コピー、ライブコピー、大規模な移動やコピー操作を扱う際の、開発者向けのベストプラクティスをいくつか詳しく説明します。
 
-**[Experience League コミュニティ ](https://adobe.ly/39DoIQT)** で会話を続けます。
+**[Experience League Communities](https://adobe.ly/39DoIQT)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

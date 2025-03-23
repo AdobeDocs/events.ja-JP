@@ -4,12 +4,12 @@ description: Adobe Experience Manager最新化ツールスイートで使用で�
 solution: Experience Manager
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9135
 type: Event
 exl-id: da237121-7d66-49fc-864f-6132e3936fed
 duration: 1843
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 12%
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 Adobe Experience Manager最新化ツールスイートで使用できる機能を示します。 コンポーネントライブラリの進化に伴う作成者の負担を軽減するために、開発チームでコンテンツを統合、変換またはアップグレードする方法について説明します。
 
-**[Experience League コミュニティ ](https://adobe.ly/3zJuUBH)** で会話を続けます。
+**[Experience League Communities](https://adobe.ly/3zJuUBH)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 
