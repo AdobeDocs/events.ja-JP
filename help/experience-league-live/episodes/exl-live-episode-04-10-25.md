@@ -7,9 +7,10 @@ feature: Collaboration
 event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
-source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
+exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
+source-git-commit: c79fce8485ff5e4584df436688bf7d0aeac5061f
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -25,6 +26,6 @@ ht-degree: 0%
 * すぐに解決できるユースケースと今後の予定について説明します
 * 製品エキスパートから直接質問できます。
 
-[![ExL LIVE 2025 年 4 月 10 日 ](assets/WebBanner_Apr10_2025.jpg)](https://www.youtube.com/live/OPRzvdLUu7E)
+[![ExL LIVE 2025 年 4 月 10 日 ](assets/WebBanner_Apr10_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-250410.html)
 
-上の画像をクリックして、YouTube リマインダーを設定します。
+[**今すぐ登録！**](https://engage.adobe.com/ExpLeagueLive-250410.html)
