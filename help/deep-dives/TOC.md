@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 4%
+source-wordcount: '83'
+ht-degree: 3%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 4%
    + [API](api.md)
    + [Marketo API を使用したキャンペーン操作の自動化と効率化](campaign-operations.md)
    + [認定制度](certification.md)
+   + [Marketo Engageの新しいメールDesignerを確認する](email-designer.md)
    + [メール育成](email-nurture.md)
    + [実行可能なキャンペーン](executable-campaigns.md)
    + [IMS 移行の展開](ims-migration.md)
