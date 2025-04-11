@@ -4,16 +4,16 @@ description: Adobe Experience Manager as a Cloud Serviceの最新機能の概要
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: df5b64b463dd30db68f47154d0874c14ee4495ad
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '891'
 ht-degree: 6%
 
 ---
 
 # Adobe Experience Manager as a Cloud Service リリースのアップデート
 
-Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に説明します。 AEMのプロダクトチームが最新リリースの概要を説明する、約 10 分間の短いビデオです。
+Cloud Service としての Adobe Experience Manager の最新機能の概要を確認します。 これらは、最新リリースのハイライトを共有するAEM製品チームによって配信される約10分の短いビデオです。
 
 ## 最新の更新
 
@@ -25,12 +25,12 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.01.0 AEM Release Overview Video">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/2025-1-0.md" title="未定義" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1743630508155" alt="未定義"
+                    <a href="2025/2025-1-0.md" title="2025.01.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1744227542994" alt="2025.01.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,12 +38,12 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/2025-1-0.md" target="_blank" rel="referrer" title="未定義"> 未定義 </a>
+                        <a href="2025/2025-1-0.md" target="_blank" rel="referrer" title="2025.01.0 AEM リリースの概要ビデオ">2025.01.0 AEM リリースの概要ビデオ</a>
                     </p>
-                    <p class="is-size-6">未定義</p>
+                    <p class="is-size-6">Adobe Experience Manager 2025.1 ビデオでは、dynamic media、コラボレーションツール、Java 21 のサポートなど、コンテンツフラグメント、フォームおよびアセットの機能強化について説明しています。</p>
                 </div>
                 <a href="2025/2025-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">時計</span>
                 </a>
             </div>
         </div>
@@ -76,7 +76,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-11-0.md" title="2024.11.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1743630509431" alt="2024.11.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1744227543721" alt="2024.11.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,10 +86,10 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-11-0.md" target="_blank" rel="referrer" title="2024.11.0 AEM リリースの概要ビデオ">2024.11.0 AEM リリースの概要ビデオ</a>
                     </p>
-                    <p class="is-size-6">このリリースでは、強化されたインターフェイス拡張機能、新しいレンディションオプション、高度な画像修飾子、AEMのユニバーサルエディターを使用したEdge Delivery Servicesの改善など、Adobe Experience Manager（AEM） Sites とAssetsの主なアップデートについて説明します。</p>
+                    <p class="is-size-6">このリリースでは、インターフェイスの拡張性の向上、新しいレンディションオプション、高度な画像修飾子、AEMのユニバーサルエディターでのEdge 配信サービスの改善など、Adobe Experience Manager(AEM)SitesとAssetsの主な更新に焦点を当てています。</p>
                 </div>
                 <a href="2024/2024-11-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">時計</span>
                 </a>
             </div>
         </div>
@@ -98,8 +98,8 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-10-0.md" title="2024.10.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1743630509457" alt="2024.10.0 AEM リリースの概要ビデオ"
+                    <a href="2024/2024-10-0.md" title="2024.10.0 AEM リリース 概要 ビデオ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1744227543709" alt="2024.10.0 AEM リリース 概要 ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +107,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM リリースの概要ビデオ">2024.10.0 AEM リリースの概要ビデオ</a>
+                        <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM リリース 概要 ビデオ">2024.10.0 AEM リリースの概要ビデオ</a>
                     </p>
                     <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの革新的な機能に重点を置いており、次のものが含まれます。AEM Assets Assets Ultimateおよび Asset PrimeAEM Cloud Serviceを使用したAEM Assetsの新しい価格とパッケージ化より多くの宛先へのフォワードログ ビジネスユーザー​RDE がサポートされる場合、パイプラインを使用しない URL リダイレクト Config Pipeline YAML​ Interactive AEM Developer Console</p>
                 </div>
@@ -121,8 +121,8 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-9-0.md" title="2024.9.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1743630509445" alt="2024.9.0 AEM リリースの概要ビデオ"
+                    <a href="2024/2024-9-0.md" title="2024.9.0 AEM リリース 概要 ビデオ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1744227543743" alt="2024.9.0 AEM リリース 概要 ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-8-0.md" title="2024.8.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1743630509519" alt="2024.8.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1744227543731" alt="2024.8.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +153,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="2024.8.0 AEM リリースの概要ビデオ">2024.8.0 AEM リリースの概要ビデオ</a>
+                        <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="2024.8.0 AEM リリース 概要 ビデオ">2024.8.0 AEM リリースの概要ビデオ</a>
                     </p>
                     <p class="is-size-6">このリリースの機能は、AEM Assetsと Dynamic Media、Forms、Sites、Cloud Foundation のイノベーションに重点を置いており、以下が含まれています。1:1 の動的バリエーション用 Dynamic Media コンポーザブルテンプレート Forms GenAI Assistant ユニバーサルエディターと新しいAEM コンテンツ構造の統合​DV 証明書のライフサイクルの管理およびCloud Manager Experience Audit Dashboard を使用したEdge Delivery Servicesのサポート パイプラインパフォーマンスの向上</p>
                 </div>
@@ -168,7 +168,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1743630509467" alt="2024.7.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1744227543765" alt="2024.7.0 AEM リリース 概要 ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,12 +176,12 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="2024.7.0 AEM リリースの概要ビデオ">2024.7.0 AEM リリースの概要ビデオ</a>
+                        <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="2024.7.0 AEM リリース 概要 ビデオ">2024.7.0 AEM リリースの概要ビデオ</a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceのイノベーションに重点を置いており、次のものが含まれます。AEM Assets:AEM AssetsのContent Credentials​Dynamic Media を使用したビデオの AI を利用したキャプション​アップロード用のアセットセレクターの機能強化​Cloud Manager：顧客管理の CDN 認証情報のセルフサービス設定​CDN パージ​トラフィックフィルタールールアラート​</p>
+                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの革新にフォーカスするており、次のものが含まれます。AEM Assets:AEM Assets のコンテンツ資格情報 Dynamic Media を使用したビデオ用 AI を利用したキャプションアセットセレクター UploadCloud Manager の機能強化:顧客管理 CDN 資格情報のセルフサービス設定CDN パージトラフィックフィルタールールアラート</p>
                 </div>
                 <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">時計</span>
                 </a>
             </div>
         </div>
@@ -190,8 +190,8 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-6-0.md" title="2024.6.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1743630509476" alt="2024.6.0 AEM リリースの概要ビデオ"
+                    <a href="2024/2024-6-0.md" title="2024.6.0 AEMリリース概要動画" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1744227543752" alt="2024.6.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -199,12 +199,12 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="2024.6.0 AEM リリースの概要ビデオ">2024.6.0 AEM リリースの概要ビデオ </a>
+                        <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="2024.6.0 AEMリリース概要動画">2024.6.0 AEMリリース概要動画</a>
                     </p>
-                    <p class="is-size-6">2024 年 6 月のリリースの機能は、Content HubのAEM Assets、OpenAPI 機能を備えた Dynamic Media、Assets セレクターの機能強化 – タグと期限切れのアセット、コンテンツフラグメント Admin Consoleのコンテンツフラグメントモデル、Cloud Foundation - Cloud Managerへのプライベートリポジトリの追加、Cloud Foundation - コンテンツの復元に重点を置いています。</p>
+                    <p class="is-size-6">2024 年 6 月リリースの機能フォーカスする、AEM Assets と Content Hub 、ダイナミックメディア と OpenAPI 機能、Assetsセレクターの機能強化 - タグと期限切れアセット、コンテンツフラグメント Admin Console のコンテンツフラグメントモデル、Cloud Foundation - Cloud Manager でのプライベートリポジトリの追加、Cloud Foundation - コンテンツの復元がされています。</p>
                 </div>
                 <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">時計</span>
                 </a>
             </div>
         </div>
@@ -214,7 +214,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1743630509486" alt="2024.5.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1744227543776" alt="2024.5.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,8 +236,8 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-4-0.md" title="2024.4.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1743630509495" alt="2024.4.0 AEM リリースの概要ビデオ"
+                    <a href="2024/2024-4-0.md" title="2024.4.0 AEM リリース 概要 ビデオ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1744227543788" alt="2024.4.0 AEM リリース 概要 ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -245,9 +245,9 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="2024.4.0 AEM リリースの概要ビデオ">2024.4.0 AEM リリースの概要ビデオ</a>
+                        <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="2024.4.0 AEM リリース 概要 ビデオ">2024.4.0 AEM リリースの概要ビデオ</a>
                     </p>
-                    <p class="is-size-6">Experience Manager AssetsCloud Service AEM Assets Assetsのスマート切り抜きを含む動的レンディションのプレビューAssetsの動的レンディションのプレビュー Express Quick Actions でAEM内で簡単にビデオを編集 Cloud Manager:CDN の最適化とチューニングバージョンパージと監査ログパージのメンテナンスタスクのセルフサービス設定 ESI 用の SDII 専用 IP サポート CDN for SDIImproved Java logging experience rde</p>
+                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの革新にフォーカスするており、次のものが含まれます。AEM Assets:1-クリック アセット/ ビューでのフォルダ名変更Assets自然言語を使用した簡略化された検索エクスペリエンス自然言語を使用したAssets表示ビデオ編集ビデオからのスマート切り抜きを含む動的レンディションをAEM内で簡単にプレビューCloudマネージャー:CDNの最適化とチューニングバージョンのパージと監査ログのパージメンテナンスタスクのセルフサービス構成ベンダーへのログストリーミングの拡張Splunkを超えて、セルフサービスの専用IPサポートもSDIを介してESIのCDNサポートRDEのJava ログエクスペリエンスを証明</p>
                 </div>
                 <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -260,7 +260,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1743630509511" alt="2024.3.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1744227543808" alt="2024.3.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +270,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-3-0.md" target="_blank" rel="referrer" title="2024.3.0 AEM リリースの概要ビデオ">2024.3.0 AEM リリースの概要ビデオ</a>
                     </p>
-                    <p class="is-size-6">影響の大きいエクスペリエンスすべてのユニバーサルエディター向けのEdge Delivery Services Edge Delivery Servicesを使用したAEMオーサリング Actionable Intelligence AEM Sites - コンテンツバリエーションの生成（GenAI）コンテンツフラグメントおよびモデル用の迅速な開発 CruD OpenAPI Cloud Service 基盤高度なネットワークその他の注目すべき機能強化コンテンツフラグメントバージョンの比較エクスペリエンスフラグメントのマルチサイト管理サポート更新された Content Importer v1.51.0 Sidekick Extension v6.41.0</p>
+                    <p class="is-size-6">やや高画質インパクトエクスペリエンス AEM Edge 配信 サービス Edge を使用したオーサリング 配信 Forms のサービスすべての人がコンテンツを使う ユニバーサルエディター 実用的なインテリジェンス AEM Sites - コンテンツバリエーションの生成 (GenAI)迅速な開発 CruD コンテンツフラグメントとモデル用の OpenAPI Cloud サービス Foundation 詳細 ネットワーキングその他の注目すべき機能強化 コンテンツフラグメントのバージョンの比較 エクスペリエンスフラグメントのマルチサイト管理のサポート アップデートされたコンテンツインポーター v1.51.0 サイドキック 拡張 v641.0</p>
                 </div>
                 <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -283,7 +283,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1743630509503" alt="2024.1.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1744227543798" alt="2024.1.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
