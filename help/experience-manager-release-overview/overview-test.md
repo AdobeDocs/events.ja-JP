@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
+source-git-commit: 3311f2f2898f9d37f39b25d205d6db780565cc8f
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Cloud Service リリースのアップデート
 
-Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に説明します。 AEM製品チームが最新リリースの概要を説明する、約 10 分間の短いビデオです。
+Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に説明します。 AEMのプロダクトチームが最新リリースの概要を説明する、約 10 分間の短いビデオです。
 
 ## 最新の更新
 
@@ -32,7 +32,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM リリースの概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM リリースの概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" alt="2024.11.0 AEM リリースの概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,7 +42,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-11-0.md" target="_blank" rel="referrer" title="2024.11.0 AEM リリースの概要">2024.11.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースでは、強化されたインターフェイス拡張機能、新しいレンディションオプション、高度な画像修飾子、AEMのユニバーサルエディターのEdge Delivery Services点など、Adobe Experience Manager（AEM） Sites とAssetsの主な更新点に焦点を当てています。</p>
+                    <p class="is-size-6">このリリースでは、強化されたインターフェイス拡張機能、新しいレンディションオプション、高度な画像修飾子、AEMのユニバーサルエディターを使用したEdge Delivery Servicesの改善など、Adobe Experience Manager（AEM） Sites とAssetsの主なアップデートについて説明します。</p>
                 </div>
                 <a href="2024/2024-11-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -86,7 +86,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM リリースの概要">2024.10.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの技術革新に重点を置いており、次のものが含まれます。AEM Assets Assets Ultimateおよび Asset PrimeAEM Cloud Serviceを使用したAEM Assetsの新しい価格とパッケージ化より多くの宛先への転送ログ ビジネスユーザー向けのパイプラインを使用しない URL リダイレクト ​ RDE がサポートされます設定パイプライン YAML​ インタラクティブ AEM Developer Console</p>
+                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの革新的な機能に重点を置いており、次のものが含まれます。AEM Assets Assets Ultimateおよび Asset PrimeAEM Cloud Serviceを使用したAEM Assetsの新しい価格とパッケージ化より多くの宛先へのフォワードログ ビジネスユーザー​RDE がサポートされる場合、パイプラインを使用しない URL リダイレクト Config Pipeline YAML​ Interactive AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -109,7 +109,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-9-0.md" target="_blank" rel="referrer" title="2024.9.0 AEM リリースの概要">2024.9.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの技術革新に重点を置いており、次のものが含まれます。AEM Assets - アセットセレクターの機能強化によるコレクションのサポート​Assets Content Hub - DRM （期限切れのライセンス済みアセット）のサポート​AEM Cloud Service - Edge DeliveryのCloud Manager サポート​ Edge サイドインクルード（ESI）​基本認証​インタラクティブ AEM Developer Console</p>
+                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceのイノベーションに重点を置いており、次のものが含まれます。AEM Assets - アセットセレクターの機能強化によるコレクションのサポート​Assets Content Hub - DRM （期限切れのライセンス済みアセット）のサポート​AEM Cloud Service - Cloud Manager Edge Deliveryのサポート​ Edge Side Includes （ESI）​基本認証​インタラクティブ AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -132,7 +132,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="2024.8.0 AEM リリースの概要">2024.8.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、AEM AssetsとDynamic Media、Forms、Sites および Cloud Foundation のイノベーションに重点を置いており、以下が含まれます。1:1 の動的バリエーション用Dynamic Media コンポーザブルテンプレート Forms GenAI Assistant ユニバーサルエディターと新しいAEM コンテンツ構造の統合​DV 証明書のライフサイクルの管理およびCloud Manager Experience Audit Dashboard を使用したEdge Delivery Servicesのサポート パイプラインパフォーマンスの向上</p>
+                    <p class="is-size-6">このリリースの機能は、AEM Assetsと Dynamic Media、Forms、Sites、Cloud Foundation のイノベーションに重点を置いており、以下が含まれています。1:1 の動的バリエーション用 Dynamic Media コンポーザブルテンプレート Forms GenAI Assistant ユニバーサルエディターと新しいAEM コンテンツ構造の統合​DV 証明書のライフサイクルの管理およびCloud Manager Experience Audit Dashboard を使用したEdge Delivery Servicesのサポート パイプラインパフォーマンスの向上</p>
                 </div>
                 <a href="2024/2024-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -155,7 +155,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="2024.7.0 AEM リリースの概要">2024.7.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceの技術革新に重点を置いており、次のものが含まれます。AEM Assets:AEM AssetsのContent credentials​Dynamic Mediaを使用したビデオの AI を利用したキャプション​アップロード用のアセットセレクターの機能強化​Cloud Manager：顧客管理の CDN 認証情報のセルフサービス設定​CDN パージ​トラフィックフィルタールールアラート​</p>
+                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceのイノベーションに重点を置いており、次のものが含まれます。AEM Assets:AEM AssetsのContent Credentials​Dynamic Media を使用したビデオの AI を利用したキャプション​アップロード用のアセットセレクターの機能強化​Cloud Manager：顧客管理の CDN 認証情報のセルフサービス設定​CDN パージ​トラフィックフィルタールールアラート​</p>
                 </div>
                 <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -178,7 +178,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="2024.6.0 AEM リリースの概要">2024.6.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">2024 年 6 月のリリースの機能は、Content HubのAEM Assets、OpenAPI 機能を備えたDynamic Media、Assets セレクターの機能強化 – タグと期限切れのアセット、コンテンツフラグメントAdmin Consoleのコンテンツフラグメントモデル、Cloud Foundation - Cloud Managerへのプライベートリポジトリの追加、Cloud Foundation - コンテンツの復元に重点を置いています。</p>
+                    <p class="is-size-6">2024 年 6 月のリリースの機能は、Content HubのAEM Assets、OpenAPI 機能を備えた Dynamic Media、Assets セレクターの機能強化 – タグと期限切れのアセット、コンテンツフラグメント Admin Consoleのコンテンツフラグメントモデル、Cloud Foundation - Cloud Managerへのプライベートリポジトリの追加、Cloud Foundation - コンテンツの復元に重点を置いています。</p>
                 </div>
                 <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -201,7 +201,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-5-0.md" target="_blank" rel="referrer" title="2024.5.0 AEM リリースの概要">2024.5.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、以下に重点を置いています。AEMおよびDynamic Mediaの新しいPublish オプション ユニバーサルエディターの機能強化アダプティブForms基盤コンポーネントのコアコンポーネントへの移行アダプティブForms Cloud Foundation の追加の Captcha サポート機能強化</p>
+                    <p class="is-size-6">このリリースの機能では、以下を重点的に取り上げています。AEMおよび Dynamic Media の新しい公開オプション ユニバーサルエディターの機能強化アダプティブ Forms基盤コンポーネントのコアコンポーネントへの移行アダプティブ Forms Cloud 基盤での追加の Captcha サポート機能強化</p>
                 </div>
                 <a href="2024/2024-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -224,7 +224,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="2024.4.0 AEM リリースの概要">2024.4.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">Experience Manager AssetsのプレビューAssetsのスマート切り抜きを含む動的レンディションのプレビューAEM内で Express Quick Actions を使用して簡単にビデオを編集 Cloud Manager:CDN の最適化とチューニングCloud ServiceAEM Assets Assets パージと監査ログパージのメンテナンスタスクのセルフサービス設定 ESI 用の SDII 専用 IP サポート CDN は、SDII Mproved Java Logging experience rde</p>
+                    <p class="is-size-6">Experience Manager AssetsCloud Service AEM Assets Assetsのスマート切り抜きを含む動的レンディションのプレビューAssetsの動的レンディションのプレビュー Express Quick Actions でAEM内で簡単にビデオを編集 Cloud Manager:CDN の最適化とチューニングバージョンパージと監査ログパージのメンテナンスタスクのセルフサービス設定 ESI 用の SDII 専用 IP サポート CDN for SDIImproved Java logging experience rde</p>
                 </div>
                 <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -247,7 +247,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-3-0.md" target="_blank" rel="referrer" title="2024.3.0 AEM リリースの概要">2024.3.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">影響の大きいエクスペリエンスすべてのユニバーサルエディター向けのEdge Delivery ServicesEdge Delivery Servicesを使用したAEM オーサリング Actionable Intelligence AEM Sites - コンテンツバリエーションの生成（GenAI）コンテンツフラグメントおよびモデル用の迅速な開発 CruD OpenAPI Cloud Service 基盤高度なネットワークその他の注目すべき機能強化コンテンツフラグメントバージョンの比較エクスペリエンスフラグメントのマルチサイト管理サポート更新された Content Importer v1.51.0Sidekick41.0</p>
+                    <p class="is-size-6">影響の大きいエクスペリエンスすべてのユニバーサルエディター向けのEdge Delivery Services Edge Delivery Servicesを使用したAEMオーサリング Actionable Intelligence AEM Sites - コンテンツバリエーションの生成（GenAI）コンテンツフラグメントおよびモデル用の迅速な開発 CruD OpenAPI Cloud Service 基盤高度なネットワークその他の注目すべき機能強化コンテンツフラグメントバージョンの比較エクスペリエンスフラグメントのマルチサイト管理サポート更新された Content Importer v1.51.0 Sidekick Extension v6.41.0</p>
                 </div>
                 <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
@@ -270,7 +270,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-1-0.md" target="_blank" rel="referrer" title="2024.1.0 AEM リリースの概要">2024.1.0 AEM リリースの概要 </a>
                     </p>
-                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceのイノベーションに重点を置いており、次のものが含まれます。AEM Assets - AEM Assets Cloud ServiceとAdobe Journey Optimizerの統合、スマートタグブロックリスト、OOTB ビデオプレビューレンディション、Cloud Manager - カスタム権限</p>
+                    <p class="is-size-6">このリリースの機能は、Experience Manager AssetsとCloud Serviceのイノベーションに重点を置いており、AEM Assets - AEM Assets Cloud ServiceとAdobe Journey Optimizerの統合、スマートタグブロックリスト、OOTB ビデオプレビューレンディション、Cloud Manager - カスタム権限が含まれています</p>
                 </div>
                 <a href="2024/2024-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細 </span>
