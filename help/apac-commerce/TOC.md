@@ -2,9 +2,9 @@
 user-guide-title: APAC Commerce イベント
 breadcrumb-title: APAC Commerce イベント
 user-guide-description: Adobe Commerce Events は、エキスパートや同業者がAdobe Commerceの使用方法に関する考えやアイデアを共有するビデオライブラリです。
-source-git-commit: 888157b1ae32dcd6657ddbac51c448ac72c65933
+source-git-commit: 0019364eaad86248349d31290f25f758d762eaf4
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 + [概要](overview.md)
 + 2024年 {#2024}
    + [アクセラレータの日](2024/accelerator-day/overview.md)
-   + アクセラレータの日 {#accelerator-day}
+   + アクセラレータの日{#accelerator-day}
       + [非表示：明日のナビゲーション](./2024/accelerator-day/navigating-tomorrow.md)
       + [非表示：境界線を越えたパネル](./2024/accelerator-day/panel-beyond-borders.md)
       + [非表示：エクスペリエンス進化](./2024/accelerator-day/experience-evolution.md)
@@ -46,7 +46,6 @@ ht-degree: 4%
    + [サイト全体分析ツール](2022/analysis-tool.md)
    + [MBI によるデータから価値への変換](2022/mbi.md)
    + [2.4.4 へのアップグレード](2022/upgrade.md)
-+ [リリースロードマップのハイライト](release-highlights.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
