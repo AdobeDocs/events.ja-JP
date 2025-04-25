@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud テクニカルセッション
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud テクニカルセッションは、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
+source-git-commit: 373605f79b3122382e221252232a26535ff3109b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 15%
+source-wordcount: '146'
+ht-degree: 16%
 
 ---
 
@@ -13,9 +13,10 @@ ht-degree: 15%
 # Experience Cloud テクニカルセッション {#tech-sessions}
 
 + [Experience Cloud テクニカルセッション](overview.md)
-+ 2025年 {#2025}
++ 2025 {#2025}
+   + [Adobe Campaign Classic配信パフォーマンスのトラブルシューティング](2025/acc-delivery-performance.md)
    + [Marketo Measureを最大限に活用](2025/getting-most-marketo-measure.md)
-   + MarketoのAdobe Admin Console {#marketo-admin-console} への移行
+   + MarketoのAdobe Admin Consoleへの移行 {#marketo-admin-console}
       + [移行前](2025/marketo-pre-migration.md)
       + [移行後](2025/marketo-post-migration.md)
 + 2024年 {#2024}
@@ -25,7 +26,7 @@ ht-degree: 15%
       + [Real-Time Content Data Platform のタイミング](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [訪問者の追跡](2024/tracking-visitors.md)
-   + Adobe Marketo {#adobe-marketo-office-hours-2024}
+   + AdobeMarketo {#adobe-marketo-office-hours-2024}
       + [Champion 技術セッション - 5 月](2024/champion-office-hours.md)
 + 2023年 {#2023}
    + Adobe Analytics {#adobe-analytics}
@@ -41,7 +42,7 @@ ht-degree: 15%
       + [AEM Forms ヘッドレスアーキテクチャ](2023/aem-forms-headless-architecture.md)
       + [AEM Cloud Service への移行](2023/migration-aemcs.md)
       + [インデックス最適化の基盤](2023/optimize-indexes-aemcs.md)
-   + Adobe Marketo {#adobe-marketo-office-hours}
+   + AdobeMarketo {#adobe-marketo-office-hours}
       + [高度なスマートリストのロジックと一般的な落とし穴](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
       + [JavaScript ライブラリの概要、デバッグのヒントとテクニック](2023/target-debugging-tips-and-tricks.md)
