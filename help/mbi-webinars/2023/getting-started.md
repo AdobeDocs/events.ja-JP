@@ -31,5 +31,5 @@ ht-degree: 1%
 
 ## その他のリソース
 
-[Commerce Intelligenceの概要 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[Commerce Intelligence サポート ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligenceの概要 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=ja)
+[Commerce Intelligence サポート ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ja)

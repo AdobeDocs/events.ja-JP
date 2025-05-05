@@ -30,5 +30,5 @@ Adobe、シニアソフトウェアエンジニア、Thomas Mueller
 [ファイルを入手](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

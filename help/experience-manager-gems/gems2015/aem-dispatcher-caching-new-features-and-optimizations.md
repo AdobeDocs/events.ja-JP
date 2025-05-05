@@ -33,5 +33,5 @@ AEMのエクスペリエンスを最大限に活用するには、AEM Dispatcher
 
 [ファイルを入手](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

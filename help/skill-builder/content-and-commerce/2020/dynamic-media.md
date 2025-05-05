@@ -31,7 +31,7 @@ Dynamic Media を使用して、すべてのチャネルと画面のアセット
 
 ## リソース
 
-*[Dynamic Media ビデオ ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Dynamic Media ビデオ ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=ja#dynamic-media)
 *[ リッチメディア戦略のキックスタートガイド ](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[ リッチメディア戦略の画像プリセットガイド ](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[Image is Everything ブログシリーズ ](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

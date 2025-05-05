@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 役に立つリソース
 
-[ ダッシュボード ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[ グラフ データのエクスポート ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[ ダッシュボード ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=ja)
+[ グラフ データのエクスポート ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=ja)

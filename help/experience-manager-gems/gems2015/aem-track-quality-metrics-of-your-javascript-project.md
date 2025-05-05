@@ -36,5 +36,5 @@ Sonarqube 分析を JavaScript プロジェクトに統合し、次の機能を�
 
 [ファイルを入手](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

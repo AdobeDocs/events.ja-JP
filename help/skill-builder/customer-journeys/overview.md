@@ -19,11 +19,11 @@ ht-degree: 2%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ja">
       <img alt="連携して機能強化 – Adobe [!DNL Marketo Engage] とReal-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ja">
         <strong> 一緒に改善 – Adobe [!DNL Marketo Engage] とReal-Time CDP</strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ ht-degree: 2%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=ja">
       <img alt="Adobeでのデータモデルの開発とカスタマイズ [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=ja">
         <strong>Adobe[!DNL Campaign Classic]</strong> でのデータモデルの開発とカスタマイズ
       </a>
     </div>
@@ -45,11 +45,11 @@ ht-degree: 2%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=ja">
       <img alt="Adobe Campaign Standardの効果的なヒントとテクニック" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=ja">
         <strong>Adobe Campaign Standardの効果的なヒントとテクニック </strong>
       </a>
     </div>

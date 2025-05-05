@@ -21,7 +21,7 @@ Adobe Experience Cloudのデータ収集に関する 3 回のセッションの�
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**話し合いを続ける** [Experience Leagueコミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}
+**話し合いを続ける** [Experience Leagueコミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159?profile.language=ja#M283){target="_blank"}
 
 ## このデータ収集シリーズのその他のExperience Leagueライブセッション
 
@@ -31,10 +31,10 @@ Adobe Experience Cloudのデータ収集に関する 3 回のセッションの�
 ### 役に立つリンク
 
 * [ チュートリアル：Web SDK を使用したAdobe Experience Cloudの実装 ](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja){target="_blank"}
-* [Web SDK で自動的に収集された情報 ](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [Web SDK で自動的に収集された情報 ](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=ja){target="_blank"}
 * [ 無料の Web SDK プロビジョニング ](https://adobe.ly/websdkaccess){target="_blank"}
-* [Web SDK のファーストパーティデバイス ID に関する情報 ](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debuggerの概要とダウンロード ](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Web SDK のファーストパーティデバイス ID に関する情報 ](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=ja){target="_blank"}
+* [Adobe Experience Platform Debuggerの概要とダウンロード ](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=ja){target="_blank"}
 * [Mobile SDK ドキュメント ](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [ ハイブリッドアプリのコレクション情報 ](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [ ハイブリッドアプリのコレクション情報 ](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html?lang=ja){target="_blank"}
 

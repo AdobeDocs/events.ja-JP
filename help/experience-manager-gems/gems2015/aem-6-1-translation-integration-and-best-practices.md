@@ -30,5 +30,5 @@ Cristine と Mathias が、AEMの翻訳統合機能の強化と、多言語 web 
 [ファイルを入手](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

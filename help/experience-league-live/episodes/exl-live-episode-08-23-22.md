@@ -96,7 +96,7 @@ ht-degree: 0%
 
 <br> 
 
-[Experience League コミュニティ ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240) でこのトピックに関するディスカッションを続けてください。
+[Experience League コミュニティ ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=ja#M240) でこのトピックに関するディスカッションを続けてください。
 <br> 
 
 ## このデータ収集シリーズのその他のExperience Leagueライブセッション

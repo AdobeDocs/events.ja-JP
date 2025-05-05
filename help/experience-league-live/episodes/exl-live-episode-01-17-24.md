@@ -25,7 +25,7 @@ Bryan、Eric、Doug が、Customer Journey Analytics（CJA）をすぐに使い�
 
 >[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-[Experience League コミュニティ フォーラム ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582) でディスカッションを続行します。
+[Experience League コミュニティ フォーラム ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=ja#M3582) でディスカッションを続行します。
 
 >[!ENDSHADEBOX]
 

@@ -29,5 +29,5 @@ AEM [!DNL Forms] 機能パック 1 は、LiveCycleデプロイメントのアッ
 
 [ファイルを入手](assets/aem-forms-fp1-2015-0204.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

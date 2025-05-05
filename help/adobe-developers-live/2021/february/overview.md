@@ -74,12 +74,12 @@ ht-degree: 5%
 
 ## その他のリソース
 
-* [Experience League - AEMを検索 ](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites作成ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites開発ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites管理ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Experience League - AEMを検索 ](https://experienceleague.adobe.com/ja#recommended/solutions/experience-manager)
+* [AEM Sites作成ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja)
+* [AEM Sites開発ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja)
+* [AEM Sites管理ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja)
 * [AEM Sites導入ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
 * [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
 * [AEM Assets チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja)
-* [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja)
+* [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja)

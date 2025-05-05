@@ -101,22 +101,22 @@ Customer Data Management Voices へようこそ。顧客データ管理の技術
         <br/>
    </td> 
    <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ja">
       <img alt="顧客データ管理の責任に関する 10 の考慮事項" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong> 顧客データ管理の責任に関する 10 の考慮事項 </strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ja"><strong> 顧客データ管理の責任に関する 10 の考慮事項 </strong></a>
          <br/>
       </div>
       <p>
         <br/>
     </td>
     <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ja">
       <img alt="データ管理人としてのマーケターの役割の向上" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong> データ管理人としてのマーケターの役割の向上 </strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ja"><strong> データ管理人としてのマーケターの役割の向上 </strong></a>
          <br/>
       </div>
       <p>

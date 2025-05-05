@@ -37,5 +37,5 @@ Adobe Experience Managerでは、Microsoft Translator を利用して完全に�
 
 [ファイルを入手](assets/q-a-machine-translation-12-3-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

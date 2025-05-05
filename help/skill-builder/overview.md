@@ -26,7 +26,7 @@ ht-degree: 2%
     <p>
     <em> 魅力的な様々な web サイト、モバイルアプリ、フォームを作成および管理します。 さらに、柔軟な AI を利用したコマースソリューションを使用して、単一のプラットフォームでマルチチャネルコマースエクスペリエンスを構築する方法についても説明します。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 参照セッション </span>
     </a>
   </td>
@@ -38,7 +38,7 @@ ht-degree: 2%
     <p>
     <em> すべてのソースからデータを取り込み、パーソナライズされたクロスチャネルジャーニーを作成することで、リアルタイム顧客プロファイルを開発します。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 参照セッション </span>
     </a>
   </td>
@@ -50,7 +50,7 @@ ht-degree: 2%
     <p>
     <em> 組織全体でオンラインおよびオフラインのデータインサイトを使用して、任意のチャネルでリアルタイムのパーソナライゼーションを推進します。</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/overview.html?lang=ja" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 参照セッション </span>
     </a>
   </td>  

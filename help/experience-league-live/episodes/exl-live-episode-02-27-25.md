@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**Experience League [ コミュニティポスト ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target=“_blank”}** でディスカッションを続ける
+**Experience League [ コミュニティポスト ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=ja){target=“_blank”}** でディスカッションを続ける
 
 ## その他のリソース
 

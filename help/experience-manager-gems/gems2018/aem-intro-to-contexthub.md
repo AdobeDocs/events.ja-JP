@@ -29,5 +29,5 @@ Adobe、デベロッパー、Artur Kudlacz
 [ファイルを入手](assets/gems-session-introduction-to-contexthub-in-aem-64.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

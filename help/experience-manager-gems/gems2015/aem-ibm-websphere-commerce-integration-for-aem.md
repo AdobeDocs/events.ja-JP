@@ -29,5 +29,5 @@ Commerce integration framework（CIF）は、ドキュメント化された統�
 
 [ファイルを入手](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

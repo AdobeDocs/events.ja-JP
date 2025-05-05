@@ -27,11 +27,11 @@ Commerce Intelligence ウェビナーシリーズは、Commerce Intelligenceの�
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=ja">
       <img alt="Commerce Intelligenceの概要" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=ja">
         <strong>Commerce Intelligenceの概要 </strong>
       </a>
     </div>
@@ -40,11 +40,11 @@ Commerce Intelligence ウェビナーシリーズは、Commerce Intelligenceの�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=ja">
       <img alt="Adobe Commerce Intelligenceのデータセットの管理" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=ja">
         <strong>Adobe Commerce Intelligenceのデータセットの管理 </strong>
       </a>
     </div>
@@ -53,11 +53,11 @@ Commerce Intelligence ウェビナーシリーズは、Commerce Intelligenceの�
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=ja">
       <img alt="MBI Data Warehouseの最適化" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=ja">
         <strong>MBI Data Warehouseの最適化 </strong>
       </a>
     </div>
@@ -74,5 +74,5 @@ Commerce Intelligence ウェビナーシリーズは、Commerce Intelligenceの�
 
 ## 役に立つリソース
 
-- [Commerce Intelligenceのビデオとチュートリアル ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Commerce Intelligenceのビデオとチュートリアル ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=ja)
 - [Commerce Intelligence ユーザーガイド ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)

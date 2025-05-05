@@ -43,5 +43,5 @@ Data Warehouseマネージャーを使用すると、テーブルと列の同期
 
 ## 役に立つリソース
 
-[ 分析のためのデータベースの最適化 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[ セグメント化とフィルタリングに推奨されるデータDimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[ 分析のためのデータベースの最適化 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html?lang=ja)
+[ セグメント化とフィルタリングに推奨されるデータDimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=ja)

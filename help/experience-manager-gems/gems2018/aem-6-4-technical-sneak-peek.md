@@ -31,5 +31,5 @@ Adobe、Directorプロダクトマネジメント、Cedric Huesler
 [ファイルを入手](assets/aem64-developerupdate31418.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

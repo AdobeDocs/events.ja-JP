@@ -28,5 +28,5 @@ CQ エンジニアのサポートを受けずに、数週間ではなく数時�
 
 [ファイルを入手](assets/aem-6-1-communities-gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

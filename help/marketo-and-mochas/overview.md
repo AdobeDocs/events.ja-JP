@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketoとモカス
 
-Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe Marketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html) および [ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) と組み合わせると、Adobe Marketoをビジネスのサポートに使用する方法をより深く理解することができます。
+Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe Marketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja) および [ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja) と組み合わせると、Adobe Marketoをビジネスのサポートに使用する方法をより深く理解することができます。
 
 ## 2025 年録画
 

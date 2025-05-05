@@ -20,7 +20,7 @@ ht-degree: 9%
 様々な業界で設計、コンテンツ作成ワークフロー、ドキュメントサービス、カスタマーエクスペリエンス管理を支える最新の技術進歩と開発者ツールについて、Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チームが紹介しました。
 
 他の開発者とつながり、Experience Leagueコミュニティでセッションの会話に参加します。
-* [Adobe Developer App Builder セッション完了リスト ](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [Adobe Developer App Builder セッション完了リスト ](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=ja)
 * [AEM Complete Session リスト ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=ja#M120517)
 
 ## ハイライト
@@ -78,15 +78,15 @@ ht-degree: 9%
 
 ### AEM
 
-* [Experience League - AEMを検索 ](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites作成ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites開発ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites管理ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Experience League - AEMを検索 ](https://experienceleague.adobe.com/ja#recommended/solutions/experience-manager)
+* [AEM Sites作成ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja)
+* [AEM Sites開発ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja)
+* [AEM Sites管理ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja)
 * [AEM Sites導入ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
 * [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
 * [AEM Assets チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja)
-* [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja)
+* [AEM Foundation チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja)
 
 ### Adobe Experience Platform
 

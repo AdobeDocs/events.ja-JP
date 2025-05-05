@@ -33,5 +33,5 @@ Adobe、開発責任者、Gilles Knobloch 氏
 [ドキュメント](https://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

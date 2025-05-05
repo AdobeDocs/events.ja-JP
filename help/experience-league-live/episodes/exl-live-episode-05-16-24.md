@@ -26,8 +26,8 @@ Adobe Analyticsを Web SDK に移行するための最新の最適な（新規�
 
 エッジでデータストリームを設定し、タグプロパティに web SDK 拡張機能をインストールして設定します。 様々なルールタイプを Analytics 拡張機能から Web SDK に移行する方法を説明します。
 
-Adobeの専門家や同業者に質問したり、インターフェイスを使用したりするには、[Experience League コミュニティ ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"} を参照してください。
+Adobeの専門家や同業者に質問したり、インターフェイスを使用したりするには、[Experience League コミュニティ ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538?profile.language=ja){target="_blank"} を参照してください。
 
-その他のドキュメントについては、[Adobe Experience Platform Web SDK を使用したAdobe Analyticsの実装 ](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview) を参照してください。
+その他のドキュメントについては、[Adobe Experience Platform Web SDK を使用したAdobe Analyticsの実装 ](https://experienceleague.adobe.com/ja/docs/analytics/implementation/aep-edge/web-sdk/overview) を参照してください。
 
 Web SDK 実装の戦略的手順に関する今後の **ウェビナー** に参加するには、[ こちら ](https://engage.adobe.com/step_by_step_guide_implement.html) に登録してください。

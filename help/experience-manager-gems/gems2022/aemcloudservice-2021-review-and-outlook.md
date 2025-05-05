@@ -31,6 +31,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ 対応するAdobe Experience Manager ユーザーグループのイベントページ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [ 対応するAdobe Experience Manager ユーザーグループのイベントページ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266?profile.language=ja)
 >* [ 対応するコンテキストスレッド ](https://adobe.ly/3rqbSOz)
 >* 今後のウェビナーの通知を受け取るには [&#128279;](https://aem-augs.adobe.com/)AdobeのAEM ユーザーグループ &rbrace; にご登録ください。

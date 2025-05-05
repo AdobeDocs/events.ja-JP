@@ -29,5 +29,5 @@ Gabriel Walt と Justin Edelson が、次世代のAdobe Experience Managerに向
 
 [ファイルを入手](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

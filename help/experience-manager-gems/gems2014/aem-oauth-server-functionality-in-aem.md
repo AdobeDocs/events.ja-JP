@@ -28,5 +28,5 @@ Adobe、ソフトウェアエンジニア、Antonio Sanso
 
 [ファイルを入手](assets/oauth-server-functionality-in-aem-7-23-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

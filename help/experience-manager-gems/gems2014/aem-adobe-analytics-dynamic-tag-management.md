@@ -33,12 +33,12 @@ Adobe、ソリューションアーキテクト、Sandro Looser
 
 [Adobeの Dynamic Tag Managementとの統合 ](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[DTM ヘルプ ](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
+[DTM ヘルプ ](https://experienceleague.adobe.com/docs/data-collection.html?lang=ja)
 
 [DTM へのアクセスリクエスト ](https://dtm.adobe.com/request_access)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

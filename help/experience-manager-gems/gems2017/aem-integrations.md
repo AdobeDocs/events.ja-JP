@@ -33,5 +33,5 @@ AEMの作業は自己完結型ですが、AEMに取り組む AT/AAM/AA コンサ
 [ 開発者向け web 分析 ](https://webanalyticsfordevelopers.com/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

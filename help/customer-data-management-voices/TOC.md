@@ -21,8 +21,8 @@ ht-degree: 6%
    + [顧客プロファイルを使用した優れたエクスペリエンスの構築](cdm/building-better-experiences-with-customer-profiles.md)
    + [マーケティングチームによるデータ管理戦略の改善方法](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + オーディエンスとプロファイルのデータガバナンスとプライバシー {#governance}
-   + [責任ある顧客データ管理に関する 10 の考慮事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [ データ管理人としてのマーケターの役割の向上 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [責任ある顧客データ管理に関する 10 の考慮事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ja)
+   + [ データ管理人としてのマーケターの役割の向上 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ja)
    + [オーディエンスプロファイルのデータガバナンスとプライバシー](governance/healthcare-shield.md)
 + 業界討論 {#industry}
    + [ファーストパーティデータで優れたエクスペリエンスを構築](industry/build-superb-experiences-with-your-first-party-data.md)

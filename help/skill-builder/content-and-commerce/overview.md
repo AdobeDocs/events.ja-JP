@@ -19,11 +19,11 @@ ht-degree: 2%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=ja">
       <img alt="Adobe Experience Managerでヘッドレスエクスペリエンスを提供" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=ja">
         <strong>Adobe Experience Managerでヘッドレスエクスペリエンスを提供 </strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ ht-degree: 2%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=ja">
       <img alt="Adobe Experience Manager Assetsでのメタデータのビジネスへの対応" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=ja">
         <strong>Adobe Experience Manager Assetsでのメタデータのビジネスへの対応 </strong>
       </a>
     </div>
@@ -45,11 +45,11 @@ ht-degree: 2%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=ja">
       <img alt="エンタープライズワークフロー管理を最大限に活用" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=ja">
         <strong> エンタープライズワークフロー管理を最大限に活用 </strong>
       </a>
     </div>

@@ -24,5 +24,5 @@ Journey Optimizerの新しいキャンペーン機能では、複数のチャネ
 
 2022 年 9 月 22 日（PT）に元々開催されたこのExperience Leagueライブエピソードでは、ホストのサンドラ・ハウスマンと製品エキスパートのブリッジェット・ダーリングとフレデリック・メアリーが、この新機能のユースケースについて説明し、Journey Optimizerでキャンペーンを簡単に設定および実行する方法を示しています。 キャンペーンとジャーニーの両方を使用してパーソナライズされた魅力的なカスタマーエクスペリエンスを提供する方法と、新しいインラインメッセージワークフローをこれら 2 つのキャンバスでどのように活用するかについて説明します。
 
-[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896#M52) で、このトピックに関するディスカッションを続けてください。 皆様からのお問い合わせをお待ちしております。
+[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-execute-your/m-p/547896?profile.language=ja#M52) で、このトピックに関するディスカッションを続けてください。 皆様からのお問い合わせをお待ちしております。
 

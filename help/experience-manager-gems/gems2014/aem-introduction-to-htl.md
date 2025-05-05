@@ -37,5 +37,5 @@ Adobe、製品マネージャー、Gabriel Walt
 [HTL を使用した開発 ](https://docs.adobe.com/docs/en/htl/overview.html?wcmmode=disabled)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

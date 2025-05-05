@@ -31,4 +31,4 @@ Adobe、シニア翻訳テクノロジーグループマネージャー、Christ
 
 * [ マルチサイト管理のベストプラクティス ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [ 翻訳のベストプラクティス ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [ 概要に戻る ](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [ 概要に戻る ](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -38,5 +38,5 @@ Oakのクエリエンジンと Jackrabbit 2.x との比較について説明し�
 [Oak ドキュメント ](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

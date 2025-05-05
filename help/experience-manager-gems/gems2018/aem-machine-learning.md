@@ -29,10 +29,10 @@ Adobe、製品マネージャー、Jonas Dahl
 
 ## リソース {#resources}
 
-[ 拡張スマートタグ - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[ 拡張スマートタグ - AEM Assets](https://helpx.adobe.com/jp/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

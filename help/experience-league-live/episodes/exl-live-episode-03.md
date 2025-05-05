@@ -24,5 +24,5 @@ ht-degree: 37%
 
 >[!VIDEO](https://video.tv.adobe.com/v/337219/?quality=12&learn=on)
 
-懇談については、[Experience Leagueコミュニティ懇談会 ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205){target="_blank"} をご覧ください。
+懇談については、[Experience Leagueコミュニティ懇談会 ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/questions-and-discussion-for-experience-league-live-ep-3-expert/td-p/425205?profile.language=ja){target="_blank"} をご覧ください。
 
