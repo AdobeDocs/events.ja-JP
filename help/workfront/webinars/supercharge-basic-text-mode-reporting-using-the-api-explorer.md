@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # エキスパートに質問 – API Explorer を使用した基本的なテキストモードレポートの強化
 
-[[!UICONTROL API エクスプローラー ]](https://developer.adobe.com/workfront/api-explorer/) とその使用方法、および基本的なテキストモードを活用してレポートを強化する方法について説明します。 このウェビナーは 2020 年 1 月 22 日（PT）に録画されました。
+[[!UICONTROL API エクスプローラー &#x200B;]](https://developer.adobe.com/workfront/api-explorer/) とその使用方法、および基本的なテキストモードを活用してレポートを強化する方法について説明します。 このウェビナーは 2020 年 1 月 22 日（PT）に録画されました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 

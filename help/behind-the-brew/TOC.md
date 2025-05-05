@@ -20,7 +20,7 @@ ht-degree: 13%
 # ビールの後ろ {#behind-the-brew-recordings}
 
 + [概要](overview.md)
-+ 醸造 {#behind-the-brew} の裏側
++ 醸造 の裏側 {#behind-the-brew}
 + 2025 年 {#2025}
    + [Adobe Developer App Builder](2025/app-builder.md)
    + [Adobe Commerce Intelligence（fka MBI）](2025/commerce-intelligence.md)

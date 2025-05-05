@@ -16,10 +16,10 @@ ht-degree: 0%
 
 このセッションでは、AEMのグローバルエバンジェリストで ACS AEM Commons と ACS AEM Tools の共同プロジェクトリーダーである Justin Edelson が、これらのオープンソースプロジェクトで使用されている目標とプロセスに関する背景を説明し、次のような主な機能についてデモを行います。AEM
 
-* [!UICONTROL Dispatcher フラッシュルール ]
-* [!UICONTROL  サイトマップジェネレーター ]
+* [!UICONTROL Dispatcher フラッシュルール &#x200B;]
+* [!UICONTROL &#x200B; サイトマップジェネレーター &#x200B;]
 * [!UICONTROL AEM Fiddle]
-* [!UICONTROL  汎用リスト ]
+* [!UICONTROL &#x200B; 汎用リスト &#x200B;]
 * [!UICONTROL Typekit Cloud Service]
 
 >[!VIDEO](https://video.tv.adobe.com/v/19374/?quality=9)

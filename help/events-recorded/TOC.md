@@ -41,7 +41,7 @@ ht-degree: 11%
    + [ スキル交換 ](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfrontで目を覚ます ](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
-+ ソリューション {#solution} 別
++ ソリューション 別 {#solution}
    + Acrobat Sign {#as}
       + [Acrobat Sign ウェビナー ](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + Adobe Acrobat サービス {#aas}

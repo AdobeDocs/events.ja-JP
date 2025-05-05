@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [概要](overview.md)
 + 2024年 {#2024}
-   + {#nov2024} 年 11 月
+   + 年 11 月{#nov2024}
       + [キーノート](2024/nov/keynote.md)
       + AEM Cloud Service {#aem-cloud-service}
          + [AEM API とイベント](2024/nov/apis-eventing.md)
@@ -44,7 +44,7 @@ ht-degree: 4%
          + [Edge Delivery ServicesとAdobe Commerce](2024/nov/commerce-storefront-eds.md)
          + [ヘッドレス実装向けCommerce API の調整](2024/nov/commerce-api-headless.md)
 + 2023年 {#2023}
-   + {#nov2023} 年 11 月
+   + 年 11 月{#nov2023}
       + [オープニング キーノート](2023/november/keynote.md)
       + [オープニングキーノート（APAC）](2023/november/keynote-apac.md)
       + [App Builderを使用したコンテンツワークフローの自動化](2023/november/content-workflows.md)
@@ -74,7 +74,7 @@ ht-degree: 4%
          + [検索とカタログサービス](2023/november/commerce-search-and-catalog-service.md)
          + [Commerce サイトのパフォーマンスを最適化する戦略](2023/november/commerce-site-performance.md)
          + [Adobe Commerce Cloudでの変更の追跡](2023/november/commerce-cloud-track-changes.md)
-   + {#may2023} 年 5 月
+   + 年 5 月{#may2023}
       + [オープニング キーノート](2023/may/keynote.md)
       + [API ツアー](2023/may/new-apis.md)
       + [メールおよびForms用のAEM コアコンポーネントの詳細](2023/may/core-components.md)
@@ -142,7 +142,7 @@ ht-degree: 4%
       + [迅速なフロントエンド開発](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [任意のサイトをプログレッシブ web アプリにする](2021/february/any-site-into-pwa.md)
-   + {#oct2021} 年 10 月
+   + 年 10 月{#oct2021}
       + [概要](2021/october/overview.md)
       + [オープニング キーノート](2021/october/keynote.md)
       + [Experience ManagerCS への移行を加速](2021/october/accelerate-transistion.md)

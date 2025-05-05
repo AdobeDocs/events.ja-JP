@@ -32,7 +32,7 @@ Java や Sling などの従来のExperience Manager スキルが必要なく、A
 >[!MORELIKETHIS]
 >
 >* [ 対応するコンテキストスレッド ](https://adobe.ly/3LkSWdm)
->* 今後のウェビナーの通知を受け取るには ](https://aem-augs.adobe.com/)[AdobeのAEM ユーザーグループ } にご登録ください。
+>* 今後のウェビナーの通知を受け取るには [&#128279;](https://aem-augs.adobe.com/)AdobeのAEM ユーザーグループ &rbrace; にご登録ください。
 
 
 <!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->

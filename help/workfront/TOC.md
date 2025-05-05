@@ -33,7 +33,7 @@ ht-degree: 0%
 + リソース管理 {#resource-management}
    + [リソースとキャパシティの計画](user-groups/resource-and-capacity-planning.md)
    + [リソース管理](user-groups/resource-management.md)
-+ 作業 {#review-and-approve-work} のレビューと承認
++ 作業 のレビューと承認 {#review-and-approve-work}
    + [マーケティングワークフローと承認](user-groups/marketing-workflows-and-approvals.md)
    + [IT ワークフローと承認](user-groups/it-workflows-and-approvals.md)
 + タイムシート {#timesheets}
