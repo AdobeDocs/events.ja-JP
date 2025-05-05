@@ -25,4 +25,4 @@ ht-degree: 0%
 * アーキテクチャの概要
 * データ収集およびアクティベーション戦略に関する考慮事項
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456225/?learn=on&captions=jpn)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Analyticsの行き先は？ Customer Journey AnalyticsおよびAdobe Analyticsの Product Management のDirectorである Ben Gaines が、期待される内容について少しお話します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425984/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454417/?learn=on&captions=jpn)

@@ -28,4 +28,4 @@ ht-degree: 0%
 - データストリームの優先順位付けの重要性とベストプラクティスについて
 - マーケティングキャンペーンをリアルタイムで最適化
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456806/?learn=on&captions=jpn)

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 カスタマイズ可能な CDN ルール、WAF対策、設定パイプラインを使用して、Adobe管理 CDN の可能性を最大限に活用します。 Adobeでシニアコンピューターサイエンティストを務める Marius Petria、Adobeでソフトウェア開発エンジニアを務める Quentin Vecchio、Adobeでソフトウェア開発エンジニアを務める Florian Froese は、Adobe Experience Manager as a Cloud Service アプリケーションのパフォーマンスとセキュリティを向上させる戦略を共有しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440603/?learn=on&enablevpops&captions=jpn)
 
 ## コミュニティ ディスカッション
 

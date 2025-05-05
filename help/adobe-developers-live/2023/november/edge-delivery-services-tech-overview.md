@@ -25,4 +25,4 @@ ht-degree: 5%
 
 おそらく、AEM業界で最も話題になっているのは、AEM ファミリーに加わる新Edge Delivery Servicesの技術的な概要を詳しく説明するページです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455922/?learn=on&captions=jpn)

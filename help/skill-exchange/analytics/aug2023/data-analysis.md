@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Analyticsには無限に多くの機能があるように見えます。 私たちは、様々なクライアントや業界から、最も使われないながらも強力な製品を選択しました。 このセッションでは、これらを分析ワークフローに適用し、組織に対するインサイトの価値をすばやく高める方法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425990/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456586/?learn=on&captions=jpn)

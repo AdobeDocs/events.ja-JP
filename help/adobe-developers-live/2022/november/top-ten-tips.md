@@ -24,4 +24,4 @@ ht-degree: 0%
 
 優れたエクスペリエンスパフォーマンスは、エクスペリエンスの成功の鍵です。 このセッションでは、開発者がAdobe Experience Managerの web サイトをより迅速に開発するのに役立つヒントのベストプラクティス上位 10 件を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457176/?quality=12&learn=on&captions=jpn)

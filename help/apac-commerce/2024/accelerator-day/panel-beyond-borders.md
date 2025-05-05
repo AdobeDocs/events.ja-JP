@@ -28,6 +28,6 @@ ht-degree: 0%
 + カロライナ デ フィゲリド クリスピークレメ
 + フセイン ムスタファ
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457231/?learn=on&captions=jpn)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

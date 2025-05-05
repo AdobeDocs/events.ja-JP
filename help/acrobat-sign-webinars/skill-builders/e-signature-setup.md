@@ -20,7 +20,7 @@ ht-degree: 0%
 
 電子サイン用のドキュメントを簡単に設定できる 3 つの方法について説明します。 PDF、Microsoft 365 ファイル、さらには単純な画像ファイルであっても、このセッションでは、そのドキュメントに署名するために必要なツールを提供します。 Adobe Acrobat Signのシンプルなドラッグ&amp;ドロップオーサリング環境Adobe AcrobatでPDFフォームを設定するテキストタグを使用して迅速なドキュメントオーサリングを行う 3 つの方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455945/?learn=on&captions=jpn)
 
 ## テキストタグをMicrosoft Word と組み合わせて使用する利点は何ですか？
 

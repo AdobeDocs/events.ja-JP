@@ -24,4 +24,4 @@ ht-degree: 0%
 
 ストアフロントのエクスペリエンスを強化および最適化するための検索およびカタログのサービスについて説明します。  このデモでは、commerce services コネクタと、GraphQLを使用してストアフロントで活用する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454726/?learn=on&captions=jpn)

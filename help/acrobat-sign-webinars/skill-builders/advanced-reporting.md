@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Acrobat Signで使用できる分析とレポートの詳細を説明し、ビジネスを前進させるために必要なインサイトを提供するためにデータを表示する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454406/?learn=on&captions=jpn)
 
 ## 新しいレポートおよびエクスポート機能
 

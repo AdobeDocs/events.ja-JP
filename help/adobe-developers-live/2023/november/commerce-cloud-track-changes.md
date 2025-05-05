@@ -24,4 +24,4 @@ ht-degree: 0%
 
 スクリプト統合を作成して、New RelicでCommerce プロジェクトのデプロイメントイベントを追跡します。 New Relicの変更追跡機能を簡単に有効にして、クラウドインフラストラクチャプロジェクト上のCommerceのデプロイメントイベントを監視できます。 Deployments データ収集は、CPU、メモリ、トランザクション応答時間など、全体的なパフォーマンスに対するデプロイメントの変更の影響を分析するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456443/?learn=on&captions=jpn)

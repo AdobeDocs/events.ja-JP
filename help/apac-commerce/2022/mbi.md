@@ -33,4 +33,4 @@ ht-degree: 0%
 
 MBI を使用すると、平均注文額から顧客のライフタイム値とリテンション率に至るまで、すべてを表示するダッシュボードで、レポートをシンプル化できます。 これらの強力なインサイトを使用すると、アクションを実行し、オンラインビジネスにさらなる価値を生み出すことができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413905/?quality=12&learn=on&captions=jpn)

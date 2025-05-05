@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このセッションでは、Product Marketing のDirectorである Richard Whitehead が、ハイライト、新機能と利用可能な機能、製品イノベーションの完了など、Workfrontの進化について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453830/?learn=on&captions=jpn)

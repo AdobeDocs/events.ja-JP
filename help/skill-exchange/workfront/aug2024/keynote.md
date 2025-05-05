@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Workfront：基調講演
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454483/?learn=on&captions=jpn)

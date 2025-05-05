@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + Adobe、ANZ ソリューションエンジニアリング責任者、Jason Ford が発表
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455445/?learn=on&captions=jpn)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Adobe Commerceの未来を解き放つ！ ジェネレーティブ AI と 3D テクノロジーを活用した、Commerce プラットフォームの最新の機能強化に関する最先端のプレゼンテーションをご覧ください。 これらのイノベーションによって、どのように顧客エンゲージメントが再定義され、ビジネスの成功が促進されるかについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456456/?learn=on&captions=jpn)

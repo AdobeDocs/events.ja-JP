@@ -24,6 +24,6 @@ Commerceの AI の概要とデモ、Adobe Expressを通じたAdobeの最新の�
 
 + Adobe、シニアソリューションコンサルタント、Eroka O&#39;Connor が発表
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456485/?learn=on&captions=jpn)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ドキュメントの署名を迅速に開始するためのAcrobat Signの基本について説明します。 電子サイン用のドキュメントを準備して送信する署名者に表示される内容を確認する契約書の進行状況を管理および追跡する独自の署名を作成する方法などを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455466/?learn=on&captions=jpn)
 
 ## キーポイント
 

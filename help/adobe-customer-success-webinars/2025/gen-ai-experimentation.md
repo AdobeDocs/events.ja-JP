@@ -27,7 +27,7 @@ ht-degree: 1%
 * コンテンツ実験と最適化
 * ジェネレーティブ AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444460/?learn=on&enablevpops&captions=jpn)
 
 ## 重要ポイント
 

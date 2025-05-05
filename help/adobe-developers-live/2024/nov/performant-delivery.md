@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Adobeのシニア製品マネージャー、Riya Midha が、Adobe Experience Manager Assets Dynamic Mediaを設定する際のベストプラクティスについて説明します。 アセット配信の最適化、ビデオストリーミングの強化、ビューアの設定、パフォーマンスの測定と向上の方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440418/?learn=on&enablevpops&captions=jpn)
 
 ## コミュニティ ディスカッション
 

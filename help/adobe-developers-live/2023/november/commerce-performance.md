@@ -24,4 +24,4 @@ ht-degree: 0%
 
 この感動的なプレゼンテーションでは、Adobe Commerceが包括的なテクノロジースイートとシームレスに統合する「Better Together」のストーリーを掘り下げて説明します。 この相乗効果が、効率、イノベーション、総合的な顧客体験をどのように促進し、ビジネスを新たな高みに引き上げるかをご確認ください
 
->[!VIDEO](https://video.tv.adobe.com/v/3426311/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455979/?learn=on&captions=jpn)

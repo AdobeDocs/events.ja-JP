@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Workfrontのタイムシートを通して、時間のトラッキングについて話すウォルグリーンズのニコラス・ツウィリーとアルマ・マルティネスに耳を傾けましょう。 その後、Christian Barnes がタイムシートの技術的な面を示しているのを見てください。
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457332/?quality=12&learn=on&captions=jpn)

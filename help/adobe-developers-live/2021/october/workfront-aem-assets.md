@@ -23,7 +23,7 @@ Adobe WorkfrontとAdobe Experience Manager Assetsの連携方法を説明しま�
 
 **[Experience League Communities](https://adobe.ly/3kHfJED)** で会話を続けます。
 
->[!VIDEO](https://video.tv.adobe.com/v/337578/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3457155/?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 ## その他のリソース
 

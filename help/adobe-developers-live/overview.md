@@ -80,7 +80,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobeプロダクト�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="Adobe Experience Manager Edge Delivery Servicesに AI とPersonalizationを導入" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="Adobe Experience Manager Edge Delivery Servicesに AI とPersonalizationを導入"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440407/?format=jpeg&nocache=1733162925381&captions=jpn" alt="Adobe Experience Manager Edge Delivery Servicesに AI とPersonalizationを導入"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobeプロダクト�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Adobe Experience Manager as a Cloud Serviceでの CDN およびWAFの設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Adobe Experience Manager as a Cloud Serviceでの CDN およびWAFの設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440603/?format=jpeg&nocache=1733162925358&captions=jpn" alt="Adobe Experience Manager as a Cloud Serviceでの CDN およびWAFの設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobeプロダクト�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Adobe Experience Manager SitesのExtension Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Adobe Experience Manager SitesのExtension Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440429/?format=jpeg&nocache=1733162926516&captions=jpn" alt="Adobe Experience Manager SitesのExtension Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobeプロダクト�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Assets移行ブループリント" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Assets移行ブループリント"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440440/?format=jpeg&nocache=1733162927528&captions=jpn" alt="Assets移行ブループリント"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobeプロダクト�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="パフォーマンスの高い配信のベストプラクティス" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="パフォーマンスの高い配信のベストプラクティス"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440418/?format=jpeg&nocache=1733162927540&captions=jpn" alt="パフォーマンスの高い配信のベストプラクティス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

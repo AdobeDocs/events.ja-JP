@@ -24,4 +24,4 @@ ht-degree: 0%
 - 長期的成功のコースの設定
 - 戦略的イニシアチブを効果的に推進
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456784/?learn=on&captions=jpn)

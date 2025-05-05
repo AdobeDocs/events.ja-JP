@@ -25,4 +25,4 @@ ht-degree: 0%
 
 ヘッドレスアダプティブFormsは、Adobe Experience Manager プラットフォーム内でヘッドレス web フォームを作成および管理するためのソリューションです。 この機能を使用すると、組織は、従来のグラフィカルユーザーインターフェイスを使用するのではなく、API を使用してアクセスし、操作できるインタラクティブフォームを作成、公開、管理できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426336/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454969/?learn=on&captions=jpn)

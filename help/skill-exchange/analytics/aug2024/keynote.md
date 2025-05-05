@@ -26,4 +26,4 @@ ht-degree: 1%
 * 適切なコンテキストを提供し、効果的なデータ使用を確保するためのベストプラクティスについて説明します。
 * Adobe AnalyticsとCustomer Journey Analyticsが、チームのデータ強化にどう役立つかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453588/?learn=on&captions=jpn)

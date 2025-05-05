@@ -23,4 +23,4 @@ ht-degree: 0%
 
 AdobeApp Builder、Adobe IO、Webhook、管理 UI SDK について説明します。  ここでは、一般的なユースケースを理解するのに役立つ、各新機能の概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456673/?learn=on&captions=jpn)

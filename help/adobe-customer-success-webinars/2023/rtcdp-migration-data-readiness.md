@@ -25,4 +25,4 @@ ht-degree: 0%
 * 組織としてのビジネスユースケースに合わせる方法を学ぶ
 * リアルタイム CDP 対応の主要なリソースとアクション
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457064/?learn=on&captions=jpn)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 このセッションでは、Adobe Commerce プラットフォームのヘルス、セキュリティおよび品質を監視するために使用できるツールについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456854/?quality=12&learn=on&captions=jpn)

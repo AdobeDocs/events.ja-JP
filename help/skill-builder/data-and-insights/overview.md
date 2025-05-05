@@ -20,7 +20,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=ja">
-      <img alt="Adobe Targetを使用したパーソナライズと自動化" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
+      <img alt="Adobe Targetを使用したパーソナライズと自動化" src="https://video.tv.adobe.com/v/3457379?format=jpeg&captions=jpn" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=ja">

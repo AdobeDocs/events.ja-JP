@@ -26,7 +26,7 @@ ht-degree: 0%
 * Workfrontを使用したリーン方式のプロジェクト管理のサポート
 * 継続的な学習と適応
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456707/?learn=on&captions=jpn)
 
 ## 会議の概要
 

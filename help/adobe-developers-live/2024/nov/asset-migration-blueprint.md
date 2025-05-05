@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Adobeのプリンシパルテクニカルアーキテクト、Achim Koch が、従来の DAM をAdobe Experience Manager Assetsに移行する方法を説明します。 関係者の分析、リソース計画、データ変換、データ処理に CSV ファイルを使用するなどのベストプラクティスに関するインサイトを得ます。 独自のAdobe Experience Manager移行プロジェクトのロードマップを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440403/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440440/?learn=on&enablevpops&captions=jpn)
 
 ## コミュニティ ディスカッション
 

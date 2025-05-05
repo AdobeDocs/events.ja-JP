@@ -24,6 +24,6 @@ Adobe Experience ManagerとAdobe CommerceによるAdobeの超高速Edge Delivery
 
 + Adobe、シニアソリューションエンジニア、Kam Radhakrishnan が発表
 
->[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455312/?learn=on&captions=jpn)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

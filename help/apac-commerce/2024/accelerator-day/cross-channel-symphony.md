@@ -28,6 +28,6 @@ DotDigital がAdobe Commerceと提携して、イノベーション、パーソ�
 + Adobe、シニアパートナーセールスマネージャー、Matt Palmer
 + Graham Bell、ANZ セールス責任者 – DotDigital
 
->[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455512/?learn=on&captions=jpn)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

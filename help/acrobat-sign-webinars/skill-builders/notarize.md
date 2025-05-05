@@ -20,7 +20,7 @@ ht-degree: 0%
 
 統合の公証化 – ドキュメントをより迅速かつ簡単に公証化する方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454373/?learn=on&captions=jpn)
 
 ## 取り上げた主なトピック
 

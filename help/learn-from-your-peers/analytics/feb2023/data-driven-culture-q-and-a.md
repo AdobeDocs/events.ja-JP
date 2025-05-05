@@ -19,4 +19,4 @@ ht-degree: 0%
 
 [!DNL Adobe Analytics] Building a Data Driven Culture のウェビナーでは、世界中の [!DNL Adobe Analytics] ユーザーから 35 を超える質問がありました。 ライブ Q&amp;A では [!DNL Adobe Analytics] チャンピオンがすべての質問に答えなかったので、私たちは彼らを連れ戻し、フォローアップ Q&amp;A セッションを開催してあなたの質問に答え、より多くの専門知識を共有しました。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455121/?quality=12&learn=on&captions=jpn)

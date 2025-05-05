@@ -20,7 +20,7 @@ ht-degree: 0%
 
 既存のワークフローにMicrosoftを追加することで、Word、Outlook、Sharepoint などのAdobe Acrobat Sign アプリの使用方法を広げることができます。 このセッションでは、一般的なMicrosoft アプリでドキュメントプロセスの合理化を開始する方法を説明するので、署名の取得やステータスの確認のためだけにコンテキストを切り替える必要はありません。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455049/?learn=on&captions=jpn)
 
 ## Acrobat Sign統合はどのアプリケーションをサポートしていますか？
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 このウェビナーでは、これらの概念を統合することで、効率を高め、顧客体験を向上させ、組織内でのデータに基づく意思決定をサポートする方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457009/?learn=on&captions=jpn)
 
 ## 重要ポイント
 

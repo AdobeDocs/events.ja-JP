@@ -30,4 +30,4 @@ ht-degree: 0%
 * 休暇トラッキングを組み込む方法
 * メイヨークリニックで分析とリソースマネージャーを使用して、チームに透明性を提供し、新しい作業を計画する方法の例
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457097/?learn=on&captions=jpn)

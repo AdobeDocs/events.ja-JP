@@ -28,6 +28,6 @@ ht-degree: 0%
 + Omaya Robinson、PowerBoard 設立クルー長、製品責任者 – CBA
 + Luke Jericho、Crew Lead、Head of eCommerce - CBA
 
->[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455477/?learn=on&captions=jpn)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

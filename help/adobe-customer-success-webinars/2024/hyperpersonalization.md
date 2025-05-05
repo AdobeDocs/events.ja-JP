@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ハイパーパーソナライゼーションの新しい時代について教えてください。 パーソナライゼーション成熟度モデルに基づく基盤を構築し、一般的なブロッカーについて説明し、開始するための戦術的なヒントを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457346/?learn=on&captions=jpn)
 
 ## 主な議論のポイント
 

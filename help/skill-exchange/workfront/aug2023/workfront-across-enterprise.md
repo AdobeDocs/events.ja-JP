@@ -31,4 +31,4 @@ IPG Health の Production Intelligence 担当 EVP の Dale Whitchurch 氏が、I
 Workfrontをより広範なテクニカルスタックと統合し、主要なワークフローを成熟させるための実践的なアドバイス
 IPG がコンテンツサプライチェーンの基盤を築く仕組み
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456656/?learn=on&captions=jpn)

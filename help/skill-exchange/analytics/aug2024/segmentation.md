@@ -26,4 +26,4 @@ Adobe Analyticsのセグメントは非常に強力ですが、その力によ�
 * 除外ロジックの能力
 * 成功するための適切な設定の選択
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456930/?learn=on&captions=jpn)

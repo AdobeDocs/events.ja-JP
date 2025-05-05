@@ -21,4 +21,4 @@ ht-degree: 0%
 
 セグメントに関するすべて – データを多角的に分析してインサイトを得る方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456608/?learn=on&captions=jpn)

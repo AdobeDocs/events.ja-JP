@@ -27,6 +27,6 @@ ht-degree: 0%
 
 **[Experience League Communities](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455433/?quality=12&learn=on&hidetitle=true&captions=jpn)
 
 セッションスライドについては、**[こちら](/help/adobe-developers-live/assets/content-commerce.pdf)** をクリックしてください。
