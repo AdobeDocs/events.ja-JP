@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 # Adobe カスタマーサクセスウェビナー {#adobe-customer-success-webinar-recordings}
 
 + [Adobe カスタマーサクセスウェビナー](overview.md)
-+ 2025 年 {#2025}
++ 2025 {#2025}
    + [Adobe デジタルインサイト](2025/adobe-digital-insights.md)
    + [AEMとWorkfrontの統合](2025/aem-workfront-integration.md)
    + [効果的な Web ページの構築](2025/build-effective-web-pages.md)
@@ -28,6 +28,7 @@ ht-degree: 0%
    + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
    + [順次論理の習得](2025/mastering-sequential-logic.md)
    + [AEMのパフォーマンスの最適化](2025/optimize-aem-performance.md)
+   + [よりスマートなマーケティングの開始 – GoogleとAdobeの統合](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024年 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Targetの AI 駆動型Personalization](2024/ai-personalization.md)
@@ -35,8 +36,8 @@ ht-degree: 0%
    + [Adobe Workfrontの達人](2024/workfront-mastery.md)
    + [AEM オーサリングの主要概念](2024/aem-authoring-concepts.md)
    + [AEM Sitesの効率性](2024/aem-sites-efficiencies.md)
-   + [お客様のユースケース向けの AEP アプリケーションサービス統合](2024/aep-apps-services-integrations.md)
-   + [AEP のユースケースの計画](2024/aep-use-case-planning.md)
+   + [お客様のユースケースに対応するAEP アプリケーションサービスの統合](2024/aep-apps-services-integrations.md)
+   + [AEPのユースケースの計画](2024/aep-use-case-planning.md)
    + [AI を活用したコピーライティング](2024/ai-copywriting.md)
    + [基本的な分析機能から中間的な分析機能](2024/basic-to-intermediate-analysis-capabilities.md)
    + [データストリームの優先順位付け](2024/data-stream-prioritization.md)
