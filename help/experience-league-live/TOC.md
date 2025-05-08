@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
+source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '523'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Ep. 46:Content Analytics:AI インサイトによるパフォーマンスの最適化](episodes/exl-live-episode-05-22-25.md)
    + [Ep. 45：待たないで…共同作業！ Real-Time CDP Collaborationについて](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44:Adobe Experience Platformの AI アシスタントで運用インサイトを解放する](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43: Real-Time CDPでのマーケター向け AI オーディエンスの概要](episodes/exl-live-episode-11-13-24.md)

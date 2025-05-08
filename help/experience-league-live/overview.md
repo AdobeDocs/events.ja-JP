@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 461e5475eda2446e1d5339a93efee6ba88e78171
+source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,21 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 ## 今後のExperience League LIVE イベント
 
-次に予定されているショーに関する情報は、すぐに確認してください。
+<table>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
+              <img alt="Experience League LIVE 5 月 22 日" src="episodes/assets/May-22-2025-WebBanner.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-05-22-25.md">
+                <strong>Content Analytics:AI インサイトによるパフォーマンスの最適化 </strong>
+              </a>
+              <br/><em> シェイ・オライリー、ジェニファー・ウェルクマイスター、ダグ・ムーア </em>
+              <br/><em>2025 年 5 月 22 日 </em>
+            </div>
+        </td>
+    </tr>
+</table>
 
 </div>
 
@@ -87,5 +101,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
