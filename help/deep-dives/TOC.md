@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 3%
 
 ---
@@ -36,5 +36,6 @@ ht-degree: 3%
    + [メールの配信品質の最大化](maximize-email-deliverability.md)
    + [少人数のチームでインスタンスを最大化](small-team-instance.md)
    + [アクティビティログでの複雑なプロセスの確認](activity-log.md)
+   + [Salesforce バックグラウンド同期のアップグレードと使用状況の監視](salesforce-background-sync.md)
    + [グローバルマーケティングの解放](global-marketing.md)
    + [Webhook を使用したデータ転送](webhooks.md)

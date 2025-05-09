@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,10 @@ ht-degree: 0%
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 {#2025}
    + [Adobe デジタルインサイト](2025/adobe-digital-insights.md)
+   + [GenAI を使用したAEM](2025/aem-genai.md)
    + [AEMとWorkfrontの統合](2025/aem-workfront-integration.md)
+   + [AI とAdobe Target](2025/ai-adobe-target.md)
+   + [XDM スキーマモデリングのベストプラクティスとインサイト](2025/model-xdm-schemas.md)
    + [効果的な Web ページの構築](2025/build-effective-web-pages.md)
    + [コンテンツ・サプライ・チェーンの基本](2025/content-supply-chain-basics.md)
    + [効果的な測定を実現する方法の開発](2025/impactful-insights.md)
@@ -26,8 +29,11 @@ ht-degree: 0%
    + [Personalizationの強化](2025/enhancing-personalization.md)
    + [GenAI 実験](2025/gen-ai-experimentation.md)
    + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [順次論理の習得](2025/mastering-sequential-logic.md)
+   + [シーケンシャル・ロジックの習得：ビジュアル・フレームワーク](2025/mastering-sequential-logic.md)
+   + [順次論理の習得 – 開始停止](2025/sequential-logic-start-stop.md)
    + [AEMのパフォーマンスの最適化](2025/optimize-aem-performance.md)
+   + [AEPプロジェクトへのエグゼクティブスポンサーシップの獲得](2025/exec-sponsorship-aep-projects.md)
+   + [Workfront Fusion の基本とベストプラクティス](2025/adobe-workfront-fusion-best-practices.md)
    + [よりスマートなマーケティングの開始 – GoogleとAdobeの統合](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
 + 2024年 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)

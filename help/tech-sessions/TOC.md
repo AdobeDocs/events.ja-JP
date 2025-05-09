@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud テクニカルセッション
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud テクニカルセッションは、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 16%
+source-wordcount: '154'
+ht-degree: 15%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 16%
 + [Experience Cloud テクニカルセッション](overview.md)
 + 2025 {#2025}
    + [Adobe Campaign Classic配信パフォーマンスのトラブルシューティング](2025/acc-delivery-performance.md)
+   + [AEM as a Cloud ServiceでのDispatcher設定](2025/dispatcher-configurations.md)
    + [Marketo Measureを最大限に活用](2025/getting-most-marketo-measure.md)
    + MarketoのAdobe Admin Consoleへの移行 {#marketo-admin-console}
       + [移行前](2025/marketo-pre-migration.md)
