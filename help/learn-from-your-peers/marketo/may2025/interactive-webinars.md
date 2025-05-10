@@ -39,5 +39,5 @@ Adobe Marketo Engage チャンピオンの Maria Cruz は、グローバルな�
 
 * Q&amp;A が投稿されている Marketing Nation コミュニティの [ ディスカッションスレッド ](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) に参加しましょう。
 * [ インタラクティブウェビナーの GenAI 機能について詳しくはこちらから ](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [ インタラクティブなウェビナーの基本を学ぶ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [ インタラクティブウェビナーポッド（投票、Q&amp;A、CTA）の使用方法を学ぶ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [ インタラクティブなウェビナーの基本を学ぶ ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [ インタラクティブウェビナーポッド（投票、Q&amp;A、CTA）の使用方法を学ぶ ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
