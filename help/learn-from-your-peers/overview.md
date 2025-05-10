@@ -1,18 +1,18 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
-description: Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法について説明します。 [!DNL Experience Makers - Learn from your peers]  は、ソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連の仮想カスタマー  [!DNL Adobe Experience Cloud]  ラーニングイベントです。
+description: Adobeの専門家や同業者から、Adobe ソリューションを最大限に活用する方法について説明します。 [!DNL Experience Makers - Learn from your peers]  は、ソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連の仮想カスタマー  [!DNL Adobe Experience Cloud]  ラーニングイベントです。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '852'
 ht-degree: 0%
 
 ---
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-Adobeの専門家や同業者から、Adobeソリューションを最大限に活用する方法について説明します。 実務担当者向けに選択されたトピックを使用して _実務担当者向けに_ 選択されたインタラクティブセッションでは、「考えられる」ユースケース、ベストプラクティス、ヒントとコツのアートを共有します。
+Adobeの専門家から学び、Adobe ソリューションを最大限に活用する方法を同業者に紹介します。 実務担当者向けに選択されたトピックを使用して _実務担当者向けに_ 選択されたインタラクティブセッションでは、「考えられる」ユースケース、ベストプラクティス、ヒントとコツのアートを共有します。
 
 ## 2024 年イベント
 
@@ -28,7 +28,7 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1732325316536" alt="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1746904592243" alt="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,23 +49,23 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Marketo
+### Adobe Experience Manager
 
 <!-- CARDS
-* marketo/nov2024/advanced-segmentation.md {cta  = Watch event}
-* marketo/sept2024/multi-stream-engagement-programs.md {cta  = Watch event}
-* marketo/july2024/marketers-map-marketo-campaigns.md {cta  = Watch event}
-* marketo/april2024/practical-applications-of-marketo-engage-rest-api.md {cta  = Watch event}
-* marketo/jan2024/person-scoring-mastery.md {cta  = Watch event}
+
+{cta  = Watch event}
+
+* experience-manager/july2024/global-digital-presence.md
+
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking Success at Scale with a Global Combination">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/nov2024/advanced-segmentation.md" title="高度なセグメント化監査 – Marketo Engageの正確性とパフォーマンスの確保" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1732325316991" alt="高度なセグメント化監査 – Marketo Engageの正確性とパフォーマンスの確保"
+                    <a href="experience-manager/july2024/global-digital-presence.md" title="グローバルな組み合わせによる大規模な成功の実現" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1746904593156" alt="グローバルな組み合わせによる大規模な成功の実現"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,9 +73,73 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" title="高度なセグメント化監査 – Marketo Engageの正確性とパフォーマンスの確保"> 高度なセグメント化監査 – Marketo Engageの正確性とパフォーマンスの確保 </a>
+                        <a href="experience-manager/july2024/global-digital-presence.md" target="_blank" rel="referrer" title="グローバルな組み合わせによる大規模な成功の実現"> グローバルな組み合わせによる大規模な成功の実現 </a>
                     </p>
-                    <p class="is-size-6">Adobe Marketo Engage チャンピオンの Darshil Shah が、高度なセグメント化監査をマスターして、セグメント化戦略を最適化し、お客様の行動と連携し、GDPR コンプライアンスを維持し、ベストプラクティスとリアルタイムの更新を通じてマーケティングパフォーマンスを強化する方法を学びます。</p>
+                    <p class="is-size-6">カスタムコンポーネント、ブループリント、ワークフロー、フラグメントを使用してAEMでグローバルコンテンツを拡張し、効率的な制御、承認、地域ごとの柔軟性を実現します。</p>
+                </div>
+                <a href="experience-manager/july2024/global-digital-presence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+### Marketo
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* marketo/may2025/interactive-webinars.md
+* marketo/nov2024/advanced-segmentation.md
+* marketo/sept2024/multi-stream-engagement-programs.md
+* marketo/july2024/marketers-map-marketo-campaigns.md
+* marketo/april2024/practical-applications-of-marketo-engage-rest-api.md
+* marketo/jan2024/person-scoring-mastery.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Revolutionizing Your Webinar Experience - Discover the Impact of Interactive Webinars">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/may2025/interactive-webinars.md" title="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1746904594008" alt="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/may2025/interactive-webinars.md" target="_blank" rel="referrer" title="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける"> ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を発見 </a>
+                    </p>
+                    <p class="is-size-6">Marketo チャンピオンの Maria Cruz がインタラクティブウェビナーを使用して、エンゲージメントを強化し、インサイトを得て、MRM でのマーケティングを強化する方法を説明します。 オンデマンドで今すぐ視聴</p>
+                </div>
+                <a href="marketo/may2025/interactive-webinars.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced Segmentation Audits - Ensuring Precision and Performance in Marketo Engage">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="marketo/nov2024/advanced-segmentation.md" title="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1746904593992" alt="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" title="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保"> 高度なセグメント化監査 – Marketo Engageでの正確さとパフォーマンスの確保 </a>
+                    </p>
+                    <p class="is-size-6">Adobe Marketo Engage チャンピオンの Darshil Shah が、高度なセグメント化監査をマスターし、セグメント化戦略を最適化し、お客様の行動と連携し、GDPR コンプライアンスを維持し、ベストプラクティスとリアルタイムの更新を通じてマーケティングパフォーマンスを向上させる方法を学びます。</p>
                 </div>
                 <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
@@ -88,7 +152,7 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1732325316984" alt="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1746904594019" alt="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,7 +175,7 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1732325316975" alt="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1746904594029" alt="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,7 +185,7 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="marketo/july2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" title="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド"> マーケターのマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド </a>
                     </p>
-                    <p class="is-size-6">読み込み、クローン作成、ゼロからの構築など、Marketo Engageプログラムを効率的に作成する方法について説明します。 ブランド標準を満たすようにMarketo Engageテンプレートをカスタマイズし、アセットと期間のコストを管理します。</p>
+                    <p class="is-size-6">読み込み、クローン作成、ゼロからの構築など、Marketo Engage プログラムを効率的に作成する方法について説明します。 Marketo Engage テンプレートをカスタマイズしてブランド標準を満たし、アセットと期間のコストを管理します。</p>
                 </div>
                 <a href="marketo/july2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
@@ -133,8 +197,8 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="強力なワークフロー自動化のロック解除 – Marketo Engage REST API の実用的なアプリケーション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1732325316995" alt="強力なワークフロー自動化のロック解除 – Marketo Engage REST API の実用的なアプリケーション"
+                    <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1746904594038" alt="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,9 +206,9 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" title="強力なワークフロー自動化のロック解除 – Marketo Engage REST API の実用的なアプリケーション"> 強力なワークフロー自動化のロック解除 – Marketo Engage REST API の実用的なアプリケーション </a>
+                        <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" title="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション"> 強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション </a>
                     </p>
-                    <p class="is-size-6">Marketo Engage REST API の可能性を最大限に活用して、マーケティングワークフローの自動化、Zapier などのツールの統合、一括アクションでの Python の活用、リード結合、UTM トラッキング、アクティビティデータ抽出などのタスクの合理化を行うことができます。</p>
+                    <p class="is-size-6">Marketo Engage REST API の可能性を最大限に活用して、マーケティングワークフローの自動化、Zapier などのツールの統合、一括アクションでの Python の活用、リード結合、UTM トラッキング、アクティビティデータ抽出などのタスクの効率化を行うことができます。</p>
                 </div>
                 <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
@@ -156,8 +220,8 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/jan2024/person-scoring-mastery.md" title="Marketo Engageのスコアリングに習熟した人物 – グローバルフレームワークでのローカライズされたニュアンス" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1732325316999" alt="Marketo Engageのスコアリングに習熟した人物 – グローバルフレームワークでのローカライズされたニュアンス"
+                    <a href="marketo/jan2024/person-scoring-mastery.md" title="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1746904594047" alt="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -165,9 +229,9 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/jan2024/person-scoring-mastery.md" target="_blank" rel="referrer" title="Marketo Engageのスコアリングに習熟した人物 – グローバルフレームワークでのローカライズされたニュアンス">Marketo Engageでスコアリングの達人 – グローバルな枠組みの中でローカライズされたニュアンス </a>
+                        <a href="marketo/jan2024/person-scoring-mastery.md" target="_blank" rel="referrer" title="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物">Marketo Engageのスコアリングに精通している人物 – グローバルフレームワークにおけるローカライズされたニュアンス </a>
                     </p>
-                    <p class="is-size-6">管理者は、スコアリング・エレメントを相互に比較した実際のビジネス価値に基づいて、Marketo Engageユーザーのスコアリング・モデルを作成します。 しかし、そのビジネス価値が市場によって異なる場合はどうでしょうか。 組織全体の一貫性を損なうことなく、ローカルの影響をどのように考慮すればよいでしょうか？ スコアリングモデルにローカルの柔軟性を組み込み、バランスを見つける方法を説明します。</p>
+                    <p class="is-size-6">管理者は、スコアリング・エレメントの相互に比較した実際のビジネス価値に基づいて、Marketo Engageのユーザー・スコアリング・モデルを作成します。 しかし、そのビジネス価値が市場によって異なる場合はどうでしょうか。 組織全体の一貫性を損なうことなく、ローカルの影響をどのように考慮すればよいでしょうか？ スコアリングモデルにローカルの柔軟性を組み込み、バランスを見つける方法を説明します。</p>
                 </div>
                 <a href="marketo/jan2024/person-scoring-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
@@ -181,16 +245,43 @@ Adobeの専門家や同業者から、Adobeソリューションを最大限に�
 ### Workfront
 
 <!-- CARDS
-* workfront/2024/04/staffing-your-workfront-system-admin-practice.md {cta  = Watch event}
+
+{cta  = Watch event}
+
+* workfront/2025/how-to-measure-and-share-workfront-value.md
+* workfront/2024/04/staffing-your-workfront-system-admin-practice.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Articulating Impact - How to Measure and Share Workfront Value">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="影響の特定 – Workfront値の測定方法と共有方法" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1746904595407" alt="影響の特定 – Workfront値の測定方法と共有方法"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" target="_blank" rel="referrer" title="影響の特定 – Workfront値の測定方法と共有方法"> 影響の特定 – Workfront値の測定方法と共有方法 </a>
+                    </p>
+                    <p class="is-size-6">このオンデマンドウェビナーでは、Synchrony の James Hill と Ellen Saltmarsh、EMMsphere の Daniel Clarke が、Workfrontの導入における「理由」の明確な示し、時間とコストの削減などの測定可能な成果の定義、関係者の賛同を得るための成功事例の伝達、価値実現のための段階的なプレイブックの使用といった戦略について説明します。</p>
+                </div>
+                <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Staffing your Workfront system admin practice webinar">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Workfront システム管理業務のスタッフの配置のウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1732325318283" alt="Workfront システム管理業務のスタッフの配置のウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1746904595393" alt="Workfront システム管理業務のスタッフの配置のウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

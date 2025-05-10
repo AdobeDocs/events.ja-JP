@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # ウェビナーエクスペリエンスの革新：インタラクティブウェビナーの影響を発見
 
@@ -34,3 +34,10 @@ Adobe Marketo Engage チャンピオンの Maria Cruz は、グローバルな�
 * **自動プロセスで時間を節約** インタラクティブウェビナーへの移行により、リードルーティング、セールスアラート、フォローアップなどのプロセスを自動化して、手動の手間を軽減し、ワークフローを高速化できます。
 
 * **繰り返し可能なプレイブックを作成** ウェビナーからのインサイトと知識に基づいて繰り返し可能なプレイブックを作成すると、自信を持って取り組みを拡大し、将来のウェビナー戦略を改善するのに役立ちます。
+
+## その他のリソース
+
+* Q&amp;A が投稿されている Marketing Nation コミュニティの [ ディスカッションスレッド ](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260) に参加しましょう。
+* [ インタラクティブウェビナーの GenAI 機能について詳しくはこちらから ](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [ インタラクティブなウェビナーの基本を学ぶ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [ インタラクティブウェビナーポッド（投票、Q&amp;A、CTA）の使用方法を学ぶ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

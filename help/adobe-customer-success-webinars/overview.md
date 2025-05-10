@@ -3,9 +3,9 @@ title: Adobe カスタマーサクセスウェビナー
 description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '3160'
+source-wordcount: '3627'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,27 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
 {cta = Watch}
 
 * 2025/adobe-digital-insights.md
+* 2025/adobe-workfront-fusion-best-practices.md
+* 2025/aem-genai.md
 * 2025/aem-workfront-integration.md
+* 2025/agile-marketing-organization.md
+* 2025/ai-adobe-target.md
 * 2025/build-effective-web-pages.md
 * 2025/content-supply-chain-basics.md
-* 2025/impactful-insights.md
-* 2025/agile-marketing-organization.md
 * 2025/data-distiller-101.md
 * 2025/driving-customer-engagement.md
 * 2025/enhance-loyalty-programs.md
 * 2025/enhancing-personalization.md
+* 2025/exec-sponsorship-aep-projects.md
 * 2025/gen-ai-experimentation.md
 * 2025/genstudio-for-performance-marketing-operating-model.md
+* 2025/impactful-insights.md
 * 2025/mastering-sequential-logic.md
+* 2025/model-xdm-schemas.md
 * 2025/optimize-aem-performance.md
+* 2025/personalize-digital-communications.md
+* 2025/sequential-logic-start-stop.md
+* 2025/smarter-marketing-starts-here-integrating-google-and-adobe.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -45,7 +53,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-digital-insights.md" title="Adobe デジタルインサイト - 2024 年のホリデー結果と 2025 年初頭のトレンドを解説" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1740176080708" alt="Adobe デジタルインサイト - 2024 年のホリデー結果と 2025 年初頭のトレンドを解説"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1746904158607" alt="Adobe デジタルインサイト - 2024 年のホリデー結果と 2025 年初頭のトレンドを解説"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,12 +71,58 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront Fusion Basics & Best Practices">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/adobe-workfront-fusion-best-practices.md" title="Adobe Workfront Fusion の基本とベストプラクティス" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1746904158624" alt="Adobe Workfront Fusion の基本とベストプラクティス"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/adobe-workfront-fusion-best-practices.md" target="_blank" rel="referrer" title="Adobe Workfront Fusion の基本とベストプラクティス">Adobe Workfront Fusion の基本とベストプラクティス </a>
+                    </p>
+                    <p class="is-size-6">ワークフローを自動化し、生産性を高め、ローコードソリューション、テンプレート、ベストプラクティスとツールを統合するためのWorkfront Fusion の基本について説明します。</p>
+                </div>
+                <a href="2025/adobe-workfront-fusion-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM with GenAI - Transforming your Content Creation & Delivery at Scale">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/aem-genai.md" title="GenAI を使用したAEM - コンテンツの作成と配信を大規模に変換" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1746904158584" alt="GenAI を使用したAEM - コンテンツの作成と配信を大規模に変換"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/aem-genai.md" target="_blank" rel="referrer" title="GenAI を使用したAEM - コンテンツの作成と配信を大規模に変換">GenAI とAEM - コンテンツの作成と配信を大規模に変換 </a>
+                    </p>
+                    <p class="is-size-6">AEMがジェネレーティブ AI、Firefly、Express を使用して、ブランドガバナンスを確保しながら、コンテンツの作成、サイトの最適化、パーソナライズされたエクスペリエンスを向上させる方法を説明します。</p>
+                </div>
+                <a href="2025/aem-genai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM and Workfront integration using Native Connector">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-workfront-integration.md" title="ネイティブコネクタを使用したAEMとWorkfrontの統合" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1740176080751" alt="ネイティブコネクタを使用したAEMとWorkfrontの統合"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1746904158633" alt="ネイティブコネクタを使用したAEMとWorkfrontの統合"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,12 +140,58 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cultivating an Agile Marketing Organization">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/agile-marketing-organization.md" title="アジャイルマーケティング組織の育成" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1746904158595" alt="アジャイルマーケティング組織の育成"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/agile-marketing-organization.md" target="_blank" rel="referrer" title="アジャイルマーケティング組織の育成"> アジャイルマーケティング組織の育成 </a>
+                    </p>
+                    <p class="is-size-6">アジャイルマーケティング組織の育成に関するセッションでは、アジャイルマーケティングの原則、そのメリット、従来のウォーターフォール方式に関する課題、文化の転換と変更管理の必要性、アジャイルマーケティングを成功させるために不可欠な役割と構造について説明しました。</p>
+                </div>
+                <a href="2025/agile-marketing-organization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlocking the Power of AI - Advanced Experimentation with Adobe Target">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/ai-adobe-target.md" title="AI の力を解き放つ – Adobe Targetの高度な実験" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1746904158572" alt="AI の力を解き放つ – Adobe Targetの高度な実験"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/ai-adobe-target.md" target="_blank" rel="referrer" title="AI の力を解き放つ – Adobe Targetの高度な実験">AI の力を解き放つ – Adobe Targetの高度な実験 </a>
+                    </p>
+                    <p class="is-size-6">Adobe Target、CJA、RTCDPを使用して A/B テストと AI パーソナライゼーションのベストプラクティスを確認し、動的なクロスプラットフォームのコンテンツとインサイトを促進します。</p>
+                </div>
+                <a href="2025/ai-adobe-target.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Building Effective Web Pages in AEM Sites">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-effective-web-pages.md" title="AEM Sitesでの効果的な Web ページの構築" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1740176080766" alt="AEM Sitesでの効果的な Web ページの構築"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1746904158658" alt="AEM Sitesでの効果的な Web ページの構築"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,8 +213,8 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/content-supply-chain-basics.md" title="コンテンツサプライチェーンの基本 – 新規ユーザー向けのAEM、Analytics/CJA およびAdobe Targetの統合" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1740176080790" alt="コンテンツサプライチェーンの基本 – 新規ユーザー向けのAEM、Analytics/CJA およびAdobe Targetの統合"
+                    <a href="2025/content-supply-chain-basics.md" title="コンテンツサプライチェーンの基本 – 新規ユーザー向けAEM、Analytics/CJAおよびAdobe Targetの統合" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1746904158641" alt="コンテンツサプライチェーンの基本 – 新規ユーザー向けAEM、Analytics/CJAおよびAdobe Targetの統合"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,57 +222,11 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/content-supply-chain-basics.md" target="_blank" rel="referrer" title="コンテンツサプライチェーンの基本 – 新規ユーザー向けのAEM、Analytics/CJA およびAdobe Targetの統合"> コンテンツサプライチェーンの基本 – 新規ユーザー向けのAEM、Analytics/CJA およびAdobe Targetの統合 </a>
+                        <a href="2025/content-supply-chain-basics.md" target="_blank" rel="referrer" title="コンテンツサプライチェーンの基本 – 新規ユーザー向けAEM、Analytics/CJAおよびAdobe Targetの統合"> コンテンツサプライチェーンの基本 – 新規ユーザー向けにAEM、Analytics/CJAおよびAdobe Targetを統合する </a>
                     </p>
                     <p class="is-size-6">Adobe Experience Manager、Adobe Analytics、Adobe Targetを統合すると、コンテンツの配信、パーソナライゼーション、テストが合理化され、AI 駆動型のインサイトと自動処理を通じて機敏なマーケティングアプローチと継続的な最適化が促進されます。</p>
                 </div>
                 <a href="2025/content-supply-chain-basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Impactful Insights - Crafting Strategies for Effective Measurement">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/impactful-insights.md" title="効果的なインサイト – 効果的な測定のための戦略の作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1740176080759" alt="効果的なインサイト – 効果的な測定のための戦略の作成"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/impactful-insights.md" target="_blank" rel="referrer" title="効果的なインサイト – 効果的な測定のための戦略の作成"> 効果的なインサイト – 効果的な測定のための戦略の作成 </a>
-                    </p>
-                    <p class="is-size-6">適切に実装された測定戦略は、運用効率を高め、データに基づく意思決定を促進し、顧客体験を向上させ、組織に競争力を提供します。</p>
-                </div>
-                <a href="2025/impactful-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cultivating an Agile Marketing Organization">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/agile-marketing-organization.md" title="アジャイルマーケティング組織の育成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1740176080721" alt="アジャイルマーケティング組織の育成"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/agile-marketing-organization.md" target="_blank" rel="referrer" title="アジャイルマーケティング組織の育成"> アジャイルマーケティング組織の育成 </a>
-                    </p>
-                    <p class="is-size-6">アジャイルマーケティング組織の育成に関するセッションでは、アジャイルマーケティングの原則、そのメリット、従来のウォーターフォール方式に関する課題、文化の転換と変更管理の必要性、アジャイルマーケティングを成功させるために不可欠な役割と構造について説明しました。</p>
-                </div>
-                <a href="2025/agile-marketing-organization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
@@ -183,7 +237,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/data-distiller-101.md" title="データDistiller 101" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1740176080731" alt="データDistiller 101"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1746904158616" alt="データDistiller 101"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -206,7 +260,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/driving-customer-engagement.md" title="支払者スペースにおける顧客エンゲージメントの促進" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1740176080741" alt="支払者スペースにおける顧客エンゲージメントの促進"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1746904158650" alt="支払者スペースにおける顧客エンゲージメントの促進"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,7 +283,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhance-loyalty-programs.md" title="Adobe ソリューションの機能を活用したPersonalizationおよびデータによるロイヤルティプログラムの強化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1740176080773" alt="Adobe ソリューションの機能を活用したPersonalizationおよびデータによるロイヤルティプログラムの強化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1746904158683" alt="Adobe ソリューションの機能を活用したPersonalizationおよびデータによるロイヤルティプログラムの強化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,8 +305,8 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/enhancing-personalization.md" title="Personalizationの強化 – Adobe Targetと CJA およびAEMの統合の基本事項" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1740176080781" alt="Personalizationの強化 – Adobe Targetと CJA およびAEMの統合の基本事項"
+                    <a href="2025/enhancing-personalization.md" title="Personalizationの強化 – Adobe TargetとCJAおよびAEMの統合に関する基本事項" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1746904158675" alt="Personalizationの強化 – Adobe TargetとCJAおよびAEMの統合に関する基本事項"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,11 +314,34 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/enhancing-personalization.md" target="_blank" rel="referrer" title="Personalizationの強化 – Adobe Targetと CJA およびAEMの統合の基本事項">Personalizationの強化 – Adobe Targetと CJA およびAEMの統合 Essentials</a>
+                        <a href="2025/enhancing-personalization.md" target="_blank" rel="referrer" title="Personalizationの強化 – Adobe TargetとCJAおよびAEMの統合に関する基本事項">Personalizationの強化 – Adobe TargetとCJAおよびAEMの統合 Essentials</a>
                     </p>
-                    <p class="is-size-6">Adobe Targetを CJA およびAEMと統合し、ベストプラクティス、主要なインサイト、実用的な戦略を検討することで、パーソナライゼーション戦略を強化し、顧客エンゲージメントを最適化し、すべてのチャネルにわたってパーソナライズされたエクスペリエンスを提供する方法を説明します。</p>
+                    <p class="is-size-6">Adobe TargetをCJAおよびAEMと統合し、ベストプラクティス、主要なインサイト、実用的な戦略を検討することで、パーソナライゼーション戦略を強化し、顧客エンゲージメントを最適化し、すべてのチャネルにわたってパーソナライズされたエクスペリエンスを提供する方法を説明します。</p>
                 </div>
                 <a href="2025/enhancing-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Winning Executive Sponsorship for Adobe Experience Platform Projects">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/exec-sponsorship-aep-projects.md" title="Adobe Experience Platformプロジェクトへのエグゼクティブスポンサーシップの獲得" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1746904158734" alt="Adobe Experience Platformプロジェクトへのエグゼクティブスポンサーシップの獲得"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/exec-sponsorship-aep-projects.md" target="_blank" rel="referrer" title="Adobe Experience Platformプロジェクトへのエグゼクティブスポンサーシップの獲得">Adobe Experience Platform事業へのエグゼクティブスポンサーシップ </a>
+                    </p>
+                    <p class="is-size-6">ビジョンをビジネス目標に合わせ、エグゼクティブの賛同を得、AEP/RT-CDP を使用して価値を高めることで、パッションプロジェクトを効果的なイニシアチブに変える方法を説明します。</p>
+                </div>
+                <a href="2025/exec-sponsorship-aep-projects.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
@@ -275,7 +352,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="AJOでの GenAI 実験とAdobe Targetとの関係" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444460/?format=jpeg&nocache=1740176080821&captions=jpn" alt="AJOでの GenAI 実験とAdobe Targetとの関係"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1746904158667" alt="AJOでの GenAI 実験とAdobe Targetとの関係"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -298,7 +375,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/genstudio-for-performance-marketing-operating-model.md" title="パフォーマンスマーケティングのためのGenStudio – 運用モデルとガバナンス戦略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1740176080798" alt="パフォーマンスマーケティングのためのGenStudio – 運用モデルとガバナンス戦略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1746904158694" alt="パフォーマンスマーケティングのためのGenStudio – 運用モデルとガバナンス戦略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,12 +393,12 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mastering Sequential Logic in AA and CJA - A Visual Framework">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Impactful Insights - Crafting Strategies for Effective Measurement">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/mastering-sequential-logic.md" title="AA と CJA での順次ロジックの習得 – ビジュアルフレームワーク" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1740176080805" alt="AA と CJA での順次ロジックの習得 – ビジュアルフレームワーク"
+                    <a href="2025/impactful-insights.md" title="効果的なインサイト – 効果的な測定のための戦略の作成" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1746904158718" alt="効果的なインサイト – 効果的な測定のための戦略の作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,11 +406,57 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/mastering-sequential-logic.md" target="_blank" rel="referrer" title="AA と CJA での順次ロジックの習得 – ビジュアルフレームワーク">AA と CJA でのシーケンシャルロジックの習得 – 視覚的なフレームワーク </a>
+                        <a href="2025/impactful-insights.md" target="_blank" rel="referrer" title="効果的なインサイト – 効果的な測定のための戦略の作成"> 効果的なインサイト – 効果的な測定のための戦略の作成 </a>
+                    </p>
+                    <p class="is-size-6">適切に実装された測定戦略は、運用効率を高め、データに基づく意思決定を促進し、顧客体験を向上させ、組織に競争力を提供します。</p>
+                </div>
+                <a href="2025/impactful-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mastering Sequential Logic in AA and CJA - A Visual Framework">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/mastering-sequential-logic.md" title="AA およびCJAでの順次ロジックの習得 – ビジュアルフレームワーク" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1746904158710" alt="AA およびCJAでの順次ロジックの習得 – ビジュアルフレームワーク"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/mastering-sequential-logic.md" target="_blank" rel="referrer" title="AA およびCJAでの順次ロジックの習得 – ビジュアルフレームワーク">AA とCJAでの順次ロジックの習得 – ビジュアルフレームワーク </a>
                     </p>
                     <p class="is-size-6">シナリオを実用的な計画に変換し、効果的な順次セグメントを構築するための視覚的なフレームワークを使用して、Adobe AnalyticsとCustomer Journey Analyticsの順次ロジックを習得する方法を説明します。</p>
                 </div>
                 <a href="2025/mastering-sequential-logic.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Best Practices and Insights for Modeling XDM Schemas">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/model-xdm-schemas.md" title="XDM スキーマモデリングのベストプラクティスとインサイト" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1746904158726" alt="XDM スキーマモデリングのベストプラクティスとインサイト"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/model-xdm-schemas.md" target="_blank" rel="referrer" title="XDM スキーマモデリングのベストプラクティスとインサイト">XDM スキーマのモデリングのベストプラクティスとインサイト </a>
+                    </p>
+                    <p class="is-size-6">XDM スキーマ、ID 管理、およびスケーラブルでリアルタイムのパーソナライゼーションおよびセグメント化のベストプラクティスに関するAEPのマスターデータモデリング。</p>
+                </div>
+                <a href="2025/model-xdm-schemas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
@@ -344,7 +467,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/optimize-aem-performance.md" title="AEMのパフォーマンスの最適化 – キャッシュの戦略と手法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1740176080813" alt="AEMのパフォーマンスの最適化 – キャッシュの戦略と手法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1746904158744" alt="AEMのパフォーマンスの最適化 – キャッシュの戦略と手法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -357,6 +480,75 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
                     <p class="is-size-6">このセッションでは、キャッシュの戦略と手法、キャッシュのメカニズムと層、動的コンテンツの処理、キャッシュの問題のデバッグ、Dispatcher と CDN の間のキャッシュ無効化の同期について説明しました。</p>
                 </div>
                 <a href="2025/optimize-aem-performance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Personalizing digital communications in Financial Services with AEM Forms">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/personalize-digital-communications.md" title="AEM Formsを使用した金融サービスにおけるデジタルコミュニケーションのパーソナライズ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1746904158702" alt="AEM Formsを使用した金融サービスにおけるデジタルコミュニケーションのパーソナライズ"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/personalize-digital-communications.md" target="_blank" rel="referrer" title="AEM Formsを使用した金融サービスにおけるデジタルコミュニケーションのパーソナライズ">AEM Formsを使用した金融サービスにおけるデジタル通信のパーソナライズ </a>
+                    </p>
+                    <p class="is-size-6">AEM Formsが、エンゲージメント、効率性およびコンプライアンスを高める、パーソナライズされたスケーラブルなコミュニケーションを金融サービスで提供する方法を説明します。</p>
+                </div>
+                <a href="2025/personalize-digital-communications.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mastering Sequential Logic in Adobe Analytics and Customer Journey Analytics - Starts and Stops">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/sequential-logic-start-stop.md" title="Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 開始と停止" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1746904158753" alt="Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 開始と停止"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/sequential-logic-start-stop.md" target="_blank" rel="referrer" title="Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 開始と停止">Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 開始と停止 </a>
+                    </p>
+                    <p class="is-size-6">Adobe Analyticsで順次ロジックをマスターし、高度なセグメント化、スコープコントロール、派生フィールドを使用して、顧客の行動パターンを明らかにし、データの精度を向上させます。</p>
+                </div>
+                <a href="2025/sequential-logic-start-stop.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Smarter Marketing Starts Here - Integrating Google & Adobe">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" title="よりスマートなマーケティングの開始 – GoogleとAdobeの統合" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1746904158762" alt="よりスマートなマーケティングの開始 – GoogleとAdobeの統合"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" target="_blank" rel="referrer" title="よりスマートなマーケティングの開始 – GoogleとAdobeの統合"> よりスマートなマーケティングの開始 – GoogleとAdobeの統合 </a>
+                    </p>
+                    <p class="is-size-6">Adswerve のデジタル戦略の VP である Charles Farina と、Adobeのプリンシパル製品マーケターである Danielle Doolin が、業界をリードするプラットフォームを統合することによる変革の力を探る洞察に満ちたウェビナーに参加します。</p>
+                </div>
+                <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
                 </a>
             </div>
@@ -415,7 +607,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/adobe-admin-console.md" title="Adobe Admin Consoleの習得" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1740176081459" alt="Adobe Admin Consoleの習得"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1746904160206" alt="Adobe Admin Consoleの習得"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -438,7 +630,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-authoring-concepts.md" title="AEMの基本知識AEMの概要主要な概念と機能をオーサリングする方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1740176081411" alt="AEMの基本知識AEMの概要主要な概念と機能をオーサリングする方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1746904160196" alt="AEMの基本知識AEMの概要主要な概念と機能をオーサリングする方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -461,7 +653,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-sites-efficiencies.md" title="AEM Sitesの効率性 – パフォーマンスの最適化、設定、トラブルシューティング" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1740176081377" alt="AEM Sitesの効率性 – パフォーマンスの最適化、設定、トラブルシューティング"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1746904160218" alt="AEM Sitesの効率性 – パフォーマンスの最適化、設定、トラブルシューティング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -483,8 +675,8 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/aep-apps-services-integrations.md" title="お客様のユースケース向けの AEP アプリサービス統合について説明します" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1740176081401" alt="お客様のユースケース向けの AEP アプリサービス統合について説明します"
+                    <a href="2024/aep-apps-services-integrations.md" title="お客様のユースケースへのAEP アプリケーションサービス統合について説明します" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1746904160297" alt="お客様のユースケースへのAEP アプリケーションサービス統合について説明します"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -492,9 +684,9 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/aep-apps-services-integrations.md" target="_blank" rel="referrer" title="お客様のユースケース向けの AEP アプリサービス統合について説明します"> 顧客のユースケースでの AEP アプリサービス統合について説明します </a>
+                        <a href="2024/aep-apps-services-integrations.md" target="_blank" rel="referrer" title="お客様のユースケースへのAEP アプリケーションサービス統合について説明します"> お客様のユースケース向けのAEP アプリケーションサービス統合について説明します </a>
                     </p>
-                    <p class="is-size-6">このセッションでは、AEP ブループリントの概要、AJO、Marketoおよび Target に関する 4 つの統合ユースケース、AEP とAJO API トリガーキャンペーンのアーキテクチャについて説明します。</p>
+                    <p class="is-size-6">このセッションでは、AEP ブループリントの概要、AJO、Marketo、Target に関する 4 つの統合ユースケース、AEPとAJO API トリガーキャンペーンのアーキテクチャについて説明します。</p>
                 </div>
                 <a href="2024/aep-apps-services-integrations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -507,7 +699,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Real-Time Customer Data PlatformとMarketoの統合の基本" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433669/?format=jpeg&nocache=1740176081391&captions=jpn" alt="Real-Time Customer Data PlatformとMarketoの統合の基本"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1746904160228" alt="Real-Time Customer Data PlatformとMarketoの統合の基本"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -517,7 +709,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/aep-marketo-integration.md" target="_blank" rel="referrer" title="Real-Time Customer Data PlatformとMarketoの統合の基本">Real-Time Customer Data PlatformとMarketoの統合の基本 </a>
                     </p>
-                    <p class="is-size-6">Real-Time Customer Data PlatformとMarketoの統合の基本では、Adobe AEP/RTCDP とMarketoが連携して、コミュニケーションを強化し、プロセスを合理化し、パーソナライズされたカスタマーエクスペリエンスを提供する方法について説明します。</p>
+                    <p class="is-size-6">Real-Time Customer Data PlatformとMarketoの統合の基本では、Adobe AEP/RTCDPとMarketoが連携してコミュニケーションを強化し、プロセスを合理化し、パーソナライズされたカスタマーエクスペリエンスを提供する方法について説明します。</p>
                 </div>
                 <a href="2024/aep-marketo-integration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -529,8 +721,8 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/aep-use-case-planning.md" title="ビジョンから価値まで – AEP のユースケース計画" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1740176081430" alt="ビジョンから価値まで – AEP のユースケース計画"
+                    <a href="2024/aep-use-case-planning.md" title="ビジョンから価値へ – AEPのユースケース計画" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1746904160248" alt="ビジョンから価値へ – AEPのユースケース計画"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -538,9 +730,9 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/aep-use-case-planning.md" target="_blank" rel="referrer" title="ビジョンから価値まで – AEP のユースケース計画"> ビジョンから価値まで – AEP のユースケース計画 </a>
+                        <a href="2024/aep-use-case-planning.md" target="_blank" rel="referrer" title="ビジョンから価値へ – AEPのユースケース計画"> ビジョンから価値まで – AEPのユースケース計画 </a>
                     </p>
-                    <p class="is-size-6">AEP ユースケース計画セッションでは、値マッピング、戦略の関連付け、KPI を使用したビジネス価値の最大化について説明します。 目標とビジネス成果を一致させ、効果的なカスタマーエクスペリエンスのためにAdobe ソリューションを活用するのに役立ちます。</p>
+                    <p class="is-size-6">AEP ユースケース計画セッションでは、値のマッピング、戦略の関連付け、KPI を使用したビジネス価値の最大化について説明します。 目標とビジネス成果を一致させ、効果的なカスタマーエクスペリエンスのためにAdobe ソリューションを活用するのに役立ちます。</p>
                 </div>
                 <a href="2024/aep-use-case-planning.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -553,7 +745,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-copywriting.md" title="AI を活用したコピーライティングによるコンテンツアクセラレーション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1740176081437" alt="AI を活用したコピーライティングによるコンテンツアクセラレーション"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1746904160237" alt="AI を活用したコピーライティングによるコンテンツアクセラレーション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -575,8 +767,8 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/ai-customer-experience.md" title="RTCDP Insights – 顧客体験のための AI の利用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1740176081444" alt="RTCDP Insights – 顧客体験のための AI の利用"
+                    <a href="2024/ai-customer-experience.md" title="RTCDP Insights - カスタマーエクスペリエンスのための AI の活用" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1746904160283" alt="RTCDP Insights - カスタマーエクスペリエンスのための AI の活用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -584,9 +776,9 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/ai-customer-experience.md" target="_blank" rel="referrer" title="RTCDP Insights – 顧客体験のための AI の利用">RTCDP インサイト – カスタマーエクスペリエンスのための AI の活用 </a>
+                        <a href="2024/ai-customer-experience.md" target="_blank" rel="referrer" title="RTCDP Insights - カスタマーエクスペリエンスのための AI の活用">RTCDP Insights - カスタマーエクスペリエンスのための AI の活用 </a>
                     </p>
-                    <p class="is-size-6">RTCDP インサイトウェビナーでは、Adobe Real-Time Customer Data Platformが AI を使用して、市場分析を強化し、予測モデルを構築し、カスタマーエクスペリエンスを最適化する方法を示しました。</p>
+                    <p class="is-size-6">RTCDP Insights ウェビナーでは、Adobe Real-Time Customer Data Platformで AI を使用して、市場分析を強化し、予測モデルを構築し、カスタマーエクスペリエンスを最適化する方法を示しました。</p>
                 </div>
                 <a href="2024/ai-customer-experience.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -599,7 +791,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-personalization.md" title="Adobe Targetの AI 駆動型Personalizationでユーザーエクスペリエンスを最大化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1740176081420" alt="Adobe Targetの AI 駆動型Personalizationでユーザーエクスペリエンスを最大化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1746904160257" alt="Adobe Targetの AI 駆動型Personalizationでユーザーエクスペリエンスを最大化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -622,7 +814,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ajo-essentials.md" title="Adobe Journey Optimizer Essentials - キャンペーン、カスタマージャーニー、ランディングページの作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1740176081483" alt="Adobe Journey Optimizer Essentials - キャンペーン、カスタマージャーニー、ランディングページの作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1746904160273" alt="Adobe Journey Optimizer Essentials - キャンペーン、カスタマージャーニー、ランディングページの作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -644,8 +836,8 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/basic-to-intermediate-analysis-capabilities.md" title="Adobe Analyticsと CJA のクイックスタート：基本的な分析から中間分析までの機能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1740176081469" alt="Adobe Analyticsと CJA のクイックスタート：基本的な分析から中間分析までの機能"
+                    <a href="2024/basic-to-intermediate-analysis-capabilities.md" title="Adobe AnalyticsとCJAのクイックスタート：基本的な分析機能から中間的な分析機能まで" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1746904160266" alt="Adobe AnalyticsとCJAのクイックスタート：基本的な分析機能から中間的な分析機能まで"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -653,7 +845,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/basic-to-intermediate-analysis-capabilities.md" target="_blank" rel="referrer" title="Adobe Analyticsと CJA のクイックスタート：基本的な分析から中間分析までの機能">Adobe Analyticsおよび CJA のクイックスタート：基本的な分析から中間的な分析まで </a>
+                        <a href="2024/basic-to-intermediate-analysis-capabilities.md" target="_blank" rel="referrer" title="Adobe AnalyticsとCJAのクイックスタート：基本的な分析機能から中間的な分析機能まで">Adobe AnalyticsおよびCJAのクイックスタート：基本的な分析から中間的な分析までの機能 </a>
                     </p>
                     <p class="is-size-6">このセッションでは、分析機能の設定、Adobe AnalyticsとCustomer Journey Analyticsの比較、マーケティングレポートの主な機能について説明しました。</p>
                 </div>
@@ -668,7 +860,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="データストリームの優先順位付け" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456806/?format=jpeg&nocache=1740176081451&captions=jpn" alt="データストリームの優先順位付け"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1746904160290" alt="データストリームの優先順位付け"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -691,7 +883,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-delivery-services.md" title="コンテンツ配信の最適化 – Edge サービスのパワーを解き放つ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1740176081498" alt="コンテンツ配信の最適化 – Edge サービスのパワーを解き放つ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1746904160305" alt="コンテンツ配信の最適化 – Edge サービスのパワーを解き放つ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -714,7 +906,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-network-mobile-personalization.md" title="Adobe ソリューションを使用したEdge NetworkおよびモバイルPersonalizationに関するインサイト" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1740176081476" alt="Adobe ソリューションを使用したEdge NetworkおよびモバイルPersonalizationに関するインサイト"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1746904160313" alt="Adobe ソリューションを使用したEdge NetworkおよびモバイルPersonalizationに関するインサイト"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -737,7 +929,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/effective-change-management.md" title="変更内を移動 – 効果的な変更管理に関するシニアリーダーシップウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1740176081490" alt="変更内を移動 – 効果的な変更管理に関するシニアリーダーシップウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1746904160330" alt="変更内を移動 – 効果的な変更管理に関するシニアリーダーシップウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -760,7 +952,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/empowering-lean-teams.md" title="リーンチームの権限付与" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1740176081507" alt="リーンチームの権限付与"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1746904160360" alt="リーンチームの権限付与"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -783,7 +975,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/expedia-aa-to-cja.md" title="Expedia とリーディングブランドがAdobe AnalyticsからCustomer Journey Analyticsへと組織を発展" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1740176081521" alt="Expedia とリーディングブランドがAdobe AnalyticsからCustomer Journey Analyticsへと組織を発展"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1746904160369" alt="Expedia とリーディングブランドがAdobe AnalyticsからCustomer Journey Analyticsへと組織を発展"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -806,7 +998,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-ajo-analysis.md" title="Customer Journey AnalyticsのAdobe Journey Optimizer Analysis の概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1740176081535" alt="Customer Journey AnalyticsのAdobe Journey Optimizer Analysis の概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1746904160320" alt="Customer Journey AnalyticsのAdobe Journey Optimizer Analysis の概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -829,7 +1021,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-rtcdp.md" title="Real-Time Customer Data Platform – はじめに" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1740176081528" alt="Real-Time Customer Data Platform – はじめに"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1746904160337" alt="Real-Time Customer Data Platform – はじめに"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -839,7 +1031,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/getting-started-rtcdp.md" target="_blank" rel="referrer" title="Real-Time Customer Data Platform – はじめに">Real-Time Customer Data Platform – はじめに </a>
                     </p>
-                    <p class="is-size-6">Real-Time CDPを使用して、様々なデータソースを統合し、包括的なカスタマープロファイルを作成して、様々なチャネルにわたってアクティブ化する方法を説明します。 より効果的なカスタマージャーニーを作成するのに役立つ、RTCDP の機能とベストプラクティスについて説明し​ます。</p>
+                    <p class="is-size-6">Real-Time CDPを使用して、様々なデータソースを統合し、包括的なカスタマープロファイルを作成して、様々なチャネルにわたってアクティブ化する方法を説明します。 より効果的なカスタマージャーニーを作成するのに役立つRTCDPの機能と​ベストプラクティスについて説明します。</p>
                 </div>
                 <a href="2024/getting-started-rtcdp.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -852,7 +1044,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalizationの成熟度 – ハイパーパーソナライゼーションへの道筋" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457346/?format=jpeg&nocache=1740176081514&captions=jpn" alt="Personalizationの成熟度 – ハイパーパーソナライゼーションへの道筋"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1746904160344" alt="Personalizationの成熟度 – ハイパーパーソナライゼーションへの道筋"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -875,7 +1067,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/journey-optimizer-mobile-capabilities.md" title="Journey Optimizer モバイルの機能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1740176081542" alt="Journey Optimizer モバイルの機能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1746904160439" alt="Journey Optimizer モバイルの機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -898,7 +1090,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="効率の最大化 – リーンチームとCustomer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457009/?format=jpeg&nocache=1740176081572&captions=jpn" alt="効率の最大化 – リーンチームとCustomer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1746904160376" alt="効率の最大化 – リーンチームとCustomer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -921,7 +1113,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/mastering-cookies-data-privacy.md" title="Privacy-First Analytics - Adobe AnalyticsおよびCustomer Journey Analyticsでの Cookie とデータプライバシーのマスタリング" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1740176081551" alt="Privacy-First Analytics - Adobe AnalyticsおよびCustomer Journey Analyticsでの Cookie とデータプライバシーのマスタリング"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1746904160352" alt="Privacy-First Analytics - Adobe AnalyticsおよびCustomer Journey Analyticsでの Cookie とデータプライバシーのマスタリング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -944,7 +1136,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/organizational-readiness-content-supply-chain.md" title="コンテンツのサプライチェーンに関する課題に対処するためのAdobe GenStudioの組織対応の力を解き放つ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1740176081565" alt="コンテンツのサプライチェーンに関する課題に対処するためのAdobe GenStudioの組織対応の力を解き放つ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1746904160384" alt="コンテンツのサプライチェーンに関する課題に対処するためのAdobe GenStudioの組織対応の力を解き放つ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -967,7 +1159,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-migration-readiness.md" title="Real-time Customer Data Platform 移行への対応" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1740176081587" alt="Real-time Customer Data Platform 移行への対応"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1746904160399" alt="Real-time Customer Data Platform 移行への対応"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -990,7 +1182,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/sequential-logic.md" title="Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 基盤" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1740176081558" alt="Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 基盤"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1746904160408" alt="Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 基盤"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1000,7 +1192,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/sequential-logic.md" target="_blank" rel="referrer" title="Adobe AnalyticsとCustomer Journey Analyticsでの順次ロジックの習得 – 基盤">Adobe AnalyticsおよびCustomer Journey Analyticsでの順次ロジックの習得 – 基盤 </a>
                     </p>
-                    <p class="is-size-6">Andy Powers のセッションで取り上げたとおり、基礎的な側面、実践的な例、ビジネスアプリケーションを備えた AA と CJA でのマスターの順次セグメント化とフィルター。</p>
+                    <p class="is-size-6">Andy Powers のセッションで取り上げたとおり、基礎的な側面、実践的な例、ビジネスアプリケーションを備えた、AA とCJAでのマスターの順次セグメント化とフィルター。</p>
                 </div>
                 <a href="2024/sequential-logic.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
@@ -1013,7 +1205,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="戦略的リーダーシップ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456784/?format=jpeg&nocache=1740176081579&captions=jpn" alt="戦略的リーダーシップ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1746904160416" alt="戦略的リーダーシップ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1036,7 +1228,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/streamline-authentication.md" title="認証の効率化 – サービスアカウント（JWT）から OAuth サーバー間資格情報への移行" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1740176081609" alt="認証の効率化 – サービスアカウント（JWT）から OAuth サーバー間資格情報への移行"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1746904160424" alt="認証の効率化 – サービスアカウント（JWT）から OAuth サーバー間資格情報への移行"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1059,7 +1251,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/target-personalization.md" title="Target Personalization - Recommendations とカテゴリの親和性の概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1740176081594" alt="Target Personalization - Recommendations とカテゴリの親和性の概要"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1746904160392" alt="Target Personalization - Recommendations とカテゴリの親和性の概要"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1082,7 +1274,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/turning-data-into-action.md" title="データを行動に変える、戦略的測定の力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1740176081616" alt="データを行動に変える、戦略的測定の力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1746904160448" alt="データを行動に変える、戦略的測定の力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1105,7 +1297,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/use-case-mapping.md" title="Real-Time CDP - ソリューション機能へのユースケースのマッピング" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1740176081601" alt="Real-Time CDP - ソリューション機能へのユースケースのマッピング"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1746904160431" alt="Real-Time CDP - ソリューション機能へのユースケースのマッピング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1128,7 +1320,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/web-sdk-migration.md" title="Web SDKの移行の基本事項" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1740176081624" alt="Web SDKの移行の基本事項"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1746904160464" alt="Web SDKの移行の基本事項"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1151,7 +1343,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-admin-guardianship.md" title="Workfront システムとグループ管理者の後見の基本" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1740176081639" alt="Workfront システムとグループ管理者の後見の基本"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1746904160456" alt="Workfront システムとグループ管理者の後見の基本"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1174,7 +1366,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Adobe Workfrontによる効率の最大化 – リーンチームウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456707/?format=jpeg&nocache=1740176081647&captions=jpn" alt="Adobe Workfrontによる効率の最大化 – リーンチームウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1746904160472" alt="Adobe Workfrontによる効率の最大化 – リーンチームウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1197,7 +1389,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-mastery.md" title="Workfrontの習熟 – 成功のための戦略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1740176081632" alt="Workfrontの習熟 – 成功のための戦略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1746904160480" alt="Workfrontの習熟 – 成功のための戦略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
