@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
+source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '663'
 ht-degree: 9%
 
 ---
@@ -186,6 +186,7 @@ ht-degree: 9%
       + [Adobe Workfront Proof の将来](workfront/apr2022/workfront-proof.md)
       + [Experience Makers スポットライトを育てる](workfront/apr2022/grow-track-spotlight.md)
       + [Experience Makers スポットライトのトラッキング](workfront/apr2022/learn-track-spotlight.md)
+      + [プロジェクトの日付とタイムラインの習得](workfront/apr2022/projects-dates-timelines.md)
       + [Workfrontのオブジェクトについて](workfront/apr2022/understanding-objects.md)
 + 指による咬み傷 {#digital-bites}
    + [クラス最高の運用モデルで運用効率を向上](digital-bites/operational-model.md)
