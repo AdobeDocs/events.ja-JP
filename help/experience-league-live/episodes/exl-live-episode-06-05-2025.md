@@ -21,7 +21,7 @@ Federated Audience Composition が、Real-Time CDPとJourney Optimizerで、オ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**引き続き意見交換を行う場合は、アドビの [Experience Leagueコミュニティに関するディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"} をご覧ください**
+**引き続き意見交換を行う場合は、アドビの [Experience Leagueコミュニティに関するディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=ja#M636){target="_blank"} をご覧ください**
 
 **詳細を表示**:
 エンタープライズのデータウェアハウスへのアクセスを拡大して、オーディエンスを構成し、ブランド主導の即時のエクスペリエンスを強化します。
