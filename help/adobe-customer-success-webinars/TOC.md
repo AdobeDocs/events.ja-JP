@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 {#2025}
-   + [Adobe デジタルインサイト](2025/adobe-digital-insights.md)
+   + [デジタルと GenAI の採用状況](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + [2024 年のホリデーシーズンの実績と 2025 年のトレンド](2025/adobe-digital-insights.md)
    + [GenAI を使用したAEM](2025/aem-genai.md)
    + [AEMとWorkfrontの統合](2025/aem-workfront-integration.md)
    + [AI とAdobe Target](2025/ai-adobe-target.md)
