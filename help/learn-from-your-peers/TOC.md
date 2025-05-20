@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '327'
 ht-degree: 20%
 
 ---
@@ -114,4 +114,4 @@ ht-degree: 20%
          + [Workfrontガバナンスとは](workfront/2022/03/what-is-workfront-governance.md)
       + 2 月 {#february}
          + [ユーザー管理について](workfront/2022/02/understanding-user-management.md)
-+ [際立ったAdobe チャンピオンの申請書を送信する方法を学ぶ](./adobe-champion-application.md)
++ [チャンピオンの資格を申請して際立つ方法を学ぶ](./adobe-champion-application.md)
