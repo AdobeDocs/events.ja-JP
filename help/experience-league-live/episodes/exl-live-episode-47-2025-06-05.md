@@ -7,11 +7,10 @@ feature: Integrations, Email Design, Personalization
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
-hidefromtoc: true
-hide: true
-source-git-commit: 19050e642c581f797cf1927a6d86d0982e998719
+exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
+source-git-commit: 6ae06b3b8667f78d29b41cd5b3939bdeb82b646d
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -24,7 +23,7 @@ GenStudio for Performance Marketingでコンテンツを直接オーサリング
 
 マーケティング戦略を変え、これまでにない方法でオーディエンスを引き付けるこの機会をお見逃しなく。
 
-[ 今すぐ登録 ](https://engage.adobe.com/ExpLeagueLive-250605.html) して、顧客エンゲージメントの革命に参加しましょう。
+[ 今すぐYouTubeにリマインダーを設定 ](https://youtube.com/live/tyXesNYv-eM) して、カスタマーエンゲージメントの革命に参加しましょう。
 
 ![webbanner](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
 
