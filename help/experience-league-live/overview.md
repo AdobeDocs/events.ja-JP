@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '214'
 ht-degree: 3%
 
 ---
@@ -26,20 +26,18 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 <table>
     <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-22-25.md">
-              <img alt="Experience League LIVE 5 月 22 日" src="episodes/assets/May-22-2025-WebBanner.jpg">
+              <img alt="Experience League LIVE 5 月 28 日" src="episodes/assets/ExL-LIVE-May-28-2025-WebBanner.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-05-22-25.md">
                 <strong>Content Analytics:AI インサイトによるパフォーマンスの最適化 </strong>
               </a>
               <br/><em> シェイ・オライリー、ジェニファー・ウェルクマイスター、ダグ・ムーア </em>
-              <br/><em>2025 年 5 月 22 日 </em>
+              <br/><em>2025 年 5 月 28 日 </em>
             </div>
         </td>
-    </tr>
-    <tr>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League LIVE 5 月 22 日" src="assets/WebBannerExLLive-June05-2025.png">
+              <img alt="Experience League LIVE 6 月 5 日" src="assets/WebBannerExLLive-June05-2025.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-47-2025-06-05.md">
@@ -49,7 +47,19 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
               <br/><em>2025 年 6 月 5 日 </em>
             </div>
         </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
+              <img alt="Experience League LIVE 6 月 18 日" src="episodes/assets/exl-live-web-banner-20250618.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-06-18-25.md">
+                <strong>マスターのフリークエンシーキャップと競合の優先順位 </strong>
+              </a>
+              <br/><em> サンドラ・ハウスマン、アリエル・スルタン、アーロン・フォレスト、キーラ・フォセット </em>
+              <br/><em>2025 年 6 月 18 日 </em>
+            </div>
+        </td>
     </tr>
+
 </table>
 
 </div>
@@ -114,5 +124,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
