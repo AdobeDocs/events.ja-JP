@@ -7,11 +7,10 @@ feature: Frequency Rules
 event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
-hidefromtoc: true
-hide: true
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
+source-git-commit: 2202e181d4adeb189bdda54c826b657b09de4522
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -24,6 +23,8 @@ ht-degree: 0%
 
 マーケティング戦略を変え、これまでにない方法でオーディエンスを引き付けるこの機会をお見逃しなく。
 
-**下の画像をクリックして、YouTubeへのリマインダーを設定してください。**
+[ 今すぐYouTubeにリマインダーを設定 ](https://www.youtube.com/live/awYa2dU6TDY)!
 
-[![ExL LIVE 2024 年 1 月 17 日 ](assets/exl-live-web-banner-20250618.png)](https://www.youtube.com/live/awYa2dU6TDY)
+![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618.png)
+
+作れないの？ とにかくサインアップして、後で録画をお送りします。 私たちはそこであなたに会いたいです！
