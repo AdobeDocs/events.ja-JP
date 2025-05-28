@@ -2,7 +2,8 @@
 user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
-source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
+solution: Workfront
+source-git-commit: 2dc76496062fdb4cf7b0c8bd09a1d1afd90fdb08
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -16,14 +17,14 @@ ht-degree: 0%
 + 管理 {#administration}
    + [監査証跡とコンプライアンス](user-groups/audit-trails-and-compliance.md)
    + [Workfront Fusion を使用したワークフローの自動化](user-groups/automating-workflows-with-workfront-fusion.md)
-   + [クリエイティブエージェンシー：ワークフローとプロセス](user-groups/creative-agencies-workflows-and-process.md)
+   + [Creative代理店：ワークフローとプロセス](user-groups/creative-agencies-workflows-and-process.md)
    + [カスタムFormsの活用](user-groups/leveraging-custom-forms.md)
    + [システム管理のベストプラクティス](user-groups/system-admin-best-practices.md)
    + [Workfront システムメンテナンス](user-groups/workfront-system-maintenance.md)
 + アジャイル {#agile}
    + [マーケティングにおけるアジャイル](user-groups/agile-in-marketing.md)
 + レポートとダッシュボード {#reporting-and-dashboards}
-   + [クリエイティブエージェンシー：レポートとダッシュボード](user-groups/creative-agencies-reporting-and-dashboards.md)
+   + [Creative代理店：レポートとダッシュボード](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [品質とエンゲージメントの評価](webinars/gauging-quality-and-engagement.md)
    + [テキストモードレポートの概要](webinars/introduction-to-text-mode-reporting.md)
    + [レポートとダッシュボード](user-groups/reporting-and-dashboards.md)
@@ -33,7 +34,7 @@ ht-degree: 0%
 + リソース管理 {#resource-management}
    + [リソースとキャパシティの計画](user-groups/resource-and-capacity-planning.md)
    + [リソース管理](user-groups/resource-management.md)
-+ 作業 のレビューと承認 {#review-and-approve-work}
++ 作業のレビューと承認 {#review-and-approve-work}
    + [マーケティングワークフローと承認](user-groups/marketing-workflows-and-approvals.md)
    + [IT ワークフローと承認](user-groups/it-workflows-and-approvals.md)
 + タイムシート {#timesheets}
@@ -41,7 +42,7 @@ ht-degree: 0%
 + Workfront Proof {#workfront-proof}
    + [Workfront Proofを最大限に活用するためのベストプラクティス](webinars/best-practices-to-maximize-workfront-proof.md)
    + [Workfront Proofのベストプラクティスのフォローアップ](webinars/follow-up-to-workfront-proof-best-practices.md)
-   + [クリエイティブエージェンシー：Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
+   + [Creative機関：Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
    + [Workfront Proofの活用](user-groups/leveraging-workfront-proof.md)
 + リクエストキューと取り込み {#request-queues-and-intake}
    + [リクエストキューと取り込みForms](user-groups/request-queues-and-intake-forms.md)
