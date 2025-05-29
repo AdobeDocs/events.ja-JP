@@ -1,22 +1,22 @@
 ---
-title: Experience Makers のスポットライト - Marketo Engageでのマーケティング業務の効率の最大化
+title: Experience Makers スポットライト - Marketo Engageでのマーケティング業務の効率化の最大化
 description: 全世界に向けた 1 つのフォーム - Marketo Formsでリード獲得を強化Marketo Forms API のパワーである APIHarness は、リード獲得戦略を強化します。 このセッションでは、多用途のJavaScript API を利用するためのベストプラクティスを詳しく説明します。 様々な国固有の規制に準拠するための単一のフォームのカスタマイズ方法、シームレスなデータキャプチャを実現するための非表示のフォームの実装方法、リード生成の取り組みを最大化するための高度なローカライゼーション手法の詳細を説明します。 スマートキャンペーンと BeyondDiscover を使用してデータベースをクリーンに保つデータベースをクリーンアップして維持するための不可欠な戦術を見つけ、より効率的なキャンペーンを可能にします。 効果的なリストアップロードテンプレートの作成と実装、洗濯機とデータ正規化スマートキャンペーンによるデータベースの最適化、データクレンジングでの AI の新たな使用からインスピレーションを得るためのベストプラクティスについて説明します。
-solution: Marketo
+solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2727
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16007
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: 014d0965-912e-4bb3-b156-89e2233d37ac
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-
-# Experience Makers のスポットライト：Marketo Engageでのマーケティング業務の効率の最大化
+# Experience Makers スポットライト：Marketo Engageでのマーケティング業務の効率化の最大化
 
 ## 全世界のための 1 つのフォーム：Marketo Forms API を使用してリード獲得を強化
 

@@ -1,20 +1,20 @@
 ---
 title: Campaign オーディエンスにリーチするためのスマートリストロジックの征服
-description: スマートキャンペーンの概要と、スマートキャンペーンがMarketo Engageの全体的なアーキテクチャにどのように適合するかを説明しますオーディエンスを設定およびカスタマイズするための 4 つのレベルのロジックを詳しく調べますロジックのトラブルシューティングを行うコツで、対象オーディエンスを正しくターゲットに設定したことを確認します
-solution: Marketo
+description: スマートキャンペーンの概要とMarketo Engageの全体的なアーキテクチャへの適合オーディエンスを設定およびカスタマイズする 4 つのレベルのロジックの詳細な掘り下げロジックのトラブルシューティングのコツおよび対象オーディエンスを正しくターゲット設定したことを確認します
+solution: Marketo Engage
 role: User
 level: Beginner
 doc-type: Event
 duration: 2250
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16000
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: f9ebb3f5-6389-42af-995b-a33eb9024bbe
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # Campaign オーディエンスにリーチするためのスマートリストロジックの征服
 
@@ -26,4 +26,4 @@ ht-degree: 0%
 * オーディエンスを設定およびカスタマイズするための 4 つのレベルのロジックについて詳しく説明します
 * ロジックのトラブルシューティングを行い、対象オーディエンスを正しくターゲットにしたことを確認するためのコツ
 
->[!VIDEO](https://video.tv.adobe.com/v/3457297/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)

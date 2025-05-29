@@ -1,20 +1,20 @@
 ---
 title: カスタマーエンゲージメントデータインサイトの活用による強力なリテンションとエンゲージメントのジャーニー
-description: 顧客データとレポートを分析し、インサイトを適用して、Marketo Engageでオーディエンスを効果的にセグメント化します。 様々なプログラムタイプと自動化手法を使用して、オーディエンスをセグメント化し、エンゲージメント、製品販売、更新の各段階を通じてシームレスに移行します。 人物またはプログラムレベルのトークンと Velocity スクリプティングを使用して高度にパーソナライズされたコンテンツを作成します
-solution: Marketo
+description: 顧客データおよびレポートを分析し、インサイトを適用して、Marketo Engageでオーディエンスを効果的にセグメント化します。 様々なプログラムタイプと自動化手法を使用して、オーディエンスをセグメント化し、エンゲージメント、製品販売、更新の各段階を通じてシームレスに移行します。 人物またはプログラムレベルのトークンと Velocity スクリプティングを使用して高度にパーソナライズされたコンテンツを作成します
+solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2091
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16003
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: f470b2cd-2bac-4fa6-ac09-f64336b16493
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # カスタマーエンゲージメントデータインサイトの活用による強力なリテンションとエンゲージメントのジャーニー
 
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 このセッションでは、次の内容について学習します。
 
-* 顧客データとレポートを分析し、インサイトを適用して、Marketo Engageでオーディエンスを効果的にセグメント化します。
+* 顧客データおよびレポートを分析し、インサイトを適用して、Marketo Engageでオーディエンスを効果的にセグメント化します。
 * 様々なプログラムタイプと自動化手法を使用して、オーディエンスをセグメント化し、エンゲージメント、製品販売、更新の各段階を通じてシームレスに移行します。
 * 人物またはプログラムレベルのトークンと Velocity スクリプティングを使用して高度にパーソナライズされたコンテンツを作成します
 
->[!VIDEO](https://video.tv.adobe.com/v/3456851/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3432946/?learn=on)

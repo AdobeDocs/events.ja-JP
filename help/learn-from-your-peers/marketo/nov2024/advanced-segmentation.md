@@ -1,7 +1,7 @@
 ---
-title: 高度なセグメント化監査 – Marketo Engageの正確性とパフォーマンスの確保
+title: 高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保
 description: Adobe Marketo Engage チャンピオンの Darshil Shah が、高度なセグメント化監査をマスターし、セグメント化戦略を最適化し、お客様の行動と連携し、GDPR コンプライアンスを維持し、ベストプラクティスとリアルタイムの更新を通じてマーケティングパフォーマンスを向上させる方法を学びます。
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,14 +9,14 @@ duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
 exl-id: ee335fea-f158-4b95-930e-273f023cdf04
-source-git-commit: bb67ba728d50f085efd02698517e5c0a9bb073f3
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-# 高度なセグメント化監査：Marketo Engageの正確性とパフォーマンスの確保
+# 高度なセグメント化監査：Marketo Engageでの精度とパフォーマンスの確保
 
 Adobe Marketo Engage チャンピオンの Darshil Shah が、顧客の行動、データの更新、ビジネスの変化に合わせてセグメント化を維持する方法を説明します。
 
@@ -32,7 +32,7 @@ Adobe Marketo Engage チャンピオンの Darshil Shah が、顧客の行動、
 
 ### セグメント化の重要性
 
-* Marketo Engageのセグメント化では、特定のフィルターに基づいて、人物の論理グループを作成できます。これにより、パーソナライズされたメッセージを通じてエンゲージメントとコンバージョン率を向上させることができます。
+* Marketo Engageのセグメント化では、特定のフィルターに基づいて、人物の論理グループを作成できます。これにより、パーソナライズされたメッセージを通じて、エンゲージメントとコンバージョン率を向上させることができます。
 
 ### セグメント化とスマートリストの違い
 
@@ -73,8 +73,8 @@ Adobe Marketo Engage チャンピオンの Darshil Shah が、顧客の行動、
 
 * [ プレゼンテーション スライド ](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
 * マーケティングネーションコミュニティに関するディスカッション [ スレッド ](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} に参加
-* [ セグメント化の作成 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
-* [ セグメント化の編集 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
-* Marketo Engageサクセスシリーズ - [ セグメント化 ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* [ セグメント化の作成 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [ セグメント化の編集 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
+* Marketo Engage Success シリーズ - [ セグメント化 ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
 * [ セグメント化ヘルスチェックの更新 ](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - セグメント化を最新の状態に保つためのヒントとテクニック
-* [ メールパフォーマンスレポート ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [ メールパフォーマンスレポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

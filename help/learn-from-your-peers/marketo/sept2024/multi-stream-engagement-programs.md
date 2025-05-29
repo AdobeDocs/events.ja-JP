@@ -1,20 +1,20 @@
 ---
 title: マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター
 description: ジャーニーのすべてのステップで、マルチタッチ、マルチストリームのエンゲージメントプログラムを使用して、体系的に顧客関係を結び、育成する方法を調べます。 エンゲージメントプログラムを使用すると、顧客のニーズや行動を聞き、関連するジャーニーや必要なコンテンツを提供できます。
-solution: Marketo
+solution: Marketo Engage
 role: Admin, User
 level: Experienced
 doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
+exl-id: 81ef0921-cc8b-4355-adf4-df1772e388ae
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
-
 
 # マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ## 概要
 
-この「ピアから学ぶ」セッションでは、Marketo Engageにおけるエンゲージメントプログラムのセットアップと管理について説明しました。 エンゲージメントプログラム内の計画、構築、レポートなどのトピックについて説明しました。 主なポイントには、ドリップ育成プログラムとエンゲージメントプログラムの選択、トランジションに対するスマートキャンペーンの使用、メールとデフォルトプログラムの選択、プログラムの成功指標の理解などが含まれます。&#x200B; ディスカッションでは、コンテンツの移行、異なる言語の管理、動的コンテンツの利用、ライフサイクルステージや製品ファミリーに基づいた複数のストリームの設定などのトピックにも触れました。 このウェビナーでは、テスト、プログラムの可用性、およびレポート目的でのエンゲージメントスコアの利用の重要性を強調しました。&#x200B;
+この「ピアから学ぶ」セッションでは、Marketo Engageでのエンゲージメントプログラムのセットアップと管理について説明しました。 エンゲージメントプログラム内の計画、構築、レポートなどのトピックについて説明しました。 主なポイントには、ドリップ育成プログラムとエンゲージメントプログラムの選択、トランジションに対するスマートキャンペーンの使用、メールとデフォルトプログラムの選択、プログラムの成功指標の理解などが含まれます。&#x200B; ディスカッションでは、コンテンツの移行、異なる言語の管理、動的コンテンツの利用、ライフサイクルステージや製品ファミリーに基づいた複数のストリームの設定などのトピックにも触れました。 このウェビナーでは、テスト、プログラムの可用性、およびレポート目的でのエンゲージメントスコアの利用の重要性を強調しました。&#x200B;
 
 ## 重要な留意点
 
@@ -36,8 +36,8 @@ ht-degree: 0%
 
 ## このプレゼンテーションで参照されているリソース
 
-* [ 業務プログラムについて ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [ エンゲージメントスコアについて ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [ 契約プログラムストリームへのプログラムの追加 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [ プログラムインポートライブラリの概要 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [ 業務プログラムについて ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [ エンゲージメントスコアについて ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [ 契約プログラムストリームへのプログラムの追加 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [ プログラムインポートライブラリの概要 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [ マーケティングネーションコミュニティディスカッションスレッド ](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
