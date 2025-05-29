@@ -26,4 +26,4 @@ ht-degree: 0%
 * オーディエンスを設定およびカスタマイズするための 4 つのレベルのロジックについて詳しく説明します
 * ロジックのトラブルシューティングを行い、対象オーディエンスを正しくターゲットにしたことを確認するためのコツ
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457297/?learn=on&captions=jpn)

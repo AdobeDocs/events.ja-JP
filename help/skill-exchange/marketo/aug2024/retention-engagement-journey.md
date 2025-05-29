@@ -26,4 +26,4 @@ ht-degree: 0%
 * 様々なプログラムタイプと自動化手法を使用して、オーディエンスをセグメント化し、エンゲージメント、製品販売、更新の各段階を通じてシームレスに移行します。
 * 人物またはプログラムレベルのトークンと Velocity スクリプティングを使用して高度にパーソナライズされたコンテンツを作成します
 
->[!VIDEO](https://video.tv.adobe.com/v/3432946/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456851/?learn=on&captions=jpn)

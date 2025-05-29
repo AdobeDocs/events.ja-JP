@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Raj Patel によるオープニング基調講演
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453056/?learn=on&captions=jpn)
