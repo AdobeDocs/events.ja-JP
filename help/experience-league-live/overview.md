@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
+source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 3%
+source-wordcount: '172'
+ht-degree: 4%
 
 ---
 
@@ -25,17 +25,6 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
-              <img alt="Experience League LIVE 6 月 5 日" src="assets/WebBannerExLLive-June05-2025.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-47-2025-06-05.md">
-                <strong> 大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー </strong>
-              </a>
-              <br/><em> アマルナス・バンナラス、クリス・アイボリー、ロハン・バットも </em>
-              <br/><em>2025 年 6 月 5 日 </em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
               <img alt="Experience League LIVE 6 月 18 日" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
             </a>
@@ -113,5 +102,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
