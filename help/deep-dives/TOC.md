@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '93'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 3%
 + Marketoのディープダイブ {#deep-dives-marketo}
    + [Admin Consoleの移行](admin-console.md)
    + [API](api.md)
+   + [Marketoでの AI の適用](applying-ai.md)
    + [Marketo API を使用したキャンペーン操作の自動化と効率化](campaign-operations.md)
    + [認定制度](certification.md)
    + [Marketo Engageの新しいメールDesignerを確認する](email-designer.md)

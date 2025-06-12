@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,13 @@ ht-degree: 0%
 
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 {#2025}
+   + [Workfrontの AI 駆動自動化](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+   + [AI – 基本を超える](2025/ai-beyond-basics.md)
+   + [AI インサイトによるデジタルエクスペリエンスの最適化](2025/accelerating-digital-experience-optimization.md)
+   + [AEM Content Hubでの Digital Asset Manager の習得](2025/mastering-dam-aem-content-hub.md)
+   + [デジタルの動向と未来への備え](2025/digital-trends-preparing-future.md)
+   + [Northstar アーキテクチャ](2025/northstar-architecture.md)
+   + [AEM Cloud のNew Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
    + [デジタルと GenAI の採用状況](2025/state-of-digital-and-genai-adoption-webinar.md)
    + [2024 年のホリデーシーズンの実績と 2025 年のトレンド](2025/adobe-digital-insights.md)
    + [GenAI を使用したAEM](2025/aem-genai.md)

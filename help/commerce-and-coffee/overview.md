@@ -3,16 +3,74 @@ title: Commerceとコーヒー
 description: Adobe Commerceとコーヒーのシリーズは、Commerceの戦略と戦術に焦点を当て、イベントのトピックを反映した統計によってサポートされています。
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # Commerceとコーヒー
 
-Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既存のAdobe Commerceのお客様を対象としており、Commerceシニア戦略コンサルタントの Corey Gelato が特徴です。 このシリーズは、Commerceの戦略と戦術に焦点を当て、イベントの話題を反映した統計によってサポートされています。 このプレゼンテーションに続いて、ライブデモが行われ、話し合った戦略をCommerceのプラットフォーム内で実行する方法が示されます。 最後に、Adobeの専門家に直接質問したり、直接話を聞いたりすることができます。 各イベントでは、Adobe Commerce プラットフォームが提供する機能を最大限に活用しながら、競争力を維持し成功を収める理由と方法を新たな感覚で残すことができます。
+Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既存のAdobe Commerceのお客様を対象としており、Commerceシニア戦略コンサルタントの Corey Gelato が特徴です。 このシリーズは、Commerceの戦略と戦術に焦点を当て、イベントの話題を反映した統計によってサポートされています。 このプレゼンテーションに続いて、ライブデモが行われ、話し合った戦略をCommerceのプラットフォーム内で実行する方法が示されます。 最後に、Adobeの専門家に直接質問したり、質問をすることができます。 各イベントでは、Adobe Commerce プラットフォームが提供する機能を最大限に活用しながら、競争力を維持し成功を収める理由と方法を新たな感覚で残すことができます。
+
+
+## 2025 年イベント
+
+<!-- CARDS
+* 2025/seo-growth.md
+* 2025/self-service-b2b.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - Driving Growth with SEO">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/seo-growth.md" title="Commerceとコーヒー – SEO による成長の促進" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459039/?format=jpeg&nocache=1749738512514" alt="Commerceとコーヒー – SEO による成長の促進"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/seo-growth.md" target="_blank" rel="referrer" title="Commerceとコーヒー – SEO による成長の促進">Commerceとコーヒー – SEO による成長の促進 </a>
+                    </p>
+                    <p class="is-size-6">このセッションでは、Corey Gelato と Agbi Bajrushi が、e コマースの SEO タイプ、主な原則、メタフィールド、ページビルダー、メディアのベストプラクティスなどのAdobe Commerce ツールについて説明します。</p>
+                </div>
+                <a href="2025/seo-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Commerce & Coffee - The Rise of Self-Service in B2B">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/self-service-b2b.md" title="Commerceとコーヒー – B2B のセルフサービスの台頭" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451619/?format=jpeg&nocache=1749738512499" alt="Commerceとコーヒー – B2B のセルフサービスの台頭"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" title="Commerceとコーヒー – B2B のセルフサービスの台頭">Commerceとコーヒー – B2B におけるセルフサービスの台頭 </a>
+                    </p>
+                    <p class="is-size-6">Adobe Commerceで B2B エクスペリエンスを強化 共有カタログ、会社の管理、見積もり、セルフサービスのツールなどの機能を確認します。 AI 機能と B2B トレンドについて説明します。 セルフサービスのベストプラクティスを実装し、顧客体験を向上させます。 Adobe Summitに参加して、その他のインサイトやリソースをご覧ください。</p>
+                </div>
+                <a href="2025/self-service-b2b.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## 2024 年イベント
 
@@ -30,7 +88,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="何でも質問する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1732308154244" alt="何でも質問する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437034/?format=jpeg&nocache=1749738513506" alt="何でも質問する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +111,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md" title="B2B e コマースのCommerceとコーヒー戦略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1732308154235" alt="B2B e コマースのCommerceとコーヒー戦略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432604/?format=jpeg&nocache=1749738513489" alt="B2B e コマースのCommerceとコーヒー戦略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,7 +134,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ecommerce-essentials.md" title="Commerceとコーヒー – E コマースの基本事項の習得" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1732308154232" alt="Commerceとコーヒー – E コマースの基本事項の習得"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429437/?format=jpeg&nocache=1749738513520" alt="Commerceとコーヒー – E コマースの基本事項の習得"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +157,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/peak-season-prep.md" title="Commerce&amp;コーヒー – ピークシーズンの準備" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1732308154240" alt="Commerce&amp;コーヒー – ピークシーズンの準備"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434700/?format=jpeg&nocache=1749738513544" alt="Commerce&amp;コーヒー – ピークシーズンの準備"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +180,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/personalize-ecommerce.md" title="Commerceとコーヒー – AI を使用した e コマースエクスペリエンスのパーソナライズ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1732308154247" alt="Commerceとコーヒー – AI を使用した e コマースエクスペリエンスのパーソナライズ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427493/?format=jpeg&nocache=1749738513533" alt="Commerceとコーヒー – AI を使用した e コマースエクスペリエンスのパーソナライズ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -159,7 +217,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/ask-me-anything.md" title="何でも質問する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1732308154583" alt="何でも質問する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425651/?format=jpeg&nocache=1749738513895" alt="何でも質問する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,7 +240,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/b2b.md" title="B2B の成功の実現" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1732308154575" alt="B2B の成功の実現"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421687/?format=jpeg&nocache=1749738513923" alt="B2B の成功の実現"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -205,7 +263,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/loyalty-retention.md" title="顧客ロイヤルティとリテンションを高める 7 つの方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1732308154578" alt="顧客ロイヤルティとリテンションを高める 7 つの方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419686/?format=jpeg&nocache=1749738513949" alt="顧客ロイヤルティとリテンションを高める 7 つの方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -215,7 +273,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" title="顧客ロイヤルティとリテンションを高める 7 つの方法">7 顧客ロイヤルティとリテンションを高める方法 </a>
                     </p>
-                    <p class="is-size-6">パーソナライゼーション、報酬プログラム、透明性などのベストプラクティスに加えて、商品Recommendations、価格ルール、プロモーションなどのAdobe Commerce ツールを備えた、Corey Gelato による顧客のロイヤルティとリテンションを高める 7 つの戦略について説明します。</p>
+                    <p class="is-size-6">パーソナライゼーション、報酬プログラム、透明性などのベストプラクティスに加えて、商品レコメンデーション、価格ルール、プロモーションなどのAdobe Commerce ツールを備えた、Corey Gelato による顧客のロイヤルティとリテンションを高める 7 つの戦略について説明します。</p>
                 </div>
                 <a href="2023/loyalty-retention.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
@@ -228,7 +286,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/organic-growth.md" title="Commerce&amp;コーヒー – オーガニック成長" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1732308154567" alt="Commerce&amp;コーヒー – オーガニック成長"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416128/?format=jpeg&nocache=1749738513935" alt="Commerce&amp;コーヒー – オーガニック成長"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -251,7 +309,7 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/peak-season-prep.md" title="ピークシーズンの準備" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1732308154571" alt="ピークシーズンの準備"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424390/?format=jpeg&nocache=1749738513909" alt="ピークシーズンの準備"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,11 +336,11 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=ja">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
       <img alt="Adobe Commerce Site Wide Analysis Tool" src="./assets/analysis-tool.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html?lang=ja">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/analysis-tool.html">
         <strong>Adobe Commerce Site Wide Analysis Tool</strong>
       </a>
     </div>
@@ -291,11 +349,11 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=ja">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
       <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html?lang=ja">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
         <strong>New Relic Masterclass</strong>
       </a>
     </div>
@@ -304,11 +362,11 @@ Commerce&amp;コーヒーシリーズは、すべてのスキルレベルの既�
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=ja">
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
       <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="./assets/upgrade.png" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html?lang=ja">
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/upgrade.html">
         <strong>Benefits of upgrading to Adobe Commerce 2.4.4</strong>
       </a>
     </div>

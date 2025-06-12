@@ -3,7 +3,7 @@ title: ビールの後ろ
 description: Brew の背後にあるCommerce & Coffee のコンパニオンシリーズは、バックエンドのベストプラクティス、統合、高度な機能を習得して e コマースエクスペリエンスを強化したいと考えている、技術指向のお客様向けにカスタマイズされています。
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 7%
@@ -18,6 +18,7 @@ Brew の背景には、Commerce&amp;コーヒーのコンパニオンシリー�
 
 {cta  = Watch event}
 
+* 2025/proactive-monitoring-tools.md
 * 2025/app-builder.md
 * 2025/commerce-intelligence.md
 * 2025/deep-dive-live-search.md
@@ -31,7 +32,7 @@ Brew の背景には、Commerce&amp;コーヒーのコンパニオンシリー�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder.md" title="Adobe Developer App Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1737765880344" alt="Adobe Developer App Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1749738836125" alt="Adobe Developer App Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,7 +55,7 @@ Brew の背景には、Commerce&amp;コーヒーのコンパニオンシリー�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-intelligence.md" title="Adobe Commerce Intelligence（fka MBI）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1737765880333" alt="Adobe Commerce Intelligence（fka MBI）"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443025/?format=jpeg&nocache=1749738836111" alt="Adobe Commerce Intelligence（fka MBI）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +78,7 @@ Brew の背景には、Commerce&amp;コーヒーのコンパニオンシリー�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/deep-dive-live-search.md" title="ライブサーチの詳細" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1737765880353" alt="ライブサーチの詳細"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443021/?format=jpeg&nocache=1749738836153" alt="ライブサーチの詳細"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +101,7 @@ Brew の背景には、Commerce&amp;コーヒーのコンパニオンシリー�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/commerce-storefront.md" title="Commerce ストアフロントの最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1737765880320" alt="Commerce ストアフロントの最適化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443031/?format=jpeg&nocache=1749738836139" alt="Commerce ストアフロントの最適化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
