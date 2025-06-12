@@ -26,4 +26,4 @@ ht-degree: 0%
 * 主なユースケース、機能の応用、成熟度進行のヒントとテクニックを調べます。
 * の今後の機能や機能強化についても話し合う
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463359/?learn=on&enablevpops&captions=jpn)
