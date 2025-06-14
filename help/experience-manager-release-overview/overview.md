@@ -30,7 +30,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="2025.3.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1749737199687" alt="2025.3.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463866/?format=jpeg&nocache=1749737199687&captions=jpn" alt="2025.3.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
