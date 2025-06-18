@@ -8,23 +8,20 @@ event-cta-url-live: https://youtube.com/live/awYa2dU6TDY
 event-start-time: 2025-06-18 09:00-7
 event-guests: Sandra Hausmann, Ariel Sultan, Aaron Forrest, Keara Fausett
 exl-id: 7041430f-845d-4150-9d2c-d8fafb450b9c
-source-git-commit: 0ef5c2a6b36f6998b57c99a211b39c19e7fd1c95
+source-git-commit: b775b884ffcbd72360cecb114d61bba9093269f4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # マスターのフリークエンシーキャップと競合の優先順位
 
-このセッションでは、Adobeのエキスパートである Ariel Sultan と Aaron Forrest が、Adobe Journey Optimizerの新機能を掘り下げます。これらの新機能により、お客様のメッセージを的確に管理し、優先順位を付けることができます。 メッセージ疲労を軽減し、競合を解決し、共感を得られる効果的なエクスペリエンスを提供する方法について説明します。
+このセッションでは、Adobeのエキスパートである Ariel Sultan と Aaron Forrest が、Adobe Journey Optimizerの新機能を掘り下げ、お客様のメッセージを正確に管理し、優先順位を付けるのに役立ちます。 メッセージの疲労を軽減し、矛盾を解決し、共感を得られる効果的なエクスペリエンスを提供する方法を示しました。
 
 このセッションは、Journey Optimizerの機能を習得してコントロールと効率性を高めたいと考えているマーケター、運営チーム、ジャーニー管理者に最適です。
 
-マーケティング戦略を変え、これまでにない方法でオーディエンスを引き付けるこの機会をお見逃しなく。
 
-[ 今すぐ登録 ](https://engage.adobe.com/ExpLeagueLive-250618.html?trackingid=MH16S65T&amp;mv=email)
+>[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-![webbanner](/help/experience-league-live/episodes/assets/exl-live-web-banner-20250618_v2.jpg)
-
-作れないの？ とにかくサインアップして、後で録画をお送りします。 私たちはそこであなたに会いたいです！
+6 月 25 日（水）午前 8 時から午前 9 時（PT）まで、[Adobe Journey Optimizer コミュニティ Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-journey-optimizer-product-experts/ev-p/757473) にご参加ください。
