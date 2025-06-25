@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
+source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 4%
@@ -25,11 +25,11 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
-              <img alt="Experience League LIVE 6 月 18 日" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
+              <img alt="Experience League LIVE 7 月 31 日" src="episodes/assets/WebBanner-31July2025.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-06-18-25.md">
+              <a href="episodes/exl-live-episode-07-31-25.md">
                 <strong>マスターのフリークエンシーキャップと競合の優先順位 </strong>
               </a>
               <br/><em> サンドラ・ハウスマン、アリエル・スルタン、アーロン・フォレスト、キーラ・フォセット </em>
@@ -102,5 +102,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
