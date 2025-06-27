@@ -1,5 +1,5 @@
 ---
-title: AEM Sitesの習得：テンプレート、ナビゲーション、SEO に関する初心者向けガイド
+title: AEM Sitesのマスター – テンプレート、ナビゲーション、SEO
 description: AEM Sitesの基本について説明します。ページテンプレートを使用し、直感的なナビゲーションを設計し、主要な SEO プラクティスを適用して可視性とサイトのパフォーマンスを高める方法を説明します。
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
@@ -9,9 +9,9 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 * 最適なサイトエクスペリエンスのための使いやすいナビゲーションの作成
 * AEM Sites内での SEO 基盤の構築
 
->[!VIDEO](https://video.tv.adobe.com/v/3464316/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
