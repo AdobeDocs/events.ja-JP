@@ -27,4 +27,4 @@ ht-degree: 0%
 * 最適なサイトエクスペリエンスのための使いやすいナビゲーションの作成
 * AEM Sites内での SEO 基盤の構築
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464316/?learn=on&enablevpops&captions=jpn)
