@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe Experience Manager GEMS イベント
-user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
+user-guide-description: AEMのエキスパートがお届けする技術解説シリーズ「Adobe Experience Manager Gems」についてご紹介します。
 breadcrumb-title: AEM GEM イベント
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '770'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 1%
 # Experience Manager GEMS イベント {#experience-manager-gems-recordings}
 
 + [概要](overview.md)
-+ 2025 年 {#gems2025}
++ 2025 {#gems2025}
+   + [AEM Sites Optimizerを使用して web エクスペリエンスの影響を最大限に高める](gems2025/maximize-impact-with-sites-optimizer.md)
    + [Adobe管理による CDN の概要](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024年 {#gems2024}
    + [AEM Sitesの機能のロック解除 – コンテンツ管理 API のマスター](gems2024/content-management-apis.md)
@@ -21,13 +22,13 @@ ht-degree: 1%
    + [AEM AssetsとEdge Delivery Servicesの統合](gems2024/edge-delivery-for-aem-assets.md)
    + [AEM Cloud Managerでのプライベート GitHub リポジトリの統合](gems2024/private-github-for-aem-cloud-manager.md)
    + [新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
-   + [AEM Forms用Edge Delivery Servicesの概要](gems2024/edge-delivery-for-aem-forms.md)
+   + [Edge Delivery Services for AEM Formsの概要](gems2024/edge-delivery-for-aem-forms.md)
    + [AEM オーサリングとEdge Delivery Servicesの概要 ](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [Adobe Commerce上のEdge Delivery Servicesでのストアフロントの構築](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+   + [Adobe CommerceのEdge Delivery Servicesに店舗を建設](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023年 {#gems2023}
    + [AEM as a Cloud ServiceのNew Relic APM](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM認定制度 – 技術](gems2023/aem-certification-technical.md)
-   + [迅速な開発環境によるExperience Manageras a Cloud Service開発の促進](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
+   + [迅速な開発環境によるExperience Manager as a Cloud Service開発の高速化](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [オンプレミス環境および AMS 環境用のAEM ベストプラクティスアナライザー](gems2023/aem-best-practices-analyzer.md)
 + 2022年 {#gems2022}
    + [お客様のユースケースと使用中のAEM ヘッドレス実装](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
@@ -35,14 +36,14 @@ ht-degree: 1%
    + [AEMとCIF フレームワークを統合し、リッチで没入感のある e コマースエクスペリエンスを構築](gems2022/aem-and-cif-framework-integration.md)
    + [AEM ヘッドレスとApp Builderを使用して web サイトをより迅速に構築](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service:2021 年の振り返りと 2022 年の見通し](gems2022/aemcloudservice-2021-review-and-outlook.md)
-+ 2020年 {#gems2020}
++ 2020 年 {#gems2020}
    + [AEM 6.5 のグローバル対応 – 翻訳の統合とベストプラクティス](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
    + [Experience Manager 6.5 の新機能  [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM リッチテキストエディター（RTE）の詳細](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [ContextHub のストア、モジュール、セグメントの実装の詳細](gems2019/contexthub-deep-dive.md)
    + [AEM 6.5 でのヘッドレスのオムニチャネルエクスペリエンスの作成](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
-   + [AEM modernization suite の概要](gems2019/introducing-the-aem-modernization-suite.md)
+   + [AEM Modernization Suite の概要](gems2019/introducing-the-aem-modernization-suite.md)
    + [AEM Screens向けのオーサーとパブリッシュの活用](gems2019/leveraging-author-publish-for-aem-screens.md)
 + 2018 {#gems2018}
    + [Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
@@ -55,10 +56,10 @@ ht-degree: 1%
    + [AEM 6.4 での ContextHub の概要](gems2018/aem-intro-to-contexthub.md)
    + [AEMの機械学習：強化されたスマートタグ、スマートレイアウトなど](gems2018/aem-machine-learning.md)
    + [健全性を維持しながらオープンソースを保守](gems2018/aem-maintaining-open-source.md)
-   + [AEM クエリとインデックスのトラブルシューティング（続き）](gems2018/aem-query-and-index-troubleshooting2.md)
-   + [AEM SPAエディター](gems2018/aem-spa-editor.md)
+   + [AEMのクエリとインデックスのトラブルシューティング（続き）](gems2018/aem-query-and-index-troubleshooting2.md)
+   + [AEM SPA Editor](gems2018/aem-spa-editor.md)
    + [AEMのOak インデックスとしての Solr](gems2018/solr-as-an-oak-index-for-aem.md)
-   + [SPA エディターSDKの詳細 – 第 1 部 – react](gems2018/spa-editor-sdk-deep-dive-react.md)
+   + [SPA エディターSDKの詳細 – 第 1 部 – React](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA エディターSDKの詳細 – 第 2 部 – angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [AEMでの OSGi R7 の使用](gems2018/using-osgi-r7-in-aem.md)
 + 2017 {#gems2017}
@@ -66,9 +67,9 @@ ht-degree: 1%
    + [AEM用ヘルスチェックの構築](gems2017/aem-building-health-checks-for-aem.md)
    + [AEM用 OSGi バンドルおよびサービスの開発](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
    + [AEM Dynamic Media 6.3 のアーキテクチャ](gems2017/aem-dynamic-media-architecture.md)
-   + [ヘッドレスユースケース向けのAEM fluid experience](gems2017/aem-headless-usecases.md)
+   + [ヘッドレスユースケース向けAEM fluid experience](gems2017/aem-headless-usecases.md)
    + [AEMのインデックス作成と JCR クエリ](gems2017/aem-indexing-jcr-query.md)
-   + [AEMの統合](gems2017/aem-integrations.md)
+   + [AEM統合](gems2017/aem-integrations.md)
    + [AEM データストアの管理](gems2017/aem-managing-aem-datastore.md)
    + [AEM querybuilder で容易になった検索フォーム](gems2017/aem-search-forms-using-querybuilder.md)
    + [AEMのメンテナンス - AEM メンテナンスリリースのデプロイのベストプラクティス](gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
@@ -83,30 +84,30 @@ ht-degree: 1%
    + [Adobe Experience Managerのテンプレートエディターを使用したコンテンツの管理](gems2016/aem-managing-content-with-template-editor.md)
    + [Oak Lucene インデックス](gems2016/aem-oak-lucene-indexes.md)
    + [MongoDB でのAEMの実行](gems2016/aem-running-aem-on-mongodb.md)
-   + [AEM Dynamic Mediaのセットアップと設定](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
+   + [AEM Dynamic Media のセットアップと設定](gems2016/aem-setup-and-configure-aem-dynamic-media.md)
    + [技術 Sneak Peek](gems2016/aem-technical-sneak-peek.md)
    + [Adobe Experience Manager アプリケーションのテストに使用するツール](gems2016/aem-testing-tools-for-aem-apps.md)
    + [Adobe Experience Manager デプロイメントでの SAML の使用](gems2016/aem-utilizing-saml-in-aem-deployments.md)
-   + [AEM web パフォーマンス](gems2016/aem-web-performance.md)
+   + [AEMの web パフォーマンス](gems2016/aem-web-performance.md)
 + 2015 {#gems2015}
    + [AEM 6.1 の翻訳統合とベストプラクティス](gems2015/aem-6-1-translation-integration-and-best-practices.md)
-   + [AEM 6.1 でオンラインコミュニティを作成する](gems2015/aem-creating-online-communities-with-aem-6-1.md)
+   + [AEM 6.1 でオンラインコミュニティを作成](gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [タッチ UI のダイアログフィールドのカスタマイズ](gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
-   + [AEM アップグレードプロセスの詳細](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
+   + [AEMのアップグレードプロセスの詳細](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
    + [Dispatcherのキャッシュ – 新機能と最適化](gems2015/aem-dispatcher-caching-new-features-and-optimizations.md)
    + [AEM機能パック 1 [!DNL Forms]  概要と技術サンプル](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
    + [AEM用IBM WebSphere Commerceの統合](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
-   + [ACS AEM Commons&amp;ツールの内部](gems2015/aem-inside-acs-aem-commons-and-tools.md)
+   + [ACS AEM Commons &amp; ツールの内部](gems2015/aem-inside-acs-aem-commons-and-tools.md)
    + [Oak外部ログインモジュール](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar – 製品品質を向上させるための重要な要素](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
-   + [AEM技術 sneak peek](gems2015/aem-tech-sneak-peek.md)
+   + [AEM技術 Sneak Peek](gems2015/aem-tech-sneak-peek.md)
    + [タッチ UI のヒン  [!DNL AEM Sites]  とテクニック](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [JavaScript プロジェクトの品質指標のトラッキング](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
    + [DTM Cloud Service を使用して、ローカル AEM インスタンスにAdobe Analyticsをデプロイします](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [DAM 機能パックを最大限に活用する方法](gems2014/aem-dam-feature-pack.md)
    + [ネイティブアプリへの管理コンテンツの配信](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
-   + [AEM 6.0 開発者モード](gems2014/aem-developer-mode.md)
+   + [AEM 6.0 の開発者モード](gems2014/aem-developer-mode.md)
    + [Eclipse 用AEM開発者ツール](gems2014/aem-developer-tools-for-eclipse.md)
    + [Dispatcher – 新機能とベストプラクティス](gems2014/aem-dispatcher.md)
    + [再利用可能なコンポーネントを効率的に構築](gems2014/aem-efficiently-build-reusable-components.md)
@@ -119,11 +120,11 @@ ht-degree: 1%
    + [AEM 6 Platform の技術的詳細](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
    + [AEM 6 Platform の技術概要](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [AEM 6 のユーザーインターフェイスのカスタマイズ](gems2014/aem-user-interface-customization-for-aem6.md)
-+ 2013 年 {#gems2013}
++ 2013 {#gems2013}
    + [AEM 5.6 Platform のアーキテクチャ](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
    + [CQ/AEM 5.6 のトラブルシューティング](gems2013/aem-cq-aem-5-6-troubleshooting.md)
    + [e コマース統合フレームワーク](gems2013/aem-ecommerce-integration-framework.md)
-   + [hybris/AEM 5.6 e コマースフレームワークの統合](gems2013/aem-hybris-ecommerce-framework-integration.md)
+   + [hybris とAEM 5.6 e コマースフレームワークの統合](gems2013/aem-hybris-ecommerce-framework-integration.md)
    + [AEM 5.6.1 でのジョブ処理とオフロードの概要。](gems2013/aem-job-handling-and-offloading.md)
    + [Launches – 複数バージョンの web サイトを同時に準備（AEM 5.6）](gems2013/aem-launches.md)
    + [AEM 5.6 Media Publisher の詳細](gems2013/aem-media-publisher-deep-dive.md)

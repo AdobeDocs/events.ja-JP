@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud テクニカルセッション
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud テクニカルセッションは、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 15%
+source-wordcount: '161'
+ht-degree: 14%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 15%
 
 + [Experience Cloud テクニカルセッション](overview.md)
 + 2025 {#2025}
+   + [Adobe AnalyticsのAEP Web SDKへの移行](2025/migrate-analytics-to-aep-web-sdk.md)
    + [Adobe Campaign Classic配信パフォーマンスのトラブルシューティング](2025/acc-delivery-performance.md)
    + [AEM as a Cloud ServiceでのDispatcher設定](2025/dispatcher-configurations.md)
    + [Marketo Measureを最大限に活用](2025/getting-most-marketo-measure.md)

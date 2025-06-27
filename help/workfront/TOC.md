@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 594aa341ffe96b91b2b8535f8748b770f1baf349
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -48,5 +48,6 @@ ht-degree: 0%
    + [リクエストキューと取り込みForms](user-groups/request-queues-and-intake-forms.md)
 + リリース {#releases}
    + [25.4 リリース](webinars/25-4-release-webinar.md)
+   + [25.1 リリース](webinars/25-1-release-webinar.md)
    + [24.1 リリース](webinars/24-1-release-webinar.md)
 
