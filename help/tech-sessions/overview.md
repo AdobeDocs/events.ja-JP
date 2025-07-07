@@ -3,10 +3,10 @@ title: Experience Cloud テクニカルセッション
 description: Adobeのエキスパートが主導するライブおよびオンデマンドのテクニカルセッションで、Adobe Experience Cloudのスキルを強化します。 シームレスな学習体験を実現するために、いつでも実用的なヒントや戦略を得ることができます。
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ライブおよびオンデマンドのテクニカルセッションでAdobe Experience Cloudの可能性を最大限に引き出すことができます。 これらのウェビナーは、従来のサポートを超えるように思慮深く設計されています。 経験豊富なAdobeのエキスパートが主導するこのセッションでは、一般的な落とし穴を回避し、自信を持ってテクニカルソリューションをナビゲートするのに役立つ貴重なヒント、テクニック、戦略を提供します。 Adobeのエキスパートは、最も懸念される問題に対処し、日常的なケースに積極的に取り組むテクニカルサポートエンジニアです。 ライブオプションとオンデマンドオプションの両方を使用すると、必要に応じて情報に柔軟にアクセスでき、シームレスな学習体験を確保できます。
 
-## 2054 セッション
+## 2025 年セッション
 
 <!-- CARDS
 {cta = Watch}
@@ -50,7 +50,7 @@ ht-degree: 0%
                     <p class="is-size-6">appmeasurement.js と at.js からAEP Web SDK（alloy.js）に移行して、パフォーマンスとアーキテクチャの簡素化を図り、将来に備えたAdobe統合を実現する方法を説明します。</p>
                 </div>
                 <a href="2025/migrate-analytics-to-aep-web-sdk.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -73,7 +73,7 @@ ht-degree: 0%
                     <p class="is-size-6">このセッションでは、Adobe Campaignを使用してメールと SMS 配信のパフォーマンスを向上させるための主な戦略について説明しました。 配信の遅延、低スループット、トランザクションの速度低下などの一般的な課題に対処し、バッチ処理の最適化、SQL ログ、サーバーパフォーマンスの監視などのソリューションを提供しました。 配信品質のベストプラクティスには、適切なメール認証（SPF、DKIM、DMARC）、ブラックリストモニタリング、スパムチェックが含まれていました。 パフォーマンスを向上させるために、エキスパートは、クリーンなワークフロー、スロットルルール、共有コンテナの回避を推奨しました。 適切な外部アカウントの設定とログ分析に重点を置いた SMS 配信のヒント。 セッションでは、検証の追跡、膨張レポートを使用したデータベースのメンテナンス、エンゲージメントを向上させるための頻度/疲労ルールの適用も強調されました。 セッションの録画は、メールで共有され、Adobe Experience サイトに投稿されます。</p>
                 </div>
                 <a href="2025/acc-delivery-performance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -96,7 +96,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEMのスケーラビリティと効率性を最大限に高めるための、キャッシュ、セキュリティ、パフォーマンスに関するAEM as a Cloud Service Dispatcherのベストプラクティスについて説明します。</p>
                 </div>
                 <a href="2025/dispatcher-configurations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -119,7 +119,7 @@ ht-degree: 0%
                     <p class="is-size-6">チャネルマッピング、セグメント化、カスタムステージマッピング、タッチポイント抑制のベストプラクティスで、Marketo Measureを最適化します。 特定のルールを使用し、データを分類し、段階に論理的な優先順位を付けます。 クリーンなデータに不要なタッチポイントを抑制。 ブーメランステージなどのツールを活用し、複雑な設定のサポートケースを申請します。 Adobeのエクスペリエンスページでセッションの録画にアクセスします。</p>
                 </div>
                 <a href="2025/getting-most-marketo-measure.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -142,7 +142,7 @@ ht-degree: 0%
                     <p class="is-size-6">Marketoのユーザー管理をAdobe Admin Consoleで一元化します。 ロール（システム、製品、プロファイル、サポート管理者）と ID タイプ（Adobe、Enterprise、Federated ID）を管理します。 シングルサインオン用の SSL の設定、ユーザー管理の処理、証明書の更新を 3 年ごとに行います。 ログインの問題などの一般的な問題に対処し、統合されたエクスペリエンスのためにディレクトリの信頼を使用します。 大きなユーザーのコンバージョンを 500 のバッチに分割します。 AdobeのExperience Leagueページから、セッションの録画にアクセスします。</p>
                 </div>
                 <a href="2025/marketo-post-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -165,7 +165,7 @@ ht-degree: 0%
                     <p class="is-size-6">Adobeは、ユーザー管理を向上させるために、Marketo EngageをAdmin Consoleに移行しています。 自動および自己移行のタイプ、前提条件、移行後の変更、ベストプラクティス、一般的な落とし穴、サポートについて説明します。 AdobeのExperience League web サイトでセッションの録画にアクセスします。</p>
                 </div>
                 <a href="2025/marketo-pre-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -205,7 +205,7 @@ ht-degree: 0%
                     <p class="is-size-6">Garrett Hartley が、AEP Web SDK ワークフローのトラブルシューティング、RTCDPとAdobe Analyticsのデータ収集に重点を置いた包括的なセッションと、実装上の一般的な課題への対処について説明します。</p>
                 </div>
                 <a href="2024/aep-web-sdk-troubleshooting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -228,7 +228,7 @@ ht-degree: 0%
                     <p class="is-size-6">Rachel Hanessian と Ariel Sultan が開催する洞察に満ちたウェビナーに参加しましょう。このウェビナーでは、AI アシスタントを使用して、のセットアップ、開始、ユースケースを検討し、Real-Time CDP、Journey Optimizer、Customer Journey Analyticsで生産性を高める方法を学びます。</p>
                 </div>
                 <a href="2024/ai-assistant.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -251,7 +251,7 @@ ht-degree: 0%
                     <p class="is-size-6">5 月のMarketo チャンピオン技術セッションに参加して、チャンピオンである Chris Kelley、Sarah Ryan、Jimmy Spencer、Briney Young のパネルとモデレーターの Courtny Edwards-Jones にご参加ください。Marketoを初めて使用する場合でも、スキルを向上させたい場合でも、チャンピオンは専門知識を共有します。</p>
                 </div>
                 <a href="2024/champion-office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -274,7 +274,7 @@ ht-degree: 0%
                     <p class="is-size-6">Adobeのグローバルリードである Seth Burke が、Real-time Content Data Platform （RTCDP）をナビゲートするためのベストプラクティスを詳しく説明する、洞察に満ちたウェビナーです。 Seth は、データの取り込み、オーディエンスの評価、書き出しのタイミングなどの複雑な手順を示し、各段階での主な制限事項を説明します。</p>
                 </div>
                 <a href="2024/rtcdp-timings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -297,7 +297,7 @@ ht-degree: 0%
                     <p class="is-size-6">Adobe カスタマーエクスペリエンスチームのシニアテクニカルサポートエンジニア、Garrett Hartley 氏による、有益なウェビナーにご参加ください。 このセッションでは、Cookie、ブラウザー、ライブラリという、今日の進化する状況で訪問者を追跡するためのベストプラクティスを Garrett が共有します。以前の実装戦略を確認し、最新の訪問者トラッキング方法を採用するための効果的な移行パスを検討します。 時代遅れの神話を暴露し、トラッキングシステムを改善するための最先端のアプローチについて学ぶことを期待してください。</p>
                 </div>
                 <a href="2024/tracking-visitors.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -346,7 +346,7 @@ ht-degree: 0%
                     <p class="is-size-6">SMS のアーキテクチャ、SMS チャネルの設定、SMPP 外部アカウントの設定、SMS 配信の作成およびトラブルシューティングについて説明します。</p>
                 </div>
                 <a href="2023/ac-sms-channel-overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -369,7 +369,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM as a Cloud Service デプロイメントの内部情報とトラブルシューティング。</p>
                 </div>
                 <a href="2023/aem-deployment-failures-analysis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -392,7 +392,7 @@ ht-degree: 0%
                     <p class="is-size-6">ヘッドレスアーキテクチャの概要、AEM Forms ヘッドレスのメリット、ライブデモ。</p>
                 </div>
                 <a href="2023/aem-forms-headless-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -415,7 +415,7 @@ ht-degree: 0%
                     <p class="is-size-6">Admin Console と変更点、RTCDP UI 内の新しいアクセス制御、Adobe.io/developer コンソール、RTCDP API 統合の権限を設定する方法について説明します。</p>
                 </div>
                 <a href="2023/aep-admin-console-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -438,7 +438,7 @@ ht-degree: 0%
                     <p class="is-size-6">このセッションでは、設定、設定、落とし穴、活用不足の機能、一般的なトラブルシューティングワークフローについて説明します。</p>
                 </div>
                 <a href="2023/launch-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -461,7 +461,7 @@ ht-degree: 0%
                     <p class="is-size-6">複雑で高度なスマート・リスト・ロジック、ALL、ANY および高度なフィルタ、複数のトリガー、負のフィルタおよび負の制約、一般的な問題、トラブルシューティングのヒントの概要</p>
                 </div>
                 <a href="2023/marketo-common-pitfalls.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -484,7 +484,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM Cloud Service への移行を容易にする手法と使用可能なツールについて説明します。 コンテンツ転送ツールから、環境の評価にベストプラクティスアナライザーと組み合わせて使用する新しいCloud Acceleration Managerまで。</p>
                 </div>
                 <a href="2023/migration-aemcs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -507,7 +507,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM CS のインデックス作成の変更と様々なプロジェクトへの影響、AEMaaCS 上のインデックスに関するお客様の課題、これらのインデックスを最適化するためのベストプラクティス</p>
                 </div>
                 <a href="2023/optimize-indexes-aemcs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -530,7 +530,7 @@ ht-degree: 0%
                     <p class="is-size-6">このセッションでは、SWAT の概要とライブデモ（SWAT Cloud Sandbox）について説明します</p>
                 </div>
                 <a href="2023/site-wide-analysis-tool.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -553,7 +553,7 @@ ht-degree: 0%
                     <p class="is-size-6">最新のリリースと機能、at.js のデバッグ方法、ライブデモのトラブルシューティング、セルフサポートリソース、サポートとの連携方法などです。</p>
                 </div>
                 <a href="2023/target-debugging-tips-and-tricks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -576,7 +576,7 @@ ht-degree: 0%
                     <p class="is-size-6">プルーフの作成方法、連絡先の同期の問題を特定および解決する方法、プルーフ生成のエラーを解決する方法について説明します。</p>
                 </div>
                 <a href="2023/workfront-fix-duplicate-contacts.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -599,7 +599,7 @@ ht-degree: 0%
                     <p class="is-size-6">プルーフ承認レポートを作成する方法を説明します。</p>
                 </div>
                 <a href="2023/workfront-proof-approval-reports.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> ウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
