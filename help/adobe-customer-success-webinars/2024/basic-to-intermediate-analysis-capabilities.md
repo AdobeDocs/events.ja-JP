@@ -1,5 +1,5 @@
 ---
-title: Adobe Analyticsと CJA のクイックスタート：基本的な分析から中間分析までの機能
+title: Adobe AnalyticsとCJAのクイックスタート：基本的な分析機能から中間的な分析機能まで
 description: このセッションでは、分析機能の設定、Adobe AnalyticsとCustomer Journey Analyticsの比較、マーケティングレポートの主な機能について説明しました。
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
@@ -9,16 +9,16 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Adobe Analyticsと CJA：基本分析から中間分析までの機能のクイックスタート
+# Adobe AnalyticsおよびCJA：基本分析から中間分析までの機能のクイックスタート
 
-Adobe AnalyticsとCustomer Journey Analytics（CJA）をすぐに使い始めて、データに基づく意思決定でマーケティングアクティビティをサポートする方法を説明します。堅牢な分析機能を実現するための組織の設定方法、どの分析ソリューションを最適に使用するタイミングの把握方法、主要なマーケティングレポートを作成するための分析機能と CJA 機能の分析成熟度レベルへのマッピング方法について説明します。
+Adobe AnalyticsとCustomer Journey Analytics（CJA）をすぐに使い始めて、データに基づく意思決定でマーケティングアクティビティをサポートする方法を説明します。堅牢な分析機能を実現するための組織の設定方法、どの分析ソリューションを最適に使用するタイミングの把握方法、主要なマーケティングレポートを作成するための分析成熟度レベルへの Analytics とCJAの機能のマッピング方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Adobe AnalyticsとCustomer Journey Analytics（CJA）をすぐに使い始めて
 
 * **講演者の紹介**
    * Adobeのシニアカスタマーサクセスマネージャーである Frederick が、このセッションについて紹介しました。
-   * Adobeのプリンシパルカスタマーサクセスマネージャーである Kirsten Schaffer 博士がプレゼンターを務めます。
+   * Adobeのプリンシパルカスタマーサクセスストラテジストである Kerstin Schäfer 博士が講演者です。
 
 * **セッションコンテンツ**
    * このセッションでは、堅牢な分析機能の組織の設定、ガバナンス面、分析と customer journey analytics のパスの実行について説明します。
@@ -38,7 +38,7 @@ Adobe AnalyticsとCustomer Journey Analytics（CJA）をすぐに使い始めて
 
 * **主なトピック**
    * **外部および内部の力** 市場のシフト、プライバシーとガバナンス、データの民主主義、データの複雑さなど、デジタル分析に影響を与える。
-   * **堅牢な分析基盤の構築** 測定戦略、データ収集、インサイトと分析、学習、データガバナンス。
+   * **堅牢な分析基盤の構築** Measurement strategy, data collection, insight and analysis, learning, data governance.
    * **デジタル分析チームの設定** 役割と責務、ハイブリッドチームの作成および分析リクエストの効率的な管理。
    * **Adobe イネーブルメントオプション** Experience League、オンデマンドコース、トレーナーベースのクラス、コミュニティサポート。
 
