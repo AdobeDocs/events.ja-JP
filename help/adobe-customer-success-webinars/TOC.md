@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 4c9f94ad75729c99d650b4fa5d280b6941b374c7
+source-git-commit: 90eb4a9d2cf445c58fde776092fb047f820fa207
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 {#2025}
+   + [AEM新技術](2025/personalized-experiences-aem.md)
+   + [Adobe AnalyticsからCJAへの移行](2025/analytics-to-cja-migration.md)
    + [AEM Sitesのマスター](2025/mastering-aem-sites.md)
    + [Workfrontと JIRA](2025/workfront-and-jira.md)
    + [B2B と B2B2C のCommerceの変換](2025/transforming-b2b-commerce.md)
