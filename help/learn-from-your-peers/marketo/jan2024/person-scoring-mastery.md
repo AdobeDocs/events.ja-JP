@@ -37,6 +37,6 @@ Marketo Engage チャンピオンの Katja Keesom が、スコアリングモデ
 * マーケティングネーションコミュニティウェビナースレッド - [ ディスカッション ](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * ローカルの影響力演習を使用した人物/ リードのスコアリング - [ ワークシートをダウンロード ](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * リード・スコアリング・ルールの大きなリスト - [ ワークシートを表示 ](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Marketo Engage プログラムインポートライブラリ - [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Marketo Engage プログラムインポートライブラリ - [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=ja){target="_blank"}
 * 実施前、実施中、実施後のプロセスについて知っておくべきすべてのリードスコアリング [ オンデマンドウェビナー ](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * チャンピオンがリード獲得に取り組む – [ ブログ ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
