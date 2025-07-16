@@ -2,12 +2,13 @@
 title: Cloud Managerでのテストのベストプラクティス - 2019 年 9 月
 description: 説明はこちら
 sub-product: cloud-manager
+solution: Experience Manager Cloud Manager
 feature-set: Experience Manager
 feature: Cloud Manager
 type: Event
 exl-id: 697f9c88-1a1b-407c-9fe4-d48e74b46e20
 duration: 2148
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 3%

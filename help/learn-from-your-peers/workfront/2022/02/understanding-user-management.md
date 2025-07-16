@@ -1,19 +1,20 @@
 ---
 title: ユーザー管理ウェビナーについて
 description: オンデマンドウェビナーに参加して、Workfrontのユーザー設定および組織を習得してください。 Thermo Fisher Scientific とAdobe Workfrontのエキスパートから、ライセンス、アクセスレベル、グループ、チーム、オブジェクト階層、共有権限、効果的なユーザー管理のベストプラクティスについて説明します。
+solution: Workfront
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3686
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15808
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f7e6991-5e18-4637-9ab4-d1deca267040
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # ユーザー管理について
 

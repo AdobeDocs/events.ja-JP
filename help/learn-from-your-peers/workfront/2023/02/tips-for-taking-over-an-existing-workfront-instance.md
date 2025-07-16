@@ -4,16 +4,17 @@ description: Workfront インスタンスの引き継ぎについては、経験
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # 既存のWorkfront インスタンスの引き継ぎに関するヒント
 
@@ -25,6 +26,6 @@ ht-degree: 0%
 * 成功に向けて将来の自分（および将来の管理者）を設定するために、すべての管理者が現在行うべきこと
 * インスタンスの監査とドキュメント化のプロセスを説明する質問、リソース、リンクが含まれているダウンロード可能なチェックリスト
 
-継承されたインスタンスのチェックリストとブループリント（https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance）もチェックアウトします。
+継承されたインスタンスのチェックリストとブループリント（https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance）もチェックアウトします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

@@ -5,22 +5,23 @@ feature: Get Started with Workfront
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15816
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
 # リソース管理の概要
 
-Adobe Workfrontを使用すると、必要な作業やアクセスできるリソースを把握し、（正確に）割り当てる、理想的なリソース管理を実現できます。 可用性に基づいています。 そして、それは絶対に現実です！ 毎日数百人のWorkfrontのお客様がまさにこの処理を行っています。
+Adobe Workfrontを使用すると、必要な作業やアクセスできるリソースを把握し、可用性に基づいて（正確に）割り当てる、理想的なリソース管理を実現できます。 そして、それは絶対に現実です！ 毎日数百人のWorkfrontのお客様がまさにこの処理を行っています。
 
-このオンデマンドウェビナーでは、Adobe Workfrontのシニアカスタマーサクセスアーキテクトである Corinna Jevons と、Big Red Rooster のオペレーション担当Directorの Elliot Leson が、以下を説明します。
+このオンデマンドウェビナーでは、Adobe Workfrontのシニアカスタマーサクセスアーキテクトである Corinna Jevons と、Big Red Rooster のオペレーション担当ディレクターである Elliot Leson が、以下を説明します。
 
 * リソースプランナーとワークロードバランサーの基本的な概要
 * 開始する前に必要な事前作業

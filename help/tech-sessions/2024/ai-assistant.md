@@ -1,14 +1,15 @@
 ---
 title: Adobe Experience Platformの AI アシスタントで生産性をすぐに向上
-description: Rachel Hanessian と Ariel Sultan が開催する洞察に満ちたウェビナーに参加しましょう。このウェビナーでは、AI アシスタントを使用して、のセットアップ、開始、ユースケースを検討し、Real-Time CDP、Journey Optimizer、Customer Journey Analyticsの生産性を向上させる方法を学びます。
+description: Rachel Hanessian と Ariel Sultan が開催する洞察に満ちたウェビナーに参加しましょう。このウェビナーでは、AI アシスタントを使用して、のセットアップ、開始、ユースケースを検討し、Real-Time CDP、Journey Optimizer、Customer Journey Analyticsで生産性を高める方法を学びます。
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -43,7 +44,7 @@ AI アシスタントを使用してReal-Time CDP、Journey Optimizer、Customer
 ### AI アシスタントの概要
 
 * AI アシスタントは、生成 AI を活用した対話型インターフェイスです。
-* リアルタイム CDP、Journey OptimizerおよびCustomer Journey Analytics向けに設計されています。
+* Real-time CDP、Journey OptimizerおよびCustomer Journey Analytics向けに設計されています。
 * 製品に関する知識、運用に関するインサイト、ワークフローの合理化に役立ちます。
 
 ### 機能とペルソナ

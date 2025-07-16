@@ -3,18 +3,19 @@ title: グループ管理ウェビナーの活用
 description: Workfront System と Group Administrators の役割の進化について、同業者から説明します。 オンデマンドウェビナーでの役割、ベストプラクティス、ドキュメント、アドボカシーについて説明します。
 topic: Administration
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3667
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15812
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 22a90abe-f339-4d18-8cfe-0822b86f570d
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
 
 ---
-
 
 # グループ管理者の活用
 

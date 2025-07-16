@@ -2,13 +2,15 @@
 title: 影響の特定 – Workfront値の測定方法と共有方法
 description: このオンデマンドウェビナーでは、Synchrony の James Hill と Ellen Saltmarsh、EMMsphere の Daniel Clarke が、Workfrontの導入における「理由」の明確な示し、時間とコストの削減などの測定可能な成果の定義、関係者の賛同を得るための成功事例の伝達、価値実現のための段階的なプレイブックの使用といった戦略について説明します。
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
 duration: 3534
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17413
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

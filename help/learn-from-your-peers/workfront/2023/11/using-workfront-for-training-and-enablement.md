@@ -2,18 +2,19 @@
 title: Workfrontを使用したトレーニングとイネーブルメントのウェビナー
 description: Workfrontがオンデマンドウェビナーで従業員のトレーニングをどのように強化するかをご覧ください。 JPMorgan Chase、IBM、Adobe Workfrontのエキスパートから、カスタマイズされたパスの作成、資料の整理、Workfrontの活用に関するインサイトを得て、効果的なオンボーディングと長期的な採用を実現します。
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Workfrontのトレーニングとイネーブルメントへの使用
 

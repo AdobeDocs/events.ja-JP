@@ -2,18 +2,19 @@
 title: Workfrontのセンターオブエクセレンスウェビナーの立ち上げ
 description: オンデマンドウェビナーでWorkfront センターオブエクセレンス（CoE）を設立する方法については、Mattel とAdobe Workfrontの専門家が説明します。 持続可能で拡張性の高い管理、ユーザーへの導入の向上、製品の使用方法とデータの整合性の向上を実現するための、主要なコンポーネント、イネーブラ、段階的な手順について説明します。
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # Workfrontの中核的な拠点の設立
 

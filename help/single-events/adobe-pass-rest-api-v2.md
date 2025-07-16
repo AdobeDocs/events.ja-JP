@@ -2,19 +2,20 @@
 title: Adobe Pass – 新しい REST API v2
 description: このセッションでは、Adobeの新しい REST API v2 の紹介と、移行プロセスのガイドを中心に説明します。
 role: Developer
+solution: Pass
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 3230
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17685
 hidefromtoc: true
-source-git-commit: 1082d67d49901e151115255b585799a5f57bda4a
+exl-id: 745411bb-48d7-4410-a236-d02c2927ac1b
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Pass – 新しい REST API v2
 
@@ -56,4 +57,3 @@ ht-degree: 0%
    * REST API v2 は v1 と下位互換性がないので、再認証が必要です。
    * 事前認証は UI 用ですが、メディアトークンには認証が必要です。
    * SSO は新しいAdobe サービストークンを介してサポートされています。
-

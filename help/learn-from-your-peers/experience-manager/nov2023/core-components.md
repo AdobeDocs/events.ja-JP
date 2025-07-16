@@ -3,6 +3,7 @@ title: AEM コアコンポーネントを使用して開発者の卓越性を強
 description: Web コンテンツ管理（WCM）コアコンポーネントを使用して、web サイトの開発を高速化し、メンテナンスコストを削減します。 ティーザーコンポーネントを複数のデザインバリエーションを持つカードスタイルのコンポーネントに変換する方法を示すライブデモ。 スタイルシステムを最適化するためのベストプラクティス。 フロントエンドパイプラインを使用して UI 変更を効率的にデプロイする手順のデモ。
 feature-set: Experience Manager Sites
 feature: Core Components, Developing, Style System
+solution: Experience Manager
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -12,7 +13,7 @@ jira: KT-14590
 thumbnail: 3425841.jpeg
 exl-id: 5efcf8ea-8b80-40cb-a55f-bac4d5bdaf5e
 duration: 2826
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
