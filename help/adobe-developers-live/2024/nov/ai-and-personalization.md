@@ -22,7 +22,7 @@ ht-degree: 0%
 
 パーソナライゼーションと AI をAdobe Experience Manager Edge Delivery Servicesに統合する基本的なアーキテクチャについて説明します。 Cognizant Netcentric のプリンシパルソリューションアーキテクトである Andreas Haller が、プロジェクトを強化するための意味論的検索と高度なユースケースについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440407/?learn=on&enablevpops&captions=jpn)
 
 ## コミュニティ ディスカッション
 

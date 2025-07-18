@@ -224,7 +224,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI アシスタント – 基本を超える" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1752782382970" alt="AI アシスタント – 基本を超える"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463359/?format=jpeg&nocache=1752782382970&captions=jpn" alt="AI アシスタント – 基本を超える"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -431,7 +431,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="AJOでの GenAI 実験とAdobe Targetとの関係" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1752782383024" alt="AJOでの GenAI 実験とAdobe Targetとの関係"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444460/?format=jpeg&nocache=1752782383024&captions=jpn" alt="AJOでの GenAI 実験とAdobe Targetとの関係"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -523,7 +523,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="AEM Sitesのマスター – テンプレート、ナビゲーション、SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1752782383017" alt="AEM Sitesのマスター – テンプレート、ナビゲーション、SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464316/?format=jpeg&nocache=1752782383017&captions=jpn" alt="AEM Sitesのマスター – テンプレート、ナビゲーション、SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -985,7 +985,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Real-Time Customer Data PlatformとMarketoの統合の基本" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1752782384212" alt="Real-Time Customer Data PlatformとMarketoの統合の基本"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433669/?format=jpeg&nocache=1752782384212&captions=jpn" alt="Real-Time Customer Data PlatformとMarketoの統合の基本"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1146,7 +1146,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="データストリームの優先順位付け" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1752782384261" alt="データストリームの優先順位付け"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456806/?format=jpeg&nocache=1752782384261&captions=jpn" alt="データストリームの優先順位付け"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1330,7 +1330,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalizationの成熟度 – ハイパーパーソナライゼーションへの道筋" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1752782384343" alt="Personalizationの成熟度 – ハイパーパーソナライゼーションへの道筋"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457346/?format=jpeg&nocache=1752782384343&captions=jpn" alt="Personalizationの成熟度 – ハイパーパーソナライゼーションへの道筋"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1376,7 +1376,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="効率の最大化 – リーンチームとCustomer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1752782384334" alt="効率の最大化 – リーンチームとCustomer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457009/?format=jpeg&nocache=1752782384334&captions=jpn" alt="効率の最大化 – リーンチームとCustomer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1491,7 +1491,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="戦略的リーダーシップ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1752782384374" alt="戦略的リーダーシップ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456784/?format=jpeg&nocache=1752782384374&captions=jpn" alt="戦略的リーダーシップ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1652,7 +1652,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Adobe Workfrontによる効率の最大化 – リーンチームウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1752782384458" alt="Adobe Workfrontによる効率の最大化 – リーンチームウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456707/?format=jpeg&nocache=1752782384458&captions=jpn" alt="Adobe Workfrontによる効率の最大化 – リーンチームウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

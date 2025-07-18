@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Adobeのシニアソフトウェアエンジニアである Iryna Lagno 氏が、ヘッドレス編集サーフェスとユニバーサルエディター全体で作成者のためにAdobe Experience Manager機能を拡張する方法を説明します。 組織間の UI 拡張機能を有効にし、Extension Managerを通じて他のユーザーが活用できるように公開することもできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440429/?learn=on&enablevpops&captions=jpn)
 
 ## コミュニティ ディスカッション
 

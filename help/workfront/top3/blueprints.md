@@ -20,7 +20,7 @@ ht-degree: 0%
 
 皆さん、失礼ですが、 「オンデマンドWorkfront CSM」の私が、もう 1 つのトップ 3 ビデオで戻ってきました。  今回は [ ブループリント ](https://experienceleague.adobe.com/ja/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) について説明します。 ブループリントはWorkfrontの仕事への近道だと聞いたことがあるかもしれませんが、ブループリントを使用して企業のニーズを迅速に追跡する他の方法は何ですか？
 
->[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3465311/?learn=on&enablevpops&captions=jpn)
 
 実稼動環境に何かをインストールする前にまず実験する場合は、心配はいりません。  最初に、[ サンドボックスプレビュー環境 ](https://experienceleague.adobe.com/ja/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) で試してみてください。
 
