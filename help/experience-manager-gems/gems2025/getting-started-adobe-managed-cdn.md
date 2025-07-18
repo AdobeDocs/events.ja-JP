@@ -1,23 +1,24 @@
 ---
 title: AEM GEM - Adobe管理 CDN の概要
-description: 新しい CDN 設定機能を使用してパフォーマンスとセキュリティを強化するために、AEM Cloud ServiceでAdobeが管理する CDN を設定する方法について説明します。
+description: 新しい CDN 設定機能でパフォーマンスとセキュリティを強化するために、AEM Cloud Service でAdobeの管理による CDN を設定する方法について説明します。
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
-
 # AEM GEM - Adobe管理 CDN の概要
 
-AEM Cloud ServiceのAdobe管理 CDN とその設定方法について説明します。 AEM as a Cloud Service アプリケーションのパフォーマンスとセキュリティの両方を向上させるために使用できる新しい CDN 設定機能について説明します。 このセッションでは、以下を確認します。
+AEM Cloud Service でのAdobeの管理による CDN と、その設定方法について説明します。 AEM as a Cloud Service アプリケーションのパフォーマンスとセキュリティの両方を向上させるために使用できる新しい CDN 設定機能について説明します。 このセッションでは、以下を確認します。
 
 * Adobe CDN とは
 * AEMaaCS とEdge Delivery Servicesに関連するトポロジ
@@ -28,15 +29,15 @@ AEM Cloud ServiceのAdobe管理 CDN とその設定方法について説明し�
 
 *2025 年 1 月 22 日（PT）に録画*
 
-ご質問がある場合は、コメントをお願いします。  [Experience League コミュニティ ](https://adobe.ly/4haufPK) でディスカッションに参加
+ご質問がある場合は、コメントをお願いします。  [Experience League Communities](https://adobe.ly/4haufPK) でディスカッションに参加
 
 ## 重要ポイント
 
-### Adobe管理による CDN の主な機能
+### Adobeの管理による CDN の主な機能
 
 * **カスタムドメインおよび証明書** カスタムドメインおよび証明書をホストして安全な接続を確立するために不可欠です。
 * **キャッシュ** キャッシュから HTTP 応答を配信する方法は、元の場所から取得する方法（数百ミリ秒）に比べて、非常に高速（10 ミリ秒未満）です。
-* **標準およびカスタム CDN** Adobeは標準の管理 CDN を提供しますが、ユーザーが独自の CDN を持ち込むこともできます。
+* **標準およびカスタム CDN** Adobeには標準の管理 CDN が用意されていますが、ユーザーが独自の CDN を導入することもできます。
 
 ### 設定オプション
 
@@ -50,11 +51,11 @@ AEM Cloud ServiceのAdobe管理 CDN とその設定方法について説明し�
 
 * **設定パイプライン** YAML ファイルをデプロイして CDN ルールを設定します。
 * **トラフィック保護** トラフィックフィルタールールを使用して、パターンに基づいてトラフィックをブロック、ログ記録およびアラートします。
-* **レート制限** IP あたりのリクエスト数を制限することで、DDoS 攻撃に対するProtectを行います。
+* **レート制限** IP あたりのリクエスト数を制限することで、DDoS 攻撃から保護します。
 
 ### ツールと分析
 
-* **ElasticsearchKibana スタック** 提供されたダッシュボードで使用状況とトラフィックを分析します。
+* **Elasticsearch Kibana スタック** 提供されたダッシュボードで使用状況とトラフィックを分析します。
 * **ログ転送** 分析のためにログを Splunk インスタンスに転送します。
 
 ### デモのハイライト

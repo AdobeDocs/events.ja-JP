@@ -1,6 +1,7 @@
 ---
 title: 最新のAdobe Experience Manager API とイベント
 description: アプリケーションを拡張し、AMS サービスを最新の API と統合します。専用チームと、developer.adobe.com上の包括的なリソースによってサポートされており、コンテンツフラグメント用の新しい API、イベント統合、早期導入者向けの機会を備えています。
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: APIs, Integrations
 topic: Integrations
 role: Developer
@@ -9,17 +10,17 @@ doc-type: Event
 duration: 1310
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16549
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 3cb11b21-d673-4373-82bb-72a6a1e73161
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-
 # 最新のAdobe Experience Manager API とイベント
 
-Adobe Experience Managerのクラウドネイティブイベントシステムが、外部システムとシームレスに統合してワークフローを最新化する方法を説明します。 プリンシパル製品マネージャーの Mathias Siegel と、Adobeのシニアコンピューターサイエンティストの Ian Reaor が、最新の API、イベント、実際のユースケースについて説明します。
+Adobe Experience Managerのクラウドネイティブイベントシステムが、外部システムとシームレスに統合してワークフローを最新化する方法を説明します。 Adobeのプリンシパルプロダクトマネージャーである Mathias Siegel とシニアコンピューターサイエンティストの Ian Reaor が、最新の API、イベント、実際のユースケースについて説明します。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440203/?learn=on&enablevpops)
@@ -40,4 +41,3 @@ Adobe Developers Live コミュニティで会話を続けます [ ディスカ�
 * **新しい API の使用を推奨** ユーザーは、AMS API 開発の今後の方向性を表すので、これらの新しい API に切り替えることをお勧めします。
 * **認証とアクセストークン** アクセストークンの生成プロセスは最終段階にあり、今後のリリースで利用できるようになります。
 * **エンゲージメントとサポート** チームは、早期導入者の機会のための質問やエンゲージメント、API のユースケースに関するさらなる議論に対してオープンです。
-
