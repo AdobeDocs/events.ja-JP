@@ -112,7 +112,7 @@ Workfrontの管理者でもプロジェクトマネージャーでも、日常�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="対！ - グループとチーム" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1752859089086" alt="対！ - グループとチーム"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467354/?format=jpeg&nocache=1752859089086&captions=jpn" alt="対！ - グループとチーム"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,7 +150,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Lyndsy Denk のリクエストキュー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1752859089318" alt="Expert Insights - Lyndsy Denk のリクエストキュー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469290/?format=jpeg&nocache=1752859089318&captions=jpn" alt="Expert Insights - Lyndsy Denk のリクエストキュー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

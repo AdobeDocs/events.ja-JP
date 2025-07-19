@@ -20,7 +20,7 @@ ht-degree: 0%
 
 こんにちは、Workfronters の皆さん、これは「オンデマンドWorkfront CSM」です。 この対で エピソードでは、グループとチームを使用するためのアイデアと推奨事項をいくつか共有します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467354/?learn=on&enablevpops&captions=jpn)
 
 グループとチームの詳細を確認する
 
