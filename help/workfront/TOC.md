@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Workfront イベント {#workfront-recordings}
 
-+ [Workfront ユーザーグループとウェビナー](overview.md)
++ [Workfront オンデマンドワークショップ](overview.md)
 
++ リリースウェビナー {#releases}
+   + [25.7 リリース](releases/25-7-release-webinar.md)
+   + [25.4 リリース](releases/25-4-release-webinar.md)
+   + [25.1 リリース](releases/25-1-release-webinar.md)
+   + [24.1 リリース](releases/24-1-release-webinar.md)
 + 上位 3 件 {#top3}
    + [Creativeのブループリントへのアプローチ](top3/blueprints.md)
 + 対！ {#versus}
    + [グループとチーム](versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
-+[Lyndsy Denk とキューを要求 ](expert-insights/request-queues.md)
+   + [Lyndsy Denk とのリクエストキュー](expert-insights/request-queues.md)
 + ワークショップ巻き戻し {#workshop-rewind}
    + ワークフロー {#workflow}
       + [Creativeのリソース管理方法](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + リクエストキューと取り込み {#request-queues-and-intake}
       + [リクエストキューと取り込みForms](user-groups/request-queues-and-intake-forms.md)
 
-+ リリース {#releases}
-   + [25.7 リリース](releases/25-7-release-webinar.md)
-   + [25.4 リリース](releases/25-4-release-webinar.md)
-   + [25.1 リリース](releases/25-1-release-webinar.md)
-   + [24.1 リリース](releases/24-1-release-webinar.md)
+
 
