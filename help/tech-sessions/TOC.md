@@ -2,9 +2,9 @@
 user-guide-title: Experience Cloud テクニカルセッション
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud テクニカルセッションは、お客様にソリューション固有のウェビナーを提供することで、問題を事前に特定できるようにするアプローチです。
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '165'
 ht-degree: 14%
 
 ---
@@ -14,13 +14,14 @@ ht-degree: 14%
 
 + [Experience Cloud テクニカルセッション](overview.md)
 + 2025 {#2025}
-   + [Adobe AnalyticsのAEP Web SDKへの移行](2025/migrate-analytics-to-aep-web-sdk.md)
    + [Adobe Campaign Classic配信パフォーマンスのトラブルシューティング](2025/acc-delivery-performance.md)
    + [AEM as a Cloud ServiceでのDispatcher設定](2025/dispatcher-configurations.md)
    + [Marketo Measureを最大限に活用](2025/getting-most-marketo-measure.md)
+   + [Fastly とAdobe Commerce](2025/fastly-and-adobe-commerce.md)
    + MarketoのAdobe Admin Consoleへの移行 {#marketo-admin-console}
       + [移行前](2025/marketo-pre-migration.md)
       + [移行後](2025/marketo-post-migration.md)
+   + [Adobe AnalyticsのAEP Web SDKへの移行](2025/migrate-analytics-to-aep-web-sdk.md)
 + 2024年 {#2024}
    + Real-Time Content Data Platform {#rtcdp-office-hours-2024}
       + [AEP Web SDKのトラブルシューティング](2024/aep-web-sdk-troubleshooting.md)
