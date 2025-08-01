@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: 97016d0d62c2eefca2fd305fedc093c814e3bcc9
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '334'
 ht-degree: 20%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 20%
    + 2023年 {#2023}
       + 11 月 {#nov2023}
          + [効果的なデータビジュアライゼーション](analytics/nov2023/impactful-data-visualizations.md)
-      + 8 月 {#aug2023}
+      + 8月 {#aug2023}
          + [Adobe Analyticsの処理ルール機能のロック解除](analytics/aug2023/processing-rules.md)
       + 2 月 {#feb2023}
          + [データ主導型の文化の構築](analytics/feb2023/data-driven-culture.md)
@@ -26,7 +26,7 @@ ht-degree: 20%
       + 11 月 {#nov2022}
          + [ヒントとテクニック](analytics/nov2022/tips-and-tricks.md)
          + [チャンピオンのヒントとテクニックのフォローアップ Q&amp;A](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + 8 月 {#aug2022}
+      + 8月 {#aug2022}
          + [データ品質と採用](analytics/aug2022/data-quality.md)
       + 6 月 {#jun2022}
          + [可能なドキュメンテーションのミッション](analytics/june2022/mission-possible.md)
@@ -40,7 +40,7 @@ ht-degree: 20%
       + [大規模な成功の実現](experience-manager/july2024/global-digital-presence.md)
    + 11 月 {#nov2023}
       + [AEM コアコンポーネントの開発者向けエクセレンス](experience-manager/nov2023/core-components.md)
-   + 9 月 {#sept2023}
+   + 9月 {#sept2023}
       + [AEM Sitesのツールの詳細](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
       + [Cloud Serviceの効果的なセキュリティ戦略 ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
@@ -98,9 +98,9 @@ ht-degree: 20%
          + [エンドユーザーの導入の成功](workfront/2022/11/successful-end-user-adoption.md)
       + 10 月 {#october}
          + [ワークフローとプロセスデザイン](workfront/2022/10/workflow-and-process-design.md)
-      + 9 月 {#september}
+      + 9月 {#september}
          + [リソース管理の概要](workfront/2022/09/getting-started-with-resource-management.md)
-      + 8 月 {#august}
+      + 8月 {#august}
          + [システムのメンテナンスとクリーンアップ](workfront/2022/08/system-maintenance-and-cleanup.md)
       + 7 月 {#july}
          + [リクエストキューに関するすべて](workfront/2022/07/all-about-request-queues.md)
@@ -114,4 +114,5 @@ ht-degree: 20%
          + [Workfrontガバナンスとは](workfront/2022/03/what-is-workfront-governance.md)
       + 2 月 {#february}
          + [ユーザー管理について](workfront/2022/02/understanding-user-management.md)
++ [Experience CloudをまたいだAdobe ユーザーグループの調査](./adobe-user-groups.md)
 + [チャンピオンの資格を申請して際立つ方法を学ぶ](./adobe-champion-application.md)

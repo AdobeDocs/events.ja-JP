@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Adobeの専門家や同業者から、Adobe ソリューションを最大限に活用する方法について説明します。 [!DNL Experience Makers - Learn from your peers]  は、ソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連の仮想カスタマー  [!DNL Adobe Experience Cloud]  ラーニングイベントです。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,68 @@ ht-degree: 0%
 
 Adobeの専門家から学び、Adobe ソリューションを最大限に活用する方法を同業者に紹介します。 実務担当者向けに選択されたトピックを使用して _実務担当者向けに_ 選択されたインタラクティブセッションでは、「考えられる」ユースケース、ベストプラクティス、ヒントとコツのアートを共有します。
 
-## 2024 年イベント
+## 全般
 
-### Commerce
+<!-- CARDS
+{cta  = Watch event}
+
+* ./adobe-user-groups.md
+* ./adobe-champion-application.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore Adobe User Groups across Experience Cloud">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./adobe-user-groups.md" title="Experience CloudをまたいだAdobe ユーザーグループの調査" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1754072728941" alt="Experience CloudをまたいだAdobe ユーザーグループの調査"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./adobe-user-groups.md" target="_blank" rel="referrer" title="Experience CloudをまたいだAdobe ユーザーグループの調査">Experience CloudをまたいだAdobe ユーザーグループの調査 </a>
+                    </p>
+                    <p class="is-size-6">各地域のユーザーグループを通じてAdobe Experience Cloudの同業者とつながり、スキルを磨く方法、実際の課題を解決する方法、MarTech コミュニティでリードする方法を見つけます。</p>
+                </div>
+                <a href="./adobe-user-groups.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn how to apply and stand out as a Champion">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./adobe-champion-application.md" title="チャンピオンの資格を申請して際立つ方法を学ぶ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1754072728955" alt="チャンピオンの資格を申請して際立つ方法を学ぶ"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./adobe-champion-application.md" target="_blank" rel="referrer" title="チャンピオンの資格を申請して際立つ方法を学ぶ"> 応募する方法とチャンピオンとして際立つ方法を学ぶ </a>
+                    </p>
+                    <p class="is-size-6">Adobeの導入マーケティングチームと現在のAdobe Champions が、このプログラムの概要と傑出したアプリの送信に関するヒントを説明する排他的なウェビナーに参加します。</p>
+                </div>
+                <a href="./adobe-champion-application.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+
+## Commerce
 
 <!-- CARDS
 * commerce/2024/agile-sdlc.md {cta  = Watch event}
@@ -28,7 +87,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1746904592243" alt="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1754072729417" alt="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -49,7 +108,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Adobe Experience Manager
+## Adobe Experience Manager
 
 <!-- CARDS
 
@@ -65,7 +124,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/july2024/global-digital-presence.md" title="グローバルな組み合わせによる大規模な成功の実現" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1746904593156" alt="グローバルな組み合わせによる大規模な成功の実現"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1754072729756" alt="グローバルな組み合わせによる大規模な成功の実現"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +145,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Marketo
+## Marketo
 
 <!-- CARDS
 
@@ -106,7 +165,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/may2025/interactive-webinars.md" title="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1746904594008" alt="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1754072730267" alt="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -129,7 +188,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/nov2024/advanced-segmentation.md" title="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1746904593992" alt="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1754072730316" alt="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,7 +211,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1746904594019" alt="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1754072730284" alt="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,7 +234,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1746904594029" alt="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1754072730294" alt="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,7 +257,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1746904594038" alt="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1754072730324" alt="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,7 +280,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1746904594047" alt="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1754072730305" alt="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +301,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Workfront
+## Workfront
 
 <!-- CARDS
 
@@ -258,7 +317,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="影響の特定 – Workfront値の測定方法と共有方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1746904595407" alt="影響の特定 – Workfront値の測定方法と共有方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1754072730653" alt="影響の特定 – Workfront値の測定方法と共有方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +340,7 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="Workfront システム管理業務のスタッフの配置のウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1746904595393" alt="Workfront システム管理業務のスタッフの配置のウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1754072730669" alt="Workfront システム管理業務のスタッフの配置のウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
