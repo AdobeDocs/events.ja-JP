@@ -2,10 +2,10 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 4%
 
 ---
 
@@ -14,44 +14,58 @@ ht-degree: 0%
 
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 {#2025}
-   + [AEM新技術](2025/personalized-experiences-aem.md)
-   + [GenAI を使用したAEM](2025/aem-genai.md)
-   + [AEMとWorkfrontの統合](2025/aem-workfront-integration.md)
-   + [AI とAdobe Target](2025/ai-adobe-target.md)
-   + [AI – 基本を超える](2025/ai-beyond-basics.md)
-   + [Workfrontの AI 駆動自動化](2025/unlock-efficiency-ai-drive-automation-workfront.md)
-   + [XDM スキーマモデリングのベストプラクティスとインサイト](2025/model-xdm-schemas.md)
-   + [効果的な Web ページの構築](2025/build-effective-web-pages.md)
-   + [コンテンツ・サプライ・チェーンの基本](2025/content-supply-chain-basics.md)
-   + [効果的な測定を実現する方法の開発](2025/impactful-insights.md)
-   + [アジャイルマーケティング組織の育成](2025/agile-marketing-organization.md)
-   + [データDistiller 101](2025/data-distiller-101.md)
-   + [AI インサイトによるデジタルエクスペリエンスの最適化](2025/accelerating-digital-experience-optimization.md)
-   + [デジタルの動向と未来への備え](2025/digital-trends-preparing-future.md)
-   + [顧客エンゲージメントの促進](2025/driving-customer-engagement.md)
-   + [Personalizationとデータを通じたロイヤルティプログラムの強化](2025/enhance-loyalty-programs.md)
-   + [Personalizationの強化](2025/enhancing-personalization.md)
-   + [基本的なアーキテクチャ](2025/cja-vision.md)
-   + [GenAI 実験](2025/gen-ai-experimentation.md)
-   + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
-   + [AEM Sitesのマスター](2025/mastering-aem-sites.md)
-   + [AEM Content Hubでの Digital Asset Manager の習得](2025/mastering-dam-aem-content-hub.md)
-   + [シーケンシャル・ロジックの習得：ビジュアル・フレームワーク](2025/mastering-sequential-logic.md)
-   + [順次論理の習得 – 開始停止](2025/sequential-logic-start-stop.md)
-   + [Adobe AnalyticsからCJAへの移行](2025/analytics-to-cja-migration.md)
-   + [AEM Cloud のNew Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
-   + [Northstar アーキテクチャ](2025/northstar-architecture.md)
-   + [AEMのパフォーマンスの最適化](2025/optimize-aem-performance.md)
-   + [デジタル通信のパーソナライズ](2025/personalize-digital-communications.md)
-   + [CJAによる価値へのロードマップ](2025/roadmap-to-value-cja.md)
-   + [AEPプロジェクトへのエグゼクティブスポンサーシップの獲得](2025/exec-sponsorship-aep-projects.md)
-   + [Workfront Fusion の基本とベストプラクティス](2025/adobe-workfront-fusion-best-practices.md)
-   + [Workfrontと JIRA](2025/workfront-and-jira.md)
-   + [よりスマートなマーケティングの開始 – GoogleとAdobeの統合](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
-   + [デジタルと GenAI の採用状況](2025/state-of-digital-and-genai-adoption-webinar.md)
-   + [B2B と B2B2C のCommerceの変換](2025/transforming-b2b-commerce.md)
-   + [2024 年のホリデーシーズンの実績と 2025 年のトレンド](2025/adobe-digital-insights.md)
+   + Commerce {#commerce2025}
+      + [B2B と B2B2C のCommerceの変換](2025/transforming-b2b-commerce.md)
+   + Customer Journey Analytics {#cja2025}
+      + [CJAを成功させるための運用モデルの設計](2025/cja-operating-model.md)
+      + [基本的なアーキテクチャ](2025/cja-vision.md)
+      + [Adobe AnalyticsからCJAへの移行](2025/analytics-to-cja-migration.md)
+      + [CJAによる価値へのロードマップ](2025/roadmap-to-value-cja.md)
+      + [よりスマートなマーケティングの開始 – GoogleとAdobeの統合](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
+   + Adobe Experience Manager {#aem2025}
+      + [AEM新技術](2025/personalized-experiences-aem.md)
+      + [GenAI を使用したAEM](2025/aem-genai.md)
+      + [AEMとWorkfrontの統合](2025/aem-workfront-integration.md)
+      + [効果的な Web ページの構築](2025/build-effective-web-pages.md)
+      + [顧客エンゲージメントの促進](2025/driving-customer-engagement.md)
+      + [AEM Formsの登録ジャーニー](2025/payer-enrollment-journey.md)
+      + [AEM Sitesのマスター](2025/mastering-aem-sites.md)
+      + [AEM Content Hubでの Digital Asset Manager の習得](2025/mastering-dam-aem-content-hub.md)
+      + [Open API を使用した Dynamic Media のマスター](2025/dynamic-media-open-ai.md)
+      + [AEM Cloud のNew Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
+      + [AEMのパフォーマンスの最適化](2025/optimize-aem-performance.md)
+      + [デジタル通信のパーソナライズ](2025/personalize-digital-communications.md)
+   + Experience Platform {#aep2025}
+      + [AI – 基本を超える](2025/ai-beyond-basics.md)
+      + [XDM スキーマモデリングのベストプラクティスとインサイト](2025/model-xdm-schemas.md)
+      + [データDistiller 101](2025/data-distiller-101.md)
+      + [AEPプロジェクトへのエグゼクティブスポンサーシップの獲得](2025/exec-sponsorship-aep-projects.md)
+   + GenStudio for Performance Marketing {#genstudio2025}
+      + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
+   + Journey Optimizer {#ajo2025}
+      + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+   + マルチソリューション {#multisolution2025}
+      + [コンテンツ・サプライ・チェーンの基本](2025/content-supply-chain-basics.md)
+      + [AI インサイトによるデジタルエクスペリエンスの最適化](2025/accelerating-digital-experience-optimization.md)
+      + [Personalizationとデータを通じたロイヤルティプログラムの強化](2025/enhance-loyalty-programs.md)
+      + [Personalizationの強化](2025/enhancing-personalization.md)
+      + [GenAI 実験](2025/gen-ai-experimentation.md)
+      + [シーケンシャル・ロジックの習得：ビジュアル・フレームワーク](2025/mastering-sequential-logic.md)
+      + [順次論理の習得 – 開始停止](2025/sequential-logic-start-stop.md)
+   + ターゲット {#target2025}
+      + [AI とAdobe Target](2025/ai-adobe-target.md)
+   + 全般 {#general2025}
+      + [2024 年のホリデーシーズンの実績と 2025 年のトレンド](2025/adobe-digital-insights.md)
+      + [効果的な測定を実現する方法の開発](2025/impactful-insights.md)
+      + [アジャイルマーケティング組織の育成](2025/agile-marketing-organization.md)
+      + [デジタルの動向と未来への備え](2025/digital-trends-preparing-future.md)
+      + [Northstar アーキテクチャ](2025/northstar-architecture.md)
+      + [デジタルと GenAI の採用状況](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + Workfront {#workfront2025}
+      + [Workfrontの AI 駆動自動化](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+      + [Workfront Fusion の基本とベストプラクティス](2025/adobe-workfront-fusion-best-practices.md)
+      + [Workfrontと JIRA](2025/workfront-and-jira.md)
+
 + 2024年 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Targetの AI 駆動型Personalization](2024/ai-personalization.md)

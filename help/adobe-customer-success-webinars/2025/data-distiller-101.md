@@ -1,19 +1,20 @@
 ---
 title: データDistiller 101
 description: Data Distiller 101 ウェビナーでは、データのセグメント化、エンリッチメント、AI/ML 統合の機能に焦点を当て、データアーキテクトやマーケティングエンティティ向けのスケーラブルなソリューションを提供して、データ駆動型の意思決定を強化します。
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # データDistiller 101
 
@@ -39,7 +40,7 @@ Data Distillerは、主なユースケースとお客様のソリューション
 
 * 南米の小売会社向けに、ブランド中心のデータモデルを作成します。
 * 通信会社向けにパーソナライズされたデータで、次善のオファーとなるメールを強化します。
-* 高級小売業者のためのレポートおよびアトリビューションモデリング用のデータの最適化。
+* 豪華なretailerのレポートおよびアトリビューションモデリング用のデータの最適化。
 * 運用ダッシュボード用のインサイトのカスタマイズ。
 * AI および ML 機能パイプラインを活用して、モデルのトレーニングとスコアリングを行います。
 

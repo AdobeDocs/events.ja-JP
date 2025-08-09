@@ -3,9 +3,9 @@ title: Adobe Workfront オンデマンドワークショップ
 description: Workfront Events は、エキスパートや同業者が、Workfrontを使用して自社で行われている作業を強化する方法に関する考えやアイデアを共有するビデオライブラリです。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 リリースウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1752859088580" alt="Adobe Workfront 25.7 リリースウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1754697926098" alt="Adobe Workfront 25.7 リリースウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,6 +64,7 @@ Adobe Workfront ゲームをレベルアップするための、迅速で実用�
 <!-- CARDS
 
 * top3/blueprints.md
+* top3/office-hours.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -73,7 +74,7 @@ Adobe Workfront ゲームをレベルアップするための、迅速で実用�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="トップ 3 - ブループリントを使ったCreativeのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465311/?format=jpeg&nocache=1752859088922&captions=jpn" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1754697926485" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,6 +87,29 @@ Adobe Workfront ゲームをレベルアップするための、迅速で実用�
                     <p class="is-size-6">Workfront ブループリントの迅速なセットアップ方法、新しいテンプレート、ダッシュボード、サンドボックステストのヒントを確認します。</p>
                 </div>
                 <a href="top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 Approaches to Office Hours">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="top3/office-hours.md" title="業務時間に対する上位 3 つのアプローチ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1754697926468" alt="業務時間に対する上位 3 つのアプローチ"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="top3/office-hours.md" target="_blank" rel="referrer" title="業務時間に対する上位 3 つのアプローチ"> 業務時間に対する上位 3 つのアプローチ </a>
+                    </p>
+                    <p class="is-size-6">効果的なAdobe Workfront Office Hours を実行して導入とエンゲージメントを促進するためのヒント、リソース、コミュニティのベストプラクティスを確認します。</p>
+                </div>
+                <a href="top3/office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>
@@ -112,7 +136,7 @@ Workfrontの管理者でもプロジェクトマネージャーでも、日常�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="対！ - グループとチーム" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467354/?format=jpeg&nocache=1752859089086&captions=jpn" alt="対！ - グループとチーム"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1754697926685" alt="対！ - グループとチーム"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,17 +164,42 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
 
 <!-- CARDS 
 
+* expert-insights/non-traditional-workfront-workflows.md
 * expert-insights/request-queues.md
+* expert-insights/sla-reporting.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/non-traditional-workfront-workflows.md" title="エキスパートインサイト - Kiersten Kollins による非従来のWorkfront ワークフロー" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1754697926938" alt="エキスパートインサイト - Kiersten Kollins による非従来のWorkfront ワークフロー"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" title="エキスパートインサイト - Kiersten Kollins による非従来のWorkfront ワークフロー"> エキスパートインサイト - Kiersten Kollins による従来とは異なるWorkfront ワークフロー </a>
+                    </p>
+                    <p class="is-size-6">DSW の Kiersten Kollins が、従来とは異なるAdobe Workfront ワークフロー、カスタムレポート、Fusion の自動化を使用して、マーケティングオペレーションを最適化し、チームの効率性を高める方法を説明します。</p>
+                </div>
+                <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Request Queues with Lyndsy Denk">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Lyndsy Denk のリクエストキュー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469290/?format=jpeg&nocache=1752859089318&captions=jpn" alt="Expert Insights - Lyndsy Denk のリクエストキュー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1754697926951" alt="Expert Insights - Lyndsy Denk のリクエストキュー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,6 +212,29 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
                     <p class="is-size-6">Lyndsy Denk を使用したヘルプデスクキュー、ルーティングリクエスト、ダッシュボードインサイトの構築に関するWorkfront エキスパートのヒント。</p>
                 </div>
                 <a href="expert-insights/request-queues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="SLA Reporting in Workfront with Madalyn Destafney">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/sla-reporting.md" title="Madalyn Destafney を使用したWorkfrontでのSLA レポート" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1754697926919" alt="Madalyn Destafney を使用したWorkfrontでのSLA レポート"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" title="Madalyn Destafney を使用したWorkfrontでのSLA レポート">Madalyn Destafney によるWorkfrontのSLA レポート </a>
+                    </p>
+                    <p class="is-size-6">ステップバイステップのガイダンス、計算されたフィールドの例、カスタムフォームのベストプラクティスなど、Madalyn Destafney のエキスパートのヒントを使用して、Adobe Workfrontでサービスレベル契約（SLA）を実装および測定する方法を説明します。</p>
+                </div>
+                <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
                 </a>
             </div>

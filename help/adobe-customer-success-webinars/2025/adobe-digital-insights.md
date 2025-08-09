@@ -1,19 +1,20 @@
 ---
 title: Adobe デジタルインサイト - 2024 年のホリデー結果と 2025 年初頭のトレンドを解説
 description: Adobeのウェビナーに参加すると、2024 年のホリデーショッピングのトレンドと 2025 年初頭の市場予測に関するインサイトを得て、急成長を遂げる商品カテゴリを探索し、AI と高度なテクノロジーを使用してパーソナライズされたショッピングエクスペリエンスを作成するためのベストプラクティスを学ぶことができます。
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Adobe デジタルインサイト：2024 年のホリデーの結果と 2025 年初頭のトレンドを展開
 

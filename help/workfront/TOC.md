@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
+source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -22,13 +22,24 @@ ht-degree: 1%
    + [24.1 リリース](releases/24-1-release-webinar.md)
 + 上位 3 件 {#top3}
    + [Creativeのブループリントへのアプローチ](top3/blueprints.md)
+   + [業務時間に対する上位 3 つのアプローチ](top3/office-hours.md)
 + 対！ {#versus}
    + [グループとチーム](versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
+   + [非従来のWorkfront ワークフロー](expert-insights/non-traditional-workfront-workflows.md)
    + [Lyndsy Denk とのリクエストキュー](expert-insights/request-queues.md)
+   + [WorkfrontのSLA レポート](expert-insights/sla-reporting.md)
 + ワークショップ巻き戻し {#workshop-rewind}
+   + 統合 {#integrations}
+      + [複数選択フィールドの変更内を簡単に移動](workshop-rewind/integrations/mulit-select-fields.md)
+      + [真のイベントコストのロック解除](workshop-rewind/integrations/event-costs.md)
+   + プランニング {#planning}
+      + [Workfrontのプランニングによるチームレベルの成功](workshop-rewind/planning/team-success-workfront-planning.md)
    + ワークフロー {#workflow}
       + [Creativeのリソース管理方法](classics/creative-ways-of-managing-resources.md)
+      + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
+      + [プロジェクトテンプレート](workshop-rewind/workflow/project-templates.md)
+      + [Workfront Data Connect の機能を活用](workshop-rewind/workflow/data-connect.md)
 
 <!--  + Planning {#planning}
   + Integrations {#integrations}

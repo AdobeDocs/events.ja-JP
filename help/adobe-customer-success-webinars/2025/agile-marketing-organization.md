@@ -1,19 +1,20 @@
 ---
 title: アジャイルマーケティング組織の育成
 description: アジャイルマーケティング組織の育成に関するセッションでは、アジャイルマーケティングの原則、そのメリット、従来のウォーターフォール方式に関する課題、文化の転換と変更管理の必要性、アジャイルマーケティングを成功させるために不可欠な役割と構造について説明しました。
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
-
 
 # アジャイルマーケティング組織の育成
 

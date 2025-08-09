@@ -1,6 +1,7 @@
 ---
 title: AJOでの GenAI 実験とAdobe Targetとの関係
 description: 会議では、テキスト、画像、HTMLを生成する AI コンテンツアクセラレーターの機能、Adobe Journey Optimizerを使用したコンテンツ実験、最適化とパーソナライゼーションのためのAdobe Targetとの統合、組み合わせツールの様々なユースケース、強化された AI 機能を含む今後の開発について重点的に説明しました。
+solution: Journey Optimizer, Target
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2016
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17374
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
 
 ---
-
 
 # AJOでの GenAI 実験とAdobe Targetとの関係
 
@@ -25,9 +26,9 @@ ht-degree: 1%
 
 * AI アシスタントコンテンツアクセラレータ
 * コンテンツ実験と最適化
-* ジェネレーティブ AI
+* 生成 AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444460/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
 
 ## 重要ポイント
 
