@@ -27,7 +27,7 @@ ht-degree: 0%
 
 オンデマンド録画に加えて、スライドデッキとその他のリソースも含まれています。
 * [ スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Navigating+the+API+and+Fusion+Changes+for+Multi-Select+Fields+with+Ease+062425.pdf)
-* Adobe Software Development Team と提携して開催されたイベントが 5 月初旬に Event Subscriptions の変更で配信されました。この分野について詳しくは、[[ イベントのフォローアップ ] Event Subscriptions V2 のアップグレード中に Fusion のシナリオを維持する ] を参照してください ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-preserving-your-fusion-scenarios-during-the/m-p/754182#M4041)
+* Adobe Software Development Team と提携して開催されたイベントが 5 月初旬に Event Subscriptions の変更で配信されました。この分野について詳しくは、[[ イベントのフォローアップ ] Event Subscriptions V2 のアップグレード中に Fusion のシナリオを維持する ] を参照してください &rbrack;(https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-preserving-your-fusion-scenarios-during-the/m-p/754182#M4041)
 
 ## 主な留意点とリソース
 
