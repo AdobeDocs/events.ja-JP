@@ -74,7 +74,7 @@ Adobe Workfront ゲームをレベルアップするための、迅速で実用�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="トップ 3 - ブループリントを使ったCreativeのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1754697926485" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465311/?format=jpeg&nocache=1754697926485&captions=jpn" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Adobe Workfront ゲームをレベルアップするための、迅速で実用�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="業務時間に対する上位 3 つのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1754697926468" alt="業務時間に対する上位 3 つのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470143/?format=jpeg&nocache=1754697926468&captions=jpn" alt="業務時間に対する上位 3 つのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Workfrontの管理者でもプロジェクトマネージャーでも、日常�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="対！ - グループとチーム" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1754697926685" alt="対！ - グループとチーム"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467354/?format=jpeg&nocache=1754697926685&captions=jpn" alt="対！ - グループとチーム"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -176,7 +176,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="エキスパートインサイト - Kiersten Kollins による非従来のWorkfront ワークフロー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1754697926938" alt="エキスパートインサイト - Kiersten Kollins による非従来のWorkfront ワークフロー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469940/?format=jpeg&nocache=1754697926938&captions=jpn" alt="エキスパートインサイト - Kiersten Kollins による非従来のWorkfront ワークフロー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -199,7 +199,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="Expert Insights - Lyndsy Denk のリクエストキュー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1754697926951" alt="Expert Insights - Lyndsy Denk のリクエストキュー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469290/?format=jpeg&nocache=1754697926951&captions=jpn" alt="Expert Insights - Lyndsy Denk のリクエストキュー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -222,7 +222,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Madalyn Destafney を使用したWorkfrontでのSLA レポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1754697926919" alt="Madalyn Destafney を使用したWorkfrontでのSLA レポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469979/?format=jpeg&nocache=1754697926919&captions=jpn" alt="Madalyn Destafney を使用したWorkfrontでのSLA レポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -33,7 +33,7 @@ ht-degree: 0%
 * ユーザーやプロジェクトのニーズに合わせたCreativeの概要レビューの開始。 
 * *ボーナス！* 彼女が気に入っている Fusion のユースケースの例も紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469940/?learn=on&enablevpops&captions=jpn)
 
 ## リソース
 
