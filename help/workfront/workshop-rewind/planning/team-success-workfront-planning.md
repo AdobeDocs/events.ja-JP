@@ -35,7 +35,7 @@ Workfront Planning を使い始めたばかりのユーザーは、導入の取�
 
 ### トレーニング
 
-* [Adobe Workfrontのプランニングによる成功へのコースのチャート化 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077)
+* [Adobe Workfrontのプランニングによる成功へのコースのチャート化 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=ja)
 * [ ガイドブック - Workfrontの GPS 計画 ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### トレーニングビデオの計画
@@ -44,9 +44,9 @@ Workfront Planning を使い始めたばかりのユーザーは、導入の取�
 * [Workspaceの作成（計画の基盤の基本を学ぶ） ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [ レコードタイプの作成と管理 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [ テーブルビューの作成と管理 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [ ドキュメント：Adobe Workfront計画の概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront計画リリースアクティビティ ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [ ドキュメント：Adobe Workfront計画の概要 ](https://experienceleague.adobe.com/ja/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront計画リリースアクティビティ ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Workfront Planning では、近日中にさらにイベントが予定されています。詳しくは、Experience Leagueの [ イベントページ ](https://experienceleague.adobe.com/events/?filters=Workfront) をご覧ください。
+Workfront Planning では、近日中にさらにイベントが予定されています。詳しくは、Experience Leagueの [ イベントページ ](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) をご覧ください。
 
 

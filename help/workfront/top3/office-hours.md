@@ -22,16 +22,16 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
 
-Office Hours は、Workfrontのコミュニケーションプラン全体のもう 1 つの重要な要素です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [ エンドユーザー通信クックブック ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439) を確認してください。
+Office Hours は、Workfrontのコミュニケーションプラン全体のもう 1 つの重要な要素です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [ エンドユーザー通信クックブック ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ja) を確認してください。
 
 お約束したとおり、エキスパートインサイトへのリンクがあります。ここでは、Workfrontの導入を楽しくする方法に関するいくつかのアイデアについて説明しました。 
 
-[Workfrontのエキスパートインサイト - Leslie Spier による導入 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[Workfrontのエキスパートインサイト - Leslie Spier による導入 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=ja#M2588)
 
 ボーナスリソース！ 多くのお客様がお気に入りの導入ヒントを共有するコミュニティコーヒーブレークを開催しました。 
 
-[Workfront コーヒーブレークのコミュニケーション方式を採用 ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[Workfront コーヒーブレークのコミュニケーション方式を採用 ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=ja)
 
-Workfront Office Hours へのアプローチの例はありますか？ この [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391) でベストプラクティスをお知らせください。
+Workfront Office Hours へのアプローチの例はありますか？ この [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=ja) でベストプラクティスをお知らせください。
 
 

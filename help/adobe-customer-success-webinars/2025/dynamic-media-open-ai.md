@@ -21,7 +21,7 @@ ht-degree: 3%
 
 # Open API を使用した Dynamic Media のマスター
 
-このウェビナーは、従来の Dynamic Media に精通し、Open API を使用して [Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) を理解し、実装することを検討しているプロフェッショナルを対象としています。  Open API を使用した Dynamic Media Ultimateの高度な動作を探索し、従来の Dynamic Media と比較します。 Dynamic Media を熟知した参加者が Open API モデルに簡単に適応できるようにして、これら 2 つのアプローチの違いを包括的に理解できるようにすることが目標です。
+このウェビナーは、従来の Dynamic Media に精通し、Open API を使用して [Dynamic Media Ultimate](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) を理解し、実装することを検討しているプロフェッショナルを対象としています。  Open API を使用した Dynamic Media Ultimateの高度な動作を探索し、従来の Dynamic Media と比較します。 Dynamic Media を熟知した参加者が Open API モデルに簡単に適応できるようにして、これら 2 つのアプローチの違いを包括的に理解できるようにすることが目標です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 
