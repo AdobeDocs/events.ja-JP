@@ -20,7 +20,7 @@ ht-degree: 0%
 
 第 4 回目のセッションでは、強力なエグゼクティブスポンサーシップの欠如によって、意思決定、予算配分、変更管理がどのように遅れるかを掘り下げます。 このウェビナーでは、Adobe Customer Journey Analytics プログラムの推進、部門横断的なチームの連携、測定可能なビジネス成果の推進において、エグゼクティブリーダーが果たす重要な役割について説明します。 シニアステークホルダーを巻き込み、価値を効果的に伝え、データに基づく意思決定の文化を構築するための実践的な戦略を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470855/?learn=on&enablevpops&captions=jpn)
 
 ## ビジネスケースの作成
 

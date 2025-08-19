@@ -31,7 +31,7 @@ Corre は、真に戦略的な CSM であり、Adobe ソリューションを使
 * あなたのプロセスのペイントポイントを識別することによって開始し、そこから行く。 テクノロジーが目的を圧倒するようにしないでください。
 * コミュニティやイベントで同様のジャーニーを進めている他の顧客とつながりましょう。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469995/?learn=on&enablevpops&captions=jpn)
 
 ## リソース
 
