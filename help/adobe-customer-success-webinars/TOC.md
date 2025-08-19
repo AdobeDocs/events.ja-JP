@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '484'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 4%
    + Commerce {#commerce2025}
       + [B2B と B2B2C のCommerceの変換](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
+      + [エグゼクティブスポンサーシップの構築](2025/cja-success.md)
+      + [変更管理の戦略](2025/cja-adoption.md)
       + [CJAを成功させるための運用モデルの設計](2025/cja-operating-model.md)
       + [基本的なアーキテクチャ](2025/cja-vision.md)
       + [Adobe AnalyticsからCJAへの移行](2025/analytics-to-cja-migration.md)
@@ -35,6 +37,7 @@ ht-degree: 4%
       + [AEM Cloud のNew Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
       + [AEMのパフォーマンスの最適化](2025/optimize-aem-performance.md)
       + [デジタル通信のパーソナライズ](2025/personalize-digital-communications.md)
+      + [ユニバーサルエディターの概要](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
       + [AI – 基本を超える](2025/ai-beyond-basics.md)
       + [XDM スキーマモデリングのベストプラクティスとインサイト](2025/model-xdm-schemas.md)

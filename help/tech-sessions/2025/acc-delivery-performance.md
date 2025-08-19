@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic配信のパフォーマンス – トラブルシューティング
 description: このセッションでは、Adobe Campaignを使用してメールと SMS 配信のパフォーマンスを向上させるための主な戦略について説明しました。 配信の遅延、低スループット、トランザクションの速度低下などの一般的な課題に対処し、バッチ処理の最適化、SQL ログ、サーバーパフォーマンスの監視などのソリューションを提供しました。 配信品質のベストプラクティスには、適切なメール認証（SPF、DKIM、DMARC）、ブラックリストモニタリング、スパムチェックが含まれていました。 パフォーマンスを向上させるために、エキスパートは、クリーンなワークフロー、スロットルルール、共有コンテナの回避を推奨しました。 適切な外部アカウントの設定とログ分析に重点を置いた SMS 配信のヒント。 セッションでは、検証の追跡、膨張レポートを使用したデータベースのメンテナンス、エンゲージメントを向上させるための頻度/疲労ルールの適用も強調されました。 セッションの録画は、メールで共有され、Adobe Experience サイトに投稿されます。
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # テクニカルセッション：Adobe Campaign Classic配信のパフォーマンス – トラブルシューティング
 

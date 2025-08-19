@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 1ea39689a5a29311da7930039b7d5fc308c296b0
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '210'
 ht-degree: 1%
 
 ---
@@ -26,9 +26,11 @@ ht-degree: 1%
 + 対！ {#versus}
    + [グループとチーム](versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
+   + [コンテンツのサプライチェーン](expert-insights/content-supply-chain.md)
    + [非従来のWorkfront ワークフロー](expert-insights/non-traditional-workfront-workflows.md)
    + [Lyndsy Denk とのリクエストキュー](expert-insights/request-queues.md)
    + [WorkfrontのSLA レポート](expert-insights/sla-reporting.md)
+   + [エンタープライズ作業管理](expert-insights/enterprise-work-management.md)
 + ワークショップ巻き戻し {#workshop-rewind}
    + 統合 {#integrations}
       + [複数選択フィールドの変更内を簡単に移動](workshop-rewind/integrations/mulit-select-fields.md)
