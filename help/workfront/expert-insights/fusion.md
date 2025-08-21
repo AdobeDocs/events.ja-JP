@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
+source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Ewan Hruska との統合
 
@@ -27,19 +27,19 @@ Expert Insights へようこそ。  「オンデマンド」Workfront CSM のシ
 
 ## あなたの助けが必要！
 
-Ewan がビデオで言及したように、彼は Fusion のベストプラクティスガイドに取り組んでいます。彼はあなたからの連絡を望んでいます。  Fusion を使用してプロセスをサポートしている場合は、[Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=ja) でアドバイス、推奨事項、ヒントを共有してください。できる限り多くの数を含めるように試みます。
+Ewan がビデオで言及したように、彼は Fusion のベストプラクティスガイドに取り組んでいます。彼はあなたからの連絡を望んでいます。  Fusion を使用してプロセスをサポートしている場合は、[Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) でアドバイス、推奨事項、ヒントを共有してください。できる限り多くの数を含めるように試みます。
 
 ## 忠告
 
 * Fusion は、プロセスを視覚的に表現したものです。 ドキュメントは友だちです。 ドキュメントに関しては、プロセスの作成方法の詳細を保存します。  さらに良い、あなた自身がそれらを歩くビデオ！
 * 繰り返し作業の労力と時間を測定
-* Ewan が言及したAdobe Workfront ROI 計算ツールは、[Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=ja) に添付されています。
+* Ewan が言及したAdobe Workfront ROI 計算ツールは、[Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) に添付されています。
 * Fusion を使用して、部門横断的な課題を解決し、時間（および費用）を節約し、エラーを防ぎます。
 
 ## リソース
 
-* [ 使用可能な Fusion テンプレートのリスト ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=ja)
-* [Adobe Workfront Fusion ビデオの概要 ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=ja)
+* [ 使用可能な Fusion テンプレートのリスト ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [Adobe Workfront Fusion ビデオの概要 ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## スピーカーについて
 

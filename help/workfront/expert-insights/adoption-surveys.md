@@ -7,19 +7,20 @@ speaker-company-1: Cognizant
 speaker-name-2: Danielle Johnston
 speaker-title-2: Customer Success Manager
 speaker-company-2: Adobe
+feature: Workfront Integrations and Apps
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1910
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18617
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: 75153967-b82d-4221-b44b-73aabb74402f
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
-
 
 # Expert Insights - Jaime Davidson による導入調査
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 * [Workfront管理チャット - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront ユーザーの導入に関する調査 ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-採用と一般的なオンボーディングの詳細については、 私たちのブログをチェックしてください！ - [Workfrontの新規ユーザー Adobe Workfront カスタマーサクセスオンボーディングブログへようこそ！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=ja)
+採用と一般的なオンボーディングの詳細については、 私たちのブログをチェックしてください！ - [Workfrontの新規ユーザー Adobe Workfront カスタマーサクセスオンボーディングブログへようこそ！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
 
 ## スピーカーについて
 
@@ -46,4 +47,3 @@ Jaime は、マーケティングのあらゆる側面で 20 年以上の経験�
 ## 何か共有するものはありますか？
 
 イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください。
-

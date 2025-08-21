@@ -3,10 +3,10 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 1%
+source-wordcount: '227'
+ht-degree: 2%
 
 ---
 
@@ -26,13 +26,15 @@ ht-degree: 1%
 + 対！ {#versus}
    + [グループとチーム](versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
-   + [養子縁組](expert-insights/adoption.md)
+   + [導入](expert-insights/adoption.md)
    + [採用調査](expert-insights/adoption-surveys.md)
+   + [アジャイル](expert-insights/agile.md)
    + [コンテンツのサプライチェーン](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [ガバナンスとセンターオブエクセレンス](expert-insights/centers-of-excellence.md)
    + [非従来のWorkfront ワークフロー](expert-insights/non-traditional-workfront-workflows.md)
    + [レポート方法](expert-insights/reporting-practices.md)
+   + [リソース管理](expert-insights/resource-management.md)
    + [Lyndsy Denk とのリクエストキュー](expert-insights/request-queues.md)
    + [WorkfrontのSLA レポート](expert-insights/sla-reporting.md)
    + [エンタープライズ作業管理](expert-insights/enterprise-work-management.md)
@@ -42,6 +44,7 @@ ht-degree: 1%
       + [真のイベントコストのロック解除](workshop-rewind/integrations/event-costs.md)
    + プランニング {#planning}
       + [Workfrontのプランニングによるチームレベルの成功](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [最新のWorkfront計画](workshop-rewind/planning/workfront-planning.md)
    + ワークフロー {#workflow}
       + [Creativeのリソース管理方法](classics/creative-ways-of-managing-resources.md)
       + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
