@@ -33,15 +33,15 @@ ht-degree: 0%
 
 プレゼンテーション中に、Madalyn はカスタムフォームと計算フィールドを共有しました。これらの機能を使い始めたばかりの場合は、正しい方向を示すリンクをいくつかご覧ください。 
 
-* チュートリアルプレイリスト - [ カスタムFormsの作成と共有 ](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* チュートリアルプレイリスト - [ カスタムFormsの作成と共有 ](https://experienceleague.adobe.com/ja/playlists/workfront-create-and-manage-custom-forms)
 
-* 記事 – [ 計算フィールドと式の概要 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 記事 – [ 計算フィールドと式の概要 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* ヒントとコツ [ 誰もが知っておくべき計算フィールドとそのレポート方法 ](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* ヒントとコツ [ 誰もが知っておくべき計算フィールドとそのレポート方法 ](https://experienceleague.adobe.com/ja/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Madalyn からの他のヒントに興味がありますか？ Workfront Community で彼女の一連のヒントとテクニックをご覧ください。 
 
-* [ 火曜日テクニカル バイト ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [ 火曜日テクニカル バイト ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=ja#M2742)
 
 ## スピーカーについて 
 

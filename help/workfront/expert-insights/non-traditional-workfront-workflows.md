@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## リソース
 
-開催中、Kiersten は、[Experience League コミュニティ投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315) に添付した 2 つの資料について言及しました。
+開催中、Kiersten は、[Experience League コミュニティ投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=ja) に添付した 2 つの資料について言及しました。
 * **レポートの例** – 営業時間後のタスクレポート 
 * **DSW フィードバックルーティングガードレール** これは、Workfrontで更新を提供する方法をユーザーに教える方法の素晴らしい例です。 
 

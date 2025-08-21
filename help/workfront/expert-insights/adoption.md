@@ -52,12 +52,12 @@ ht-degree: 0%
 
 ## リソース
 
-* 他の例を探す コメントで共有されているその他のアイデアについては、[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) をご覧ください。
-* [ ブループリントについて ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
-* [ 最終メモ報告書 ](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
-* [ ビューへの基本的な条件付き書式の追加 ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
-* [ 左側のナビゲーションパネルへのダッシュボードの追加 ](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
-* [ レイアウトテンプレート – ピン ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
+* 他の例を探す コメントで共有されているその他のアイデアについては、[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=ja) をご覧ください。
+* [ ブループリントについて ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=ja)
+* [ 最終メモ報告書 ](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=ja)
+* [ ビューへの基本的な条件付き書式の追加 ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=ja)
+* [ 左側のナビゲーションパネルへのダッシュボードの追加 ](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=ja)
+* [ レイアウトテンプレート – ピン ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=ja)
 
 ## スピーカーについて
 
