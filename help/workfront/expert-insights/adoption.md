@@ -25,7 +25,7 @@ ht-degree: 0%
 
 オンデマンドのWorkfront CSM である私と一緒に、なぜ導入が重要なトピックなのか、そしてお気に入りの戦略についてレスリーと話します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469928/?learn=on&enablevpops&captions=jpn)
 
 ## ヒント、アドバイスなど
 

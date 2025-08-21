@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Expert Insights へようこそ。  「オンデマンド」WorkfrontCSM のシンシア・ブーンですが、今回は Danielle Johnston が参加します！  彼女は、どのように始めるのか、ガバナンスとセンターオブエクセレンスの取り組みをサポートするためにWorkfrontを使用する方法に関する彼女のアイデアを紹介し、Workfrontで見たい前向きな変化になるよう私たちを励まします。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470006/?learn=on&enablevpops&captions=jpn)
 
 ## ヒント
 

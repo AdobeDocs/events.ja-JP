@@ -27,7 +27,7 @@ ht-degree: 0%
 
 オンデマンドWorkfrontCSM の私と一緒に、Nichole とチャットしながら、彼女が Reporting Guru になった経緯、彼女のお気に入りの機能とヒント、そして私たち全員がどのように「Nichole のようになる」かについて話します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469966/?learn=on&enablevpops&captions=jpn)
 
 ## ヒント
 

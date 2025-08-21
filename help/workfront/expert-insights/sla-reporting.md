@@ -23,7 +23,7 @@ ht-degree: 0%
 
 エキスパートインサイトの新たな取り組みへようこそ。  オンデマンドのWorkfront CSM である Cynthia Boon と申します。この度、Madalyn Destafney という唯一のパートナーが、Workfrontを使用したサービスレベル契約（SLA）の導入と測定を支援する彼女の豊富な経験を紹介します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469979/?learn=on&enablevpops&captions=jpn)
 
 ビデオでお約束したとおり、Madalyn のプレゼンテーションは、手順、計算式、レポート例とリンクされています。 
 
