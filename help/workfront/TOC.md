@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '220'
 ht-degree: 1%
 
 ---
@@ -26,8 +26,13 @@ ht-degree: 1%
 + 対！ {#versus}
    + [グループとチーム](versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
+   + [養子縁組](expert-insights/adoption.md)
+   + [採用調査](expert-insights/adoption-surveys.md)
    + [コンテンツのサプライチェーン](expert-insights/content-supply-chain.md)
+   + [Fusion](expert-insights/fusion.md)
+   + [ガバナンスとセンターオブエクセレンス](expert-insights/centers-of-excellence.md)
    + [非従来のWorkfront ワークフロー](expert-insights/non-traditional-workfront-workflows.md)
+   + [レポート方法](expert-insights/reporting-practices.md)
    + [Lyndsy Denk とのリクエストキュー](expert-insights/request-queues.md)
    + [WorkfrontのSLA レポート](expert-insights/sla-reporting.md)
    + [エンタープライズ作業管理](expert-insights/enterprise-work-management.md)

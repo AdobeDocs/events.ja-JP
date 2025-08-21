@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # エキスパートインサイト - Corre Kombol によるコンテンツサプライチェーン
 
@@ -31,7 +31,7 @@ Corre は、真に戦略的な CSM であり、Adobe ソリューションを使
 * あなたのプロセスのペイントポイントを識別することによって開始し、そこから行く。 テクノロジーが目的を圧倒するようにしないでください。
 * コミュニティやイベントで同様のジャーニーを進めている他の顧客とつながりましょう。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469995/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## リソース
 
@@ -53,4 +53,4 @@ Corre Kombol は、顧客満足度、定着、収益の増加を推進する 15 
 
 ## 何か共有するものはありますか？
 
-イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com|mailto:CSatScale@adobe.com]）にお問い合わせください。
+イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください。

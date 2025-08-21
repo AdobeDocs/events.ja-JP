@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # エキスパートインサイト：Kiersten Kollins による非従来のWorkfront ワークフロー
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 * ユーザーやプロジェクトのニーズに合わせたCreativeの概要レビューの開始。 
 * *ボーナス！* 彼女が気に入っている Fusion のユースケースの例も紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469940/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## リソース
 
-開催中、Kiersten は、[Experience League コミュニティ投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=ja) に添付した 2 つの資料について言及しました。
+開催中、Kiersten は、[Experience League コミュニティ投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315) に添付した 2 つの資料について言及しました。
 * **レポートの例** – 営業時間後のタスクレポート 
 * **DSW フィードバックルーティングガードレール** これは、Workfrontで更新を提供する方法をユーザーに教える方法の素晴らしい例です。 
 
@@ -49,6 +49,4 @@ Kiersten は、DSW マーケティングチームのプロセスとワークフ�
 
 ## 何か共有するものはありますか？
 
-イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com|mailto:CSatScale@adobe.com]）にお問い合わせください。
-
-
+イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください。

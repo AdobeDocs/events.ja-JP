@@ -11,19 +11,19 @@ doc-type: Event
 duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: 0d870372-4605-4d42-b539-5de2943a2682
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # Expert Insights:Madalyn Destafney によるWorkfrontでのSLA レポート
 
 エキスパートインサイトの新たな取り組みへようこそ。  オンデマンドのWorkfront CSM である Cynthia Boon と申します。この度、Madalyn Destafney という唯一のパートナーが、Workfrontを使用したサービスレベル契約（SLA）の導入と測定を支援する彼女の豊富な経験を紹介します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469979/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 ビデオでお約束したとおり、Madalyn のプレゼンテーションは、手順、計算式、レポート例とリンクされています。 
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
 プレゼンテーション中に、Madalyn はカスタムフォームと計算フィールドを共有しました。これらの機能を使い始めたばかりの場合は、正しい方向を示すリンクをいくつかご覧ください。 
 
-* チュートリアルプレイリスト - [ カスタムFormsの作成と共有 ](https://experienceleague.adobe.com/ja/playlists/workfront-create-and-manage-custom-forms)
+* チュートリアルプレイリスト - [ カスタムFormsの作成と共有 ](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* 記事 – [ 計算フィールドと式の概要 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 記事 – [ 計算フィールドと式の概要 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* ヒントとコツ [ 誰もが知っておくべき計算フィールドとそのレポート方法 ](https://experienceleague.adobe.com/ja/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* ヒントとコツ [ 誰もが知っておくべき計算フィールドとそのレポート方法 ](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Madalyn からの他のヒントに興味がありますか？ Workfront Community で彼女の一連のヒントとテクニックをご覧ください。 
 
-* [ 火曜日テクニカル バイト ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=ja#M2742)
+* [ 火曜日テクニカル バイト ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## スピーカーについて 
 
