@@ -24,7 +24,7 @@ ht-degree: 0%
 
 新しいエキスパートインサイトのインタビューへようこそ。今回は、組織でアジャイルを使い始めるためのベストプラクティスに関するアドバイスをお届けします。 オンデマンドWorkfront CSM と共に、アドビのAdobe Workfront アジャイルエキスパートである Natalie Mitchell とのインタビューに参加し、アジャイル手法を導入するための一般的な質問と推奨事項を探索してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469891/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469917/?learn=on&enablevpops&captions=jpn)
 
 ## リソース
 

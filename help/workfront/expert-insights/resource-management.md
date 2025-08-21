@@ -23,7 +23,7 @@ ht-degree: 0%
 
 リソース管理の概要に関するアドバイスをお探しですか？ オンデマンドWorkfront CSM に参加して、アドビのAdobe Workfront Resource Management エキスパートである Corinna Jevons とのインタビューに参加し、このWorkfront機能を実装するための一般的な質問と最適なアプローチを探索してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469904/?learn=on&enablevpops&captions=jpn)
 
 ## リソース
 
