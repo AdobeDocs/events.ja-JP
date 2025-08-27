@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '490'
 ht-degree: 4%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 4%
       + [アジャイルマーケティング組織の育成](2025/agile-marketing-organization.md)
       + [デジタルの動向と未来への備え](2025/digital-trends-preparing-future.md)
       + [Northstar アーキテクチャ](2025/northstar-architecture.md)
+      + [AI 主導の成長と最もパフォーマンスの高いプレイブック](2025/ai-driven-growth.md)
       + [デジタルと GenAI の採用状況](2025/state-of-digital-and-genai-adoption-webinar.md)
    + Workfront {#workfront2025}
       + [Workfrontの AI 駆動自動化](2025/unlock-efficiency-ai-drive-automation-workfront.md)
