@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: fd99debc943f21bd6454e8cce91b8cf3e0770738
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '338'
 ht-degree: 20%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 20%
    + 2 月 {#feb2024}
       + [アジャイル SDLC のコミュニケーション、要件、テスト](commerce/2024/agile-sdlc.md)
 + Adobe Experience Manager {#experience-manager}
+   + 8月 {#aug2025}
+      + [AEM スマートタグ](experience-manager/aug2025/smart-tags.md)
    + 7 月 {#jul2024}
       + [大規模な成功の実現](experience-manager/july2024/global-digital-presence.md)
    + 11 月 {#nov2023}
