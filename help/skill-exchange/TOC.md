@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [Adobe Journey Optimizerの複雑なジャーニーへの対処に関するヒント](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [電子メールを超えるジャーニー](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + 2025年8月 {#aug2025}
+      + [データ分類の改善](marketo/2025/aug/data-categorization-with-ai.md)
+      + [フォローアップの効率化](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + 2024年8月 {#aug2024}
       + [オープニング キーノート](marketo/aug2024/keynote.md)
       + [エンゲージメントプログラムの高度なアプリケーション](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [ [!DNL Marketo Engage] 内でのレポート](marketo/feb2021/reporting-within-marketo.md)
       + [FormsのためのUltimateのヒントとテクニック](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + 2025年8月 {#aug2025}
+      + [オープニング キーノート](workfront/2025/aug/keynote.md)
+      + [高度なテキスト モード](workfront/2025/aug/advanced-text-mode.md)
+      + [Fusion を使用したユーザーアカウント作成の自動化](workfront/2025/aug/fusion-user-account-creation.md)
+      + [センターオブエクセレンス](workfront/2025/aug/center-of-excellence.md)
+      + [Workfrontの AI ツールを習得する](workfront/2025/aug/workfront-ai-tools.md)
    + 2024年8月 {#aug2024}
       + [オープニング キーノート](workfront/aug2024/keynote.md)
       + [ワークロードバランサーのカスタマイズ](workfront/aug2024/workload-balancer.md)

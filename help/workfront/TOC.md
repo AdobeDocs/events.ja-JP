@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -20,11 +20,12 @@ ht-degree: 2%
    + [25.4 リリース](releases/25-4-release-webinar.md)
    + [25.1 リリース](releases/25-1-release-webinar.md)
    + [24.1 リリース](releases/24-1-release-webinar.md)
-+ 上位 3 件 {#top3}
-   + [Creativeのブループリントへのアプローチ](top3/blueprints.md)
-   + [業務時間に対する上位 3 つのアプローチ](top3/office-hours.md)
-+ 対！ {#versus}
-   + [グループとチーム](versus/groups-vs-teams.md)
++ クイック テイク {#quicktakes}
+   + 上位 3 件 {#top3}
+      + [Creativeのブループリントへのアプローチ](top3/blueprints.md)
+      + [業務時間に対する上位 3 つのアプローチ](top3/office-hours.md)
+   + 対！ {#versus}
+      + [グループとチーム](versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
    + [導入](expert-insights/adoption.md)
    + [採用調査](expert-insights/adoption-surveys.md)
