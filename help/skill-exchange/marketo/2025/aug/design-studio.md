@@ -29,7 +29,7 @@ Design Studio の機能を最大化する高度な方法と、グローバルマ
 * Design Studio 内でスマートコーディング手法を活用すると、マーケティング業務やブランドコンプライアンスを将来的に証明できます。
 * Adobe Experience Manager（AEM）の統合により、Design Studio がMarketo Engageの機能を拡張する際のギャップがどのように埋められるか。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471420/?learn=on&enablevpops&captions=jpn)
 
 ## 効率的なMarketo操作の実現
 

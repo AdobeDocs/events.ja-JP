@@ -31,7 +31,7 @@ J.P. Morgan Payments の Kurt Jones 氏が、以下に関するエキスパー�
 * Fusion を使用したAdmin Consoleでのアカウント作成の自動化
 * Fusion によるWorkfront プロファイルへの追加詳細の更新
 
->[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471572/?learn=on&enablevpops&captions=jpn)
 
 ## 管理者とスケーリングのベストプラクティス
 

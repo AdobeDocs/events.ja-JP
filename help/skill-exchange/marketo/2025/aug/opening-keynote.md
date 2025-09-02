@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Experience Makers:The Skill Exchange （Marketo Engage トラック）イベントでは、Adobe プロダクトマネージャーの Bhatstra Mukherjee が、B2B マーケティングから「B2B 3.0」への進化について説明しました。 この新しいフェーズでは、AI 主導の顧客体験に重点を置き、パーソナライズされたエンゲージメントと、アカウント内の購入グループをターゲット設定します。 Mukherjee 氏は、タスクを自動化し、効率を高め、マーケターが戦略的な役割に集中できるようにするうえで、AI エージェントが果たす変革の役割を強調しました。 人間と AI のコラボレーションの重要性が強調され、AI は置き換えるのではなく創造性を高めています。 この環境で成功するための重要なスキルには、迅速なエンジニアリング、データの流れ、エージェントの構成が含まれます。 Adobeは、AI エージェントをMarketo Engageなどのツールに統合して、カスタマーライフサイクルのオーケストレーションを自動化し、AI を採用したマーケターが将来の B2B マーケティングで成功できるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471476/?learn=on&enablevpops&captions=jpn)
 
 ## B2B マーケティングの未来をナビゲート
 
