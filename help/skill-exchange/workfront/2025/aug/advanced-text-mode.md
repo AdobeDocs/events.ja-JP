@@ -1,6 +1,7 @@
 ---
 title: 高度なテキストモードを使用したWorkfront レポートの昇格
 description: Adobe Workfront テキストモードをマスターして列を結合し、カスタムの値式を作成し、よりスマートなレポート用の動的プロンプトを作成する方法を説明します。
+solution: Workfront
 feature: Text Mode Reporting
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
@@ -10,13 +11,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: 22811352-8232-44b6-af8c-89483a729838
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # 高度なテキストモードを使用したWorkfront レポートの昇格
 
@@ -33,7 +34,7 @@ ht-degree: 0%
 
 技術的な専門知識とストーリーテリングを組み合わせることで、Workfront レポートの機能を活用します。
 
-* **詳細テキストモード &#x200B;** デフォルトの UI の制限以上に、カスタマイズされた柔軟なレポートを有効にします。
+* **詳細テキストモード **デフォルトの UI の制限以上に、カスタマイズされた柔軟なレポートを有効にします。
 * **列の結合** 整然としていないと、読みやすさが向上し、主要なプロジェクトの詳細を 1 つのビューに表示できます。
 * **値式** プロジェクトステータスやスケジュールの計算など、リアルタイムのインサイトをレポート内で直接提供します。
 * **カスタムプロンプト** ユーザーがレポートを動的にフィルタリングおよびやり取りでき、様々なチームニーズに対応できます。

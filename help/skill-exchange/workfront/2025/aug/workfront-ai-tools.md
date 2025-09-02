@@ -2,19 +2,20 @@
 title: AI で効率を最大化 – Workfrontの AI ツールの習得
 description: キャッチアップ、要約、式生成などのAdobe Workfront AI 機能が、タスクの自動化、ワークフローの最適化、生産性の向上にどのように役立つかについて説明します。
 topic: Artificial Intelligence
+solution: Workfront
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18869
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: 7b868c8b-e451-43e3-a318-65967b8ff996
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 0%
 
 ---
-
 
 # AI で効率を最大化：Workfrontの AI ツールの習得
 

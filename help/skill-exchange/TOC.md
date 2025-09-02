@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '750'
 ht-degree: 9%
 
 ---
@@ -134,6 +134,9 @@ ht-degree: 9%
       + [電子メールを超えるジャーニー](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + 2025年8月 {#aug2025}
+      + [オープニング キーノート](marketo/2025/aug/opening-keynote.md)
+      + [AI を活用したライフサイクルエンジン](marketo/2025/aug/ai-lifecycle-engine.md)
+      + [Design Studio for Global Marketing Operations](marketo/2025/aug/design-studio.md)
       + [データ分類の改善](marketo/2025/aug/data-categorization-with-ai.md)
       + [フォローアップの効率化](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + 2024年8月 {#aug2024}
@@ -174,7 +177,10 @@ ht-degree: 9%
       + [高度なテキスト モード](workfront/2025/aug/advanced-text-mode.md)
       + [Fusion を使用したユーザーアカウント作成の自動化](workfront/2025/aug/fusion-user-account-creation.md)
       + [センターオブエクセレンス](workfront/2025/aug/center-of-excellence.md)
+      + [新機能に対するユーザーの有効化](workfront/2025/aug/enable-users-new-features.md)
+      + [レビューと承認の概要](workfront/2025/aug/review-approval.md)
       + [Workfrontの AI ツールを習得する](workfront/2025/aug/workfront-ai-tools.md)
+      + [WorkfrontとAEMの併用によるCreative ワークフローの合理化](workfront/2025/aug/workflows-workfront-aem.md)
    + 2024年8月 {#aug2024}
       + [オープニング キーノート](workfront/aug2024/keynote.md)
       + [ワークロードバランサーのカスタマイズ](workfront/aug2024/workload-balancer.md)
