@@ -27,7 +27,7 @@ ht-degree: 0%
 * DAM のスケーラビリティと将来性の確保
 * アセットの検出性の最適化
 
->[!VIDEO](https://video.tv.adobe.com/v/3471385/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471422/?learn=on&enablevpops&captions=jpn)
 
 ## スケーラブルなデジタルアセット管理の実現
 

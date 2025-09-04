@@ -135,7 +135,7 @@ Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューショ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1756943156021" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471356/?format=jpeg&nocache=1756943156021&captions=jpn" alt="Skill Exchange Keynote - The Future of Experience Making with AI, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +268,7 @@ Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューショ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="オープニング キーノート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756943156421" alt="オープニング キーノート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471476/?format=jpeg&nocache=1756943156421&captions=jpn" alt="オープニング キーノート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,7 +314,7 @@ Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューショ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Design Studio の強力な機能を活用して、グローバルマーケティング業務を実現" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756943156442" alt="Design Studio の強力な機能を活用して、グローバルマーケティング業務を実現"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471420/?format=jpeg&nocache=1756943156442&captions=jpn" alt="Design Studio の強力な機能を活用して、グローバルマーケティング業務を実現"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +450,7 @@ Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューショ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="中核的な拠点へのWorkfront組織の準備" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756943157009" alt="中核的な拠点へのWorkfront組織の準備"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471585/?format=jpeg&nocache=1756943157009&captions=jpn" alt="中核的な拠点へのWorkfront組織の準備"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -473,7 +473,7 @@ Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューショ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="新しい機能をユーザーに提供 – 興奮が命" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1756943157057" alt="新しい機能をユーザーに提供 – 興奮が命"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471539/?format=jpeg&nocache=1756943157057&captions=jpn" alt="新しい機能をユーザーに提供 – 興奮が命"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +496,7 @@ Experience Makers Skill Exchange は、Adobe Experience Cloud ソリューショ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Fusion を使用したWorkfront ユーザーアカウントの自動作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756943157030" alt="Fusion を使用したWorkfront ユーザーアカウントの自動作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471572/?format=jpeg&nocache=1756943157030&captions=jpn" alt="Fusion を使用したWorkfront ユーザーアカウントの自動作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
