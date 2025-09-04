@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '837'
 ht-degree: 9%
 
 ---
@@ -31,8 +31,11 @@ ht-degree: 9%
       + [電子メールを超えるジャーニー](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
    + 2025 年 8 月 {#aug2025}
+      + [オープニング キーノート](analytics/2025/aug/opening-keynote.md)
       + [Adobe Analytics Workspaceのカスタマイズ](analytics/2025/aug/analysis-workspace-customizations.md)
       + [ダッシュボードはインサイトを提供しません](analytics/2025/aug/dashboards-insights.md)
+      + [Analysis Workspaceを使用したデータストーリーテリング](analytics/2025/aug/data-storytelling.md)
+      + [データを PowerPoint に](analytics/2025/aug/data-to-powerpoint.md)
       + [拡張性の高い分析ワークフロー](analytics/2025/aug/scalable-workflows.md)
       + [セグメント化とパーソナライゼーション](analytics/2025/aug/segmentation-personalization.md)
       + [使用する必要のあるWorkspace機能](analytics/2025/aug/workspace-features.md)
@@ -107,9 +110,18 @@ ht-degree: 9%
       + [はじめに](analytics/jun2021/getting-started.md)
       + [マーケティングチャネルについては、責任を持ってを使用してください](analytics/jun2021/marketing-channels.md)
       + [まとめ](analytics/jun2021/putting-all-together.md)
++ Customer Journey Analytics {#cja}
+   + 2025年8月 {#aug2025}
+      + [オープニング キーノート](cja/2025/aug/opening-keynote.md)
+      + [Customer Journey Analyticsジャーニーキャンバス](cja/2025/aug/journey-canvas.md)
+      + [Customer Journey Analytics データモデル](cja/2025/aug/cja-data-model.md)
+      + [現代は古典的な AA レシピを取り入れます](cja/2025/aug/modern-takes-classic-aa.md)
+      + [あらゆるジャーニーの背景を切り拓く](cja/2025/aug/story-behind-journey.md)
 + Adobe Experience Manager {#aem}
    + 2025年8月 {#aug2025}
       + [オープニング キーノート](aem/2025/aug/opening-keynote.md)
+      + [アセットワークフロー、権限および統合](aem/2025/aug/asset-workflows-permissions-integration.md)
+      + [AEM Assetsのレポートと ROI 指標の開発](aem/2025/aug/reports-roi-metrics.md)
       + [将来に対応したコンテンツフレームワーク](aem/2025/aug/content-framework.md)
       + [スケーラブルなアセット管理](aem/2025/aug/scalable-asset-management.md)
    + 2024年8月 {#aug2024}
@@ -143,9 +155,6 @@ ht-degree: 9%
          + [再利用性の力](aem/aug2022/reusability.md)
          + [AEMのコンテンツパーソナライゼーションによるビジネス価値の向上](aem/aug2022/personalization.md)
          + [AEMの実装を最大化](aem/aug2022/implementation.md)
-+ Customer Journey Analytics {#cja}
-   + 2025年8月 {#aug2025}
-      + [現代は古典的な AA レシピを取り入れます](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + 2025年8月 {#aug2025}
       + [オープニング キーノート](marketo/2025/aug/opening-keynote.md)
