@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '760'
 ht-degree: 9%
 
 ---
@@ -94,6 +94,10 @@ ht-degree: 9%
       + [マーケティングチャネルについては、責任を持ってを使用してください](analytics/jun2021/marketing-channels.md)
       + [まとめ](analytics/jun2021/putting-all-together.md)
 + Adobe Experience Manager {#aem}
+   + 2025年8月 {#aug2025}
+      + [オープニング キーノート](aem/2025/aug/opening-keynote.md)
+      + [将来に対応したコンテンツフレームワーク](aem/2025/aug/content-framework.md)
+      + [スケーラブルなアセット管理](aem/2025/aug/scalable-asset-management.md)
    + 2024年8月 {#aug2024}
       + [オープニング キーノート](aem/aug2024/keynote.md)
       + [ユニバーサルエディターを使用したAEM Sites](aem/aug2024/universal-editor.md)
