@@ -3,9 +3,9 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '797'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,21 @@ ht-degree: 9%
       + [有効な拡張性](commerce/aug2024/extensibility.md)
       + [移行ワークフロー全体で SEO を最大化](commerce/aug2024/seo-migration-workflows.md)
       + [カスタマーエクスペリエンスのパーソナライズ](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+   + 2025年8月 {#aug2025}
+      + [オープニング キーノート](aep-apps/2025/aug/opening-keynote.md)
+      + [Personalization、プライバシー、データセキュリティのバランス](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [一般的な指標の説明](analytics/2025/aug/demystifying-common-metrics.md)
+      + [メディアへの投資とAdobeのReal-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Adobe Journey Optimizerの複雑なジャーニーへの対処に関するヒント](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [電子メールを超えるジャーニー](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
+   + 2025 年 8 月 {#aug2025}
+      + [Adobe Analytics Workspaceのカスタマイズ](analytics/2025/aug/analysis-workspace-customizations.md)
+      + [ダッシュボードはインサイトを提供しません](analytics/2025/aug/dashboards-insights.md)
+      + [拡張性の高い分析ワークフロー](analytics/2025/aug/scalable-workflows.md)
+      + [セグメント化とパーソナライゼーション](analytics/2025/aug/segmentation-personalization.md)
+      + [使用する必要のあるWorkspace機能](analytics/2025/aug/workspace-features.md)
    + 2024 年 8 月 {#aug2024}
       + [オープニング キーノート](analytics/aug2024/keynote.md)
       + [アラートと注釈](analytics/aug2024/alerts-annotations.md)
@@ -129,13 +143,9 @@ ht-degree: 9%
          + [再利用性の力](aem/aug2022/reusability.md)
          + [AEMのコンテンツパーソナライゼーションによるビジネス価値の向上](aem/aug2022/personalization.md)
          + [AEMの実装を最大化](aem/aug2022/implementation.md)
-+ Adobe Experience Platform {#aep}
++ Customer Journey Analytics {#cja}
    + 2025年8月 {#aug2025}
-      + [オープニング キーノート](aep-apps/2025/aug/opening-keynote.md)
-      + [Personalization、プライバシー、データセキュリティのバランス](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [メディアへの投資とAdobeのReal-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
-      + [Adobe Journey Optimizerの複雑なジャーニーへの対処に関するヒント](aep-apps/2025/aug/tips-for-tackling-journeys.md)
-      + [電子メールを超えるジャーニー](aep-apps/2025/aug/journeys-beyond-email.md)
+      + [現代は古典的な AA レシピを取り入れます](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + 2025年8月 {#aug2025}
       + [オープニング キーノート](marketo/2025/aug/opening-keynote.md)
