@@ -23,7 +23,7 @@ ht-degree: 0%
 リサーチ手法とストーリーテリングクラフト：データの調査結果を、関係者にとって魅力的なストーリーに変えます。
 技術的能力と感情的な知性：技術的なスキルだけでなく、共感を持ってサポートとソリューションを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471182/?learn=on&enablevpops&captions=jpn)
 
 ## 人間への影響を考慮した分析のロック解除
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 オープニング キーノート
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471125/?learn=on&enablevpops&captions=jpn)
 
 ## アナリストの卓越の解き放ち：必要不可欠なスキル
 

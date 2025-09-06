@@ -24,7 +24,7 @@ ht-degree: 0%
 
 最後に、ジャーニーキャンバスの結果を詳細なダッシュボードに結び付けて、すべてのタッチポイントで継続的な最適化を可能にすることで、組織全体でこれらのインサイトをスケーリングする戦略を詳しく説明します。 CJAを初めて使用する場合でも、経験豊富な実践者でも、このセッションでは、ジャーニーキャンバスを使用して CX プログラムを強化し、目に見える結果を導き出すための明確な手法を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471215/?learn=on&enablevpops&captions=jpn)
 
 ## ジャーニーキャンバス：Analysis から Activation へ
 

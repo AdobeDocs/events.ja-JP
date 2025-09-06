@@ -21,7 +21,7 @@ ht-degree: 0%
 
 分析を向上させ、実際の影響を推進できる、強力でありながら見過ごされがちなAdobe Analytics Workspaceの機能を紹介します。 このセッションでは、日常的なツールをinsightのエンジンに変える実用的なユースケースとシンプルなテクニックを紹介し、ビジネスにとって本当に重要なことを明らかにします。 ベテランのアナリストであっても、始めたばかりのアナリストであっても、データの価値を最大化するための実用的なアイデアを得ることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471252/?learn=on&enablevpops&captions=jpn)
 
 ## 高度な分析手法のロック解除
 

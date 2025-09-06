@@ -74,7 +74,7 @@ Adobe Workfront ゲームをレベルアップするための、迅速で実用�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="トップ 3 - ブループリントを使ったCreativeのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1756499239717" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465311/?format=jpeg&nocache=1756499239717&captions=jpn" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Adobe Workfront ゲームをレベルアップするための、迅速で実用�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="業務時間に対する上位 3 つのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1756499239703" alt="業務時間に対する上位 3 つのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470143/?format=jpeg&nocache=1756499239703&captions=jpn" alt="業務時間に対する上位 3 つのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ Workfrontの管理者でもプロジェクトマネージャーでも、日常�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="対！ - グループとチーム" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1756499240185" alt="対！ - グループとチーム"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467354/?format=jpeg&nocache=1756499240185&captions=jpn" alt="対！ - グループとチーム"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -263,7 +263,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expert Insights - Leslie Spier による導入" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1756499240950" alt="Expert Insights - Leslie Spier による導入"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469928/?format=jpeg&nocache=1756499240950&captions=jpn" alt="Expert Insights - Leslie Spier による導入"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -309,7 +309,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="エキスパートインサイト - Natalie Mitchell によるアジャイル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1756499240935" alt="エキスパートインサイト - Natalie Mitchell によるアジャイル"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469917/?format=jpeg&nocache=1756499240935&captions=jpn" alt="エキスパートインサイト - Natalie Mitchell によるアジャイル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

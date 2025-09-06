@@ -25,7 +25,7 @@ ht-degree: 0%
 処理ルールがない場合でも、次の分析に最適なパン（データビュー）を見つけようとしている場合でも、このセッションでは、最新の分析のキッチンを順を追って説明します。
 インサイトに飢え、CJA対応のテクニックを豊富に取り揃えています
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471241/?learn=on&enablevpops&captions=jpn)
 
 ## CJAによる Analytics の変換：重要ポイント
 
