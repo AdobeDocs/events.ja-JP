@@ -3,7 +3,7 @@ user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers The Skill Exchange の録画コレクション
 event-series: The Skill Exchange
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 9%
@@ -25,7 +25,6 @@ ht-degree: 9%
    + 2025年8月 {#aug2025}
       + [オープニング キーノート](aep-apps/2025/aug/opening-keynote.md)
       + [Personalization、プライバシー、データセキュリティのバランス](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [一般的な指標の説明](analytics/2025/aug/demystifying-common-metrics.md)
       + [メディアへの投資とAdobeのReal-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
       + [Adobe Journey Optimizerの複雑なジャーニーへの対処に関するヒント](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [電子メールを超えるジャーニー](aep-apps/2025/aug/journeys-beyond-email.md)
@@ -36,6 +35,7 @@ ht-degree: 9%
       + [ダッシュボードはインサイトを提供しません](analytics/2025/aug/dashboards-insights.md)
       + [Analysis Workspaceを使用したデータストーリーテリング](analytics/2025/aug/data-storytelling.md)
       + [データを PowerPoint に](analytics/2025/aug/data-to-powerpoint.md)
+      + [一般的な指標の説明](analytics/2025/aug/demystifying-common-metrics.md)
       + [拡張性の高い分析ワークフロー](analytics/2025/aug/scalable-workflows.md)
       + [セグメント化とパーソナライゼーション](analytics/2025/aug/segmentation-personalization.md)
       + [使用する必要のあるWorkspace機能](analytics/2025/aug/workspace-features.md)
