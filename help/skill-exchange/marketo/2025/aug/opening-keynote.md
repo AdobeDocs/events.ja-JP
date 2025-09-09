@@ -9,9 +9,9 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # オープニング キーノート
 
-Adobe Experience Makers:The Skill Exchange （Marketo Engage トラック）イベントでは、Adobe プロダクトマネージャーの Bhatstra Mukherjee が、B2B マーケティングから「B2B 3.0」への進化について説明しました。 この新しいフェーズでは、AI 主導の顧客体験に重点を置き、パーソナライズされたエンゲージメントと、アカウント内の購入グループをターゲット設定します。 Mukherjee 氏は、タスクを自動化し、効率を高め、マーケターが戦略的な役割に集中できるようにするうえで、AI エージェントが果たす変革の役割を強調しました。 人間と AI のコラボレーションの重要性が強調され、AI は置き換えるのではなく創造性を高めています。 この環境で成功するための重要なスキルには、迅速なエンジニアリング、データの流れ、エージェントの構成が含まれます。 Adobeは、AI エージェントをMarketo Engageなどのツールに統合して、カスタマーライフサイクルのオーケストレーションを自動化し、AI を採用したマーケターが将来の B2B マーケティングで成功できるようにします。
+Adobe Experience Makers:The Skill Exchange （Marketo Engage トラック）イベントでは、Adobeのシニアグループプロダクトマネージャーである Badsah Mukherji が、B2B マーケティングから「B2B 3.0」への進化について説明しました。 この新しいフェーズでは、AI 主導の顧客体験に重点を置き、パーソナライズされたエンゲージメントと、アカウント内の購入グループをターゲット設定します。 Mukherjee 氏は、タスクを自動化し、効率を高め、マーケターが戦略的な役割に集中できるようにするうえで、AI エージェントが果たす変革の役割を強調しました。 人間と AI のコラボレーションの重要性が強調され、AI は置き換えるのではなく創造性を高めています。 この環境で成功するための重要なスキルには、迅速なエンジニアリング、データの流れ、エージェントの構成が含まれます。 Adobeは、AI エージェントをMarketo Engageなどのツールに統合して、カスタマーライフサイクルのオーケストレーションを自動化し、AI を採用したマーケターが将来の B2B マーケティングで成功できるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471476/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
 
 ## B2B マーケティングの未来をナビゲート
 
