@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 685c6dde3c7c79dd852742720a258fbae903ccc7
+source-git-commit: a536d27a3c3a57bc51ca768ded7d05e8b1eb44f4
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '578'
 ht-degree: 3%
 
 ---
@@ -21,8 +21,9 @@ ht-degree: 3%
 
 + [概要](overview.md)
 + エピソード {#episodes}
-   + [EP.50:Journey Optimizerの RCS と WhatsApp でモバイルのリーチを拡大](/help/experience-league-live/episodes/exl-live-episode-09-30-25.md)
-   + [EP.49:AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizerのパーソナライズされたコンテンツの促進](episodes/exl-live-episode-07-31-25.md)
+   + [EP. 51:Customer Journey Analytics B2B editionの力を解き放つ](episodes/exl-live-episode-10-16-25.md)
+   + [EP. 50:Journey Optimizerの RCS と WhatsApp でモバイルリーチを拡大](episodes/exl-live-episode-09-30-25.md)
+   + [EP. 49:AEM コンテンツフラグメントと Dynamic Media を使用したJourney Optimizerのパーソナライズされたコンテンツの促進](episodes/exl-live-episode-07-31-25.md)
    + [Ep. 48:マスターのフリークエンシーキャップと競合の優先順位](episodes/exl-live-episode-06-18-25.md)
    + [Ep. 47：大規模なパーソナライズされたコンテンツに対するアジャイルワークフロー](episodes/exl-live-episode-47-2025-06-05.md)
    + [Ep. 46:Content Analytics:AI インサイトによるパフォーマンスの最適化](episodes/exl-live-episode-05-22-25.md)
