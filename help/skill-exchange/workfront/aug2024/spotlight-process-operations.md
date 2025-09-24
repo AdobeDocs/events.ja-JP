@@ -1,6 +1,6 @@
 ---
 title: Experience Maker のスポットライト – プロセスの強化と運用効率
-description: Synchrony 社の Operational Excellence 担当副社長 James Hill が機能強化のメリットと優先度を推定し、システムの変化の導入を監視し、最終的にその変化を実際のビジネス成果に結び付ける方法 EMMsphere 社のシニア・Workfront・コンサルタントである Daniel Clarke が、チームのリソースを可能な限り拡張する効率性を見出した例。 成功した Fusion シナリオ、その構築方法と構築理由の背後にある方法論、その作業の価値をリーダーシップチームと共に示すことができた方法を紹介します」
+description: Synchrony 社の Operational Excellence 担当副社長 James Hill が機能強化のメリットと優先度を推定し、システムの変化の導入を監視し、最終的にその変化を実際のビジネス成果に結び付ける方法 EMMsphere 社のシニア・Workfront・コンサルタントである Daniel Clarke が、チームのリソースを可能な限り拡張する効率性を見出した例。 成功した Fusion シナリオ、その構築方法と構築理由の背後にある方法論、その作業の価値をリーダーシップチームと共に示すことができた方法について説明します
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2404
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16099
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: ce5a8f39-c8ac-4a47-baaf-7b105e8b5f5a
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Experience Maker のスポットライト：プロセスの強化と運用効率
 

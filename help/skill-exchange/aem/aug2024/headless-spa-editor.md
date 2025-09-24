@@ -1,6 +1,6 @@
 ---
 title: AEMで最新の SPA の機能を解き放つ – マスターヘッドレスと SPA Editor のアプローチ
-description: シングルページアプリケーションの基本を理解するヘッドレスAEMとそのフロントエンドフレームワークとの統合を探索する合理化された開発プロセスを実現するためのAEM SPA Editor の活用 AEMD での SPA の構築、デプロイ、管理に関するベストプラクティスAEMの最新の SPA 技術を使用して、エキスパートからインサイトを得て、デジタル戦略を強化する機会を見逃さないでください。」
+description: シングルページアプリケーションの基本を理解するヘッドレスAEMとそのフロントエンドフレームワークとの統合を探索する合理化された開発プロセスを実現するためのAEM SPA Editor の活用 AEMD での SPA の構築、デプロイ、管理に関するベストプラクティスAEMの最新の SPA 手法を使用して、エキスパートからインサイトを得て、デジタル戦略を強化する機会をお見逃しなく。
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
 exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
 hidefromtoc: true
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
