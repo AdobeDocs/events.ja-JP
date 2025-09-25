@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: fd99debc943f21bd6454e8cce91b8cf3e0770738
+source-git-commit: 536ac9f64cea12c8f4b15c6e8d2f8a14fa11f022
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '348'
 ht-degree: 20%
 
 ---
@@ -48,6 +48,9 @@ ht-degree: 20%
       + [Cloud Serviceの効果的なセキュリティ戦略 ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/may2023/mastering-content-and-experience-fragments.md)
++ GenAI {#genai}
+   + 2025年9月 {#sept2025}
+      + [AI 採用の拡大 – 承認用のプレイブック](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
    + 2025年5月 {#may2025}
       + [インタラクティブウェビナーの影響を確認](marketo/may2025/interactive-webinars.md)
