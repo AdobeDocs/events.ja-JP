@@ -3,7 +3,7 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 2%
@@ -30,7 +30,7 @@ ht-degree: 2%
    + [導入](expert-insights/adoption.md)
    + [採用調査](expert-insights/adoption-surveys.md)
    + [アジャイル](expert-insights/agile.md)
-   + [コンテンツのサプライチェーン](expert-insights/content-supply-chain.md)
+   + [コンテンツSupply chain](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [ガバナンスとセンターオブエクセレンス](expert-insights/centers-of-excellence.md)
    + [非従来のWorkfront ワークフロー](expert-insights/non-traditional-workfront-workflows.md)
@@ -51,10 +51,6 @@ ht-degree: 2%
       + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
       + [プロジェクトテンプレート](workshop-rewind/workflow/project-templates.md)
       + [Workfront Data Connect の機能を活用](workshop-rewind/workflow/data-connect.md)
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
 
 + 古典 {#classics}
    + 管理 {#administration}
@@ -92,3 +88,7 @@ ht-degree: 2%
 
 
 
+
+<!--  + Planning {#planning}
+  + Integrations {#integrations}
+-->
