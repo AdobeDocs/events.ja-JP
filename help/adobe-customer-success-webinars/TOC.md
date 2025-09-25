@@ -2,10 +2,10 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 4%
+source-wordcount: '502'
+ht-degree: 3%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 4%
       + [AI – 基本を超える](2025/ai-beyond-basics.md)
       + [XDM スキーマモデリングのベストプラクティスとインサイト](2025/model-xdm-schemas.md)
       + [データDistiller 101](2025/data-distiller-101.md)
+      + [Id グラフのユースケースとトラブルシューティング](2025/identity-graph.md)
       + [AEPプロジェクトへのエグゼクティブスポンサーシップの獲得](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
       + [コンテンツのサプライチェーンとAdobe GenStudio](2025/csc-gen-studio.md)
