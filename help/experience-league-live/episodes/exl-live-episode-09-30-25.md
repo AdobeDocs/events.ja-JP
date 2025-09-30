@@ -23,6 +23,6 @@ Travis Jordan と Nikhil Sharma が、Adobe Journey Optimizerが最近、WhatsAp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) 日 **10 月 15 日（水）午前 8 時～午前 9 時（PT）** Adobe Journey Optimizerのエキスパートである Nikhil Sharma （@snikhil）（シニアエンジニアリングマネージャー）、Travis Jordan （@Travis_Jordan）（プリンシパル製品マネージャー）、Sandra Hausmann （@SHausmann）（シニアテクニカルマーケティングエンジニア）が参加します。
+[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=ja) 日 **10 月 15 日（水）午前 8 時～午前 9 時（PT）** Adobe Journey Optimizerのエキスパートである Nikhil Sharma （@snikhil）（シニアエンジニアリングマネージャー）、Travis Jordan （@Travis_Jordan）（プリンシパル製品マネージャー）、Sandra Hausmann （@SHausmann）（シニアテクニカルマーケティングエンジニア）が参加します。
 
 このライブチャットの間に質問に回答します。
