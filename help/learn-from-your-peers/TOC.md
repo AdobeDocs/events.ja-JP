@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: 536ac9f64cea12c8f4b15c6e8d2f8a14fa11f022
+source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '355'
 ht-degree: 20%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 20%
 + Commerce {#commerce}
    + 2 月 {#feb2024}
       + [アジャイル SDLC のコミュニケーション、要件、テスト](commerce/2024/agile-sdlc.md)
-+ Adobe Experience Manager {#experience-manager}
++ Experience Manager {#experience-manager}
    + 8月 {#aug2025}
       + [AEM スマートタグ](experience-manager/aug2025/smart-tags.md)
    + 7 月 {#jul2024}
@@ -51,6 +51,9 @@ ht-degree: 20%
 + GenAI {#genai}
    + 2025年9月 {#sept2025}
       + [AI 採用の拡大 – 承認用のプレイブック](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
++ Experience Platform {#experience-platform}
+   + 2025 {#2025}
+      + [AEPの AI エージェント](platform/ai-agents.md)
 + Marketo {#marketo}
    + 2025年5月 {#may2025}
       + [インタラクティブウェビナーの影響を確認](marketo/may2025/interactive-webinars.md)
