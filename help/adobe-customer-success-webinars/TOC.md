@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '511'
 ht-degree: 3%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 3%
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
+      + [Adobe Experience PlatformによるAdobe Commerceの強化](2025/enriching-adobe-commerce.md)
       + [B2B と B2B2C のCommerceの変換](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
       + [エグゼクティブスポンサーシップの構築](2025/cja-success.md)
@@ -24,7 +25,7 @@ ht-degree: 3%
       + [Adobe AnalyticsからCJAへの移行](2025/analytics-to-cja-migration.md)
       + [CJAによる価値へのロードマップ](2025/roadmap-to-value-cja.md)
       + [よりスマートなマーケティングの開始 – GoogleとAdobeの統合](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
-   + Adobe Experience Manager {#aem2025}
+   + Experience Manager {#aem2025}
       + [AEM新技術](2025/personalized-experiences-aem.md)
       + [GenAI を使用したAEM](2025/aem-genai.md)
       + [AEMとWorkfrontの統合](2025/aem-workfront-integration.md)
@@ -39,6 +40,7 @@ ht-degree: 3%
       + [デジタル通信のパーソナライズ](2025/personalize-digital-communications.md)
       + [ユニバーサルエディターの概要](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
+      + [AI エージェント](2025/ai-agents.md)
       + [AI – 基本を超える](2025/ai-beyond-basics.md)
       + [XDM スキーマモデリングのベストプラクティスとインサイト](2025/model-xdm-schemas.md)
       + [データDistiller 101](2025/data-distiller-101.md)

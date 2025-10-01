@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '348'
 ht-degree: 20%
 
 ---
@@ -45,15 +45,12 @@ ht-degree: 20%
    + 9月 {#sept2023}
       + [AEM Sitesのツールの詳細](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
-      + [Cloud Serviceの効果的なセキュリティ戦略 &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [Cloud Serviceの効果的なセキュリティ戦略 ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025年9月 {#sept2025}
       + [AI 採用の拡大 – 承認用のプレイブック](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
-+ Experience Platform {#experience-platform}
-   + 2025 {#2025}
-      + [AEPの AI エージェント](platform/ai-agents.md)
 + Marketo {#marketo}
    + 2025年5月 {#may2025}
       + [インタラクティブウェビナーの影響を確認](marketo/may2025/interactive-webinars.md)
@@ -74,7 +71,7 @@ ht-degree: 20%
    + 2023年6月 {#june2023}
       + [マーケティングキャンペーンの追跡、分析、最適化](marketo/june2023/marketing-campaigns.md)
    + 2023年5月 {#may2023}
-      + [&#x200B; [!DNL Marketo Engage] を使用して、スケールコードでPersonalizationをクラックする](marketo/may2023/personalization-at-scale.md)
+      + [ [!DNL Marketo Engage] を使用して、スケールコードでPersonalizationをクラックする](marketo/may2023/personalization-at-scale.md)
    + 2023年3月 {#mar2023}
       + [コンテンツをスケ  [!DNL Adobe Marketo Engage]  ラブルにする方法](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}

@@ -3,9 +3,9 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: Adobeの専門家や同業者から、Adobe ソリューションを最大限に活用する方法について説明します。 [!DNL Experience Makers - Learn from your peers]  は、ソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連の仮想カスタマー  [!DNL Adobe Experience Cloud]  ラーニングイベントです。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 2e57d6ee984b1537172fe5c6652ff110d9e3416b
+source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
 workflow-type: tm+mt
-source-wordcount: '1126'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -203,45 +203,6 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-## Experience Platform
-
-<!-- CARDS
-
-{cta  = Watch event}
-
-* platform/ai-agents.md
- 
--->
-<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
-<div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Agents in AEP - An Overview">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="platform/ai-agents.md" title="AEPの AI エージェント – 概要" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475315/?format=jpeg&nocache=1759344548123" alt="AEPの AI エージェント – 概要"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="platform/ai-agents.md" target="_blank" rel="referrer" title="AEPの AI エージェント – 概要">AEPの AI エージェント – 概要 </a>
-                    </p>
-                    <p class="is-size-6">Adobe Experience Platformの AI エージェントがどのように効率性を高め、実際のユースケースをサポートし、適用された価値を提供するかについて説明します。 ビジョン、ロードマップ、開始方法を探索します。</p>
-                </div>
-                <a href="platform/ai-agents.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
 
 ## Marketo
 
