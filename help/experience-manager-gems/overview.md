@@ -296,11 +296,11 @@ ht-degree: 2%
 
 ## 知り合いになる
 
-次のAEM GEM の開催日を知りたい場合は、  通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) にご登録ください。
+次のAEM GEM の開催日を知りたい場合は、  通知を受け取るには、[AdobeのAEM ユーザーグループ &#x200B;](https://aem-augs.adobe.com/) にご登録ください。
 
 ## 話し合いを続ける
 
-[Experience Manager コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja) では、他のデベロッパーとつながり、AEMのディスカッションを継続できます。  同業者やAdobeの従業員とのネットワークを構築して、導入から使用量拡大に至るまでのガイダンスとベストプラクティスを入手できます。  質問に対する迅速な回答を取得し、Adobeに製品のアイデアと貴重なフィードバックを提供します。
+[Experience Manager コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja) では、他のデベロッパーとつながり、AEMのディスカッションを継続できます。  同業者やAdobeの従業員とのネットワークを構築して、導入から使用量拡大に至るまでのガイダンスとベストプラクティスを入手できます。  質問に対する迅速な回答を取得し、Adobeに製品のアイデアと貴重なフィードバックを提供します。
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 

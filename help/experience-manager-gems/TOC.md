@@ -25,7 +25,7 @@ ht-degree: 1%
    + [AEM Cloud Managerでのプライベート GitHub リポジトリの統合](gems2024/private-github-for-aem-cloud-manager.md)
    + [新しい API とイベントによるAEM Assetsのデベロッパーエクスペリエンスの向上](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Edge Delivery Services for AEM Formsの概要](gems2024/edge-delivery-for-aem-forms.md)
-   + [AEM オーサリングとEdge Delivery Servicesの概要 ](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [AEM オーサリングとEdge Delivery Servicesの概要 &#x200B;](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Adobe CommerceのEdge Delivery Servicesに店舗を建設](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023年 {#gems2023}
    + [AEM as a Cloud ServiceのNew Relic APM](gems2023/newrelic-apm-for-aem-cloud-service.md)
