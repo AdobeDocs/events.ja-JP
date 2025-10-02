@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM セッション
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
 workflow-type: tm+mt
 source-wordcount: '923'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 0%
 
 <!-- CARDS
 
+* gems2025/mastering-cache-efficiency-for-optimal-page-performance.md
 * gems2025/maximize-impact-with-sites-optimizer.md
 * gems2025/getting-started-adobe-managed-cdn.md
 
@@ -60,7 +61,7 @@ ht-degree: 0%
                     <p class="is-size-6">Sites Optimizerが AI を使用して、マーケティングチームや開発チーム向けのリアルタイムインサイトとレコメンデーションにより、サイトのパフォーマンス、SEO、ユーザーエンゲージメントを向上させる方法を説明します。</p>
                 </div>
                 <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -83,7 +84,7 @@ ht-degree: 0%
                     <p class="is-size-6">新しい CDN 設定機能でパフォーマンスとセキュリティを強化するために、AEM Cloud Service でAdobeの管理による CDN を設定する方法について説明します。</p>
                 </div>
                 <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -123,7 +124,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM GEM ウェビナーでは、AEM オーサリングと AEM との統合、Edge Delivery Services Cloud Service とのプロジェクトの作成、WYSIWYG オーサリングインターフェイスの保守について説明します。</p>
                 </div>
                 <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -146,7 +147,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM GEM セッションでは、AEM Sitesの API ファーストパターンについて解説し、Adobeのエキスパートからのインサイトを得ながら、高度な OpenAPI 標準、イベントと Webhook、翻訳自動化用の新しい REST API について説明します。</p>
                 </div>
                 <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -169,7 +170,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM GEMs ウェビナーでは、AEM Edge Delivery Services上に作成されたサイトへのAEM Assetsの統合、統合のカスタマイズ、Open API を使用したAEM Dynamic Media を使用したアセットの配信、実践的なユースケースとベストプラクティスの検討について説明します。</p>
                 </div>
                 <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -192,7 +193,7 @@ ht-degree: 0%
                     <p class="is-size-6">Edge Delivery Servicesを使用してAEM Formsを作成および公開する方法を説明します。ドキュメントベースおよびAEM ベースのオーサリング、カスタマイズのためのプロジェクト設定、バックエンド処理のためのAEM Forms as a Cloud Serviceの活用について説明します。</p>
                 </div>
                 <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -215,7 +216,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEMのデベロッパーは、新しいAssets Open API とクラウドネイティブな I/O イベントを探索し、実践的なユースケースとベストプラクティスを実演しながら、プロセス外のAEM拡張機能を作成し、ワークフローを合理化し、開発スピードを向上し、メンテナンスを軽減できます。</p>
                 </div>
                 <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -238,7 +239,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM GEMs ウェビナーでは、Cloud Managerにプライベート GitHub リポジトリを追加し、パイプラインに直接リンクし、コードを結合する前に左シフト式テストを使用してプルリクエストレベルで問題を特定する方法を説明します。</p>
                 </div>
                 <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -261,7 +262,7 @@ ht-degree: 0%
                     <p class="is-size-6">このセッションでは、RDE を使用して変更を迅速にデプロイおよびレビューし、開発のターンアラウンドタイムを短縮し、ほぼ瞬時にフィードバックを提供する方法を説明します。 また、ログの改善やフロントエンドのサポートなどの新機能も紹介します。</p>
                 </div>
                 <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -284,7 +285,7 @@ ht-degree: 0%
                     <p class="is-size-6">AEM GEMs ウェビナーでは、Commerce for Adobe Commerceでハイパフォーマンスのストアフロントを構築する方法を説明します。これには、プロジェクトの設定、Edge Delivery Services SaaS 統合、カスタマイズ可能なフロントエンドコンポーネント、Commerceのエクスペリエンスを強化する新しいオーサリング機能などが含まれます。</p>
                 </div>
                 <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> 詳細情報 </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
         </div>
@@ -329,7 +330,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/ja/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -348,7 +349,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
