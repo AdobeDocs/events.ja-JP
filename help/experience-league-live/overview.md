@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 13%
+source-wordcount: '203'
+ht-degree: 15%
 
 ---
 
@@ -25,17 +25,6 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
-              <img alt="Experience League LIVE 30 2025 年 9 月" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-09-30-25.md">
-                <strong>Journey Optimizerの RCS と WhatsApp を使用してモバイルリーチを拡大 </strong>
-              </a>
-              <br/><em>Sandra Hausmann、Travis Jordan、Nikhil Sharma のコメント </em>
-              <br/><em>2025 年 9 月 30 日 </em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
               <img alt="Experience League LIVE 2025 年 10 月 16 日" src="assets/exl-live-episode-10-16-25-web-banner.png">
             </a>
@@ -124,5 +113,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
