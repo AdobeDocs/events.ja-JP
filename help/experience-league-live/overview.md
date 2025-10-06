@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 15%
+source-wordcount: '236'
+ht-degree: 13%
 
 ---
 
@@ -45,6 +45,17 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
               </a>
               <br/><em> ダニエル・ライト、ナミタ・クリシュナン、フォン・ブー </em>
               <br/><em>2025 年 10 月 22 日 </em>
+            </div>
+        </td>
+         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
+              <img alt="Experience League LIVE 30 2025 年 10 月" src="assets/exl-live-episode-10-30-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong> 実験の次の時代：Agentic AI がどのようにして、よりスマートなテストと成長を促進しているか </strong>
+              </a>
+              <br/><em>Sandra Hausmann、Brent Kostak、Justin Grover、David Arbor 付き </em>
+              <br/><em>2025 年 10 月 30 日 </em>
             </div>
         </td>
     </tr>
@@ -113,5 +124,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
