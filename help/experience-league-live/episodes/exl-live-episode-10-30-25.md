@@ -30,6 +30,6 @@ Experience League ライブセッションにご参加ください **Adobe Journ
 
 *Adobe Journey Optimizer Experimentation Acceleratorは、Adobe TargetおよびJourney Optimizerとシームレスに統合されています。*
 
->![ バナーを表示 ](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner.png)
+>![&#x200B; バナーを表示 &#x200B;](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner.png)
 
-[ 番組のリマインダーを設定！](https://youtube.com/live/w8eWsKuwyzI)
+[&#x200B; 番組のリマインダーを設定！](https://youtube.com/live/w8eWsKuwyzI)
