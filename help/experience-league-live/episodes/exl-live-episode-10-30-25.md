@@ -30,6 +30,6 @@ Adobe Experience Platform実験エージェントを活用したこの新しい�
 
 Adobe Journey Optimizer Experimentation Acceleratorは、Adobe TargetおよびJourney Optimizerとシームレスに統合されます。
 
->![ バナーを表示 ](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner.png)
+>![&#x200B; バナーを表示 &#x200B;](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner.png)
 
-[ 番組のリマインダーを設定！](https://youtube.com/live/w8eWsKuwyzI)
+[&#x200B; 番組のリマインダーを設定！](https://youtube.com/live/w8eWsKuwyzI)
