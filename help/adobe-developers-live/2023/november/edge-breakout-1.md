@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Adobe Developers Liveでライブで録画された、Markus Haack による実践セッションにご参加ください。 Adobe Experience ManagerのEdge Delivery Servicesを使用して web サイトをゼロから構築する方法を説明します。 このセッションでは、GitHub リポジトリの設定、ドキュメントライブラリの管理、最初のコンテンツの公開、サイトのスタイル設定、カスタムブロックの作成に至るまで、あらゆることをカバーします。 Adobe Experience Managerを初めて使用する開発者に最適なこのガイドでは、AEM最適化ツールを使用した効率的な web 開発を包括的に説明します。
 
-[Experience League コミュニティ ](https://adobe.ly/3Q82EUF) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/3Q82EUF) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)

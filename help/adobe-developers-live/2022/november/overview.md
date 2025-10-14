@@ -19,7 +19,7 @@ Adobe Developers Live：ヘッドレスは、多様な背景と単一の目的�
 
 このバーチャル会議は、2022 年 11 月に開催された 1 日間のバーチャルカンファレンスで、ヘッドレスとGraphQL、Adobe Experience Manager as a Cloud Service、技術セッション、コミュニティネットワークなどのAdobe Experience Manager開発者向けの重要なアップデートが含まれています。
 
-イベント終了後も、講演者やセッションとの連絡は [ コミュニティのコンテキストスレッド ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511?profile.language=ja) で継続できます。
+イベント終了後も、講演者やセッションとの連絡は [&#x200B; コミュニティのコンテキストスレッド &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511?profile.language=ja) で継続できます。
 
 <!-- 
 ## Highlights

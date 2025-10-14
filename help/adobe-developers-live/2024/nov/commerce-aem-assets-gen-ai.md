@@ -26,7 +26,7 @@ Adobeのシニアコンピューターサイエンティストである Ankush M
 
 ## コミュニティ ディスカッション
 
-Adobe Developers Live コミュニティで会話を続けます [ ディスカッション ](https://adobe.ly/40CS6CP)。
+Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/40CS6CP)。
 
 ## 重要ポイント
 

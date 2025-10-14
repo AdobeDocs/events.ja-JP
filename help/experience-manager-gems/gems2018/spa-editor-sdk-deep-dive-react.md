@@ -36,11 +36,11 @@ AEM ページエディターを使用してオーサリングできる単一ペ�
 
 ## 関連リンク {#related-links}
 
-[ 週末のチュートリアル ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=ja)
+[&#x200B; 週末のチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=ja)
 
 [ドキュメント](https://helpx.adobe.com/jp/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[ サンプル - We.Retail ジャーナル ](https://github.com/adobe/aem-sample-we-retail-journal)
+[&#x200B; サンプル - We.Retail ジャーナル &#x200B;](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -34,6 +34,6 @@ Adobe Experience Manager チャンピオンの Greg Dimeris が、ビジネス�
 * 編集可能なテンプレートのヒントとテクニック
 * 強力なコンテンツ構築ブロックの作成に役立ちます。
 
-プレゼンテーションのスライドには [ こちら ](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf) アクセスできます。
+プレゼンテーションのスライドには [&#x200B; こちら &#x200B;](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf) アクセスできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

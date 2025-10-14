@@ -28,8 +28,8 @@ AEM インスタンスが正常かどうかを判断するのは、簡単な作�
 
 >[!WARNING]
 >
->AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [&#x200B; ページ &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 
 ## 関連リンク {#related-links}
 
-* [Sling のドキュメント ](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)
+* [Sling のドキュメント &#x200B;](https://sling.apache.org/documentation/bundles/sling-health-check-tool.html)

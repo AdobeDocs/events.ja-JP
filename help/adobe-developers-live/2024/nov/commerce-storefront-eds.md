@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## コミュニティ ディスカッション
 
-Adobe Developers Live コミュニティで会話を続けます [ ディスカッション ](https://adobe.ly/3Ccxkja)。
+Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/3Ccxkja)。
 
 ## 重要ポイント
 

@@ -51,7 +51,7 @@ _エキスパートに質問_ は、次の 2 つのセッションで構成さ�
 
 >[!TIP]
 >
->Commerce Intelligenceを初めて使用する場合は、[ はじめに ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=ja) のビデオシリーズをご覧ください。データの集計、分析、ビジュアライゼーションを通じて、ビジネスインサイトと結果をより良いものにすることができます。
+>Commerce Intelligenceを初めて使用する場合は、[&#x200B; はじめに &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=ja) のビデオシリーズをご覧ください。データの集計、分析、ビジュアライゼーションを通じて、ビジネスインサイトと結果をより良いものにすることができます。
 
-- [Commerce Intelligenceの概要 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=ja)
-- [Commerce Intelligence サポート ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ja)
+- [Commerce Intelligenceの概要 &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=ja)
+- [Commerce Intelligence サポート &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ja)

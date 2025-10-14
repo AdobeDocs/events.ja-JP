@@ -31,10 +31,10 @@ Asset Link は、Adobe Creative Cloudへのネイティブ接続です。
 
 ## リソース
 
-* [Adobe Asset Link ビデオ ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=ja)
+* [Adobe Asset Link ビデオ &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=ja)
 * [Adobe XDの Asset Link](https://helpx.adobe.com/jp/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [Adobe Asset Link 用のAEM Assets 6.5 および 6.4 の設定 ](https://helpx.adobe.com/jp/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [AEM as a Cloud Service for Adobe Asset Link の設定 ](https://helpx.adobe.com/jp/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe Asset Link 用のAEM Assets 6.5 および 6.4 の設定 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [AEM as a Cloud Service for Adobe Asset Link の設定 &#x200B;](https://helpx.adobe.com/jp/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## シリーズ録画
 

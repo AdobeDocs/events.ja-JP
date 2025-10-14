@@ -24,7 +24,7 @@ ht-degree: 4%
 
 Adobe、製品マネージャー、Gabriel Walt
 
-[AEM コアコンポーネントドキュメント ](https://helpx.adobe.com/jp/experience-manager/core-components/user-guide.html)
+[AEM コアコンポーネントドキュメント &#x200B;](https://helpx.adobe.com/jp/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM コアコンポーネント – 日付：2018 年 5 月 12 日（Pt）
 

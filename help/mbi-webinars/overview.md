@@ -74,5 +74,5 @@ Commerce Intelligence ウェビナーシリーズは、Commerce Intelligenceの�
 
 ## 役に立つリソース
 
-- [Commerce Intelligenceのビデオとチュートリアル ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=ja)
-- [Commerce Intelligence ユーザーガイド ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)
+- [Commerce Intelligenceのビデオとチュートリアル &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=ja)
+- [Commerce Intelligence ユーザーガイド &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)

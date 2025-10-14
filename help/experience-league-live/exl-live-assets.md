@@ -18,6 +18,6 @@ ht-degree: 0%
 
 このページには、Experience Leagueライブのアセットが格納されます
 
-![ エピソード 6 サイドバーの画像 ](assets/exl-live-ep6-sidebar.jpg)
+![&#x200B; エピソード 6 サイドバーの画像 &#x200B;](assets/exl-live-ep6-sidebar.jpg)
 
-![Experience Leagueのライブ ロゴ ](assets/exl-live-logo.png)
+![Experience Leagueのライブ ロゴ &#x200B;](assets/exl-live-logo.png)

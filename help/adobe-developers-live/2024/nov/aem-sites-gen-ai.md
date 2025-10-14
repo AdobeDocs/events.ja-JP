@@ -26,7 +26,7 @@ Adobe Experience Manager Sitesが AI を「バリエーションを生成」と�
 
 ## コミュニティ ディスカッション
 
-Adobe Developers Live コミュニティで会話を続けます [ ディスカッション ](https://adobe.ly/40y5tUG)。
+Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/40y5tUG)。
 
 ## 重要ポイント
 

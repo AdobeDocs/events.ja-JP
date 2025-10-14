@@ -23,5 +23,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-この番組についてご質問はありますか？ 引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073?profile.language=ja#M366) で行います。
+この番組についてご質問はありますか？ 引き続き、このトピックに関するディスカッションをAdobe Experience League[&#x200B; コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073?profile.language=ja#M366) で行います。
 

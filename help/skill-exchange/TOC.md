@@ -181,18 +181,18 @@ ht-degree: 9%
       + [トークンを使用したスケーラビリティと効率](marketo/feb2022/using-tokens.md)
       + [エンゲージメントプログラムを利用した顧客エンゲージメント](marketo/feb2022/utilize-engagement-programs.md)
    + 2021年8月 {#aug2021}
-      + [ [!DNL Marketo Engage] 内でのプログラムの作成](marketo/aug2021/create-programs.md)
+      + [&#x200B; [!DNL Marketo Engage] 内でのプログラムの作成](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage] ロックスターズ](marketo/aug2021/engage-rockstars.md)
       + [スマートキャンペーンの機能](marketo/aug2021/smart-campaign.md)
       + [プログラムメンバーカスタムフィールド](marketo/aug2021/program-member-custom-fields.md)
-      + [ [!DNL Marketo Engage] 内でのレポート](marketo/aug2021/reporting.md)
+      + [&#x200B; [!DNL Marketo Engage] 内でのレポート](marketo/aug2021/reporting.md)
       + [Marketo ロードマップ](marketo/aug2021/marketo-roadmap.md)
    + 2021年2月 {#feb2021}
       + [カスタムオブジェクトと速度へのトップロープダイブ](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Rockstar Segment](marketo/feb2021/rockstar.md)
       + [Adobe内でのプログラムの作成  [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [スマートキャンペーンの機能](marketo/feb2021/power-of-smart-campaign.md)
-      + [ [!DNL Marketo Engage] 内でのレポート](marketo/feb2021/reporting-within-marketo.md)
+      + [&#x200B; [!DNL Marketo Engage] 内でのレポート](marketo/feb2021/reporting-within-marketo.md)
       + [FormsのためのUltimateのヒントとテクニック](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2025年8月 {#aug2025}

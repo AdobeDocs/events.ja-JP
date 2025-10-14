@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Iryna Lagno と Valerii Naida が、2023 年 11 月 6 日（PT）にライブで録画された今回のセッションで、Adobe Experience Managerのコンテンツ管理に対する革新的なアプローチを紹介しました。 Google Places API などの外部データソースをコンテンツフラグメントに統合する方法、および Canvas Data API とカスタム UI 要素について説明します。 このセッションでは、ワークフローを効率化し、コンテンツ戦略にデータ駆動型の要素を導入しようとしている開発者やコンテンツ管理者に実践的な知識を提供します。
 
-[Experience League コミュニティ ](https://adobe.ly/48Rl57B) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/48Rl57B) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425626/?learn=on)

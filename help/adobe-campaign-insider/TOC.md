@@ -19,7 +19,7 @@ ht-degree: 2%
    + [カスタマースポットライト - [!DNL Center Parcs]](2022/center-parcs.md)
    + [配信品質のベストプラクティスと成果を導く戦略](2022/deliverability-best-practices.md)
    + [マーケティングエコシステムとの統合](2022/integrations.md)
-   + [ [!DNL Campaign Classic] を使用したクロスチャネルマーケティングのレベルアップ](2022/cross-channel.md)
+   + [&#x200B; [!DNL Campaign Classic] を使用したクロスチャネルマーケティングのレベルアップ](2022/cross-channel.md)
    + [クロスチャネルマーケティングをサポートするための必要なチーム、スキル、組織設計](2022/team-skills-org-design.md)
    + [時間節約のためのプロからのヒント](2022/tips.md)
 + 2023年 {#2023}

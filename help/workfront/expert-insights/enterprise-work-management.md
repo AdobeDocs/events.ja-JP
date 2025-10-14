@@ -36,7 +36,7 @@ Expert Insights へようこそ。  私はWorkfrontCSM の Cynthia Boon です�
 
 ## リソース
 
-* Daniel Clarke 氏（エンタープライズ・ワーク・マネジメント・031124 ール [ プレゼンテーション資料 ](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|638465678712329711|不明|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzUnknown iiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|0|||&sdata=y14IXCdSk8laYXyfuLcjFNjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
+* Daniel Clarke 氏（エンタープライズ・ワーク・マネジメント・031124 ール [&#x200B; プレゼンテーション資料 &#x200B;](https://nam04.safelinks.protection.outlook.com/?url=https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Adobe+Workfront+Collective+-+Daniel+Clarke+-+March+2024.pdf&data=05|02|csatscale@adobe.com|4308ae2a6beb4130dc6f08dc4926eafc|fa7b1b5a7b34438794aed2c178decee1|0|638465678712329711|不明|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzUnknown iiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|0|||&sdata=y14IXCdSk8laYXyfuLcjFNjBDeDjwZZu33nFJmxbx4E=&reserved=0) 
 
 ## スピーカーについて
 

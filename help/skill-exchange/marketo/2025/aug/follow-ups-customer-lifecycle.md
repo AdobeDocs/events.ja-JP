@@ -28,9 +28,9 @@ Marketo Engageのリクエストと実行可能なキャンペーンおよび様
 
 ## その他のリソース
 
-* [ 実行可能なキャンペーン ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
-* [Marketo Engageの新しい実行可能キャンペーンタイプについて知る必要のあるすべて ](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
-* [ 実行可能なキャンペーン：実行可能なキャンペーンによって効率と影響がどのように促進されるかを説明します ](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
+* [&#x200B; 実行可能なキャンペーン &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Marketo Engageの新しい実行可能キャンペーンタイプについて知る必要のあるすべて &#x200B;](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
+* [&#x200B; 実行可能なキャンペーン：実行可能なキャンペーンによって効率と影響がどのように促進されるかを説明します &#x200B;](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
 ## メールを超えたマルチチャネルライフサイクルエンゲージメントの習得
 
@@ -38,8 +38,8 @@ E メールを超えたマルチチャネルライフサイクルエンゲージ
 
 ## その他のリソース
 
-* [ メールを超える詳細：アプリ通知、Dynamic Chat、メッセージングアプリを使用したマルチチャネルマーケティング ](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
-* [ オムニチャネルエンゲージメント ](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [ アプリ内メッセージの作成方法 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [ プッシュ通知の作成方法 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
-* [WhatsApp テンプレートの作成方法 ](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
+* [&#x200B; メールを超える詳細：アプリ通知、Dynamic Chat、メッセージングアプリを使用したマルチチャネルマーケティング &#x200B;](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
+* [&#x200B; オムニチャネルエンゲージメント &#x200B;](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
+* [&#x200B; アプリ内メッセージの作成方法 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [&#x200B; プッシュ通知の作成方法 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [WhatsApp テンプレートの作成方法 &#x200B;](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

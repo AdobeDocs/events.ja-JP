@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Experience Cloud版 Developer Experience のDirectorである Jonathan Roeder が、Adobe Experience Cloud全体の最新の開発者向けアップデートについて説明します。
 
-**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
+**[Experience League コミュニティ &#x200B;](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331770/?quality=12&learn=on&hidetitle=true)
 

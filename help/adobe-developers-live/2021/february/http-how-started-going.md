@@ -21,6 +21,6 @@ ht-degree: 0%
 
 HTTP プロトコルの共著者であり、REST の発明者である Roy Fielding 氏に、HTTP の初期の段階から現在の QUIC と HTTP/3 に関する研究への進化についてインタビューした。
 
-**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
+**[Experience League コミュニティ &#x200B;](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 AEP Launch を使用すると、クライアントサイドのマーケティングおよび広告タグをすばやく簡単にデプロイおよび管理でき、独自の拡張機能をカスタマイズおよび記述する方法を学べます。
 
-**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
+**[Experience League コミュニティ &#x200B;](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 

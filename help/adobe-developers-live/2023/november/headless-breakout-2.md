@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Adobe Developers Liveによるこの有益なセッションでは、Gabriel Walt と Alex Tondo が、Adobe.comがAdobe Experience Managerのユニバーサルエディターをどのように使用してコンテンツ戦略を強化するかについて説明します。 2023 年 11 月 6 日（PT）に録画されたこの WYSIWYG エディターの、コンテンツ配信プロセスを合理化する際の機能と、コンテンツオーサリングを簡素化する際の役割について説明します。 このセッションは、AEMのコンテンツツールを効果的に使用して、動的で魅力的なデジタルエクスペリエンスを実現する方法を理解したいユーザーに最適です。
 
-[Experience League コミュニティ ](https://adobe.ly/46ELi7X) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/46ELi7X) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

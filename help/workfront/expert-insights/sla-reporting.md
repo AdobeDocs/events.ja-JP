@@ -27,21 +27,21 @@ ht-degree: 0%
 
 ビデオでお約束したとおり、Madalyn のプレゼンテーションは、手順、計算式、レポート例とリンクされています。 
 
-* [ マダリンのスライドデッキPDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
+* [&#x200B; マダリンのスライドデッキPDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
 
 ## リソース
 
 プレゼンテーション中に、Madalyn はカスタムフォームと計算フィールドを共有しました。これらの機能を使い始めたばかりの場合は、正しい方向を示すリンクをいくつかご覧ください。 
 
-* チュートリアルプレイリスト - [ カスタムFormsの作成と共有 ](https://experienceleague.adobe.com/ja/playlists/workfront-create-and-manage-custom-forms)
+* チュートリアルプレイリスト - [&#x200B; カスタムFormsの作成と共有 &#x200B;](https://experienceleague.adobe.com/ja/playlists/workfront-create-and-manage-custom-forms)
 
-* 記事 – [ 計算フィールドと式の概要 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 記事 – [&#x200B; 計算フィールドと式の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* ヒントとコツ [ 誰もが知っておくべき計算フィールドとそのレポート方法 ](https://experienceleague.adobe.com/ja/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* ヒントとコツ [&#x200B; 誰もが知っておくべき計算フィールドとそのレポート方法 &#x200B;](https://experienceleague.adobe.com/ja/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Madalyn からの他のヒントに興味がありますか？ Workfront Community で彼女の一連のヒントとテクニックをご覧ください。 
 
-* [ 火曜日テクニカル バイト ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=ja#M2742)
+* [&#x200B; 火曜日テクニカル バイト &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=ja#M2742)
 
 ## スピーカーについて 
 

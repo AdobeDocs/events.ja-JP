@@ -42,7 +42,7 @@ OSGi R7 リリースは、多くの重要な新機能やパフォーマンスを
 
 ## 関連リンク {#related-links}
 
-[OSGi Alliance ブログ ](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
+[OSGi Alliance ブログ &#x200B;](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
 [OSGi 仕様ライセンス、バージョン 2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 

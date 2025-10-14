@@ -36,8 +36,8 @@ ht-degree: 0%
 
 ## このプレゼンテーションで参照されているリソース
 
-* [ 業務プログラムについて ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [ エンゲージメントスコアについて ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [ 契約プログラムストリームへのプログラムの追加 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [ プログラムインポートライブラリの概要 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
-* [ マーケティングネーションコミュニティディスカッションスレッド ](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
+* [&#x200B; 業務プログラムについて &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [&#x200B; エンゲージメントスコアについて &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [&#x200B; 契約プログラムストリームへのプログラムの追加 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [&#x200B; プログラムインポートライブラリの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [&#x200B; マーケティングネーションコミュニティディスカッションスレッド &#x200B;](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

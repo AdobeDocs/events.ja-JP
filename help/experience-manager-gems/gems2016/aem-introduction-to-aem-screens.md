@@ -38,6 +38,6 @@ AEM Screensは、Adobe Experience Managerに統合された新しいデジタル
 
 >[!WARNING]
 >
->AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [&#x200B; ページ &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
 >このセッションに関連しては、AEM 6.2 ドキュメントの *Screensのデプロイ* および *Screens コンセプト* を参照してください。

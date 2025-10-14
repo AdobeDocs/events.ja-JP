@@ -30,5 +30,5 @@ ht-degree: 0%
 
 **発表者のスライド**
 
-[ ファイルを入手 ](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[ 概要に戻る ](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
+[&#x200B; ファイルを入手 &#x200B;](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
+[&#x200B; 概要に戻る &#x200B;](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -29,6 +29,6 @@ Adobe、シニア翻訳テクノロジーグループマネージャー、Christ
 
 ベストプラクティスに関する詳細については、Adobe Experience Managerのドキュメントを参照してください。
 
-* [ マルチサイト管理のベストプラクティス ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
-* [ 翻訳のベストプラクティス ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [ 概要に戻る ](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
+* [&#x200B; マルチサイト管理のベストプラクティス &#x200B;](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [&#x200B; 翻訳のベストプラクティス &#x200B;](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
+* [&#x200B; 概要に戻る &#x200B;](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

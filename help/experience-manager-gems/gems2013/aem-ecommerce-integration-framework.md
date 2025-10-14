@@ -26,8 +26,8 @@ CQ 5.6 は、Adobe Experience Managerの一部として、サードパーティ�
 
 ## 関連リンク {#related-links}
 
-[ 発表者のスライド ](https://www.slideshare.net/paolomoz/aem-cq-ecommerce-framework)
+[&#x200B; 発表者のスライド &#x200B;](https://www.slideshare.net/paolomoz/aem-cq-ecommerce-framework)
 
-[ デモの記録 ](https://vimeo.com/62251523)
+[&#x200B; デモの記録 &#x200B;](https://vimeo.com/62251523)
 
-[GitHub とサンプルコード ](https://github.com/paolomoz/cq-commerce-impl-sample)
+[GitHub とサンプルコード &#x200B;](https://github.com/paolomoz/cq-commerce-impl-sample)

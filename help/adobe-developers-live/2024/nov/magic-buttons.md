@@ -26,7 +26,7 @@ Adobe Experience Managerの UI を拡張して、繰り返しのコンテンツ�
 
 ## コミュニティ ディスカッション
 
-Adobe Developers Live コミュニティで会話を続けます [ ディスカッション ](https://adobe.ly/3Ywf6kg)。
+Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/3Ywf6kg)。
 
 ## 重要ポイント
 

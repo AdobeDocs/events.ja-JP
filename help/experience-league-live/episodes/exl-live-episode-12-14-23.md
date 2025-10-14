@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558?profile.language=ja#M14){target="_blank"} で行います。
+引き続き、このトピックに関するディスカッションをAdobe Experience League[&#x200B; コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558?profile.language=ja#M14){target="_blank"} で行います。
 
 >[!ENDSHADEBOX]
 

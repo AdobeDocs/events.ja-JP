@@ -33,14 +33,14 @@ Adobe、シニアデベロッパー、Timothee Maret
 
 >[!WARNING]
 >
->AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [&#x200B; ページ &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
 >このセッションに関連する内容については、AEM ドキュメントの *ユーザーの同期* を参照してください。
 
-* [Apache Sling コンテンツ配布 ](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [ 概要に戻る ](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Apache Sling コンテンツ配布 &#x200B;](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [&#x200B; 概要に戻る &#x200B;](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEMのインデックス作成と JCR クエリ ](aem-indexing-jcr-query.md)
->* [Sling コンテンツ配布のトラブルシューティング ](aem-troubleshooting-sling.md)
+>* [AEMのインデックス作成と JCR クエリ &#x200B;](aem-indexing-jcr-query.md)
+>* [Sling コンテンツ配布のトラブルシューティング &#x200B;](aem-troubleshooting-sling.md)

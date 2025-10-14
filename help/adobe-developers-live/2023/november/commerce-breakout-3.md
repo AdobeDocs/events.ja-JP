@@ -23,6 +23,6 @@ ht-degree: 0%
 
 2023 年 11 月 6 日（PT）にAdobe Developers Liveでライブ録画を行った今回のセッションでは、Adobe CommerceとAWSのイベント駆動型統合の構築過程についてゲラ氏とラミク氏が語ります。 Adobe Commerceの拡張モデルを詳しく見ていき、Amazon EventBridge との統合について学び、クラウドネイティブなデジタルコマース設定における実際のアプリケーションを調べます。 このセッションでは、最新のクラウドテクノロジーを活用した、スケーラブルで柔軟なコマースソリューションの作成について詳しく説明します。
 
-[Experience League コミュニティ ](https://adobe.ly/3ts1NW5) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/3ts1NW5) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425633/?learn=on)

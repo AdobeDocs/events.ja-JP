@@ -38,8 +38,8 @@ Ewan がビデオで言及したように、彼は Fusion のベストプラク�
 
 ## リソース
 
-* [ 使用可能な Fusion テンプレートのリスト ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=ja)
-* [Adobe Workfront Fusion ビデオの概要 ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=ja)
+* [&#x200B; 使用可能な Fusion テンプレートのリスト &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=ja)
+* [Adobe Workfront Fusion ビデオの概要 &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=ja)
 
 ## スピーカーについて
 

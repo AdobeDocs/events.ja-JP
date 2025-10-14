@@ -26,5 +26,5 @@ ht-degree: 0%
 
 このExperience Leagueライブセッションでは、製品エキスパートが、Real-Time CDPとJourney Optimizerの「計算済み属性」をシンプルな UI を使用して、セグメンテーションとパーソナライゼーションの強化に使用できるプロファイル属性としての行動集計を作成する方法を説明します。
 
-**このトピックに関するディスカッションは、番組の [Experience League コミュニティ Postで続けてください ](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=ja#M5){target="_blank"}**。
+**このトピックに関するディスカッションは、番組の [Experience League コミュニティ Postで続けてください &#x200B;](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=ja#M5){target="_blank"}**。
 

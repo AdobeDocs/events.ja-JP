@@ -30,4 +30,4 @@ Marketo Engage REST API の機能を確認すると、マーケティングオ�
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-[ マーケティングネーションコミュニティウェビナースレッド ](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"} の会話に参加してください。
+[&#x200B; マーケティングネーションコミュニティウェビナースレッド &#x200B;](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"} の会話に参加してください。

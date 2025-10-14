@@ -32,4 +32,4 @@ Adobe、製品マネージャー、Peter Klassen
 
 * [AEM 6.0 リリースノート](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
 * [AEM 6.0 の管理](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [AEM 6.0 へのアップグレードの計画 ](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 へのアップグレードの計画 &#x200B;](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

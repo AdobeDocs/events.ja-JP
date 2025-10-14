@@ -24,6 +24,6 @@ CDP に関する市場のノイズは多く、どこに焦点を当てるべき�
 
 ## 追加情報
 
-*[ 顧客データ管理の人物およびプロセスのベストプラクティス ](people-and-process.md)
-*[ ファーストパーティデータで優れたエクスペリエンスを構築 ](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=ja)
-*[ 導入事例 – TSB は、すべての顧客に対してリアルタイムのデータ・パーソナライゼーションを行っています。](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[&#x200B; 顧客データ管理の人物およびプロセスのベストプラクティス &#x200B;](people-and-process.md)
+*[&#x200B; ファーストパーティデータで優れたエクスペリエンスを構築 &#x200B;](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=ja)
+*[&#x200B; 導入事例 – TSB は、すべての顧客に対してリアルタイムのデータ・パーソナライゼーションを行っています。](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

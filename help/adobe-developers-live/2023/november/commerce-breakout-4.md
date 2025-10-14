@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Cristian Partica は、2023 年 11 月 6 日（PT）にライブで記録されたこの有益なセッションで、Adobe Commerce内での API 統合の課題に取り組んでいます。 API メッシュが、様々なワークフローを効率的に管理し、データの一貫性を確保し、現在のデジタルコマース環境で合理化されたユーザーエクスペリエンスを提供する際にどのように役立つかを調べます。 このセッションは、急速に進化するAdobe Commerceの範囲内で API を統合するための効果的な戦略を模索している開発者に最適です。
 
-[Experience League コミュニティ ](https://adobe.ly/3ttN8tz) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/3ttN8tz) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425628/?learn=on)

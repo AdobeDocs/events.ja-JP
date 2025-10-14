@@ -30,6 +30,6 @@ ht-degree: 0%
 
 次のチュートリアルをご覧ください。
 
-* [ 潜在的な競合の特定 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
-* [ インバウンドアクションへの優先度スコアの割り当て ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
-* *[ジャーニーのフリークエンシーキャップと優先順位付け ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)
+* [&#x200B; 潜在的な競合の特定 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)
+* [&#x200B; インバウンドアクションへの優先度スコアの割り当て &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)
+* *[ジャーニーのフリークエンシーキャップと優先順位付け &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)

@@ -29,7 +29,7 @@ Adobe、製品マネージャー、Jonas Dahl
 
 ## リソース {#resources}
 
-[ 拡張スマートタグ - AEM Assets](https://helpx.adobe.com/jp/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[&#x200B; 拡張スマートタグ - AEM Assets](https://helpx.adobe.com/jp/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -37,4 +37,4 @@ Adobe、製品マネージャー、Jonas Dahl
 
 >[!MORELIKETHIS]
 >
->* [AEMの機械学習：強化されたスマートタグ、スマートレイアウトなど ](aem-machine-learning.md)
+>* [AEMの機械学習：強化されたスマートタグ、スマートレイアウトなど &#x200B;](aem-machine-learning.md)

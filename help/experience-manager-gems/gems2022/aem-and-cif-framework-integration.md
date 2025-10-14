@@ -28,8 +28,8 @@ ht-degree: 9%
 
 >[!MORELIKETHIS]
 >
->* [ 対応するAdobe Experience Manager ユーザーグループのイベントページ ](https://adobe.ly/3O0uXl5/)
->* [ 対応するコンテキストスレッド ](https://adobe.ly/3jorz5r)
+>* [&#x200B; 対応するAdobe Experience Manager ユーザーグループのイベントページ &#x200B;](https://adobe.ly/3O0uXl5/)
+>* [&#x200B; 対応するコンテキストスレッド &#x200B;](https://adobe.ly/3jorz5r)
 >* 今後のウェビナーの通知を受け取るには [&#128279;](https://aem-augs.adobe.com/)AdobeのAEM ユーザーグループ &rbrace; にご登録ください。
 
 **概要レベルのアジェンダ：**

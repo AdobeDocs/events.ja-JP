@@ -40,6 +40,6 @@ AEM デベロッパーは、新しく導入されたAssets Open API と、アド
 
 >[!NOTE]
 > 
->* Experience Leagueに関するこのウェビナーでのセッション固有のコミュニティのインタラクションについては、それぞれの [ コンテキストスレッド ](https://adobe.ly/3UQXwFO) にアクセスしてください。
+>* Experience Leagueに関するこのウェビナーでのセッション固有のコミュニティのインタラクションについては、それぞれの [&#x200B; コンテキストスレッド &#x200B;](https://adobe.ly/3UQXwFO) にアクセスしてください。
 >
->* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。
+>* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ &#x200B;](https://aem-augs.adobe.com/) に登録してください。

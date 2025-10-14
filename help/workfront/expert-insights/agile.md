@@ -29,14 +29,14 @@ ht-degree: 0%
 ## リソース
 
 Natalie はインタビューの中でお気に入りのアジャイルのリソースを共有したので、約束したとおり、以下の本へのクイックリンクを提供しました。
-* [ リーン製品プレイブック ](https://leanproductplaybook.com/)
-* [ マーケティングの俊敏性の習得 ](https://masteringmarketingagility.com/)
+* [&#x200B; リーン製品プレイブック &#x200B;](https://leanproductplaybook.com/)
+* [&#x200B; マーケティングの俊敏性の習得 &#x200B;](https://masteringmarketingagility.com/)
 
 簡単に使い始める方法をお探しですか？ 次の記事と短いビデオデモをご覧ください。
 
-* [Adobe Workfront ボードの早期機能オプトイン ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=ja)
-* [ ボードを作成または編集 – 各ボードテンプレートの説明が含まれます ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=ja)
-* [Adobe Workfrontボード – 短いビデオデモ ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=ja)
+* [Adobe Workfront ボードの早期機能オプトイン &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=ja)
+* [&#x200B; ボードを作成または編集 – 各ボードテンプレートの説明が含まれます &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=ja)
+* [Adobe Workfrontボード – 短いビデオデモ &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=ja)
 
 ## スピーカーについて
 

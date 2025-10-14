@@ -32,15 +32,15 @@ Marketo Engageのエキスパートであるカーリー・ガーバーとケイ
 * **Target アカウント管理**
    * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [FAQ](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
-   * [ ヒントとコツのビデオ ](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
+   * [&#x200B; ヒントとコツのビデオ &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
    * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [使用例](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **高度なジャーニー分析**
-   * [ レポートの概要 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [ ライフサイクルModelerの概要 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [&#x200B; レポートの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [&#x200B; ライフサイクルModelerの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **サンドボックス**
    * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)

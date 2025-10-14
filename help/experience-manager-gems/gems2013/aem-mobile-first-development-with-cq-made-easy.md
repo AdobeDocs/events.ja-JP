@@ -26,4 +26,4 @@ Adobe、コンピューターサイエンティスト、Bruce Lefebvre
 
 ## 関連リンク {#related-links}
 
-[ 発表者のスライドとリソース ](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[&#x200B; 発表者のスライドとリソース &#x200B;](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

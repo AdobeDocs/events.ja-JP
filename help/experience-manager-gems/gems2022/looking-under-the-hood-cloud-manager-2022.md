@@ -33,5 +33,5 @@ Session description:
 
 >[!NOTE]
 >
->* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、この [ コンテキストスレッド ](https://adobe.ly/3O0rdzd) を参照してください。
->* ウェビナーに関する自動通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。
+>* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、この [&#x200B; コンテキストスレッド &#x200B;](https://adobe.ly/3O0rdzd) を参照してください。
+>* ウェビナーに関する自動通知を受け取るには、[AdobeのAEM ユーザーグループ &#x200B;](https://aem-augs.adobe.com/) に登録してください。

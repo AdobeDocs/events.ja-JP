@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Adobe Developers Liveでライブ録画した Catalina Dumitru による今回のセッションでは、Adobe Experience Managerのヘッドレス API の可能性を確認できます。 タグ付け、バージョン管理、エンドポイント検索など、これらの API の拡張機能について説明します。 デジタルチャネルをまたいで、アプリのようなエクスペリエンスの効率的なコンテンツ取得を促進する方法を理解し、これらの API の実際のアプリケーションを確認します。 このセッションは、ヘッドレステクノロジーを革新的なソリューションに活用しようとしている開発者にとって非常に貴重なリソースです。
 
-[Experience League コミュニティ ](https://adobe.ly/3rJfZcN) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/3rJfZcN) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 詳細なイベント
 
-このたびは、Deep Dives のオンデマンドイベント録画をご視聴いただき、誠にありがとうございます。 これらのリソースをAdobe Marketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja) および [ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja) と組み合わせると、Adobe Marketoをビジネスのサポートに使用する方法をより深く理解することができます。
+このたびは、Deep Dives のオンデマンドイベント録画をご視聴いただき、誠にありがとうございます。 これらのリソースをAdobe Marketo [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja) および [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja) と組み合わせると、Adobe Marketoをビジネスのサポートに使用する方法をより深く理解することができます。
 
 <!-- CARDS
 

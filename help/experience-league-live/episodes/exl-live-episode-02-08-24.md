@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=ja#M488) で行います。
+引き続き、このトピックに関するディスカッションをAdobe Experience League[&#x200B; コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=ja#M488) で行います。
 
 >[!ENDSHADEBOX]
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 ## その他のリソース
 
-* **[ユースケースプレイブックの概要 ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=ja){target="_blank"}**
+* **[ユースケースプレイブックの概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=ja){target="_blank"}**
   *ユースケースプレイブックは、Real-Time CDPまたはAdobe Journey Optimizerを使い始めた際に、何から始めればよいかわからない場合や、目的のユースケースを達成するために適切なアセットを作成する方法がわからない場合に、問題を解決するのに役立ちます。*
 
-* **[ユースケースプレイブックの概要 ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=ja){target="_blank"}**
+* **[ユースケースプレイブックの概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=ja){target="_blank"}**
   *Real-time Customer Data PlatformとAdobe Journey Optimizer向けに設計されたユースケースプレイブック用のアカウントの設定方法を説明します。*
 
-* **[使用可能なユースケースプレイブック ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=ja){target="_blank"}**
+* **[使用可能なユースケースプレイブック &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=ja){target="_blank"}**
   *Real-time Customer Data PlatformとAdobe Journey Optimizerで見つけて使用できる、使用可能なすべてのプレイブックの概要については、このページを参照してください。*

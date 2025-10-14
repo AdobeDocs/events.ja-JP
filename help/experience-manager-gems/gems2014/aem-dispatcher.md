@@ -30,11 +30,11 @@ Adobe、シニアコンピューターサイエンティスト、Dominique Pfist
 
 ## リソース {#resources}
 
-[Dispatcher キャッシュの詳細 ](https://github.com/cqsupport/webinar-dispatchercache)
+[Dispatcher キャッシュの詳細 &#x200B;](https://github.com/cqsupport/webinar-dispatchercache)
 
-[Rosetta Flashによる JSONP の悪用 ](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
+[Rosetta Flashによる JSONP の悪用 &#x200B;](https://miki.it/blog/2014/7/8/abusing-jsonp-with-rosetta-flash/)
 
-[ 詳細情報 ](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
+[&#x200B; 詳細情報 &#x200B;](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

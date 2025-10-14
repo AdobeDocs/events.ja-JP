@@ -38,6 +38,6 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
->* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、[ コンテキストスレッド ](https://adobe.ly/3uIj6D7) を参照してください。
+>* Experience Leagueに関するセッション固有のコミュニティのやり取りについては、[&#x200B; コンテキストスレッド &#x200B;](https://adobe.ly/3uIj6D7) を参照してください。
 >
->* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/) に登録してください。
+>* 今後のウェビナーに関する通知を受け取るには、[AdobeのAEM ユーザーグループ &#x200B;](https://aem-augs.adobe.com/) に登録してください。

@@ -24,6 +24,6 @@ e コマースサイトの最も重要な部分の 1 つは、製品を検索す
 
 ## その他のリソース
 
-- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

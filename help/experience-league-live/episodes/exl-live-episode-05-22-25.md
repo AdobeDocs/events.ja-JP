@@ -30,10 +30,10 @@ ht-degree: 1%
 
 >[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-[Experience League コミュニティフォーラムのディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=ja#M4712) でディスカッションを続行します。
+[Experience League コミュニティフォーラムのディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=ja#M4712) でディスカッションを続行します。
 
 >[!ENDSHADEBOX]
 
 ## その他のリソース
 
-[Content Analytics ビデオ ](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)
+[Content Analytics ビデオ &#x200B;](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics)

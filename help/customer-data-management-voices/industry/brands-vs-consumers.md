@@ -24,6 +24,6 @@ ht-degree: 10%
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
-このビデオの補足として、[ ホワイトペーパーをダウンロード ](./../assets/whitepaper-a-tale-of-two-perceptions.pdf) することもできます。
+このビデオの補足として、[&#x200B; ホワイトペーパーをダウンロード &#x200B;](./../assets/whitepaper-a-tale-of-two-perceptions.pdf) することもできます。
 
 *1 年後：*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.* のインサイトを更新

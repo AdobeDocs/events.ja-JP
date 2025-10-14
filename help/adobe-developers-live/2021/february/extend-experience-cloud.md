@@ -21,7 +21,7 @@ ht-degree: 0%
 
 複数のソリューションに対応する最新のアーキテクチャを使用してAdobeソリューションを拡張したいとお考えですか？ さて、私たちは、あなたがAdobe Developer App Builderを試してみるべきだと思います。
 
-**[Experience League コミュニティ ](https://adobe.ly/36Yd3v6)** で会話を続けます。
+**[Experience League コミュニティ &#x200B;](https://adobe.ly/36Yd3v6)** で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 

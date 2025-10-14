@@ -30,5 +30,5 @@ API トリガーキャンペーンを使用すると、企業はキャンペー�
 
 **上の画像をクリックすると、ショーを視聴できます！**
 
-[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=ja#M132) でディスカッションを続けます。
+[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=ja#M132) でディスカッションを続けます。
 

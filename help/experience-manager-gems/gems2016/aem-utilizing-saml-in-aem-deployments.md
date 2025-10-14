@@ -31,8 +31,8 @@ Adobeの CS エンジニアの Sham Hassan Chikkegowda、シニアデベロッ�
 
 ## 関連リンク {#related-links}
 
-* [SAML 2.0 認証ハンドラー ](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* [[SAMLProf] OASIS Security Assertion Markup Language （SAML） V2.0 用プロファイル ](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
-* [[SAMLBind] OASIS Security Assertion Markup Language （SAML） V2.0 用のバインド ](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
-* [[SAMLTech] Security Assertion Markup Language （SAML） V2.0 技術概要 ](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
-* [SAML V2.0 エグゼクティブサマリー ](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
+* [SAML 2.0 認証ハンドラー &#x200B;](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
+* [[SAMLProf] OASIS Security Assertion Markup Language （SAML） V2.0 用プロファイル &#x200B;](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)
+* [[SAMLBind] OASIS Security Assertion Markup Language （SAML） V2.0 用のバインド &#x200B;](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)
+* [[SAMLTech] Security Assertion Markup Language （SAML） V2.0 技術概要 &#x200B;](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
+* [SAML V2.0 エグゼクティブサマリー &#x200B;](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)

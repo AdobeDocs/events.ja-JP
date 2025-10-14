@@ -22,8 +22,8 @@ ht-degree: 0%
 ライブセッションを見逃した場合は、録画がここに投稿されます。次に、スライドデッキへのリンクとExperience League Community の投稿を示します。
 
 * [Workfront スライド デッキ PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Creative+Ways+of+Managing+Resources+in+Adobe+Workfront+052025.pdf)
-* [ ウェスタン・ガバナーズ・ユニバーシティ・スライド・デッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
-* [DSW Designer靴倉庫スライド デッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
-* [ その他のリソースと共にExperience League コミュニティに投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145?profile.language=ja)
+* [&#x200B; ウェスタン・ガバナーズ・ユニバーシティ・スライド・デッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
+* [DSW Designer靴倉庫スライド デッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
+* [&#x200B; その他のリソースと共にExperience League コミュニティに投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145?profile.language=ja)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464296/?learn=on&enablevpops)

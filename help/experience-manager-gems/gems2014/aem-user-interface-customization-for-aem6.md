@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## 関連リンク {#related-links}
 
-* [ タッチ UI の概念 ](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
-* [ 構造 ](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
-* [ コンソールのカスタマイズ（タッチ操作向け UI） ](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [ ページオーサリングのカスタマイズ（タッチ操作向け UI） ](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [&#x200B; タッチ UI の概念 &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [&#x200B; 構造 &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
+* [&#x200B; コンソールのカスタマイズ（タッチ操作向け UI） &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
+* [&#x200B; ページオーサリングのカスタマイズ（タッチ操作向け UI） &#x200B;](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

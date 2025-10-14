@@ -27,11 +27,11 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448635/?quality=12&learn=on)
 
-**Experience League [ コミュニティポスト ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=ja){target=“_blank”}** でディスカッションを続ける
+**Experience League [&#x200B; コミュニティポスト &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208?profile.language=ja){target=“_blank”}** でディスカッションを続ける
 
 ## その他のリソース
 
-[AI アシスタントの概要 ](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/overview)
+[AI アシスタントの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/overview)
 
-[AI アシスタントのセキュリティ ファクト シート ](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
+[AI アシスタントのセキュリティ ファクト シート &#x200B;](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-ai-assistant-in-aep-security-fact-sheet.pdf)
 

@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Ekrem Dogan 氏は、Adobe Developers Liveから Web サイトのパフォーマンスを最適化する上で重要な側面について説明します。 2023 年 11 月 6 日（PT）に公開録画し、Lighthouse のトップスコアを達成および維持し、Adobe Experience Managerで効率的で使いやすい web サイトを確保するための戦略を説明します。 この講演には、実用的なヒントと実際の例が多数掲載されており、web パフォーマンスの最適化に焦点を当てた開発者にとって必須です。
 
-[Experience League コミュニティ ](https://adobe.ly/3rC7TTm) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/3rC7TTm) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

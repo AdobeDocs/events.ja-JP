@@ -16,7 +16,7 @@ ht-degree: 1%
 + [Adobeコンテンツ管理フォーラム](overview.md)
 + 2022年 {#2022}
    + [ようこそアドレスとAEMの概要](2022/welcome.md)
-   + [ [!DNL Adobe App Builder] を使用したAdobe [!DNL Experience Manager]  ヘッドレスの拡張](2022/headless.md)
+   + [&#x200B; [!DNL Adobe App Builder] を使用したAdobe [!DNL Experience Manager]  ヘッドレスの拡張](2022/headless.md)
    + [開発者のベストプラクティス](2022/developer-best-practices.md)
    + [コンテンツのパーソナライゼーションの配信](2022/personalization.md)
    + [拡張するコンテンツのサプライチェーンの構築](2022/supply-chain.md)

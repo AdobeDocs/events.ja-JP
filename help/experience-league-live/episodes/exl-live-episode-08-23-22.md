@@ -80,7 +80,7 @@ ht-degree: 0%
 
 **回答：** RTCDP Connections （イベント転送）は、アドビ以外の宛先に送信する前に、より詳細な制御を行う機能を提供します。
 
-**回答：** 詳しくは、他の ExL Live ビデオをご覧ください（例：[ こちら ](exl-live-episode-06-23-22.md)）。
+**回答：** 詳しくは、他の ExL Live ビデオをご覧ください（例：[&#x200B; こちら &#x200B;](exl-live-episode-06-23-22.md)）。
 
 <br> 
 
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 <br> 
 
-[Experience League コミュニティ ディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=ja#M240) でこのトピックに関するディスカッションを続けてください。
+[Experience League コミュニティ ディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=ja#M240) でこのトピックに関するディスカッションを続けてください。
 <br> 
 
 ## このデータ収集シリーズのその他のExperience Leagueライブセッション

@@ -21,7 +21,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobeプロダクト�
 
 ## 知り合いになる
 
-今後のイベントについては、**[登録 ](https://developerevents.adobe.com/)** してください。
+今後のイベントについては、**[登録 &#x200B;](https://developerevents.adobe.com/)** してください。
 
 ## 2024 年 11 月セッション
 

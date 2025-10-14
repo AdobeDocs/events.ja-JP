@@ -32,9 +32,9 @@ ht-degree: 0%
 
 プレゼンテーションの中で、Jaime と Danielle は、以下にハイパーリンクしたいくつかの追加リソースについて話し合いました。
 
-* [Workfront導入調査ガイド ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
+* [Workfront導入調査ガイド &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+Guide+to+Adoption+Surveys)
 * [Workfront管理チャット - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
-* [Workfront ユーザーの導入に関する調査 ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
+* [Workfront ユーザーの導入に関する調査 &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
 採用と一般的なオンボーディングの詳細については、 私たちのブログをチェックしてください！ - [Workfrontの新規ユーザー Adobe Workfront カスタマーサクセスオンボーディングブログへようこそ！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=ja)
 

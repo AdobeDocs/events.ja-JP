@@ -30,7 +30,7 @@ AEMの作業は自己完結型ですが、AEMに取り組む AT/AAM/AA コンサ
 
 ## 関連リンク {#related-links}
 
-[ 開発者向け web 分析 ](https://webanalyticsfordevelopers.com/)
+[&#x200B; 開発者向け web 分析 &#x200B;](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

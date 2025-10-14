@@ -26,7 +26,7 @@ Adobe Campaign v8 のルックアンドフィールは一新されます。 新�
 
 >[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=ja#M2671){target="_blank"} で行います。
+引き続き、このトピックに関するディスカッションをAdobe Experience League[&#x200B; コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=ja#M2671){target="_blank"} で行います。
 
 >[!ENDSHADEBOX]
 
@@ -46,7 +46,7 @@ Adobe Campaign v8 のルックアンドフィールは一新されます。 新�
 
 ## その他のリソース
 
-* **[Campaign Web ユーザーインターフェイス – 主な機能 ](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
+* **[Campaign Web ユーザーインターフェイス – 主な機能 &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
   *Adobe Campaign Web ユーザーインターフェイスで現在使用可能な機能に関する詳細なドキュメント*
 
 * **[Adobe Campaign Web ユーザーインターフェイス -Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ja){target="_blank"}**

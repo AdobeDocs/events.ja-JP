@@ -31,7 +31,7 @@ Java や Sling などの従来のExperience Manager スキルが必要なく、A
 
 >[!MORELIKETHIS]
 >
->* [ 対応するコンテキストスレッド ](https://adobe.ly/3LkSWdm)
+>* [&#x200B; 対応するコンテキストスレッド &#x200B;](https://adobe.ly/3LkSWdm)
 >* 今後のウェビナーの通知を受け取るには [&#128279;](https://aem-augs.adobe.com/)AdobeのAEM ユーザーグループ &rbrace; にご登録ください。
 
 

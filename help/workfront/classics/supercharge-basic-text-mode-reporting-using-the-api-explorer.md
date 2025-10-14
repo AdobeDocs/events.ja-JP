@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## その他のリソース
 
-![ テキストモードのコードルールの例を示すグラフ ](assets/text-mode-chart.png)
+![&#x200B; テキストモードのコードルールの例を示すグラフ &#x200B;](assets/text-mode-chart.png)
 
 
 **最終的な「すべての担当業務」列**

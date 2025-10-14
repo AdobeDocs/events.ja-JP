@@ -26,7 +26,7 @@ Adobeのプリンシパルテクニカルアーキテクト、Achim Koch が、�
 
 ## コミュニティ ディスカッション
 
-Adobe Developers Live コミュニティで会話を続けます [ ディスカッション ](https://adobe.ly/4hKHpnF)。
+Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/4hKHpnF)。
 
 ## 重要ポイント
 

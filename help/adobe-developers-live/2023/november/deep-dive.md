@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Adobe Developers Liveのこのディープダイブセッションでは、Amol Anand と Darin Kuntze が、Adobe Experience Manager（AEM）の革新的なEdge Delivery Servicesと最新のドキュメントベースオーサリングについて説明します。 2023 年 11 月 6 日（PT）に録画されたこれらのツールが、コンテンツ作成に革命を起こし、迅速かつシンプルにする方法と、継続的な最適化でエンゲージメントとコンバージョンを促進する方法について説明します。 このセッションは、AEM GraphQL API やその他の柔軟なツールを使用して web 開発戦略を強化しようとしている開発者に最適です。
 
-[Experience League コミュニティ ](https://adobe.ly/46KMTsh) で会話を続けます。
+[Experience League コミュニティ &#x200B;](https://adobe.ly/46KMTsh) で会話を続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425622/?learn=on)

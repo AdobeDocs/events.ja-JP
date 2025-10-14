@@ -35,13 +35,13 @@ AEM ドキュメント
 
 >[!WARNING]
 >
->AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [ ページ ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
+>AEM バージョン 6.4 以前は、提供が終了しており、Adobeによる販売は行われなくなりました。  Adobeでは、最新バージョンである [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja) にアップグレードすることをお勧めします。  ドキュメントのアーカイブ済みバージョンには、この [&#x200B; ページ &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja) からアクセスできます。
 >
 >このセッションとの関連については、AEM 6.3 ドキュメントの *Oakのクエリとインデックス作成* および *クエリとインデックスに関するベストプラクティス* を参照してください。
 
 Oak ドキュメント
 
-* [Oakのクエリとインデックス ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=ja)
+* [Oakのクエリとインデックス &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=ja)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -49,9 +49,9 @@ Oak ドキュメント
 
 >[!MORELIKETHIS]
 >
->* [AEMのインデックス作成と JCR クエリ ](aem-indexing-jcr-query.md)
->* [AEM レプリケーションのトラブルシューティング ](aem-troubleshooting-aem-replication.md)
->* [Sling コンテンツ配布のトラブルシューティング ](aem-troubleshooting-sling.md)
+>* [AEMのインデックス作成と JCR クエリ &#x200B;](aem-indexing-jcr-query.md)
+>* [AEM レプリケーションのトラブルシューティング &#x200B;](aem-troubleshooting-aem-replication.md)
+>* [Sling コンテンツ配布のトラブルシューティング &#x200B;](aem-troubleshooting-sling.md)
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 -->

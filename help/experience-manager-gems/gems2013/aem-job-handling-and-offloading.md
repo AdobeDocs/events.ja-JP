@@ -36,6 +36,6 @@ Adobe、リードデベロッパー、Marc Pfaff
 
 ## 関連リンク {#related-links}
 
-* [Apache Sling イベントとジョブ処理 ](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API およびその実装 ](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [ ジョブのオフロード ](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Apache Sling イベントとジョブ処理 &#x200B;](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [Discovery API およびその実装 &#x200B;](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [&#x200B; ジョブのオフロード &#x200B;](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

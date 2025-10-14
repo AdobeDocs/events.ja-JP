@@ -28,6 +28,6 @@ Commerce integration framework（CIF）を使用したAdobe Experience Manager C
 
 ## その他のリソース
 
-- [Adobe Experience Manager ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
-- [Adobe Experience Manager Cloud Serviceの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
+- [Adobe Experience Manager ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja)
+- [Adobe Experience Manager Cloud Serviceの概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=ja)
 - [Adobe Experience Manager チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=ja)

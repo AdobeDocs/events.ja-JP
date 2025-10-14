@@ -41,15 +41,15 @@ ht-degree: 0%
 
 ## リソース
 
-* **ブログ** - [ 計算されたカスタムフィールドを使用して時間を節約 ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=ja)
+* **ブログ** - [&#x200B; 計算されたカスタムフィールドを使用して時間を節約 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=ja)
 * **記事** - [ 計算データ式 ] （https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=ja#:~:text=データ式を使用して、新しいフィールドを生成できます。&amp;text=データをカスタム フォームに作成する方法の詳細を表示します。）
-* **イベントのフォローアップ** - [ 計算カスタムフィールドワークショップ ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=ja)
-* **コミュニティ** - [ レポートクックブック ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ja#M1406)
+* **イベントのフォローアップ** - [&#x200B; 計算カスタムフィールドワークショップ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=ja)
+* **コミュニティ** - [&#x200B; レポートクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ja#M1406)
 * **ブログ** - [Workfront ブループリントを使用して作業管理環境を最適化する！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=ja)
    * *はじめに* – このブログでは、システムメンテナンスダッシュボードと使用状況ダッシュボードのレポートバンドルに関する詳細を確認できます。 
    * *ボーナスヒント！* – 新しいブループリントがリリースされたときの通知をブログに登録します。 
-* **記事** - [ ワイルドカードフィルター変数 ](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=ja)
-* **記事** - [ ビューへの基本的な条件付き書式の追加 ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=ja)
+* **記事** - [&#x200B; ワイルドカードフィルター変数 &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=ja)
+* **記事** - [&#x200B; ビューへの基本的な条件付き書式の追加 &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=ja)
 
 ## スピーカーについて
 

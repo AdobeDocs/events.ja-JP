@@ -24,21 +24,21 @@ ht-degree: 0%
 
 ## リソース
 
-* [ スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Adobe+Workfront+Data+Connect+052925.pdf)
-* [Experience League コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=ja)
+* [&#x200B; スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Adobe+Workfront+Data+Connect+052925.pdf)
+* [Experience League コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=ja)
 
 ## 概要
 
 * [Data Connect](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/data-lake/data-lake-overview) とは Workfront データを Tableau、Power BI、Domo、Looker などのビジュアライゼーションツールに接続することで、ビジネスインサイトを提供する、安全で拡張性の高いソリューションです。
 * これはUltimate パッケージに含まれていますが、Primeおよび Select 上のアドオン（$）として使用できます。 詳しくは、アカウントチームにお問い合わせください。
 * （少なくとも現在は）テストドライブを提供することはできませんが、アドビのアカウントチームに連絡して、パーソナライズされたデモがリーダーシップケースの構築に役立つかどうかを常に確認することはできます。
-* **Experience League ドキュメント** には、Workfrontのインターフェイス名、API リファレンス、および Data Lake のフィールド名を翻訳するのに役立つ [ 用語マッピングテーブル ](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/data-lake/data-dictionary) が用意されています。
+* **Experience League ドキュメント** には、Workfrontのインターフェイス名、API リファレンス、および Data Lake のフィールド名を翻訳するのに役立つ [&#x200B; 用語マッピングテーブル &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/data-lake/data-dictionary) が用意されています。
 * **現在の機能** Data Connect は現在、110 を超えるWorkfront オブジェクト（10 月のローンチ時の 70 個から増加）をサポートしており、データは 4 時間ごとに更新されます。 現在の状態、毎日の履歴スナップショット、履歴分析用のトランザクションイベントデータの 3 種類のビューが用意されています。
 * **お客様の事例** お客様は Data Connect を使用して、ユーザーアクティビティの監視、プロセスのボトルネックの特定、ステータス時間のトラッキング、コンプライアンスチェック、SLAのトラッキング、キャパシティ計画、既存のデータウェアハウス内の外部データセットとのWorkfront データの結合を行っています。 
 
 Matt に関するフォローアップの質問がある場合や、Data Connect の使い方を知りたい場合は、この [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725?profile.language=ja) に返信してください。
 
 
-今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント ](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) を確認し、登録してください。
+今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) を確認し、登録してください。
 
 

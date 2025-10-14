@@ -27,7 +27,7 @@ Workfront Planning を使い始めたばかりのユーザーは、導入の取�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469964/?learn=on&enablevpops)
 
-オンデマンドレコーディングに加え、レコーディングから [ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/052825+-+Start+Fast,+Scale+Smart+Activating+Team-Level+Success+with+Workfront+Planning.pdf) を取り入れています。
+オンデマンドレコーディングに加え、レコーディングから [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/052825+-+Start+Fast,+Scale+Smart+Activating+Team-Level+Success+with+Workfront+Planning.pdf) を取り入れています。
 
 ## 追加のリンク
 
@@ -35,16 +35,16 @@ Workfront Planning を使い始めたばかりのユーザーは、導入の取�
 
 ### トレーニング
 
-* [Adobe Workfrontのプランニングによる成功へのコースのチャート化 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=ja)
-* [ ガイドブック - Workfrontの GPS 計画 ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
+* [Adobe Workfrontのプランニングによる成功へのコースのチャート化 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-learn-chart-your-course-to-success-with-adobe/td-p/743077?profile.language=ja)
+* [&#x200B; ガイドブック - Workfrontの GPS 計画 &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
 ### トレーニングビデオの計画
 
-* [ インスタンスへの Planning の追加（ライセンス・プランなど） ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
-* [Workspaceの作成（計画の基盤の基本を学ぶ） ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
-* [ レコードタイプの作成と管理 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
-* [ テーブルビューの作成と管理 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [ ドキュメント：Adobe Workfront計画の概要 ](https://experienceleague.adobe.com/ja/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront計画リリースアクティビティ ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [&#x200B; インスタンスへの Planning の追加（ライセンス・プランなど） &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)
+* [Workspaceの作成（計画の基盤の基本を学ぶ） &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
+* [&#x200B; レコードタイプの作成と管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
+* [&#x200B; テーブルビューの作成と管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
+* [&#x200B; ドキュメント：Adobe Workfront計画の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront計画リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-Workfront Planning では、近日中にさらにイベントが予定されています。詳しくは、Experience Leagueの [ イベントページ ](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) をご覧ください。
+Workfront Planning では、近日中にさらにイベントが予定されています。詳しくは、Experience Leagueの [&#x200B; イベントページ &#x200B;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) をご覧ください。

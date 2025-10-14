@@ -22,7 +22,7 @@ Adobe Experience Cloudのデータ収集に関する 3 つのセッションの�
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**話し合いを続ける** [Experience Leagueコミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195?profile.language=ja#M285){target="_blank"}
+**話し合いを続ける** [Experience Leagueコミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195?profile.language=ja#M285){target="_blank"}
 
 ## このデータ収集シリーズのその他のExperience Leagueライブセッション
 

@@ -35,5 +35,5 @@ Adobe、シニアデベロッパー、Jukka Zitting
 
 ## 関連リンク {#related-links}
 
-* [AEM アップグレード ドキュメント ](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [ApacheCon のプレゼンテーション「Oak, the architecture of Apache Jackrabbit 3」 ](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [AEM アップグレード ドキュメント &#x200B;](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* [ApacheCon のプレゼンテーション「Oak, the architecture of Apache Jackrabbit 3」 &#x200B;](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

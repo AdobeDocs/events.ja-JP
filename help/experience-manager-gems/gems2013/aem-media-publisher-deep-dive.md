@@ -31,5 +31,5 @@ John Fait
 ## 関連リンク {#related-links}
 
 * [ドキュメント](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS 製品ページ ](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS 製品ページ &#x200B;](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
 * [DPS Cloud Service](https://helpx.adobe.com/jp/digital-publishing-suite/help/eol-statement-for-dpsc.html)

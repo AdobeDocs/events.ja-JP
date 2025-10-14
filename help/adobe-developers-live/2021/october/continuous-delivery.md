@@ -20,7 +20,7 @@ ht-degree: 10%
 
 # Adobe Experience Manager as a Cloud Service継続的配信モデルの詳細
 
-ホワイトペーパー [Adobe Experience Manager as a Cloud Service：継続的配信モデルに基づいて ](https://fieldreadiness-adobe.highspot.com/items/5ea322e1c714336c23b32599?mkt_tok=eyJpIjoiWlRRNE1qQXlObVV3T0dFNCIsInQiOiJTckVtS1RtWjNCcExxQ3JPYWQ4bENhXC9DNVNRZ0tnNU83MVkraCtaN1NWbUlWU1wvWmJMejY2XC9FYkhBS1gwdjJleHpSY3ZoREJmXC9oanJRTFkzeEplXC9xK1o0TTBvd096b1wvT3BidEMwUGlYMDQxXC91WUk5K2l1ZE83MHV5amhlSkwifQ%3D%3D#1) 配信モデルの詳細を共有することで、CS に対するお客様の信頼を高め、お客様の機能テストの導入をサポートします。
+ホワイトペーパー [Adobe Experience Manager as a Cloud Service：継続的配信モデルに基づいて &#x200B;](https://fieldreadiness-adobe.highspot.com/items/5ea322e1c714336c23b32599?mkt_tok=eyJpIjoiWlRRNE1qQXlObVV3T0dFNCIsInQiOiJTckVtS1RtWjNCcExxQ3JPYWQ4bENhXC9DNVNRZ0tnNU83MVkraCtaN1NWbUlWU1wvWmJMejY2XC9FYkhBS1gwdjJleHpSY3ZoREJmXC9oanJRTFkzeEplXC9xK1o0TTBvd096b1wvT3BidEMwUGlYMDQxXC91WUk5K2l1ZE83MHV5amhlSkwifQ%3D%3D#1) 配信モデルの詳細を共有することで、CS に対するお客様の信頼を高め、お客様の機能テストの導入をサポートします。
 
 **[Experience League Communities](https://adobe.ly/3i9XWo8)** で会話を続けます。
 
@@ -28,6 +28,6 @@ ht-degree: 10%
 
 ## その他のリソース
 
-- [Adobe Experience Platform ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
+- [Adobe Experience Platform ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja)
 - [Adobe Experience Platform 概要](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=ja)
 - [Adobe Experience Platform チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=ja)

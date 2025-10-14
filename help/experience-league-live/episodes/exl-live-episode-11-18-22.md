@@ -27,5 +27,5 @@ ht-degree: 0%
 
 上のビデオでは、Adobe[!DNL Analytics] のエキスパートが、Analysis Workspaceと [!DNL Analytics] ダッシュボードアプリでインサイトをカスタマイズしてアクセスするための優れたヒントを提供する、このライブストリームイベントをご覧ください。
 
-ご質問はありますか？ 引き続き、このトピックに関するディスカッションをAdobe Experience League[ コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=ja#M3037) で行います。
+ご質問はありますか？ 引き続き、このトピックに関するディスカッションをAdobe Experience League[&#x200B; コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=ja#M3037) で行います。
 

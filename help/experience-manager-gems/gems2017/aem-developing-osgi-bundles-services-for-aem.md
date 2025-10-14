@@ -35,5 +35,5 @@ Adobe、シニアソフトウェアエンジニア、David Bosschaert
 
 ## 関連リンク {#related-links}
 
-* [OSGi 実際の動作（PDF） ](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
-* [OSGi のコンポーネント ](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)
+* [OSGi 実際の動作（PDF） &#x200B;](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
+* [OSGi のコンポーネント &#x200B;](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)

@@ -19,7 +19,7 @@ ht-degree: 5%
 
 この 2 日間のカンファレンスでは、ヘッドレスとGraphQL、Adobe Experience Manager as a Cloud Service、技術セッション、コミュニティネットワークの機会など、Adobe Experience Manager開発者向けの重要なアップデートが取り上げられました。
 
-他の開発者とつながり、**[Experience Leagueコミュニティ ](https://adobe.ly/36Yd3v6)** でセッションの会話に参加しましょう。
+他の開発者とつながり、**[Experience Leagueコミュニティ &#x200B;](https://adobe.ly/36Yd3v6)** でセッションの会話に参加しましょう。
 
 ## ハイライト
 
@@ -74,11 +74,11 @@ ht-degree: 5%
 
 ## その他のリソース
 
-* [Experience League - AEMを検索 ](https://experienceleague.adobe.com/ja#recommended/solutions/experience-manager)
-* [AEM Sites作成ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja)
-* [AEM Sites開発ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja)
-* [AEM Sites管理ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja)
-* [AEM Sites導入ドキュメント ](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
+* [Experience League - AEMを検索 &#x200B;](https://experienceleague.adobe.com/ja#recommended/solutions/experience-manager)
+* [AEM Sites作成ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja)
+* [AEM Sites開発ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja)
+* [AEM Sites管理ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja)
+* [AEM Sites導入ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
 * [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja)
 * [AEM Assets チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja)
 * [AEM Forms チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja)

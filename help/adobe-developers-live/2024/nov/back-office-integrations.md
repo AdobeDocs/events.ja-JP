@@ -27,7 +27,7 @@ ERP、CRM、PIM との統合は、運用効率とシームレスなショッピ�
 
 ## コミュニティ ディスカッション
 
-Adobe Developers Live コミュニティで会話を続けます [ ディスカッション ](https://adobe.ly/40DgGmR)。
+Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/40DgGmR)。
 
 ## キーポイント
 

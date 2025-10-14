@@ -33,5 +33,5 @@ Adobe Commerce 製品チームから直接、MBI Data Warehouse マネージャ�
 
 ## 役に立つリソース
 
-[Data Warehouse管理者の紹介 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=ja)
-[ データの接続 ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=ja)
+[Data Warehouse管理者の紹介 &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=ja)
+[&#x200B; データの接続 &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=ja)

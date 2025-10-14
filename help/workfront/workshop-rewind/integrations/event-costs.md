@@ -24,13 +24,13 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3469977/?learn=on&enablevpops)
 
 オンデマンドの録画に加えて、チャットで共有されたスライドデッキとヒントも含まれています。  
-* [Workfrontのスライドとリソース ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson's+スマート+Way+To+ロック解除+True+Event+Costs.pdf)
-* [Lucas の Fusion プレゼンテーション・スライド ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [Experience League コミュニティへの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=ja)
+* [Workfrontのスライドとリソース &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson's+スマート+Way+To+ロック解除+True+Event+Costs.pdf)
+* [Lucas の Fusion プレゼンテーション・スライド &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
+* [Experience League コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=ja)
 
 Fusion を使い始めたばかりですか？ これらのリソースをチェックしてください。 
-* [Experience LeagueのWorkfront Fusion トレーニング ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [ 利用可能な Fusion テンプレートのリストはこちらをご覧ください ](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) – いくつかの新しいテンプレートが最近公開されました。  
+* [Experience LeagueのWorkfront Fusion トレーニング &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [&#x200B; 利用可能な Fusion テンプレートのリストはこちらをご覧ください &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) – いくつかの新しいテンプレートが最近公開されました。  
 * **チャットでのお客様からのヒント** Fusion を学ぶときは、WorkfrontからWorkfrontへの自動処理を使用して、小規模な作業から始めます 
 
-今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント ](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) を確認し、登録してください。
+今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) を確認し、登録してください。

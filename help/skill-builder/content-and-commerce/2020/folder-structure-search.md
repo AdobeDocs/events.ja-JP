@@ -31,13 +31,13 @@ DAM の設定および使用の基本。
 
 ## リソース
 
-* [AEM Assets ユーザーガイド ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja)
-* [AEM Assets フォルダー構造の設定 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=ja)
-* [AEM Assets フォルダー権限の設定 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=ja)
-* [ コレクションを使用したアセットの整理と共有 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=ja)
-* [ 機械学習で視覚的に類似したアセットを検索する ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
-* [ 動的検索ファセットによる正確で正確な検索結果の取得 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
-* [ 高度なフルテキスト検索構文 ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=ja#using)
+* [AEM Assets ユーザーガイド &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja)
+* [AEM Assets フォルダー構造の設定 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=ja)
+* [AEM Assets フォルダー権限の設定 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=ja)
+* [&#x200B; コレクションを使用したアセットの整理と共有 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=ja)
+* [&#x200B; 機械学習で視覚的に類似したアセットを検索する &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
+* [&#x200B; 動的検索ファセットによる正確で正確な検索結果の取得 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=ja)
+* [&#x200B; 高度なフルテキスト検索構文 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=ja#using)
 
 ## シリーズ録画
 

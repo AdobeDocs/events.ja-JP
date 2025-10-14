@@ -33,8 +33,8 @@ Expert Insights へようこそ。  「オンデマンド」WorkfrontCSM の�
 
 ## リソース
 
-* [ お客様の主なユースケース ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
-* [ 作業管理手法の成熟度の評価 ](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) 
+* [&#x200B; お客様の主なユースケース &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
+* [&#x200B; 作業管理手法の成熟度の評価 &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) 
 
 ## スピーカーについて
 

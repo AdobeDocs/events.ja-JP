@@ -41,7 +41,7 @@ ht-degree: 4%
    + [e コマースコンバージョンのブースト](2023/ecommerce-conversions.md)
    + [構成可能なコマース戦略](2023/composable-commerce.md)
    + [成長の力となるマーケットプレイス](2023/marketplaces.md)
-   + [ ピークシーズンの準備 ](2023/peak-season-prep.md)
+   + [&#x200B; ピークシーズンの準備 &#x200B;](2023/peak-season-prep.md)
 + 2022年 {#2022}
    + [ホリデー準備 2022](2022/holiday.md)
    + [New Relic マスタークラス](2022/new-relic.md)

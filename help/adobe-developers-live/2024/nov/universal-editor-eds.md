@@ -26,7 +26,7 @@ Adobeのプリンシパルソリューションコンサルタントである La
 
 ## コミュニティ ディスカッション
 
-Adobe Developers Live コミュニティで会話を続けます [ ディスカッション ](https://adobe.ly/4hBDxp9)。
+Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/4hBDxp9)。
 
 ## 重要ポイント
 

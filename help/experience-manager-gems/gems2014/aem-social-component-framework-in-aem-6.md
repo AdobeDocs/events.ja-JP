@@ -30,5 +30,5 @@ Adobe、シニアソフトウェアエンジニアリングリード、Siddharth
 
 ## 関連リンク {#related-links}
 
-* [ コードサンプルの GitHub リンク ](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [ ソーシャルコンポーネントフレームワーク ](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [&#x200B; コードサンプルの GitHub リンク &#x200B;](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [&#x200B; ソーシャルコンポーネントフレームワーク &#x200B;](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

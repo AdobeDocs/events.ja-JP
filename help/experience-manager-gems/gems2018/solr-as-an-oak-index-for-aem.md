@@ -36,7 +36,7 @@ Adobe、コンピューターサイエンティスト、Tommaso Teofili
 >[!MORELIKETHIS]
 >
 >* [Adobe I/Oイベント - Analytics トリガー](aem-analytics-triggers.md)
->* [AEM 6.4 で強力なアセット分析を実現 ](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [AEM 6.4 で強力なアセット分析を実現 &#x200B;](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- wrong link, needs to be replaced. removed for now:
 >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 

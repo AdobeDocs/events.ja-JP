@@ -36,15 +36,15 @@ Expert Insights へようこそ。  私はシンシア・ブーン、あなた�
 
 お約束したとおり、リソースと、リクエストキューおよびキュートピックに関する追加リンクをいくつか紹介します。
 
-* [ 継承されたインスタンスの管理 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) 方法に関するリソースには、ウェビナーへのリンクと、[ ブループリントチュートリアル ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues) の詳細が含まれています
+* [&#x200B; 継承されたインスタンスの管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) 方法に関するリソースには、ウェビナーへのリンクと、[&#x200B; ブループリントチュートリアル &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues) の詳細が含まれています
 
-* リクエストキューについてドキュメント：[ キューのトピックを作成 ](https://experienceleague.adobe.com/ja/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* リクエストキューについてドキュメント：[&#x200B; キューのトピックを作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Lyndsy による [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=ja)：エンドユーザーとのコミュニケーションに関するウェビナーのプレゼンテーション （このページには、[ エンドユーザー向け Comms クックブック ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ja) へのリンクも含まれています）
+* Lyndsy による [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=ja)：エンドユーザーとのコミュニケーションに関するウェビナーのプレゼンテーション （このページには、[&#x200B; エンドユーザー向け Comms クックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ja) へのリンクも含まれています）
 
-* Lyndsy の [ スキル交換プレゼンテーションリソース ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=ja#M3642)
+* Lyndsy の [&#x200B; スキル交換プレゼンテーションリソース &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=ja#M3642)
 
-* また、[Workfront AMA も忘れずにチェックしてください ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=ja)Workfront Proofについて何か聞いてください。Lyndsy と Monique Evans および Richard Carlson が、Proof に関する質問に答えました。
+* また、[Workfront AMA も忘れずにチェックしてください &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=ja)Workfront Proofについて何か聞いてください。Lyndsy と Monique Evans および Richard Carlson が、Proof に関する質問に答えました。
 
 ## スピーカーについて 
 

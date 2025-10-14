@@ -31,7 +31,7 @@ AEM Dynamic Mediaを使用すると、1 つのマスター画像またはビデ�
 
 ## 関連リンク {#related-links}
 
-[Dynamic Mediaの設定 ](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
+[Dynamic Mediaの設定 &#x200B;](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -28,6 +28,6 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX  「ご質問がある場合」 ]
 
-**このトピックに関するディスカッションは、Adobe Experience League[ コミュニティ投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=ja#M205){target="_blank"} で続けてください**。
+**このトピックに関するディスカッションは、Adobe Experience League[&#x200B; コミュニティ投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=ja#M205){target="_blank"} で続けてください**。
 
 >[!ENDSHADEBOX]

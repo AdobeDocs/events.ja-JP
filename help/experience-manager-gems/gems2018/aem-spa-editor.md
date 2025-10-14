@@ -30,7 +30,7 @@ Adobe、製品マネージャー、Gabriel Walt
 
 ## リソース {#resources}
 
-[ ドキュメント：AEM SPAエディター ](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=ja)
+[&#x200B; ドキュメント：AEM SPAエディター &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=ja)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -31,12 +31,12 @@ ht-degree: 3%
 
 ## リソース
 
-*[ メタデータスキーマを使用したアセットメタデータの管理 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=ja)
-*[ メタデータスキーマの拡張 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=ja)
-*[ カスケードメタデータによるメタデータオーサリングの最適化 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=ja)
-*[ メタデータプロファイルを使用した、アセットへのメタデータの自動適用 ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=ja)
-*[AEM メタデータスキーマ ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=ja#administer)
-*[ アセットメタデータの管理 ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=ja#RegisteringacustomnamespacewithinAEM)
+*[&#x200B; メタデータスキーマを使用したアセットメタデータの管理 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=ja)
+*[&#x200B; メタデータスキーマの拡張 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=ja)
+*[&#x200B; カスケードメタデータによるメタデータオーサリングの最適化 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=ja)
+*[&#x200B; メタデータプロファイルを使用した、アセットへのメタデータの自動適用 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=ja)
+*[AEM メタデータスキーマ &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=ja#administer)
+*[&#x200B; アセットメタデータの管理 &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=ja#RegisteringacustomnamespacewithinAEM)
 
 ## シリーズ録画
 
