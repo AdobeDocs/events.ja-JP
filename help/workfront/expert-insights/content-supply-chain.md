@@ -37,12 +37,12 @@ Corre は、真に戦略的な CSM であり、Adobe ソリューションを使
 
 ### Summit セッション
 
-* [Adobeがコンテンツサプライチェーンを最適化した方法 – S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) :Adobeのマーケティング組織全体にコンテンツサプライチェーンを導入する際ののアプローチを説明します 
-* [Adobeによるコンテンツ制作の革新 – S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) :Adobeでコンテンツサプライチェーンを最大化し、クリエイティブワークフローを高速化する方法を説明します 
+* [Adobeがコンテンツサプライチェーンを最適化した方法 – S316](https://business.adobe.com/jp/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) :Adobeのマーケティング組織全体にコンテンツサプライチェーンを導入する際ののアプローチを説明します 
+* [Adobeによるコンテンツ制作の革新 – S305](https://business.adobe.com/jp/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) :Adobeでコンテンツサプライチェーンを最大化し、クリエイティブワークフローを高速化する方法を説明します 
 
 ### 製品デモ
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - エンタープライズ作業管理ソリューションに含まれる可能性のある機能の範囲を説明するには、インタラクティブな [ 製品デモ ] が必要だからです。  
+* [Workfront](https://business.adobe.com/jp/product-demos/workfront/interactive-tour.html) - エンタープライズ作業管理ソリューションに含まれる可能性のある機能の範囲を説明するには、インタラクティブな [ 製品デモ ] が必要だからです。  
 * [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) – お客様が、現在Adobeに存在するソリューションにニーズを結び付けられるように、この点がいかに包括的かを気に入っています。
 
 ## スピーカーについて 
