@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: facacb2fe59edc77e5add50d4b02b08e14030184
+source-git-commit: 3e5578b6b4262a90def9b3f5a3bb950013c9f56e
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 13%
@@ -48,7 +48,7 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
             </div>
         </td>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 2025 年 10 月" src="assets/exl-live-episode-10-30-25-web-banner.png">
+              <img alt="Experience League LIVE 30 2025 年 10 月" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-30-25.md">
@@ -124,5 +124,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 

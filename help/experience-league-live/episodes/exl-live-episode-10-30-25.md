@@ -7,7 +7,7 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: a3f2daa37a2fb1896ed4e3b1d640b82715319178
+source-git-commit: a3008afc1dc12d723ba7e1d9745f73512cf2379b
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -30,6 +30,6 @@ Experience League ライブセッションにご参加ください **Adobe Journ
 
 *Adobe Journey Optimizer Experimentation Acceleratorは、Adobe TargetおよびJourney Optimizerとシームレスに統合されています。*
 
->![&#x200B; バナーを表示 &#x200B;](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner.png)
+[![ExL LIVE 2024 年 1 月 17 日 ](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner-v2.png)](https://engage.adobe.com/ExpLeagueLive-251030.html)
 
-[&#x200B; 番組のリマインダーを設定！](https://youtube.com/live/w8eWsKuwyzI)
+[ 今すぐ登録！](https://engage.adobe.com/ExpLeagueLive-251030.html)
