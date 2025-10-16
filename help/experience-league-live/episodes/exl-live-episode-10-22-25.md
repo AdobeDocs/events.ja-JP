@@ -24,6 +24,6 @@ Adobe Experience Platform Agent OrchestratorはAdobe Experience Platformの新�
 * Agent Orchestratorがエキスパートエージェントを調整して測定可能な結果を提供し、エンドツーエンドのユースケースをサポートする方法
 * Agent Orchestratorが AI ソリューションを自信を持って導入するためにブランドが必要とする信頼性、透明性、セキュリティ、ガードレールをどのように提供するか
 
-[![ExL LIVE 2024 年 1 月 17 日 ](assets/WebBanner-v2-Oct22-2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251022.html)
+[![ExL LIVE 2024 年 1 月 17 日 &#x200B;](assets/WebBanner-v2-Oct22-2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251022.html)
 
-[ 今すぐ登録！](https://engage.adobe.com/ExpLeagueLive-251022.html)
+[&#x200B; 今すぐ登録！](https://engage.adobe.com/ExpLeagueLive-251022.html)
