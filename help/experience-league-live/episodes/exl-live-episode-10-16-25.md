@@ -26,6 +26,6 @@ Customer Journey Analytics B2B editionを使用して、複雑なデータを戦
 >[!TIP]
 >
 > 自分で試す – [&#x200B; デモ環境にアクセスするには新規登録 &#x200B;](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html)。
-> &#x200B;> **[コミュニティフォーラム &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)** で会話を続け、Adobeの専門家に質問することができます。
+> &#x200B;> **[コミュニティフォーラム &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513?profile.language=ja#)** で会話を続け、Adobeの専門家に質問することができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)
