@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+source-git-commit: 049b74b1b3e2ef9c511cba258c6d98bb60eca152
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '518'
 ht-degree: 3%
 
 ---
@@ -51,6 +51,7 @@ ht-degree: 3%
       + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+      + [Adobe Journey Optimizerによる価値へのロードマップ](2025/ajo-roadmap-to-value.md)
    + マルチソリューション {#multisolution2025}
       + [コンテンツ・サプライ・チェーンの基本](2025/content-supply-chain-basics.md)
       + [AI インサイトによるデジタルエクスペリエンスの最適化](2025/accelerating-digital-experience-optimization.md)
