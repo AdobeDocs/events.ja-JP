@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: 452ea2a3b351af2ecfcd6f78a7d524cb3b00dcef
+source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,7 @@ Adobe Experience Platform Agent OrchestratorはAdobe Experience Platformの新�
 * Agent Orchestratorが AI ソリューションを自信を持って導入するためにブランドが必要とする信頼性、透明性、セキュリティ、ガードレールをどのように提供するか
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476153/?learn=on&enablevpops)
+
+[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。11 月 12 日（水）午前 8 時から午前 9 時（PT）まで ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) きます。 Adobe Journey Optimizerのエキスパートが参加します。Cole Connelly （@coleconnelly） – シニアプロダクトマネージャー、Huong Vu （@HuongVu） – プロダクトマーケティングマネージャー、Namita Krishnan （@Namita_Krishnan） – プロダクトマネージャー、Brent Kostak （@bkostak） – シニアプロダクトマーケティングマネージャー、David Arbor （@user03474） – シニアリサーチサイエンティスト、Justin Grover （@justin_grover） – プリンシパルプロダクトマネージャー、Sandra Hausmann （@SHausmann） – シニアテクニカルマーケティングエンジニア、Daniel Wright （@dwright） – シニアテクニカル マーケティングエンジニア。
+
+このライブチャットの間に質問に回答します。
