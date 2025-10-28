@@ -33,7 +33,7 @@ Adobe Marketo Engage チャンピオンの Miray Vu 氏の話を聞いて、管�
 
 ## その他のリソース
 
-* Q&amp;A が投稿されている Marketing Nation コミュニティの [ ディスカッション ](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) に参加しましょう。
-* [ 実行可能キャンペーンを使用したMarketo Engage データハイジーン ](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Salesforce CRM とMarketo Engageの同期に関するデータハイジーンの習得 ](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
-* [Marketo Engage REST API を使用して重複排除を実行する方法 ](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
+* Q&amp;A が投稿されている Marketing Nation コミュニティの [&#x200B; ディスカッション &#x200B;](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) に参加しましょう。
+* [&#x200B; 実行可能キャンペーンを使用したMarketo Engage データハイジーン &#x200B;](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Salesforce CRM とMarketo Engageの同期に関するデータハイジーンの習得 &#x200B;](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [Marketo Engage REST API を使用して重複排除を実行する方法 &#x200B;](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
