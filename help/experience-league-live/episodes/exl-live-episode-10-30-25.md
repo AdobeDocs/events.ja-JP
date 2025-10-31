@@ -32,6 +32,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。11 月 12 日（水）午前 8 時から午前 9 時（PT）まで &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) きます。 Adobe Journey Optimizerのエキスパートが参加します。Cole Connelly （@coleconnelly） – シニアプロダクトマネージャー、Huong Vu （@HuongVu） – プロダクトマーケティングマネージャー、Namita Krishnan （@Namita_Krishnan） – プロダクトマネージャー、Brent Kostak （@bkostak） – シニアプロダクトマーケティングマネージャー、David Arbor （@user03474） – シニアリサーチサイエンティスト、Justin Grover （@justin_grover） – プリンシパルプロダクトマネージャー、Sandra Hausmann （@SHausmann） – シニアテクニカルマーケティングエンジニア、Daniel Wright （@dwright） – シニアテクニカル マーケティングエンジニア。
+[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。11 月 12 日（水）午前 8 時から午前 9 時（PT）まで &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=ja) きます。 Adobe Journey Optimizerのエキスパートが参加します。Cole Connelly （@coleconnelly） – シニアプロダクトマネージャー、Huong Vu （@HuongVu） – プロダクトマーケティングマネージャー、Namita Krishnan （@Namita_Krishnan） – プロダクトマネージャー、Brent Kostak （@bkostak） – シニアプロダクトマーケティングマネージャー、David Arbor （@user03474） – シニアリサーチサイエンティスト、Justin Grover （@justin_grover） – プリンシパルプロダクトマネージャー、Sandra Hausmann （@SHausmann） – シニアテクニカルマーケティングエンジニア、Daniel Wright （@dwright） – シニアテクニカル マーケティングエンジニア。
 
 このライブチャットの間に質問に回答します。
