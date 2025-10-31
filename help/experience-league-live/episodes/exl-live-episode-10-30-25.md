@@ -7,9 +7,9 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: a3008afc1dc12d723ba7e1d9745f73512cf2379b
+source-git-commit: ab402c86aadd5c2b22f632c31d085e90e05f96c7
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 次の実験の時代：Agentic AI がどのようにして、よりスマートなテストと成長を促進したか
 
-Experience League ライブセッションにご参加ください **Adobe Journey Optimizer Experimentation Accelerator**。実験、製品、成長チームによるキャンペーンやカスタマージャーニーのテスト、学習、最適化の方法を変革するために構築された、新しい AI ファーストのアプリケーションです。
+このExperience League ライブセッションでは、実験、製品、成長チームがキャンペーンやカスタマージャーニーをテスト、学習、最適化する方法を変えるために構築された新しい AI ファーストのアプリケーションである **Adobe Journey Optimizer Experimentation Accelerator** を公開します。
 
 **Adobe Experience Platform実験エージェント** を活用したこの新しいアプリケーションは、実験分析を自動化すると同時に手動の労力を軽減し、チームが次のことを行えるようにします。
 
@@ -30,6 +30,8 @@ Experience League ライブセッションにご参加ください **Adobe Journ
 
 *Adobe Journey Optimizer Experimentation Acceleratorは、Adobe TargetおよびJourney Optimizerとシームレスに統合されています。*
 
-[![ExL LIVE 2024 年 1 月 17 日 &#x200B;](/help/experience-league-live/assets/exl-live-episode-10-30-25-web-banner-v2.png)](https://engage.adobe.com/ExpLeagueLive-251030.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-[&#x200B; 今すぐ登録！](https://engage.adobe.com/ExpLeagueLive-251030.html)
+[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。11 月 12 日（水）午前 8 時から午前 9 時（PT）まで ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) きます。 Adobe Journey Optimizerのエキスパートが参加します。Cole Connelly （@coleconnelly） – シニアプロダクトマネージャー、Huong Vu （@HuongVu） – プロダクトマーケティングマネージャー、Namita Krishnan （@Namita_Krishnan） – プロダクトマネージャー、Brent Kostak （@bkostak） – シニアプロダクトマーケティングマネージャー、David Arbor （@user03474） – シニアリサーチサイエンティスト、Justin Grover （@justin_grover） – プリンシパルプロダクトマネージャー、Sandra Hausmann （@SHausmann） – シニアテクニカルマーケティングエンジニア、Daniel Wright （@dwright） – シニアテクニカル マーケティングエンジニア。
+
+このライブチャットの間に質問に回答します。
