@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
+source-git-commit: 7f05dd98e19fd3e88ca3af32bfbef89fda2d4b39
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 17%
+source-wordcount: '146'
+ht-degree: 21%
 
 ---
 
@@ -19,29 +19,30 @@ ht-degree: 17%
 
 Experience LeagueLIVE は、Experience Leagueチームが制作したライブストリーミング番組です。  アドビ製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
+<!--
 <div id="upcoming-events">
 
-## 今後のExperience League LIVE イベント
+## Upcoming Experience League LIVE events
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 2025 年 10 月" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
+              <img alt="Experience League LIVE 30 October 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-30-25.md">
-                <strong> 実験の次の時代：Agentic AI がどのようにして、よりスマートなテストと成長を促進しているか </strong>
+                <strong>The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth</strong>
               </a>
-              <br/><em>Sandra Hausmann、Brent Kostak、Justin Grover、David Arbor 付き </em>
-              <br/><em>2025 年 10 月 30 日 </em>
+              <br/><em>with Sandra Hausmann, Brent Kostak, Justin Grover and David Arbour</em>
+              <br/><em>Oct 30, 2025</em>
             </div>
         </td>
     </tr>
-
-</table>
-
+    
+</table>    
+  
 </div>
-
+-->
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -102,5 +103,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
