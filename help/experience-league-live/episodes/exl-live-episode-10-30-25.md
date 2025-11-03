@@ -7,9 +7,9 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: ab402c86aadd5c2b22f632c31d085e90e05f96c7
+source-git-commit: c4c2753455d476d08ab1a5c76a08ed296397705d
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。11 月 12 日（水）午前 8 時から午前 9 時（PT）まで &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=ja) きます。 Adobe Journey Optimizerのエキスパートが参加します。Cole Connelly （@coleconnelly） – シニアプロダクトマネージャー、Huong Vu （@HuongVu） – プロダクトマーケティングマネージャー、Namita Krishnan （@Namita_Krishnan） – プロダクトマネージャー、Brent Kostak （@bkostak） – シニアプロダクトマーケティングマネージャー、David Arbor （@user03474） – シニアリサーチサイエンティスト、Justin Grover （@justin_grover） – プリンシパルプロダクトマネージャー、Sandra Hausmann （@SHausmann） – シニアテクニカルマーケティングエンジニア、Daniel Wright （@dwright） – シニアテクニカル マーケティングエンジニア。
+[Adobe Journey Optimizer コミュニティに参加して、質問をしてください。11 月 12 日（水）午前 8 時から午前 9 時（PT）まで ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) きます。 Adobe Journey Optimizerのエキスパートが参加します。Cole Connelly （@coleconnelly） – シニアプロダクトマネージャー、Huong Vu （@HuongVu） – プロダクトマーケティングマネージャー、Namita Krishnan （@Namita_Krishnan） – プロダクトマネージャー、Brent Kostak （@bkostak） – シニアプロダクトマーケティングマネージャー、David Arbor （@user03474） – シニアリサーチサイエンティスト、Justin Grover （@justin_grover） – プリンシパルプロダクトマネージャー、Sandra Hausmann （@SHausmann） – シニアテクニカルマーケティングエンジニア、Daniel Wright （@dwright） – シニアテクニカル マーケティングエンジニア。
 
 このライブチャットの間に質問に回答します。
+
+## その他のリソース
+
+* [Adobeの AI 実験アクセラレーターを探る – Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+
