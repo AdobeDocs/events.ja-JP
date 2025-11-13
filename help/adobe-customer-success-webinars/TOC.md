@@ -2,10 +2,10 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 3%
+source-wordcount: '547'
+ht-degree: 4%
 
 ---
 
@@ -27,8 +27,10 @@ ht-degree: 3%
       + [よりスマートなマーケティングの開始 – GoogleとAdobeの統合](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
    + Experience Manager {#aem2025}
       + [AEM新技術](2025/personalized-experiences-aem.md)
+      + [AEM Lucene 検索の基本的なヒントとベストプラクティス](2025/aem-lucene-search.md)
       + [GenAI を使用したAEM](2025/aem-genai.md)
       + [AEMとWorkfrontの統合](2025/aem-workfront-integration.md)
+      + [AEM の AI アシスタント](2025/ai-assistant-in-aem.md)
       + [効果的な Web ページの構築](2025/build-effective-web-pages.md)
       + [顧客エンゲージメントの促進](2025/driving-customer-engagement.md)
       + [AEM Formsの登録ジャーニー](2025/payer-enrollment-journey.md)
@@ -47,14 +49,17 @@ ht-degree: 3%
       + [Id グラフのユースケースとトラブルシューティング](2025/identity-graph.md)
       + [AEPプロジェクトへのエグゼクティブスポンサーシップの獲得](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
-      + [コンテンツのサプライチェーンとAdobe GenStudio](2025/csc-gen-studio.md)
+      + [コンテンツSupply chainとAdobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
+      + [エグゼクティブスポンサーシップの構築](2025/build-executive-sponsorship-ajo.md)
+      + [採用に関する変更管理の戦略](2025/change-management-strategies.md)
+      + [運用モデルの設計](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [NorthStar アーキテクチャの活用](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
       + [Adobe Journey Optimizerによる価値へのロードマップ](2025/ajo-roadmap-to-value.md)
    + マルチソリューション {#multisolution2025}
-      + [コンテンツ・サプライ・チェーンの基本](2025/content-supply-chain-basics.md)
+      + [コンテンツSupply chainの基本](2025/content-supply-chain-basics.md)
       + [AI インサイトによるデジタルエクスペリエンスの最適化](2025/accelerating-digital-experience-optimization.md)
       + [Personalizationとデータを通じたロイヤルティプログラムの強化](2025/enhance-loyalty-programs.md)
       + [Personalizationの強化](2025/enhancing-personalization.md)
@@ -102,7 +107,7 @@ ht-degree: 3%
    + [Adobe Admin Consoleの習得](2024/adobe-admin-console.md)
    + [Cookie とデータプライバシーのマスター](2024/mastering-cookies-data-privacy.md)
    + [順次論理の習得](2024/sequential-logic.md)
-   + [コンテンツのサプライチェーンに対する組織の対応](2024/organizational-readiness-content-supply-chain.md)
+   + [コンテンツSupply chainに対する組織の対応](2024/organizational-readiness-content-supply-chain.md)
    + [Real-Time Customer Data PlatformとMarketoの統合](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform 移行への対応](2024/rtcdp-migration-readiness.md)
    + [戦略的リーダーシップ](2024/strategic-leadership.md)
