@@ -34,5 +34,5 @@ App Builderを使い始めたばかりの場合でも、拡張性の戦略的な
 
 ## その他のリソース
 
-* Alex Lyzun による [ ウェビナー後の営業時間 ](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/)
-* [Adobe Commerce ユーザーグループ ](https://commerce-augs.adobe.com/)
+* Alex Lyzun による [&#x200B; ウェビナー後の営業時間 &#x200B;](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/)
+* [Adobe Commerce ユーザーグループ &#x200B;](https://commerce-augs.adobe.com/)
