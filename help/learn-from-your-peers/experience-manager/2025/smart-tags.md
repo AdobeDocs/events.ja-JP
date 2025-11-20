@@ -41,7 +41,7 @@ ht-degree: 0%
 
 検索性の向上を目指す作成者、コンテンツを同時配信する開発者、DAM ライブラリアンのスケーリング操作のいずれに該当する場合でも、このセッションでは、アセット戦略を強化するための実用的なインサイトと実際のユースケースを提供します。
 
-プレゼンテーションスライドにアクセスできます [ こちら ](../../assets/experience-manager/aug2025/2025-08-28-Adobe-Smart-Tags-Champions-webinar_FINALCOPY.pdf)
+プレゼンテーションスライドにアクセスできます [&#x200B; こちら &#x200B;](../../assets/experience-manager/aug2025/2025-08-28-Adobe-Smart-Tags-Champions-webinar_FINALCOPY.pdf)
 
 ## AI を使用した効率的なアセット検出性の解放
 

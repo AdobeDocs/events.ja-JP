@@ -31,6 +31,6 @@ Adobe Experience Manager顧客チャンピオンの Kartik Sharma が、コア�
 * スタイルシステムを最適化するためのベストプラクティス
 *フロントエンドパイプラインを使用して UI の変更を効率的にデプロイする手順を示すデモ
 
-プレゼンテーションのスライドには [ こちら ](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf) アクセスできます。
+プレゼンテーションのスライドには [&#x200B; こちら &#x200B;](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf) アクセスできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

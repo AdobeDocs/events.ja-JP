@@ -30,6 +30,6 @@ ht-degree: 0%
 * IMS およびAEM グループを使用したAdobe Experience Manager アクセス
 * Cloud Managerを使用したAEM環境の保護。
 
-プレゼンテーションのスライドには [ こちら ](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf) アクセスできます。
+プレゼンテーションのスライドには [&#x200B; こちら &#x200B;](../../assets/experience-manager/july2023/effective-security-strategies-in-cloud-service/AEM-CloudManager-Security_Webinar_July_18.pdf) アクセスできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421772/?learn=on)
