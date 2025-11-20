@@ -26,6 +26,6 @@ ht-degree: 0%
 * 製品サポートエージェントを使用すると、プロアクティブかつセルフサービスのサポートと、ケースの作成とトラッキングの自動化をユーザーに提供できます
 * ユーザーのサポート管理をさらに合理化するための技術革新と機能
 
-[![ExL LIVE 2024 年 1 月 17 日 ](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA)
+[![ExL LIVE 2024 年 1 月 17 日 &#x200B;](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA)
 
-[ クリックしてYouTubeにリマインダーを設定 ](https://www.youtube.com/live/MW2Ba7HJNbA)
+[&#x200B; クリックしてYouTubeにリマインダーを設定 &#x200B;](https://www.youtube.com/live/MW2Ba7HJNbA)
