@@ -3,10 +3,10 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 7d95beac5ae2af5f520f7e3a47b16403c9374b5b
+source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 2%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -20,12 +20,27 @@ ht-degree: 2%
    + [25.4 リリース](releases/25-4-release-webinar.md)
    + [25.1 リリース](releases/25-1-release-webinar.md)
    + [24.1 リリース](releases/24-1-release-webinar.md)
++ ワークショップ巻き戻し {#workshop-rewind}
+   + Fusion {#fusion}
+      + [命名規則の自動化](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [複数選択フィールドの変更内を簡単に移動](workshop-rewind/fusion/mulit-select-fields.md)
+      + [真のイベントコストのロック解除](workshop-rewind/fusion/event-costs.md)
+   + プランニング {#planning}
+      + [最新のWorkfront計画](workshop-rewind/planning/workfront-planning.md)
+      + [Workfrontのプランニングによるチームレベルの成功](workshop-rewind/planning/team-success-workfront-planning.md)
+      + [Workfront計画のリリースとロードマップ](workshop-rewind/planning/planning-release-roadmap.md)
+   + ワークフロー {#workflow}
+      + [Creativeのリソース管理方法](classics/creative-ways-of-managing-resources.md)
+      + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
+      + [プロジェクトテンプレート](workshop-rewind/workflow/project-templates.md)
+      + [成功を独学で学ぶ](workshop-rewind/workflow/self-taught-to-success.md)
+      + [Workfront Data Connect の機能を活用](workshop-rewind/workflow/data-connect.md)
 + クイック テイク {#quicktakes}
    + 上位 3 件 {#top3}
-      + [Creativeのブループリントへのアプローチ](top3/blueprints.md)
-      + [業務時間に対する上位 3 つのアプローチ](top3/office-hours.md)
+      + [Creativeのブループリントへのアプローチ](quick-takes/top3/blueprints.md)
+      + [業務時間に対する上位 3 つのアプローチ](quick-takes/top3/office-hours.md)
    + 対！ {#versus}
-      + [グループとチーム](versus/groups-vs-teams.md)
+      + [グループとチーム](quick-takes/versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
    + [導入](expert-insights/adoption.md)
    + [採用調査](expert-insights/adoption-surveys.md)
@@ -39,19 +54,6 @@ ht-degree: 2%
    + [Lyndsy Denk とのリクエストキュー](expert-insights/request-queues.md)
    + [WorkfrontのSLA レポート](expert-insights/sla-reporting.md)
    + [エンタープライズ作業管理](expert-insights/enterprise-work-management.md)
-+ ワークショップ巻き戻し {#workshop-rewind}
-   + 統合 {#integrations}
-      + [複数選択フィールドの変更内を簡単に移動](workshop-rewind/integrations/mulit-select-fields.md)
-      + [真のイベントコストのロック解除](workshop-rewind/integrations/event-costs.md)
-   + プランニング {#planning}
-      + [Workfrontのプランニングによるチームレベルの成功](workshop-rewind/planning/team-success-workfront-planning.md)
-      + [最新のWorkfront計画](workshop-rewind/planning/workfront-planning.md)
-   + ワークフロー {#workflow}
-      + [Creativeのリソース管理方法](classics/creative-ways-of-managing-resources.md)
-      + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
-      + [プロジェクトテンプレート](workshop-rewind/workflow/project-templates.md)
-      + [Workfront Data Connect の機能を活用](workshop-rewind/workflow/data-connect.md)
-
 + 古典 {#classics}
    + 管理 {#administration}
       + [監査証跡とコンプライアンス](user-groups/audit-trails-and-compliance.md)

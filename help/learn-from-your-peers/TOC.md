@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '326'
 ht-degree: 6%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 6%
    + 2023年 {#2023}
       + [AEM コアコンポーネントの開発者向けエクセレンス](experience-manager/2023/core-components.md)
       + [AEM Sitesのツールの詳細](experience-manager/2023/aem-sites-tools.md)
-      + [Cloud Serviceの効果的なセキュリティ戦略 &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [Cloud Serviceの効果的なセキュリティ戦略 ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -58,10 +58,11 @@ ht-degree: 6%
       + [Marketo EngageとDynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engageによるメール配信品質の向上](marketo/2023/email-deliverability.md)
       + [マーケティングキャンペーンの追跡、分析、最適化](marketo/2023/marketing-campaigns.md)
-      + [&#x200B; [!DNL Marketo Engage] を使用して、スケールコードでPersonalizationをクラックする](marketo/2023/personalization-at-scale.md)
+      + [ [!DNL Marketo Engage] を使用して、スケールコードでPersonalizationをクラックする](marketo/2023/personalization-at-scale.md)
       + [コンテンツをスケ  [!DNL Adobe Marketo Engage]  ラブルにする方法](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
+      + [ メタデータメイヘム ](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [影響の特定 – Workfront値の測定方法と共有方法](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [自動化によるリソース・プランニングの合理化](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024年 {#2024}
