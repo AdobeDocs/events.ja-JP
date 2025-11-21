@@ -18,16 +18,16 @@ ht-degree: 0%
 
 # トップ 3 - ブループリントを使ったCreativeのアプローチ
 
-皆さん、失礼ですが、 「オンデマンドWorkfront CSM」の私が、もう 1 つのトップ 3 ビデオで戻ってきました。  今回は [ ブループリント ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) について説明します。 ブループリントはWorkfrontの仕事への近道だと聞いたことがあるかもしれませんが、ブループリントを使用して企業のニーズを迅速に追跡する他の方法は何ですか？
+皆さん、失礼ですが、 「オンデマンドWorkfront CSM」の私が、もう 1 つのトップ 3 ビデオで戻ってきました。  今回は [&#x200B; ブループリント &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) について説明します。 ブループリントはWorkfrontの仕事への近道だと聞いたことがあるかもしれませんが、ブループリントを使用して企業のニーズを迅速に追跡する他の方法は何ですか？
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
 
-実稼動環境に何かをインストールする前にまず実験する場合は、心配はいりません。  最初に、[ サンドボックスプレビュー環境 ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) で試してみてください。
+実稼動環境に何かをインストールする前にまず実験する場合は、心配はいりません。  最初に、[&#x200B; サンドボックスプレビュー環境 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment) で試してみてください。
 
 最新のブループリントに関心がありますか？
 
-* [ ブループリントのリリース：新規ユーザー向けWorkfront トレーニング ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [ リリースされるブループリント：People Manager ダッシュボード ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
-* [ 使用可能なブループリントの完全なリスト ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [&#x200B; ブループリントのリリース：新規ユーザー向けWorkfront トレーニング &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
+* [&#x200B; リリースされるブループリント：People Manager ダッシュボード &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
+* [&#x200B; 使用可能なブループリントの完全なリスト &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
-新しいアイデアやクリエイティブなアプローチについて学びたい場合は、今後のワークショップにご登録ください（[Experience League イベントページ ](https://experienceleague.adobe.com/en/events?filters=Workfront)）。 近いうちにお会いできるのを楽しみにしています。
+新しいアイデアやクリエイティブなアプローチについて学びたい場合は、今後のワークショップにご登録ください（[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront)）。 近いうちにお会いできるのを楽しみにしています。

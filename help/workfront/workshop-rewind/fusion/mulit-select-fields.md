@@ -26,8 +26,8 @@ ht-degree: 0%
 ## リソース
 
 オンデマンド録画に加えて、スライドデッキとその他のリソースも含まれています。
-* [ スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Navigating+the+API+and+Fusion+Changes+for+Multi-Select+Fields+with+Ease+062425.pdf)
-* Adobe Software Development Team と提携して開催されたイベントが 5 月初旬に Event Subscriptions の変更で配信されました。この分野について詳しくは、[[ イベントのフォローアップ ] Event Subscriptions V2 のアップグレード中に Fusion のシナリオを維持する ] を参照してください ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-preserving-your-fusion-scenarios-during-the/m-p/754182#M4041)
+* [&#x200B; スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Navigating+the+API+and+Fusion+Changes+for+Multi-Select+Fields+with+Ease+062425.pdf)
+* Adobe Software Development Team と提携して開催されたイベントが 5 月初旬に Event Subscriptions の変更で配信されました。この分野について詳しくは、[[ イベントのフォローアップ ] Event Subscriptions V2 のアップグレード中に Fusion のシナリオを維持する ] を参照してください &rbrack;(https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-preserving-your-fusion-scenarios-during-the/m-p/754182#M4041)
 
 ## 主な留意点とリソース
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 * イベント購読のバージョン管理が導入されました。バージョン 2 は常に複数選択フィールドを配列として返しますが、バージョン 1 は現在の一貫性のない動作を維持します
 * 新しいイベント購読は、自動的にデフォルトでバージョン 2 にアップグレードされます。すべての購読は、2026 年 1 月中旬に自動的にバージョン 2 にアップグレードされます
 * 新しいWorkfront コネクタバージョンは、モジュールマッピングを保持し重大な変更を防ぐための手動アップグレードプロセスとともに、今年後半にリリースされる予定です
-* Fusion AI アシスタントは現在利用可能ですが、署名された AI 契約と適切なライセンス設定が必要です。 ご質問がある場合や、その他の情報に興味がある場合は、担当のアカウントマネージャーにお問い合わせください。 [Fusion での AI の使用に関する詳細 ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/manage-scenarios/fusion-ai-assistant)
-* [ 現在使用可能なWorkfront Fusion テンプレート ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Fusion テンプレートの呼び出し ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/call-for-fusion-template-ideas/m-p/732085#M3686) – 新しい Fusion テンプレートの提案がある場合は、ここに追加します。 チームがアイデアを引き出すのはこの場所です  
+* Fusion AI アシスタントは現在利用可能ですが、署名された AI 契約と適切なライセンス設定が必要です。 ご質問がある場合や、その他の情報に興味がある場合は、担当のアカウントマネージャーにお問い合わせください。 [Fusion での AI の使用に関する詳細 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/manage-scenarios/fusion-ai-assistant)
+* [&#x200B; 現在使用可能なWorkfront Fusion テンプレート &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Fusion テンプレートの呼び出し &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/call-for-fusion-template-ideas/m-p/732085#M3686) – 新しい Fusion テンプレートの提案がある場合は、ここに追加します。 チームがアイデアを引き出すのはこの場所です  
 
 フォローアップの質問がある場合は、この [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-navigating-the-workfront-api-and-fusion-changes/td-p/761253) に返信してください。 
 
-今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント ](https://experienceleague.adobe.com/events/?filters=Workfront) を確認し、登録してください。
+今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront) を確認し、登録してください。

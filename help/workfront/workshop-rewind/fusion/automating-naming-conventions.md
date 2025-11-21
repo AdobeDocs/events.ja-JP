@@ -31,6 +31,6 @@ Fusion を使い始めたばかりの場合でも、自動化を拡大しよう�
 
 ## リソース
 
-- [ スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
-- [Zip ファイル ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) と後続の資料
-- 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ ](https://experienceleague.adobe.com/ja/events) を確認してください。
+- [&#x200B; スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
+- [Zip ファイル &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) と後続の資料
+- 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。

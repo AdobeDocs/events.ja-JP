@@ -27,6 +27,6 @@ Workfrontの他のお客様から学んだことを次に示します。これ�
 
 ストーリーやユースケースの共有に興味がある場合は、csatscale@adobe.comまでメールを送信してください。
 
-イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174) のコメントに、自由にドロップしてください。
+イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174) のコメントに、自由にドロップしてください。
 
-毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ ](https://experienceleague.adobe.com/ja/events) を確認してください。
+毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
