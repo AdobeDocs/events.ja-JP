@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '551'
 ht-degree: 4%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 4%
    + Customer Journey Analytics {#cja2025}
       + [エグゼクティブスポンサーシップの構築](2025/cja-success.md)
       + [変更管理の戦略](2025/cja-adoption.md)
+      + [CJAData Insights Agent](2025/cja-data-insights-agent.md)
       + [CJAを成功させるための運用モデルの設計](2025/cja-operating-model.md)
       + [基本的なアーキテクチャ](2025/cja-vision.md)
       + [Adobe AnalyticsからCJAへの移行](2025/analytics-to-cja-migration.md)
