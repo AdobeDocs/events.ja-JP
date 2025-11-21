@@ -20,7 +20,7 @@ ht-degree: 0%
 
 「オンデマンドWorkfrontCSM」の Cynthia Boon と私は、イベント中にいつも出てくるトピックを持っています。  Office Hours の作成を始めたばかりの場合や、更新したい場合は、以下のビデオを確認してください。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470143/?captions=jpn&learn=on&enablevpops)
 
 Office Hours は、Workfrontのコミュニケーションプラン全体のもう 1 つの重要な要素です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [&#x200B; エンドユーザー通信クックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ja) を確認してください。
 
