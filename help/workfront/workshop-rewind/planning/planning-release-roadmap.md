@@ -26,7 +26,7 @@ Adobe Workfront Product Management チームと共に、Workfront プランニ�
 ## リソース
 
 - [&#x200B; スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/111025+-+From+Vision+to+Value-Workfront+Planning+Release+%26+Roadmap.pdf)
-- [Adobe Workfront計画の概要 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+- [Adobe Workfront計画の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
 - [Workfront計画 API の概要 &#x200B;](https://developer.adobe.com/wf-planning/api/v1/)
 - [Workfront ワークフロー API エクスプローラー &#x200B;](https://developer.adobe.com/workfront/api-explorer/)
 - イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿のコメントに、自由にドロップしてください &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-vision-to-value-workfront-planning-release/td-p/785666!) 新しいイベントは毎月追加されるので、最新のセッションについては、必ずExperience League Events ページを確認してください。
