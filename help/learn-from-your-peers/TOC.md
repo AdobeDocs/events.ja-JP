@@ -62,7 +62,7 @@ ht-degree: 6%
       + [コンテンツをスケ  [!DNL Adobe Marketo Engage]  ラブルにする方法](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [&#x200B; メタデータメイヘム &#x200B;](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [&#x200B; メタデータメイヘム &#x200B;](https://experienceleague.adobe.com/ja/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [影響の特定 – Workfront値の測定方法と共有方法](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [自動化によるリソース・プランニングの合理化](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024年 {#2024}
