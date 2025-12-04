@@ -23,7 +23,7 @@ ht-degree: 0%
 
 [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf) のレビューを行い、オンデマンド録画の流れを見てみましょう。
 
-ダウンロード可能な CSV ファイルの例と Fusion CSV バンドルについては、[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) を参照してください。
+ダウンロード可能な CSV ファイルの例と Fusion CSV バンドルについては、[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522?profile.language=ja) を参照してください。
 
 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
 

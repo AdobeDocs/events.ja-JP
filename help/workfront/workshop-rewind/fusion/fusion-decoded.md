@@ -25,8 +25,8 @@ Jen Desmond によるWorkfront Fusion の分類と、Fusion の説明に役立�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-現在利用可能なAdobe Workfront [Fusion テンプレート &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) を確認します。
+現在利用可能なAdobe Workfront [Fusion テンプレート &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) を確認します。
 
-[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958) に、さらに多くのリソースリンクが掲載されています。
+[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=ja) に、さらに多くのリソースリンクが掲載されています。
 
 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。

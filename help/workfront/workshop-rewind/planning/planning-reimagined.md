@@ -24,9 +24,9 @@ Southern New Hampshire University のマーケティング・オペレーショ�
 ライブセッションを見逃した場合は、[HMac の SNHU スライド &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf) を確認し、オンデマンド録画を視聴してフォローしてください。
 * （メモ：デッキ内のプロジェクトはすべて例です）
 
-Experience League Planning の今後の予定について詳しくは、Workfrontの [Adobe Workfront Planning リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) ページをブックマークしてください。
+Experience League Planning の今後の予定について詳しくは、Workfrontの [Adobe Workfront Planning リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) ページをブックマークしてください。
 
-イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019) のコメントに、自由にドロップしてください。
+イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=ja) のコメントに、自由にドロップしてください。
 
 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
 

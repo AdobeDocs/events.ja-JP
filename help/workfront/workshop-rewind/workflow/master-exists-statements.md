@@ -23,7 +23,7 @@ Workfront レポートを次のレベルに進める準備はできています�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-ライブセッションを見逃しましたか？ 心配しないで。 Skye &amp; Nathan の [&#x200B; プレゼンテーションデッキ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550) を確認し、オンデマンド録画を視聴してフォローしてください。
+ライブセッションを見逃しましたか？ 心配しないで。 Skye &amp; Nathan の [&#x200B; プレゼンテーションデッキ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=ja) を確認し、オンデマンド録画を視聴してフォローしてください。
 
 イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿 &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf) のコメントに、自由にドロップしてください。
 

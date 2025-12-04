@@ -23,9 +23,9 @@ ht-degree: 0%
 
 [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf) を確認し、オンデマンド録画が続くのを見ます。
 
-Fusion には時間と練習が必要なので、使い始めたばかりの場合は、（無料で） [Workfrontの Fusion トレーニング &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) の詳細を確認してください。[Experience League Fusion コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2) で他のお客様にお問い合わせください。
+Fusion には時間と練習が必要なので、使い始めたばかりの場合は、（無料で） [Workfrontの Fusion トレーニング &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) の詳細を確認してください。[Experience League Fusion コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2?profile.language=ja) で他のお客様にお問い合わせください。
 
-その他のリソースとそのユースケースの詳細については、[Experience League Community の投稿をご覧ください &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981)
+その他のリソースとそのユースケースの詳細については、[Experience League Community の投稿をご覧ください &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981?profile.language=ja)
 
 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
 

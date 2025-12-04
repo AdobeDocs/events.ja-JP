@@ -17,15 +17,15 @@ ht-degree: 0%
 
 # 迅速で機能的：Adobe Workfrontのブループリント
 
-Adobe Workfrontの [&#x200B; ブループリントライブラリ &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints) は、すぐに使用できる新しいテンプレートとダッシュボードによって常に増加しています。 迅速なインストールプロセスにより、設定に費やす時間を短縮し、作業に費やす時間を増やすことができます。
+Adobe Workfrontの [&#x200B; ブループリントライブラリ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints) は、すぐに使用できる新しいテンプレートとダッシュボードによって常に増加しています。 迅速なインストールプロセスにより、設定に費やす時間を短縮し、作業に費やす時間を増やすことができます。
 
-Workfront カスタマーサクセスチームは、ブループリントについて知っておく必要のあるすべての情報 [&#x200B; ブループリント &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) を提供しました。ブループリントの概要と仕組み、および今日から使用を開始して組織全体で価値を最大限に高める方法を説明しました。
+Workfront カスタマーサクセスチームは、ブループリントについて知っておく必要のあるすべての情報 [&#x200B; ブループリント &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview) を提供しました。ブループリントの概要と仕組み、および今日から使用を開始して組織全体で価値を最大限に高める方法を説明しました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477130/?learn=on&enablevpops)
 
 [&#x200B; スライド &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Blueprints.pdf) を確認し、オンデマンド録画が流れていくのを見ます。
 
-イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939) のコメントに、自由にドロップしてください。
+イベントで共有するアイデアや、その後の質問はありますか？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939?profile.language=ja) のコメントに、自由にドロップしてください。
 
 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
 

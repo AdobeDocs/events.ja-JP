@@ -25,7 +25,7 @@ ht-degree: 0%
 
 [&#x200B; プレゼンテーション スライド デッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) のレビューを行い、オンデマンド録画の流れを見てみましょう。
 
-セッション中に共有されるメモとベストプラクティスを含む、カスタマイズ可能なスライドデッキをお探しですか？  その他のリソースについては、[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) をご覧ください。
+セッション中に共有されるメモとベストプラクティスを含む、カスタマイズ可能なスライドデッキをお探しですか？  その他のリソースについては、[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=ja) をご覧ください。
 
 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
 
