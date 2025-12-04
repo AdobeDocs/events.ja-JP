@@ -20,13 +20,13 @@ Workfrontの第 4 四半期リリースは 2025 年 10 月 16 日（PT）にデ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477133/?learn=on&enablevpops)
 
-ライブセッションに参加できなければ、心配はいりません。 [ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/100925+-+Fourth+Quarter+Release+Webinar.pdf) を確認し、オンデマンド録画が続くのを見ます。
+ライブセッションに参加できなければ、心配はいりません。 [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/100925+-+Fourth+Quarter+Release+Webinar.pdf) を確認し、オンデマンド録画が続くのを見ます。
 
-また、すべての機能がウェビナーで取り上げられているわけではないので、Experience Leagueの [ リリースノート ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) を必ず確認してください。
+また、すべての機能がウェビナーで取り上げられているわけではないので、Experience Leagueの [&#x200B; リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) を必ず確認してください。
 
-セッションからの Q&amp;A とトランスクリプトをお探しですか？ [Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946) をご覧ください。
+セッションからの Q&amp;A とトランスクリプトをお探しですか？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946) をご覧ください。
 
-毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ ](https://experienceleague.adobe.com/ja/events) を確認してください。
+毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
 
 
 

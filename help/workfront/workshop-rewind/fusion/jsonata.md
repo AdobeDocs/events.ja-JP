@@ -23,9 +23,9 @@ Adobe Professional Servicesの Steve Watts と Brian Haight がパートナー�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477129/?learn=on&enablevpops)
 
-ライブに参加できなかった場合でも、心配はいりません。[ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf) を確認し、オンデマンド録画を視聴してフォローしてください。
+ライブに参加できなかった場合でも、心配はいりません。[&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf) を確認し、オンデマンド録画を視聴してフォローしてください。
 
-ダウンロード可能なトレーニング資料については [](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029)Experience League Community の投稿をご覧ください。zip ファイルに従ってください。
+ダウンロード可能なトレーニング資料については [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029)Experience League Community の投稿をご覧ください。zip ファイルに従ってください。
 
-毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ ](https://experienceleague.adobe.com/ja/events) を確認してください。
+毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
 

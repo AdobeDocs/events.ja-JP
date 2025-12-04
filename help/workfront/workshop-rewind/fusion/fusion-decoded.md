@@ -20,13 +20,13 @@ ht-degree: 0%
 
 Jen Desmond によるWorkfront Fusion の分類と、Fusion の説明に役立つライブ例をいくつか紹介します。
 
-ライブイベントを見逃した場合は、[ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf) を確認してください
+ライブイベントを見逃した場合は、[&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf) を確認してください
 また、Jen がWorkfront Fusion の概要と機能を説明し、いくつかのシナリオの作成方法をデモするので、オンデマンドの録画をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-現在利用可能なAdobe Workfront [Fusion テンプレート ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) を確認します。
+現在利用可能なAdobe Workfront [Fusion テンプレート &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) を確認します。
 
-[Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958) に、さらに多くのリソースリンクが掲載されています。
+[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958) に、さらに多くのリソースリンクが掲載されています。
 
-毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ ](https://experienceleague.adobe.com/ja/events) を確認してください。
+毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
