@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + [Workfront オンデマンドワークショップ](overview.md)
 
 + リリースウェビナー {#releases}
+   + [2025 年第 4 四半期リリースウェビナー](releases/25-q4-release-webinar.md)
    + [25.7 リリース](releases/25-7-release-webinar.md)
    + [25.4 リリース](releases/25-4-release-webinar.md)
    + [25.1 リリース](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 1%
 + ワークショップ巻き戻し {#workshop-rewind}
    + Fusion {#fusion}
       + [命名規則の自動化](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [データインポート](workshop-rewind/fusion/data-imports.md)
+      + [Fusion デコード](workshop-rewind/fusion/fusion-decoded.md)
+      + [Workfront Fusion が人間を支援する仕組み](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [複数選択フィールドの変更内を簡単に移動](workshop-rewind/fusion/mulit-select-fields.md)
       + [真のイベントコストのロック解除](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + プランニング {#planning}
       + [最新のWorkfront計画](workshop-rewind/planning/workfront-planning.md)
+      + [SNHU のCreativeのユースケース](workshop-rewind/planning/planning-reimagined.md)
       + [Workfrontのプランニングによるチームレベルの成功](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront計画のリリースとロードマップ](workshop-rewind/planning/planning-release-roadmap.md)
    + ワークフロー {#workflow}
-      + [Creativeのリソース管理方法](classics/creative-ways-of-managing-resources.md)
+      + [ブループリント](workshop-rewind/workflow/blueprints.md)
+      + [Workfrontの価値の定義と伝達](workshop-rewind/workflow/workfront-value.md)
+      + [ガバナンス、実行、採用に関するヒント](workshop-rewind/workflow/governance-execution-adoption.md)
       + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
+      + [EXISTS 文のマスタリング](workshop-rewind/workflow/master-exists-statements.md)
+      + [電源テンプレート](workshop-rewind/workflow/power-templates.md)
       + [プロジェクトテンプレート](workshop-rewind/workflow/project-templates.md)
       + [成功を独学で学ぶ](workshop-rewind/workflow/self-taught-to-success.md)
       + [Workfront Data Connect の機能を活用](workshop-rewind/workflow/data-connect.md)
+      + [WorkfrontとAEMのネイティブ統合](workshop-rewind/workflow/aem-native-integration.md)
 + クイック テイク {#quicktakes}
    + 上位 3 件 {#top3}
       + [Creativeのブループリントへのアプローチ](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 1%
       + [API エクスプローラーを使用した基本テキストモードレポートの強化](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [組み合わせと処理能力について](classics/understanding-mix-and-capacity.md)
    + リソース管理 {#resource-management}
+      + [Creativeのリソース管理方法](classics/creative-ways-of-managing-resources.md)
       + [リソースとキャパシティの計画](user-groups/resource-and-capacity-planning.md)
       + [リソース管理](user-groups/resource-management.md)
    + 作業のレビューと承認 {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 1%
       + [Workfront Proofの活用](user-groups/leveraging-workfront-proof.md)
    + リクエストキューと取り込み {#request-queues-and-intake}
       + [リクエストキューと取り込みForms](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
