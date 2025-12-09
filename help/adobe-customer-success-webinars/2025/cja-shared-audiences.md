@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Customer Journey Analyticsは、プラットフォーム間でインサイトを結び付けるのに役立ち、マーケターが行動データに基づいてセグメント化されたオーディエンスを作成できるようになります。 Adobe Real-Time Customer Data PlatformとAdobe Journey Optimizerを使用して、共有オーディエンスをオムニチャネルパーソナライゼーションに活用する方法、キャンペーンを効率化する方法、顧客インサイトを最大化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477449/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477455/?captions=jpn&learn=on&enablevpops)
