@@ -21,5 +21,5 @@ Adobe Workfrontワークショップは、私たちの商品に慣れるため�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-完了したら、[Experience League イベントページに移動して &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront) 今後のワークショップに登録してください。
+完了したら、[Experience League イベントページに移動して &#x200B;](https://experienceleague.adobe.com/ja/events?filters=Workfront) 今後のワークショップに登録してください。
 

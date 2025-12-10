@@ -26,6 +26,6 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
 
-その他のリソースについては、[Experience League Community の投稿をご覧くだ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047) い。
+その他のリソースについては、[Experience League Community の投稿をご覧くだ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=ja) い。
 
 新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) で今後のワークショップに登録してください。

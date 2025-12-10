@@ -23,6 +23,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
 
-その他のリソースについては、[Experience League Community の投稿をご覧くだ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374) い。
+その他のリソースについては、[Experience League Community の投稿をご覧くだ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=ja#M374) い。
 
 新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) で今後のワークショップに登録してください。
