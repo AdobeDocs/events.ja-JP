@@ -21,7 +21,7 @@ ht-degree: 0%
 
 これには、コミュニケーションを改善し、エンドユーザーがリクエストに入力する際の関心を高めるための、楽しさと機能の両方のヒントが含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477053/?captions=jpn&learn=on&enablevpops)
 
 その他のリソースについては、[Experience League Community の投稿をご覧くだ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903?profile.language=ja#M374) い。
 

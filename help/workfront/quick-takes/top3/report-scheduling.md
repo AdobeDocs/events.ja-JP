@@ -21,7 +21,7 @@ ht-degree: 0%
 
 今回は、スケジュールレポートを最大限に活用するためのお気に入りの方法を共有します。 このビデオでは、作成したすべての素晴らしいレポートをさらに詳しく理解するためにこの機能を使用する方法の例を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477075/?captions=jpn&learn=on&enablevpops)
 
 その他のリソースについては、[Experience League Community の投稿をご覧くだ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=ja) い。
 

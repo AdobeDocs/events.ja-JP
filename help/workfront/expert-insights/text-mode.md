@@ -29,7 +29,7 @@ ht-degree: 0%
 * コミュニティを活用します。 - Experience League、クックブック、API エクスプローラー、ピアに依存します。 車輪を作り直すな。
 * 永続化しますが、休憩を取ります。  – 立ち往生した場合は、ノートパソコンを閉じて散歩し、新鮮な目で戻ります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477135/?captions=jpn&learn=on&enablevpops)
 
 
 ## リソース

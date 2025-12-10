@@ -24,7 +24,7 @@ ht-degree: 1%
 * カレンダーに直接表示するリクエスト（新規従業員のオンボーディングの例）
 * そして、ボーナスヒント！
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477064/?captions=jpn&learn=on&enablevpops)
 
 その他のリソースについては、[Experience League Community の投稿をご覧くだ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047?profile.language=ja) い。
 
