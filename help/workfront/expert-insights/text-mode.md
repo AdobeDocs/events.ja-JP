@@ -35,13 +35,13 @@ ht-degree: 0%
 ## リソース
 
 その他のリソースをお探しですか？ 奴らだ！
-* [ お客様パネル：ベテランのWorkfront管理者から学んだ教訓 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine 氏がより多くのインサイトを共有
-* [ レポート内のコレクションの参照 ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [&#x200B; お客様パネル：ベテランのWorkfront管理者から学んだ教訓 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine 氏がより多くのインサイトを共有
+* [&#x200B; レポート内のコレクションの参照 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
 * [API エクスプローラー](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [ レポートクックブック ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* レポート機能を初めて使用する場合は、Nichole の Perspective 記事「[Adobe Workfrontでシンプルで効果的なレポートを作成するための 8 つの手順 ](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront) から始めましょう。
+* [&#x200B; レポートクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* レポート機能を初めて使用する場合は、Nichole の Perspective 記事「[Adobe Workfrontでシンプルで効果的なレポートを作成するための 8 つの手順 &#x200B;](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront) から始めましょう。
 
-テキストモードのコピー/貼り付けなど、その他のリソースについては、[Experience League Community の投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848) をご覧ください。
+テキストモードのコピー/貼り付けなど、その他のリソースについては、[Experience League Community の投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848) をご覧ください。
 
 
 ## スピーカーについて
@@ -57,4 +57,4 @@ Katherine は、IQVIA Digital のWorkfront ソリューションエンジニア�
 
 イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください。
 
-新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience League イベントページ ](https://experienceleague.adobe.com/ja/events) で今後のワークショップにご登録ください。
+新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) で今後のワークショップにご登録ください。
