@@ -25,8 +25,8 @@ Workfrontを使用してクリエイティブなブリーフを再考し、生�
 
 ## リソース
 
-* 私たちのイベントでライブを見に来てください [ テキスト ](https://experienceleague.adobe.com/fr/events)
-* 私たちのイベントでライブを見に来てください [ テキスト ](https://experienceleague.adobe.com/fr/events)
+* 私たちのイベントでライブを見に来てください [&#x200B; テキスト &#x200B;](https://experienceleague.adobe.com/fr/events)
+* 私たちのイベントでライブを見に来てください [&#x200B; テキスト &#x200B;](https://experienceleague.adobe.com/fr/events)
 
 
 
