@@ -3,9 +3,9 @@ title: Adobe Workfront オンデマンドワークショップ
 description: Workfront Events は、エキスパートや同業者が、Workfrontを使用して自社で行われている作業を強化する方法に関する考えやアイデアを共有するビデオライブラリです。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '860'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7 リリースウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1763675711841" alt="Adobe Workfront 25.7 リリースウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1765315875998" alt="Adobe Workfront 25.7 リリースウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,13 +51,13 @@ ht-degree: 2%
 
 ## ワークショップ巻き戻し
 
-厳選された注目イベントを通じて、Adobe Workfront コミュニティの最新情報をご覧ください。 毎月、Workfrontを最大限に活用できるよう、様々なトピックをカバーする無料のライブセッションを開催しています。 ライブイベントを見逃した場合は、 問題ありません。 お客様の事例、実証済みのベストプラクティス、学んだ貴重な教訓を紹介するオンデマンドの録画を視聴します。 リアルタイムで接続したい場合 今後のライブイベントに参加して、質問をしたり、インサイトを共有したり、仲間と共同作業したりします。 定期的に [Experience League Workfront イベントページにアクセスして &#x200B;](https://experienceleague.adobe.com/ja/events?filters=Workfront) 次の予定を確認してください。
+厳選された注目イベントを通じて、Adobe Workfront コミュニティの最新情報をご覧ください。 毎月、Workfrontを最大限に活用できるよう、様々なトピックをカバーする無料のライブセッションを開催しています。 ライブイベントを見逃した場合は、 問題ありません。 お客様の事例、実証済みのベストプラクティス、学んだ貴重な教訓を紹介するオンデマンドの録画を視聴します。 リアルタイムで接続したい場合 今後のライブイベントに参加して、質問をしたり、インサイトを共有したり、仲間と共同作業したりします。 定期的に [Experience League Workfront イベントページにアクセスして ](https://experienceleague.adobe.com/en/events?filters=Workfront) 次の予定を確認してください。
 
 <!-- CARDS 
 
 * workshop-rewind/planning/team-success-workfront-planning.md
 * workshop-rewind/fusion/event-costs.md
-* workshop-rewind/workflow/data-connect.md
+* workshop-rewind/workflow/creative-briefs.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -67,7 +67,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/team-success-workfront-planning.md" title="迅速な立ち上げ、スケーラブルでスマートに – Workfront Planning でチームレベルの成功を実現" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1763675712244" alt="迅速な立ち上げ、スケーラブルでスマートに – Workfront Planning でチームレベルの成功を実現"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469964/?format=jpeg&nocache=1765315876609" alt="迅速な立ち上げ、スケーラブルでスマートに – Workfront Planning でチームレベルの成功を実現"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/event-costs.md" title="Workfront Fusion の修正 – Ericsson が提供する、真のイベントコストを解放するスマートな方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1763675712238" alt="Workfront Fusion の修正 – Ericsson が提供する、真のイベントコストを解放するスマートな方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469977/?format=jpeg&nocache=1765315876620" alt="Workfront Fusion の修正 – Ericsson が提供する、真のイベントコストを解放するスマートな方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,12 +108,12 @@ ht-degree: 2%
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock the Power of Workfront Data Connect">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reimagining Creative Briefs in Workfront">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workshop-rewind/workflow/data-connect.md" title="Workfront Data Connect の機能を活用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469965/?format=jpeg&nocache=1763675712257" alt="Workfront Data Connect の機能を活用"
+                    <a href="workshop-rewind/workflow/creative-briefs.md" title="WorkfrontでのCreative概要の再考" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477114/?format=jpeg&nocache=1765315876590" alt="WorkfrontでのCreative概要の再考"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,11 +121,11 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" title="Workfront Data Connect の機能を活用">Workfront Data Connect の機能を活用 </a>
+                        <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" title="WorkfrontでのCreative概要の再考">WorkfrontでのCreative概要の再考 </a>
                     </p>
-                    <p class="is-size-6">Adobe Workfront Data Connect を BI ツールと統合して、インサイトを解放し、パフォーマンスを追跡し、よりスマートなビジネス上の意思決定を推進する方法について説明します。</p>
+                    <p class="is-size-6">Workfrontを使用してクリエイティブブリーフを変換し、プロセスを合理化して効率を高めた方法を紹介します。</p>
                 </div>
-                <a href="workshop-rewind/workflow/data-connect.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workshop-rewind/workflow/creative-briefs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
                 </a>
             </div>
@@ -155,7 +155,7 @@ Workfrontの管理者でも、プロジェクトマネージャーでも、日�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="トップ 3 - ブループリントを使ったCreativeのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465311/?captions=jpn&format=jpeg&nocache=1763675712911" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1765315877555" alt="トップ 3 - ブループリントを使ったCreativeのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ Workfrontの管理者でも、プロジェクトマネージャーでも、日�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="対！ - グループとチーム" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467354/?captions=jpn&format=jpeg&nocache=1763675712903" alt="対！ - グループとチーム"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1765315877551" alt="対！ - グループとチーム"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="Expert Insights - Leslie Spier による導入" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469928/?captions=jpn&format=jpeg&nocache=1763675713371" alt="Expert Insights - Leslie Spier による導入"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1765315878072" alt="Expert Insights - Leslie Spier による導入"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="Expert Insights - Jaime Davidson による導入調査" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1763675713377" alt="Expert Insights - Jaime Davidson による導入調査"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1765315878064" alt="Expert Insights - Jaime Davidson による導入調査"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Workfront エキスパートインサイトシリーズは、経験豊富なWork
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="エキスパートインサイト - Natalie Mitchell によるアジャイル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469917/?captions=jpn&format=jpeg&nocache=1763675713389" alt="エキスパートインサイト - Natalie Mitchell によるアジャイル"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1765315878067" alt="エキスパートインサイト - Natalie Mitchell によるアジャイル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
