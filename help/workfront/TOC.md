@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
       + [Workfront計画のリリースとロードマップ](workshop-rewind/planning/planning-release-roadmap.md)
    + ワークフロー {#workflow}
       + [ブループリント](workshop-rewind/workflow/blueprints.md)
+      + [Creative概要の再考](workshop-rewind/workflow/creative-briefs.md)
       + [Workfrontの価値の定義と伝達](workshop-rewind/workflow/workfront-value.md)
       + [ガバナンス、実行、採用に関するヒント](workshop-rewind/workflow/governance-execution-adoption.md)
       + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
@@ -50,6 +51,11 @@ ht-degree: 1%
    + 上位 3 件 {#top3}
       + [Creativeのブループリントへのアプローチ](quick-takes/top3/blueprints.md)
       + [業務時間に対する上位 3 つのアプローチ](quick-takes/top3/office-hours.md)
+      + [カレンダーに関する上位 3 つの秘訣](quick-takes/top3/calendar-hacks.md)
+      + [カスタム Formsでの画像の使用](quick-takes/top3/add-image-custom-forms.md)
+      + [レイアウトテンプレートを使用する主な理由](quick-takes/top3/layout-templates.md)
+      + [Workfrontのワークショップに参加する理由](quick-takes/top3/reason-attend-workshop.md)
+      + [Workfrontでのレポートスケジュールの最大化](quick-takes/top3/report-scheduling.md)
    + 対！ {#versus}
       + [グループとチーム](quick-takes/versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
@@ -59,6 +65,7 @@ ht-degree: 1%
    + [コンテンツSupply chain](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [ガバナンスとセンターオブエクセレンス](expert-insights/centers-of-excellence.md)
+   + [マスターテキストモード](expert-insights/text-mode.md)
    + [非従来のWorkfront ワークフロー](expert-insights/non-traditional-workfront-workflows.md)
    + [レポート方法](expert-insights/reporting-practices.md)
    + [リソース管理](expert-insights/resource-management.md)
