@@ -85,7 +85,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チーム�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="Adobeの AI プロジェクト – 実践編" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765410870539" alt="Adobeの AI プロジェクト – 実践編"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477626/?captions=jpn&format=jpeg&nocache=1765410870539" alt="Adobeの AI プロジェクト – 実践編"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,7 +108,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チーム�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="AI コーディングの対決 – 良い、悪い、醜い" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765410870512" alt="AI コーディングの対決 – 良い、悪い、醜い"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477649/?captions=jpn&format=jpeg&nocache=1765410870512" alt="AI コーディングの対決 – 良い、悪い、醜い"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,7 +131,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チーム�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Adobe Experience Manager Agents の探索" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765410870551" alt="Adobe Experience Manager Agents の探索"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477661/?captions=jpn&format=jpeg&nocache=1765410870551" alt="Adobe Experience Manager Agents の探索"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

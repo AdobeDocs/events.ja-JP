@@ -19,4 +19,4 @@ ht-degree: 0%
 
 AI が、実際のアプリケーションを通じて、Adobe プロジェクトのデジタルエクスペリエンスをどのように変革するかをご確認ください。 AI がコンテンツの作成、サイトの検証、プロジェクト計画を強化して、効率を高め、コストを削減する方法を説明します。 Adobe Experience Manager、Adobe Commerce、Edge Delivery Servicesでの AI ツールの革新的な使用方法を紹介するストーリーを掘り下げます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477626/?captions=jpn&learn=on&enablevpops)

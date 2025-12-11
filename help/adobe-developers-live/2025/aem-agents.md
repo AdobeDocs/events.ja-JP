@@ -21,7 +21,7 @@ Adobe Developers Live 2025: Building the Agentic Web には、サンノゼ、シ
 
 このセッションでは、サンノゼでライブ録画を行い、Web サイトの移行を AI を活用して変える機能であるAdobe Experience Manager エージェントについて紹介します。 シームレスな GitHub 統合により、AEM Agents は、ブロックマッピング、コンテンツの読み込み、スタイル設定を、クリーンでベストプラクティスのコードに自動化し、Edge Delivery Servicesへのオンボーディングを高速化します。 開発者が移行を簡素化し、配信時間を短縮し、検索エンジンや生成エンジン用に最適化されたサイトを開始する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477620/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477661/?captions=jpn&learn=on&enablevpops)
 
 Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
 
