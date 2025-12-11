@@ -17,7 +17,7 @@ ht-degree: 12%
 
 Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チームは、様々な業界で設計、コンテンツ作成ワークフロー、ドキュメントサービス、カスタマーエクスペリエンス管理を強化する最新の技術進歩と開発者ツールを紹介します。
 
-今後のイベントについては、**[登録 ](https://developer.adobe.com/developers-live/)** してください。
+今後のイベントについては、**[登録 &#x200B;](https://developer.adobe.com/developers-live/)** してください。
 
 ## Adobe Developers Live 2025 : Agentic Web の構築
 
