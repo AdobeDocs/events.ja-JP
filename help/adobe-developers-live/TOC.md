@@ -2,9 +2,9 @@
 user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
-source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
+source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '929'
 ht-degree: 6%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 6%
 # アドビ開発者ライブイベント {#adobe-developers-live-recordings}
 
 + [概要](overview.md)
++ 2025 {#2025}
+   + [キーノート - Agentic Web Keynote の構築](2025/keynote.md)
+   + [AEMのエージェンティック・エボリューション](2025/agentic-evolution-aem.md)
+   + [Adobe プロジェクトの AI](2025/ai-in-projects.md)
+   + [AI コーディングの対決](2025/coding-agent.md)
+   + [Adobe Experience Manager Agents の探索](2025/aem-agents.md)
 + 2024年 {#2024}
    + 11 月 {#nov2024}
       + [キーノート](2024/nov/keynote.md)
