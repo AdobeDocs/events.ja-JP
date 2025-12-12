@@ -7,10 +7,10 @@ doc-type: Event
 duration: 4240
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19962
-source-git-commit: e34a82dba6d98fc15d44a6be407c6316476b988e
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 2%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
@@ -21,8 +21,12 @@ Adobe Developers Live 2025 の基調講演では、AI がどのようにデジ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477589/?learn=on&enablevpops)
 
+サンノゼでライブ録画されたこの完全な基調講演では、Loni Stark、David Nuescheler、Mark Szulc、Shankari Panchapakesan、Cecily Liu、Deck Reyes が、AEM Agents、コンテンツ AI 基盤サービス、Brand Concierge、Sites Optimizer、LLM Optimizerなど、Adobeのエージェンティックウェブに関するビジョンを発表します。
+
+Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
+
 ## 次の手順
 
 * [Experience League](https://adobe.ly/47ss08A) で会話を続ける
-* Discover [&#x200B; 今後のイベント &#x200B;](https://developerevents.adobe.com)
+* Discover [ 今後のイベント ](https://developerevents.adobe.com)
 

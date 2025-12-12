@@ -2,10 +2,10 @@
 user-guide-title: アドビ開発者ライブイベント
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: アドビ開発者ライブコンテンツイベントの録画コレクション
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '929'
-ht-degree: 6%
+source-wordcount: '984'
+ht-degree: 5%
 
 ---
 
@@ -16,9 +16,22 @@ ht-degree: 6%
 + 2025 {#2025}
    + [キーノート - Agentic Web Keynote の構築](2025/keynote.md)
    + [AEMのエージェンティック・エボリューション](2025/agentic-evolution-aem.md)
+   + [LLM Optimizerを使用した AI エージェント](2025/llm-optimizer.md)
    + [Adobe プロジェクトの AI](2025/ai-in-projects.md)
    + [AI コーディングの対決](2025/coding-agent.md)
+   + [AI Commerceの開発イノベーション](2025/app-builder-extensions.md)
+   + [AEMを使用した AI コンテンツ検出](2025/ai-content-discovery.md)
+   + [Brand Concierge](2025/brand-concierge.md)
+   + [AEMのコンテンツ AI](2025/content-ai.md)
+   + [大規模なドキュメントオーサリング](2025/document-authoring-at-scale.md)
+   + [動的公開](2025/dynamic-publishing.md)
    + [Adobe Experience Manager Agents の探索](2025/aem-agents.md)
+   + [エクスペリエンスの移行と最新化](2025/modernize-experiences.md)
+   + [Edge Delivery Servicesでカンタスの近代化を](2025/modernizing-qantas.md)
+   + [AEM Sites Optimizerでコードを最適化](2025/code-optimization.md)
+   + [迅速な開発環境スナップショット](2025/rapid-development-snapshots.md)
+   + [AI を使用した政府サービスの合理化](2025/government-digital-services.md)
+   + [AEMでの AI のロック解除](2025/transform-aem-with-agents.md)
 + 2024年 {#2024}
    + 11 月 {#nov2024}
       + [キーノート](2024/nov/keynote.md)

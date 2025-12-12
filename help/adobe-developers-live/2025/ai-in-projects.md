@@ -7,10 +7,10 @@ doc-type: Event
 duration: 1138
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19972
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
@@ -19,4 +19,13 @@ ht-degree: 0%
 
 AI が、実際のアプリケーションを通じて、Adobe プロジェクトのデジタルエクスペリエンスをどのように変革するかをご確認ください。 AI がコンテンツの作成、サイトの検証、プロジェクト計画を強化して、効率を高め、コストを削減する方法を説明します。 Adobe Experience Manager、Adobe Commerce、Edge Delivery Servicesでの AI ツールの革新的な使用方法を紹介するストーリーを掘り下げます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477626/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+
+このセッション「Love Actually: Three Practical Stories of Using AI in Adobe Projects」では、ジェネレーティブ AI サービスによるプロトタイプとコンテンツSupply chainの高速化、AEM Edge Delivery Services向けの AI を活用した移行バリデーター、自動化されたサイト評価とレポートへのエージェンティックなアプローチの 3 つの実世界のアプリケーションを紹介する Mark McConnell （Ensemble）を特集します。 サンノゼでライブ録画。
+
+Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
+
+## 次の手順
+
+* [Experience League](https://adobe.ly/47ss08A) で会話を続ける
+* Discover [ 今後のイベント ](https://developerevents.adobe.com)
