@@ -28,5 +28,5 @@ Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴ
 ## 次の手順
 
 * [Experience League](https://adobe.ly/47ss08A) で会話を続ける
-* Discover [ 今後のイベント ](https://developerevents.adobe.com)
+* Discover [&#x200B; 今後のイベント &#x200B;](https://developerevents.adobe.com)
 
