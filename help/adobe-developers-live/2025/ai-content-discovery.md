@@ -19,7 +19,7 @@ ht-degree: 1%
 
 AI がAdobe Experience Managerでコンテンツ検出をどのように変えるかを説明します。 コンテンツアドバイザーを意味検索および AI を利用したアセットのレコメンデーションに使用する方法について説明します。 このセッションでは、Campaign の概要ベースの検出と Dynamic Media レンディションへの迅速なアクセス、OpenAPI スタックを使用したコンテンツの再利用と配信の簡素化について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477741/?captions=jpn&learn=on&enablevpops)
 
 このセッション — Channel Ready Renditions を使用した AI 主導のコンテンツ検出では、Matt Briscoe、Deepa Gupta、Mathias Siegel の各氏が、開発者がコンテンツアドバイザーを使用してセマンティック検索と AI を利用したレコメンデーションにより、アセットとコンテンツフラグメントを検出する方法を説明します。 Scene7 と DM をまたいで、Campaign の概要ベースの検出と Dynamic Media レンディションへの迅速なアクセスが、OpenAPI スタックを通じてコンテンツの再利用と配信を簡素化する仕組みを説明します。 サンノゼでライブ録画。
 

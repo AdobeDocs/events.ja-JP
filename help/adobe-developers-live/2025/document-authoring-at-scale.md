@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Adobe Experience Managerを使用して、世界規模のエンタープライズエコシステム全体でスケーラブルで AI に対応したドキュメントオーサリングを実現する方法を説明します。 AEM Assets、Workfront、翻訳ワークフローの統合が、市場と言語向けのコンテンツバリエーションを生み出し、セマンティックエンリッチメントと AI 最適化の基盤を構築する方法について説明します。 このセッションでは、Cognizant Netcentric のプリンシパルソリューションアーキテクトである Andreas Haller が、Basel のライブ録画から得たインサイトを紹介します。 Adobeのエコシステムがインテリジェントエクスペリエンスをサポートし、コーポレートガバナンスとの連携を確実にし、デジタルトランスフォーメーション戦略を強化する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477753/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477809/?captions=jpn&learn=on&enablevpops)
 
 このセッションでは、Cognizant Netcentric のプリンシパルソリューションアーキテクトである Andreas Haller 氏が、バーゼルでのライブ録画を通じて、インテリジェントな AI 最適化エクスペリエンスの基盤について説明します。 Adobe Experience Managerのドキュメントオーサリングが、大規模法人のエコシステム全体で AI に対応したグローバルなエクスペリエンスをどのようにサポートするかについて説明します。 拡張性の高いドキュメントベースの基盤をAEM Assets、Workfrontを活用したsupply chain プロセス、翻訳ワークフローと統合して、市場や言語をまたいでコンテンツのバリエーションを生み出し、セマンティックエンリッチメントと AI 駆動型の最適化の基盤を構築する方法を説明します。
 

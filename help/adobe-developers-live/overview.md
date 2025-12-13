@@ -163,7 +163,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チーム�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="AI Commerceの開発イノベーション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="AI Commerceの開発イノベーション"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477682/?captions=jpn&format=jpeg&nocache=1765499677619" alt="AI Commerceの開発イノベーション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チーム�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="Adobe Experience Managerを使用した AI コンテンツ検出" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="Adobe Experience Managerを使用した AI コンテンツ検出"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477741/?captions=jpn&format=jpeg&nocache=1765499677611" alt="Adobe Experience Managerを使用した AI コンテンツ検出"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チーム�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="大規模なドキュメントオーサリング - AI で最適化されたインテリジェントなエクスペリエンスの基盤" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="大規模なドキュメントオーサリング - AI で最適化されたインテリジェントなエクスペリエンスの基盤"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477809/?captions=jpn&format=jpeg&nocache=1765499677631" alt="大規模なドキュメントオーサリング - AI で最適化されたインテリジェントなエクスペリエンスの基盤"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ Adobe Experience Cloud、Document Cloud、Creative CloudのAdobe製品チーム�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="AEM Sites Optimizerでコードを最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="AEM Sites Optimizerでコードを最適化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477718/?captions=jpn&format=jpeg&nocache=1765499677637" alt="AEM Sites Optimizerでコードを最適化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

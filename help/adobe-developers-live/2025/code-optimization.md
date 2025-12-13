@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Adobe Experience Manager Sites Optimizerが、冗長なスクリプトと重い DOM 構造を検出してコード品質を向上させる方法を説明します。 このセッションでは、このツールを使用して、コア Web バイタルを改善し、技術的負債を減らし、パフォーマンスを向上させる方法を示します。 より迅速な修正、より強力な SEO、よりスムーズなユーザーエクスペリエンスのために、レコメンデーションをワークフロー内にシームレスに適用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477676/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477718/?captions=jpn&learn=on&enablevpops)
 
 このセッション「エンジンの内部：Adobe Experience Manager Sites Optimizerによるコード最適化」の特長Sites Optimizerがフロントエンドとバックエンドの実装を分析して、冗長なスクリプト、大量の DOM 構造、Core Web Vitals のボトルネックを検出する方法を示すデッキレッスン。 AEMで技術負債を減らし、パフォーマンスを直接向上させるために、推奨事項を適用する方法を説明します。 サンノゼでライブ録画。
 

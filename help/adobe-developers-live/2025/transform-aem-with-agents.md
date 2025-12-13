@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Algolia の AI を活用した検索および取得機能が、Adobe Experience Manager、Adobe Commerce、Edge Delivery Servicesをどのように変革するかについて説明します。 これらのツールを使用して、Adobe エコシステム全体でパーソナライゼーションを強化し、ユーザーエクスペリエンスを向上させる方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477674/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477704/?captions=jpn&learn=on&enablevpops)
 
 今回のセッション「Adobe Experience Managerを AI で変える：アルゴリアで遊ぶ、構築する、取り出す」では、サンノゼでライブ録画されたアルゴリアの Debanshi Bheda と Sajid Momin が取り上げられます。 アルゴリアの超高速取得および取得拡張世代（RAG）機能が、AEM、Edge Delivery Services、Adobe Commerceがどのように顧客と AI 担当者の両方にコンテンツと製品を提供するかを再定義している方法を説明します。 Adobe Experience Platformがどのようにパーソナライゼーションを促進するか、アルゴリアの高度な検索と取得によって、Adobe エコシステム全体の速度、スケーラビリティ、インテリジェンスがどのように解放されるかを説明します。
 

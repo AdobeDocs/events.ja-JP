@@ -19,7 +19,7 @@ ht-degree: 1%
 
 AdobeのLLM Optimizerを使用して、Web サイトの AI の可視性を強化し、接触チャネルコードを変更することなく検出できるようにし、将来にわたって利用できるようにする方法を説明します。 Edge での最適化によって大言語モデルの応答を改善し、コンテンツが ChatGPT などの AI エージェントから完全に見えるようにする方法を説明します。 これにより、ブランドは AI に基づくオポチュニティを迅速かつ安全に捉え、Adobe プラットフォーム全体でデジタルエクスペリエンスを強化できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477678/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477730/?captions=jpn&learn=on&enablevpops)
 
 今回のセッション「LLM Optimizerの AI 担当者のためのオンサイトエクスペリエンスの強化」では、LLM Optimizerの「Edgeで最適化」が CDN レイヤーのマークアップを書き換えて、多言語モデルの応答の可視性を向上させる方法を示した Ashutosh Shroti を取り上げます。 オリジンコードを変更することなく、任意の web サイトが数秒でエージェンティック対応になる方法を確認します。これにより、サイトが AI で検出可能になり、将来にわたって利用できるようになります。 サンノゼでライブ録画。
 
