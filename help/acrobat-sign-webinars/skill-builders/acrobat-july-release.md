@@ -1,5 +1,5 @@
 ---
-title: ウェビナー – 最新の機能強化についてすべて説明します – Adobe Acrobat Sign 2025 年 7 月リリース
+title: 最新の改善点についてのすべてをご覧ください – Acrobat Sign 2025 年 7 月リリース
 description: Acrobat Signの 2025 年 7 月のアップデート（PDF/A コンプライアンス、WhatsApp 通知、リーダーと管理者向けの契約セキュリティの強化）について説明します。
 solution: Acrobat Sign
 feature-set: Document Cloud
@@ -10,15 +10,15 @@ doc-type: Event
 duration: 3588
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-19007
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+exl-id: 0b442d68-25ba-4c79-9786-20c1600cfa15
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-
-# ウェビナー：最新の機能強化についてすべて説明します。Adobe Acrobat Sign 2025 年 7 月リリース
+# 最新の改善点についてのすべてをご覧ください – Acrobat Sign 2025 年 7 月リリース
 
 Acrobat Signで成功を導き、管理し、推進するユーザーのために構築された新機能を確認します。
 

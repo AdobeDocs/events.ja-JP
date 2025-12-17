@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '569'
 ht-degree: 4%
 
 ---
@@ -59,7 +59,10 @@ ht-degree: 4%
       + [運用モデルの設計](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [NorthStar アーキテクチャの活用](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+      + [キャンペーンの最新化](2025/ajo-adobe-campaign.md)
       + [Adobe Journey Optimizerによる価値へのロードマップ](2025/ajo-roadmap-to-value.md)
+   + Marketo {#marketo2025}
+      + [新しいメールエディター](2025/marketo-new-email-editor.md)
    + マルチソリューション {#multisolution2025}
       + [コンテンツSupply chainの基本](2025/content-supply-chain-basics.md)
       + [AI インサイトによるデジタルエクスペリエンスの最適化](2025/accelerating-digital-experience-optimization.md)

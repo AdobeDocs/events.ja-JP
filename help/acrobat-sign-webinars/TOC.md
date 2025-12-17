@@ -1,10 +1,10 @@
 ---
 user-guide-title: Acrobat Sign ウェビナー
 user-guide-description: Adobeのエキスパートが、Acrobat Signで新しい電子サインワークフローを習得する方法を説明します。
-source-git-commit: d0f48c3f308badf6e06e17e369765aa4a53ceb27
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 + [概要](overview.md)
 + リリースウェビナー {#releases}
-   + [Adobe Acrobat Sign 2025 年 10 月リリース](skill-builders/acrobat-sign-october-2025-release.md)
-   + [Adobe Acrobat Sign 2025 年 7 月リリース](skill-builders/acrobat-july-release.md)
+   + [2025年10月](skill-builders/acrobat-sign-october-2025-release.md)
+   + [2025年7月](skill-builders/acrobat-july-release.md)
 + イノベーション – 新機能のハイライト {#newfeatures}
    + [モバイルでの電子サインの最適化](./skill-builders/mobile-e-signing.md)
 + 101 - ユーザー向けの基礎知識 {#getstartedusers}

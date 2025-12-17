@@ -2,9 +2,9 @@
 title: Acrobat Sign ウェビナー
 description: Adobeのエキスパートが、Acrobat Signで新しい電子サインワークフローを習得する方法を説明します。
 exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
-source-git-commit: d0f48c3f308badf6e06e17e369765aa4a53ceb27
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '656'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What's New in Acrobat Sign - October 2025">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What's New - Acrobat Sign October 2025 Release">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./skill-builders/acrobat-sign-october-2025-release.md" title="Acrobat Signの新機能 – 2025 年 10 月" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477223/?format=jpeg&nocache=1765913521055" alt="Acrobat Signの新機能 – 2025 年 10 月"
+                    <a href="./skill-builders/acrobat-sign-october-2025-release.md" title="新機能 – Acrobat Sign 2025 年 10 月リリース" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477223/?format=jpeg&nocache=1766006143459" alt="新機能 – Acrobat Sign 2025 年 10 月リリース"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -39,7 +39,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./skill-builders/acrobat-sign-october-2025-release.md" target="_blank" rel="referrer" title="Acrobat Signの新機能 – 2025 年 10 月">Acrobat Signの新機能 – 2025 年 10 月 </a>
+                        <a href="./skill-builders/acrobat-sign-october-2025-release.md" target="_blank" rel="referrer" title="新機能 – Acrobat Sign 2025 年 10 月リリース"> 新機能 – Acrobat Sign 2025 年 10 月リリース </a>
                     </p>
                     <p class="is-size-6">2025 年 10 月リリースのAcrobat Signの最新機能を確認し、ユーザーエクスペリエンスとコンプライアンスを強化します。</p>
                 </div>
@@ -49,12 +49,12 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Webinar - Learn all about our latest improvements - Adobe Acrobat Sign July Release 2025">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Learn all about our latest improvements - Acrobat Sign July Release 2025">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./skill-builders/acrobat-july-release.md" title="ウェビナー – 最新の機能強化についてすべて説明します – Adobe Acrobat Sign 2025 年 7 月リリース" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1765913521068" alt="ウェビナー – 最新の機能強化についてすべて説明します – Adobe Acrobat Sign 2025 年 7 月リリース"
+                    <a href="./skill-builders/acrobat-july-release.md" title="最新の改善点についてのすべてをご覧ください – Acrobat Sign 2025 年 7 月リリース" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1766006143466" alt="最新の改善点についてのすべてをご覧ください – Acrobat Sign 2025 年 7 月リリース"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,7 +62,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./skill-builders/acrobat-july-release.md" target="_blank" rel="referrer" title="ウェビナー – 最新の機能強化についてすべて説明します – Adobe Acrobat Sign 2025 年 7 月リリース"> ウェビナー – 最新の機能強化についてすべて説明します – Adobe Acrobat Sign 2025 年 7 月リリース </a>
+                        <a href="./skill-builders/acrobat-july-release.md" target="_blank" rel="referrer" title="最新の改善点についてのすべてをご覧ください – Acrobat Sign 2025 年 7 月リリース"> 最新の改善点についてはすべて学ぶ – Acrobat Sign 2025 年 7 月リリース </a>
                     </p>
                     <p class="is-size-6">Acrobat Signの 2025 年 7 月のアップデート（PDF/A コンプライアンス、WhatsApp 通知、リーダーと管理者向けの契約セキュリティの強化）について説明します。</p>
                 </div>
@@ -91,7 +91,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="Acrobat Signを使用したモバイル電子サインの最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477533/?captions=jpn&format=jpeg&nocache=1765913521446" alt="Acrobat Signを使用したモバイル電子サインの最適化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1766006143798" alt="Acrobat Signを使用したモバイル電子サインの最適化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101 – はじめに" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455466/?captions=jpn&format=jpeg&nocache=1765913521882" alt="Acrobat Sign 101 – はじめに"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1766006143983" alt="Acrobat Sign 101 – はじめに"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="オーサリング環境に関する高度なトレーニング" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455895/?captions=jpn&format=jpeg&nocache=1765913521889" alt="オーサリング環境に関する高度なトレーニング"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1766006143989" alt="オーサリング環境に関する高度なトレーニング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -194,7 +194,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/acrobat-sign-admin-experience.md" title="Acrobat Signの管理操作を強化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477175/?format=jpeg&nocache=1765913522076" alt="Acrobat Signの管理操作を強化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477175/?format=jpeg&nocache=1766006144294" alt="Acrobat Signの管理操作を強化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -217,7 +217,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Acrobat Signの高度なレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454406/?captions=jpn&format=jpeg&nocache=1765913522072" alt="Acrobat Signの高度なレポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1766006144289" alt="Acrobat Signの高度なレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +259,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="署名用ドキュメントを送信するための高度なヒント" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454879/?captions=jpn&format=jpeg&nocache=1765913522623" alt="署名用ドキュメントを送信するための高度なヒント"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1766006144513" alt="署名用ドキュメントを送信するための高度なヒント"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +282,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="ワンクリックで多くの署名を集める" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454892/?captions=jpn&format=jpeg&nocache=1765913522620" alt="ワンクリックで多くの署名を集める"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1766006144523" alt="ワンクリックで多くの署名を集める"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +305,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="Adobe Acrobat SignのDocument Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454914/?captions=jpn&format=jpeg&nocache=1765913522630" alt="Adobe Acrobat SignのDocument Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1766006144498" alt="Adobe Acrobat SignのDocument Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -328,7 +328,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/notarize.md" title="統合を公証" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454373/?captions=jpn&format=jpeg&nocache=1765913522654" alt="統合を公証"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1766006144492" alt="統合を公証"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -351,7 +351,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="入力可能な署名可能な Web フォームの投稿" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455444/?captions=jpn&format=jpeg&nocache=1765913522638" alt="入力可能な署名可能な Web フォームの投稿"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1766006144502" alt="入力可能な署名可能な Web フォームの投稿"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -374,7 +374,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="Microsoft Power Automate を活用したワークフローの自動化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454925/?captions=jpn&format=jpeg&nocache=1765913522645" alt="Microsoft Power Automate を活用したワークフローの自動化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1766006144531" alt="Microsoft Power Automate を活用したワークフローの自動化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

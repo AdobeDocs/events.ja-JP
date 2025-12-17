@@ -3,9 +3,9 @@ user-guide-title: Workfront イベント
 breadcrumb-title: Workfront イベント
 user-guide-description: Workfront イベント
 solution: Workfront
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '460'
 ht-degree: 1%
 
 ---
@@ -24,38 +24,74 @@ ht-degree: 1%
 + ワークショップ巻き戻し {#workshop-rewind}
    + Fusion {#fusion}
       + [命名規則の自動化](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [作業プロセスの自動化](workshop-rewind/fusion/automate-work-processes.md)
+      + [Fusion のメリットとベストプラクティス](workshop-rewind/fusion/benefits-best-practices.md)
       + [データインポート](workshop-rewind/fusion/data-imports.md)
+      + [Fusion のメリットとユースケース](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion デコード](workshop-rewind/fusion/fusion-decoded.md)
       + [Workfront Fusion が人間を支援する仕組み](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [複数選択フィールドの変更内を簡単に移動](workshop-rewind/fusion/mulit-select-fields.md)
+      + [プロアクティブな例外処理](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [ワークフローの効率化](workshop-rewind/fusion/automate-workflows.md)
       + [真のイベントコストのロック解除](workshop-rewind/fusion/event-costs.md)
+      + [イベント購読 V2 へのアップグレード](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + プランニング {#planning}
       + [最新のWorkfront計画](workshop-rewind/planning/workfront-planning.md)
+      + [Adobe Workfront計画のデモ](workshop-rewind/planning/planning-demo.md)
       + [SNHU のCreativeのユースケース](workshop-rewind/planning/planning-reimagined.md)
       + [Workfrontのプランニングによるチームレベルの成功](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront計画のリリースとロードマップ](workshop-rewind/planning/planning-release-roadmap.md)
    + ワークフロー {#workflow}
       + [ブループリント](workshop-rewind/workflow/blueprints.md)
-      + [Creative概要の再考](workshop-rewind/workflow/creative-briefs.md)
+      + [効率の向上](workshop-rewind/workflow/cognizant-project-excellence.md)
+      + [Workfrontの Change Management](workshop-rewind/workflow/change-management.md)
+      + [コンテンツSupply chainの統合](workshop-rewind/workflow/content-supply-chain.md)
       + [Workfrontの価値の定義と伝達](workshop-rewind/workflow/workfront-value.md)
+      + [Workfrontでの効果的なコミュニケーションのヒント](workshop-rewind/workflow/communication-tips.md)
       + [ガバナンス、実行、採用に関するヒント](workshop-rewind/workflow/governance-execution-adoption.md)
+      + [グループ管理の基本事項](workshop-rewind/workflow/group-admins.md)
+      + [Workfront管理者から得られる教訓](workshop-rewind/workflow/lessons-learned-admins.md)
       + [メール通知のマスター](workshop-rewind/workflow/email-notifications.md)
       + [EXISTS 文のマスタリング](workshop-rewind/workflow/master-exists-statements.md)
+      + [Workfrontの価値を最大化](workshop-rewind/workflow/value-realization.md)
+      + [変化への抵抗を克服する](workshop-rewind/workflow/overcome-resistance-to-change.md)
       + [電源テンプレート](workshop-rewind/workflow/power-templates.md)
       + [プロジェクトテンプレート](workshop-rewind/workflow/project-templates.md)
+      + [Creative概要の再考](workshop-rewind/workflow/creative-briefs.md)
+      + [リソース管理の基本](workshop-rewind/workflow/resource-management.md)
+      + [エグゼクティブスポンサーシップの確保](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [成功を独学で学ぶ](workshop-rewind/workflow/self-taught-to-success.md)
+      + [Workfront レポートによる Spring Cleanup](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [テキスト モードのヒント 10](workshop-rewind/workflow/text-mode-tips.md)
+      + [テキストモードに関するその他 10 のヒント](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [ユーザーの混乱を信頼に変える](workshop-rewind/workflow/avalara-user-transformation.md)
+      + [Workfront計算フィールドのトラブルシューティング](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [Workfront掲示板のロックを解除](workshop-rewind/workflow/unlock-boards.md)
       + [Workfront Data Connect の機能を活用](workshop-rewind/workflow/data-connect.md)
+      + [Workfrontを使用した効果的な再編成](workshop-rewind/workflow/effective-reorgs.md)
       + [WorkfrontとAEMのネイティブ統合](workshop-rewind/workflow/aem-native-integration.md)
+      + [Workfrontのレポート – 年末戦略](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + クイック テイク {#quicktakes}
    + 上位 3 件 {#top3}
+      + [共有列レポートの作成](quick-takes/top3/shared-column-report.md)
       + [Creativeのブループリントへのアプローチ](quick-takes/top3/blueprints.md)
+      + [CreativeのWorkfront ボードの使用方法](quick-takes/top3/creative-approaches-boards.md)
+      + [Workfront ボード テンプレートの概要](quick-takes/top3/get-started-board-templates.md)
+      + [Workfrontでのレポートスケジュールの最大化](quick-takes/top3/report-scheduling.md)
+      + [会社を使用する理由](quick-takes/top3/why-use-companies.md)
+      + [マイルストーンから開始](quick-takes/top3/get-started-milestones.md)
+      + [Workfrontのワークショップに参加する理由](quick-takes/top3/reason-attend-workshop.md)
+      + [レイアウトテンプレートを使用する主な理由](quick-takes/top3/layout-templates.md)
+      + [リソース プールの上位の理由](quick-takes/top3/resource-pools.md)
       + [業務時間に対する上位 3 つのアプローチ](quick-takes/top3/office-hours.md)
       + [カレンダーに関する上位 3 つの秘訣](quick-takes/top3/calendar-hacks.md)
+      + [Workfront ボードを使用する 3 つの理由](quick-takes/top3/boards-for-adoption.md)
       + [カスタム Formsでの画像の使用](quick-takes/top3/add-image-custom-forms.md)
-      + [レイアウトテンプレートを使用する主な理由](quick-takes/top3/layout-templates.md)
-      + [Workfrontのワークショップに参加する理由](quick-takes/top3/reason-attend-workshop.md)
-      + [Workfrontでのレポートスケジュールの最大化](quick-takes/top3/report-scheduling.md)
+      + 私の仕事を見て {#watchmework}
+         + [Workfrontに関するよくあるヒント](quick-takes/top3/watch-me-work-1.md)
+         + [上位のプロジェクト管理機能](quick-takes/top3/watch-me-work-2.md)
+         + [Workfrontのワーカー向けの上位 3 つの機能](quick-takes/top3/watch-me-work-3.md)
    + 対！ {#versus}
       + [グループとチーム](quick-takes/versus/groups-vs-teams.md)
 + エキスパートインサイト {#expert-insights}
