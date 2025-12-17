@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 17%
+source-wordcount: '165'
+ht-degree: 19%
 
 ---
 
@@ -25,16 +25,8 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 <table>
     <tr>
-         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience Leagueライブ 2025 年 12 月 16 日（PT）" src="episodes/assets/WebBanner_Dec16_2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong> 製品サポートエージェントによるトラブルシューティングとサポートケース管理の簡素化 </strong>
-              </a>
-              <br/><em> ダニエル・ライト、フォン・ブー、シュレヤ・アナンサ・ラマン </em>
-              <br/><em>2025 年 12 月 16 日 </em>
-            </div>
+         <td style="vertical-align: top;">
+            新しい番組がもうすぐ始まる。 このページに戻って、利用可能な番組を確認してください。
         </td>
     </tr>
 
@@ -101,5 +93,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 

@@ -7,9 +7,9 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: b818f0896871c9ea771e5a4694ec8b496cb06abd
+source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 マーケティングチームとカスタマーエクスペリエンスチームは、より少ないリソースとより厳しいタイムラインで、高度にパーソナライズされたマルチチャネルキャンペーンを提供しなければならないという強いプレッシャーにさらされています。 しかし、多くの場合、トラブルシューティングやサポート管理などの運用上の負担が軽減され、戦略的でインパクトの高い顧客体験の作業に集中できなくなっています。 Adobe Experience Platform Agent OrchestratorAdobe Experience Platformを活用した Product Support Agent は、問題のトラブルシューティング、診断、エスカレーションをインタラクティブに行うことで、迅速な解決と運用効率の向上を実現します。
 
-製品サポートエージェントの背後にある製品チームが調査するこのライブセッションに参加してください。
+製品サポートエージェントの背後にある製品チームが調べた、このライブセッションを表示します。
 * 製品サポートエージェントの概要
 * 製品サポートエージェントを使用すると、プロアクティブかつセルフサービスのサポートと、ケースの作成とトラッキングの自動化をユーザーに提供できます
 * ユーザーのサポート管理をさらに合理化するための技術革新と機能
 
-[![ExL LIVE 2024 年 1 月 17 日 &#x200B;](assets/WebBanner_Dec16_2025.jpg)](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+>[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[&#x200B; このイベントに今すぐ登録 &#x200B;](https://engage.adobe.com/ExpLeagueLive-251216.html?sdid=LH4XT4PX&mv=other){target="_blank"}
+[ コミュニティディスカッションでディスカッションを継続 ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
