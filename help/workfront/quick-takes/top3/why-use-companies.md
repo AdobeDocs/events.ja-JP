@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470070/?learn=on&enablevpops)
 
-会社を利用するためのより多くのリソースやアイデアをお探しですか？ その他のベストプラクティスについては、[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313) をご覧ください。
+会社を利用するためのより多くのリソースやアイデアをお探しですか？ その他のベストプラクティスについては、[Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313?profile.language=ja) をご覧ください。
 
 

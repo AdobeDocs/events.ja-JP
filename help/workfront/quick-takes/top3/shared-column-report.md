@@ -25,6 +25,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-詳細を見る？ **2&rbrace;Experience League コミュニティの投稿** に「3 つのボーナス ヒント [&#x200B; があります。](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)
+詳細を見る？ **2&rbrace;Experience League コミュニティの投稿** に「3 つのボーナス ヒント [&#x200B; があります。](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=ja)
 
 

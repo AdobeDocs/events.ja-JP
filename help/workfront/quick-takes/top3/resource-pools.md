@@ -29,7 +29,7 @@ ht-degree: 1%
 
 ## その他のリソース
 
-* 詳しくは、[&#x200B; リソースプールの概要の記事 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools) を参照してください。
-* 詳細を見る？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866) をご覧ください。
+* 詳しくは、[&#x200B; リソースプールの概要の記事 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools) を参照してください。
+* 詳細を見る？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=ja) をご覧ください。
 
 

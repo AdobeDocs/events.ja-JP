@@ -27,4 +27,4 @@ ht-degree: 0%
 
 ## 追加のリソース
 
-詳細を見る？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910) をご覧ください。
+詳細を見る？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-special-edition-watch-me-work-3-ways/td-p/656910?profile.language=ja) をご覧ください。

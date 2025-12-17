@@ -23,6 +23,6 @@ ht-degree: 0%
 
 顧客がボードをどのように使用しているかの例を探している場合は、 2024Adobe Summitの Mattel チームの Boards プレゼンテーションを見てください。  
 
-[2024 Summit Session: How Mattel Is Reveloping Workfront Boards](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[2024 Summit Session: How Mattel Is Reveloping Workfront Boards](https://business.adobe.com/jp/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
 
 
