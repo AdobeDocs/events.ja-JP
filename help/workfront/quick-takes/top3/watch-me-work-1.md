@@ -23,7 +23,7 @@ ht-degree: 0%
 * プロジェクトマネージャー/プランナー
 * 作業者/依頼者
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470177/?captions=jpn&learn=on&enablevpops)
 
 ## 追加のリソース
 

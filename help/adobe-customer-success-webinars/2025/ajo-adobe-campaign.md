@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Adobe Journey OptimizerとAdobe Campaignが連携してキャンペーンの実行を変革する方法を説明します。 このセッションでは、Journey Optimizerのリアルタイムエンゲージメント機能と Campaign の堅牢な管理機能を組み合わせた相乗効果を示します。 ワークフローを合理化し、俊敏性を高め、より深い顧客インサイトを解き放ち、意味のあるインタラクションを確実にする実用的な戦略を獲得します。 これらのツールを調和させて、シームレスなクロスチャネルエクスペリエンスを実現し、顧客インタラクションごとにパーソナライゼーションとタイミングを改善する方法を説明します。 この統合により、効果的なキャンペーンをより迅速かつ正確に提供できるようになります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477894/?captions=jpn&learn=on&enablevpops)
 
 ## 重要な留意点
 

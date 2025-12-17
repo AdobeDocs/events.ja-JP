@@ -23,7 +23,7 @@ ht-degree: 0%
 
 テキストモードを使用して情報をレポートに組み合わせる方法に関する多くの質問があるので、詳しい手順を説明するビデオと、以下のいくつかのリソースを参照して開始します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470121/?captions=jpn&learn=on&enablevpops)
 
 詳細を見る？ **2&rbrace;Experience League コミュニティの投稿** に「3 つのボーナス ヒント [&#x200B; があります。](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=ja)
 

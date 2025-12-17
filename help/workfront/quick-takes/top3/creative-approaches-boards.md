@@ -19,7 +19,7 @@ ht-degree: 0%
 
 もう一度、オンデマンドWorkfrontCSM の Cynthia Boon が、Workfrontボードを使用するための創造的なアイデアを刺激したいと思います。  今、私はビデオでそれを言及していますが、念のために、ここではアジャイルチームで作業する必要がないことを簡単に示します。ボード機能を使用します。  プロジェクトタスクリストがチームに対して機能しない場合は、ボードに試してみます。  
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470166/?captions=jpn&learn=on&enablevpops)
 
 顧客がボードをどのように使用しているかの例を探している場合は、 2024Adobe Summitの Mattel チームの Boards プレゼンテーションを見てください。  
 

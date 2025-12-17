@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ボード機能を試す機会がなければ、心配はいりません。 このビデオでは、ユーザーにアクセス権を付与する方法と、すぐに使い始められる方法をいくつか説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470088/?captions=jpn&learn=on&enablevpops)
 
 ## 追加リソース
 

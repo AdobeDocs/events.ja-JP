@@ -23,7 +23,7 @@ ht-degree: 4%
 
 プロジェクトダッシュボードにマイルストーンレポートを含めたり、このレポートを共有（さらに良いことに、通常の配信のために自動的にスケジュールを設定）したりすると、関係者（Workfront以外のユーザーも含む）がプロジェクトの進捗に関心を持ち続けることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470155/?captions=jpn&learn=on&enablevpops)
 
 ## その他のリソース
 

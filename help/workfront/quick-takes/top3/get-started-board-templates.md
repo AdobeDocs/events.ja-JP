@@ -19,7 +19,7 @@ ht-degree: 0%
 
 「オンデマンド Workfront CSM」の Cynthia Boon 様、こんにちは。 Workfront ボードの使用に関心があるが、どこから始めればよいかわからない場合 開始する最も簡単な方法は、事前定義済みのテンプレートを使用することです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470132/?captions=jpn&learn=on&enablevpops)
 
 詳しい手順を説明する記事を以下に示します。
 
