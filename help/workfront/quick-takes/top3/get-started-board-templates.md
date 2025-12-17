@@ -23,8 +23,8 @@ ht-degree: 0%
 
 詳しい手順を説明する記事を以下に示します。
 
-[ テンプレートを使用した新しいボードの作成 ](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
+[&#x200B; テンプレートを使用した新しいボードの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
-ビデオについて共有するアイデアや、フォローアップの質問はありますか？ [Experience League コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307) のコメントに、自由にドロップしてください。
+ビデオについて共有するアイデアや、フォローアップの質問はありますか？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307) のコメントに、自由にドロップしてください。
 
 
