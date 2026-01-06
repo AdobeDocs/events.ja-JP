@@ -28,4 +28,4 @@ ht-degree: 16%
 
 このライブストリームイベントでは、Adobeの製品エキスパートが最新のインテリジェントオファーランキング機能を紹介し、Adobe Journey Optimizerでジャーニーとキャンペーンにオファーを追加する方法を示しました。  また、メール、SMS、モバイルアプリなどのネイティブのJourney Optimizer チャネルや、Adobe Targetなどの外部システムおよび統合アプリケーションにオファーを配置する方法も示しました。
 
-Adobe Experience League [ コミュニティの投稿 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) で、このトピックに関するディスカッションを続行します。
+Adobe Experience League [&#x200B; コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) で、このトピックに関するディスカッションを続行します。
