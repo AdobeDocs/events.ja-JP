@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-ご質問はありますか？ Adobe Experience League [&#x200B; コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121) で、このトピックに関するディスカッションを続行します。
+ご質問はありますか？ Adobe Experience League [&#x200B; コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366?profile.language=ja#M121) で、このトピックに関するディスカッションを続行します。
