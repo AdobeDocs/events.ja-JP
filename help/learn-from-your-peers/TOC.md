@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers] の場所からの録画のコレクション'
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 6%
+source-wordcount: '334'
+ht-degree: 7%
 
 ---
 
@@ -39,12 +39,14 @@ ht-degree: 6%
    + 2023年 {#2023}
       + [AEM コアコンポーネントの開発者向けエクセレンス](experience-manager/2023/core-components.md)
       + [AEM Sitesのツールの詳細](experience-manager/2023/aem-sites-tools.md)
-      + [Cloud Serviceの効果的なセキュリティ戦略 &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [Cloud Serviceの効果的なセキュリティ戦略 ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [コンテンツとエクスペリエンスフラグメントのマスタリング](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
       + [AI 採用の拡大 – 承認用のプレイブック](genai/2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + 2026 {#2026}
+      + [Marketo Engageの電子メールDesignerの進化](marketo/2026/email-designer-evolved.md)
    + 2025 {#2025}
       + [データハイジーン戦略の構築](marketo/2025/data-hygiene-strategy.md)
       + [インタラクティブウェビナーの影響を確認](marketo/2025/interactive-webinars.md)
@@ -58,11 +60,11 @@ ht-degree: 6%
       + [Marketo EngageとDynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engageによるメール配信品質の向上](marketo/2023/email-deliverability.md)
       + [マーケティングキャンペーンの追跡、分析、最適化](marketo/2023/marketing-campaigns.md)
-      + [&#x200B; [!DNL Marketo Engage] を使用して、スケールコードでPersonalizationをクラックする](marketo/2023/personalization-at-scale.md)
+      + [ [!DNL Marketo Engage] を使用して、スケールコードでPersonalizationをクラックする](marketo/2023/personalization-at-scale.md)
       + [コンテンツをスケ  [!DNL Adobe Marketo Engage]  ラブルにする方法](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [&#x200B; メタデータメイヘム &#x200B;](https://experienceleague.adobe.com/ja/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [ メタデータメイヘム ](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [影響の特定 – Workfront値の測定方法と共有方法](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [自動化によるリソース・プランニングの合理化](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024年 {#2024}
