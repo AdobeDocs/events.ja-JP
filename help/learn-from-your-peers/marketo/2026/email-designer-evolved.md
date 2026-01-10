@@ -33,11 +33,11 @@ Adobe Marketo Engageでのメールの作成は、新しいメールDesignerに�
 
 ## その他のリソース
 
-* [E メールDesignerの概要 &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI アシスタント](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [&#x200B; カスタマイズ可能なフラグメント &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [条件付きコンテンツ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [&#x200B; ブランドテーマ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [&#x200B; 新旧のメールDesignerと機能の比較 &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [E メールDesignerの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI アシスタント](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [&#x200B; カスタマイズ可能なフラグメント &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [条件付きコンテンツ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [&#x200B; ブランドテーマ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [&#x200B; 新旧のメールDesignerと機能の比較 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [リリースノート](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/current)
-* [&#x200B; チャンピオンの詳細：Marketo Engageで新しいメールDesignerを確認する &#x200B;](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [&#x200B; チャンピオンの詳細：Marketo Engageで新しいメールDesignerを確認する &#x200B;](https://experienceleague.adobe.com/ja/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
