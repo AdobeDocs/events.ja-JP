@@ -23,4 +23,4 @@ Audience Agentを参照して、オーディエンスインサイトを明らか
 
 <img alt="Experience League LIVE 2026 年 1 月 28 日" src="./assets/WebBanner-1-28-26.jpg">
 
-[ 番組のリマインダーを設定 ](https://www.youtube.com/live/V7n2KuhrhqQ){target="_blank"}
+[&#x200B; 番組のリマインダーを設定 &#x200B;](https://www.youtube.com/live/V7n2KuhrhqQ){target="_blank"}
