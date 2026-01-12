@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '624'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [EP. 55：職場のエージェント：オーディエンスとジャーニーの作成およびアクティブ化](episodes/exl-live-episode-01-28-26.md)
    + [EP. 54：製品サポートエージェントによるトラブルシューティングとサポートケース管理の簡素化](episodes/exl-live-episode-12-16-25.md)
    + [EP. 53：実験の次の時代：Agentic AI がどのようにして、よりスマートなテストと成長を促進したか](episodes/exl-live-episode-10-30-25.md)
    + [EP. 52:Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)

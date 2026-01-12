@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 19%
+source-wordcount: '185'
+ht-degree: 17%
 
 ---
 
@@ -24,15 +24,19 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 ## 今後のExperience League LIVE イベント
 
 <table>
-    <tr>
-         <td style="vertical-align: top;">
-            新しい番組がもうすぐ始まる。 このページに戻って、利用可能な番組を確認してください。
-        </td>
-    </tr>
-
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
+      <img alt="Experience League LIVE 2026 年 1 月 28 日" src="episodes/assets/WebBanner-1-28-26.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Audience Agentでオーディエンスインサイトを明らかにし、すぐに使用できるオーディエンスを数分で作成します。 </strong></a>
+      <br/><em> シェルビー・マンスリー、キーラ・ファウセット、アリッサ・エスピリツ </em>
+      <br/><em>2026 年 1 月 28 日 PT8 時 30 分 </em>
+      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ"> リマインダーを設定 </a>
+    </div>
+  </td>
+</tr>
 </table>
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -93,5 +97,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
