@@ -32,7 +32,7 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Audience Agentでオーディエンスインサイトを明らかにし、すぐに使用できるオーディエンスを数分で作成します。 </strong></a>
       <br/><em> シェルビー・マンスリー、キーラ・ファウセット、アリッサ・エスピリツ </em>
       <br/><em>2026 年 1 月 28 日 PT8 時 30 分 </em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other"> 今すぐ登録 </a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other"> 今すぐ登録 </a></b>
     </div>
   </td>
 </tr>
@@ -97,5 +97,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 

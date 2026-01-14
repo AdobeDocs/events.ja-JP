@@ -23,4 +23,4 @@ Audience Agentを参照して、オーディエンスインサイトを明らか
 
 <img alt="Experience League LIVE 2026 年 1 月 28 日" src="./assets/WebBanner-1-28-26.jpg">
 
-[ 今すぐ登録 ](https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other){target="_blank"}
+[&#x200B; 今すぐ登録 &#x200B;](https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other){target="_blank"}
