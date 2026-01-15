@@ -2,7 +2,7 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: 3adfd7af432caffaf2142c5a97b9a4c5279ee483
+source-git-commit: 06cdd6f126950841403d201f22394a9834524fc6
 workflow-type: tm+mt
 source-wordcount: '595'
 ht-degree: 5%
@@ -19,7 +19,7 @@ ht-degree: 5%
       + [AEM Cloud Service の戦略的利点](2026/moving-to-aemcs.md)
    + Experience Platform {#aep2026}
       + [組み込みインテリジェンスの移行](2026/embedded-intelligence.md)
-   + 全般 {#general2025}
+   + 全般 {#general2026}
       + [ホリデー成功のための AI 戦略](2026/2025-holiday-results.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
