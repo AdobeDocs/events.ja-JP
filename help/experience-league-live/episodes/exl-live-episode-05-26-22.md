@@ -24,8 +24,8 @@ ht-degree: 1%
 ## 役に立つリンク
 
 * [&#x200B; チュートリアル：Web SDKを使用したAdobe Experience Cloudの実装 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja){target="_blank"}
-* [Web SDKで自動的に収集された情報 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [Web SDKで自動的に収集された情報 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=ja){target="_blank"}
 * [&#x200B; 無料の Web SDK プロビジョニング &#x200B;](https://adobe.ly/websdkaccess){target="_blank"}
-* [Web SDKのファーストパーティデバイス ID に関する情報 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debuggerの概要とダウンロード &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Web SDKのファーストパーティデバイス ID に関する情報 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=ja){target="_blank"}
+* [Adobe Experience Platform Debuggerの概要とダウンロード &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=ja){target="_blank"}
 * [Mobile SDKのドキュメント &#x200B;](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
