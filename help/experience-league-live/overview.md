@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
+source-git-commit: 31397e559777e599a86445841e6b5a134659151f
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 17%
+source-wordcount: '162'
+ht-degree: 19%
 
 ---
 
@@ -32,7 +32,7 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Audience Agentでオーディエンスインサイトを明らかにし、すぐに使用できるオーディエンスを数分で作成します。 </strong></a>
       <br/><em> シェルビー・マンスリー、キーラ・ファウセット、アリッサ・エスピリツ </em>
       <br/><em>2026 年 1 月 28 日 PT8 時 30 分 </em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other"> 今すぐ登録 </a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other"> 今すぐ登録 </a></b>
     </div>
   </td>
 </tr>
@@ -67,16 +67,6 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
     </div>
   </td>
 
-<td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE EP8" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong> これが、Analytics を Web SDKに移行する方法です </strong></a>
-      <br/><em> ミッチ・ライス、ジョー・コーリー、ダグ・ムーア </em>
-      <br/><em>2024 年 5 月 16 日 </em>
-    </div>
-  </td>
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
@@ -97,5 +87,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
