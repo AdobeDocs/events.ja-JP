@@ -28,6 +28,6 @@ Adobeの Allyce Truscott 氏が主催したパネルディスカッションで�
 + カロライナ デ フィゲリド クリスピークレメ
 + フセイン ムスタファ
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457231/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

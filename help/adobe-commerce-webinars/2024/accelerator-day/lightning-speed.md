@@ -24,6 +24,6 @@ Adobe Experience ManagerとAdobe Commerceによる、Adobeの超高速Edge Deliv
 
 + Adobe、シニアソリューションエンジニア、Kam Radhakrishnan が発表
 
->[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455312/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

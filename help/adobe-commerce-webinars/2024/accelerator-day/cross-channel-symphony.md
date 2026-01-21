@@ -28,6 +28,6 @@ Adobeの Matt Palmer がホストする、DotDigital がAdobe Commerceと提携�
 + Adobe、シニアパートナーセールスマネージャー、Matt Palmer
 + Graham Bell、ANZ セールス責任者 – DotDigital
 
->[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455512/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

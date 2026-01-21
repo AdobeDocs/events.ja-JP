@@ -24,6 +24,6 @@ ht-degree: 0%
 
 + Adobe、シニアソリューションエンジニア、Carl Screwvala が発表
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455489/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

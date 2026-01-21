@@ -24,6 +24,6 @@ Adobe Expressを通じてAdobeが提供する最新のジェネレーティブ A
 
 + Adobe、シニアソリューションコンサルタント、Eroka O&#39;Connor が発表
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456485/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)

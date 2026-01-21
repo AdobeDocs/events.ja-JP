@@ -24,6 +24,6 @@ Summit 2024 のAdobe Commerce セッションの振り返りと、新しいイ�
 
 + 発表者：Adobe Commerceプロダクトマネージャー Scott Rigby
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454560/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)
