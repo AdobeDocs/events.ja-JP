@@ -1,9 +1,9 @@
 ---
 user-guide-title: Acrobat Sign ウェビナー
 user-guide-description: Adobeのエキスパートが、Acrobat Signで新しい電子サインワークフローを習得する方法を説明します。
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,5 @@ ht-degree: 4%
    + [署名用ドキュメントを送信するための高度なヒント](./skill-builders/advanced-sending-documents-signature.md)
    + [ワンクリックで多くの署名を集める](./skill-builders/collect-signatures.md)
    + [Document Builder](./skill-builders/document-builder.md)
-   + [統合を公証](./skill-builders/notarize.md)
    + [入力可能な署名可能な Web フォームの投稿](./skill-builders/fillable-signable-web-form.md)
    + [ワークフローの自動化](./skill-builders/workflow-automations.md)
