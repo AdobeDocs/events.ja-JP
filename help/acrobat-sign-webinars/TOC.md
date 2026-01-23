@@ -1,7 +1,8 @@
 ---
 user-guide-title: Acrobat Sign ウェビナー
 user-guide-description: Adobeのエキスパートが、Acrobat Signで新しい電子サインワークフローを習得する方法を説明します。
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+solution: Document Cloud
+source-git-commit: 1f319b1ce03161122a26d569f1d17181b45f983f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
