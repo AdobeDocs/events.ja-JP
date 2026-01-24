@@ -34,7 +34,7 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="コンテンツサプライチェーンの最大化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1768599457924" alt="コンテンツサプライチェーンの最大化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1768599457924" alt="コンテンツサプライチェーンの最大化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
