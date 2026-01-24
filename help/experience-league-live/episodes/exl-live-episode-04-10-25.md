@@ -27,7 +27,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**Experience League [&#x200B; コミュニティポスト &#x200B;](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}** でディスカッションを続ける
+**Experience League [&#x200B; コミュニティポスト &#x200B;](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le?profile.language=ja[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}** でディスカッションを続ける
 
 ## その他のリソース
 

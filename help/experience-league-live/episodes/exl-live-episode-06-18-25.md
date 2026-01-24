@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-6 月 25 日（水）午前 8 時から午前 9 時（PT）まで、[Adobe Journey Optimizer コミュニティ Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-journey-optimizer-product-experts/ev-p/757473) にご参加ください。
+6 月 25 日（水）午前 8 時から午前 9 時（PT）まで、[Adobe Journey Optimizer コミュニティ Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-?profile.language=ja[...]with-journey-optimizer-product-experts/ev-p/757473) にご参加ください。
 
 ## 詳細情報
 
