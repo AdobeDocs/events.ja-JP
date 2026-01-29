@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 31397e559777e599a86445841e6b5a134659151f
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 19%
+source-wordcount: '175'
+ht-degree: 18%
 
 ---
 
@@ -25,14 +25,14 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
-      <img alt="Experience League LIVE 2026 年 1 月 28 日" src="episodes/assets/WebBanner-1-28-26.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
+      <img alt="Experience League LIVE 2026 年 3 月 3 日" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Audience Agentでオーディエンスインサイトを明らかにし、すぐに使用できるオーディエンスを数分で作成します。 </strong></a>
-      <br/><em> シェルビー・マンスリー、キーラ・ファウセット、アリッサ・エスピリツ </em>
-      <br/><em>2026 年 1 月 28 日 PT8 時 30 分 </em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other"> 今すぐ登録 </a></b>
+      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Adobe Experience Cloudのシニア VP である Anjul Bhambhri との洞察に満ちた Q&amp;A セッションで、Adobeの革新的な Agentic AI 機能に対する大胆なビジョンについて学びましょう。</strong></a>
+      <br/><em> アンジュール・バンブリ、ダニエル・ライト </em>
+      <br/><em>2026 年 3 月 3 日 PT9 時 00 分 </em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md"> このセッションの詳細情報！</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +87,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
