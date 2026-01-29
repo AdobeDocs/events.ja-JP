@@ -23,4 +23,4 @@ Adobe Experience Cloudのシニアバイスプレジデントである Anjul Bha
 
 <img alt="Experience League LIVE 2026 年 3 月 3 日" src="./assets/WebBannerExlLive-Mar03-2026.jpg">
 
-[ リマインダーを設定 ](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"}
+[&#x200B; リマインダーを設定 &#x200B;](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"}
