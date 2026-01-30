@@ -23,4 +23,4 @@ Audience Agentを参照して、オーディエンスインサイトを明らか
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-この番組について何か質問はありますか？ [Experience Leagueの会話で話し合いを続けます。](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+この番組について何か質問はありますか？ [Experience Leagueの会話で話し合いを続けます。](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=ja&postid=745171#post745171){target="_blank"}
