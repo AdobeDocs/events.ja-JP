@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 18%
+source-wordcount: '218'
+ht-degree: 14%
 
 ---
 
@@ -33,6 +33,21 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
       <br/><em> アンジュール・バンブリ、ダニエル・ライト </em>
       <br/><em>2026 年 3 月 3 日 PT9 時 00 分 </em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md"> このセッションの詳細情報！</a></b>
+    </div>
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
+      <img alt="Experience League LIVE 2026 年 3 月 3 日" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Journey Optimizerでの Campaign Orchestration が、オーディエンスの作成からローンチまで、大規模な 1 対多のマルチチャネルマーケティングプログラムをどのように管理するかをご覧ください。</strong></a>
+      <br/><em>Sandra Hausmann、Bridgette Darling、Chakravarthy Kalva、Lee Henderson のコメント </em>
+      <br/><em>2026 年 3 月 12 日 PT8 時 30 分 </em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md"> このセッションの詳細情報！</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +102,5 @@ Experience LeagueLIVE は、Experience Leagueチームが制作したライブ�
 
 >[!TIP]
 >
->その他の学習方法については、無料の [&#x200B; コース &#x200B;](https://experienceleague.adobe.com/ja?lang=ja#dashboard/learning) および個別の [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
+>その他の学習方法については、無料の [ コース ](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) および個別の [ チュートリアル ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja) をご覧ください。
 
