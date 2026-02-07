@@ -36,7 +36,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-8-0.md" title="2025.08.0 リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479145/?format=jpeg&nocache=1770334738197" alt="2025.08.0 リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479147/?captions=jpn&format=jpeg&nocache=1770334738197" alt="2025.08.0 リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -59,7 +59,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-6-0.md" title="2025.06.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470878/?format=jpeg&nocache=1770334738223" alt="2025.06.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470879/?captions=jpn&format=jpeg&nocache=1770334738223" alt="2025.06.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -82,7 +82,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="2025.5.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1770334738215" alt="2025.5.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464351/?captions=jpn&format=jpeg&nocache=1770334738215" alt="2025.5.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -105,7 +105,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="2025.04.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1770334738207" alt="2025.04.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464003/?captions=jpn&format=jpeg&nocache=1770334738207" alt="2025.04.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,7 +128,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="2025.3.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1770334738230" alt="2025.3.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463866/?captions=jpn&format=jpeg&nocache=1770334738230" alt="2025.3.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -151,7 +151,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-2-0.md" title="2025.2.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1770334738243" alt="2025.2.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458081/?captions=jpn&format=jpeg&nocache=1770334738243" alt="2025.2.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,7 +174,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="2025.01.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1770334738236" alt="2025.01.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456075/?captions=jpn&format=jpeg&nocache=1770334738236" alt="2025.01.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -222,7 +222,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-2-0.md" title="2025.2.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1770334739040" alt="2025.2.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458081/?captions=jpn&format=jpeg&nocache=1770334739040" alt="2025.2.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -245,7 +245,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="2025.01.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1770334739050" alt="2025.01.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456075/?captions=jpn&format=jpeg&nocache=1770334739050" alt="2025.01.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +268,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-11-0.md" title="2024.11.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1770334739044" alt="2024.11.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440921/?captions=jpn&format=jpeg&nocache=1770334739044" alt="2024.11.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -360,7 +360,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1770334739053" alt="2024.7.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432545/?captions=jpn&format=jpeg&nocache=1770334739053" alt="2024.7.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -406,7 +406,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1770334739062" alt="2024.5.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448063/?captions=jpn&format=jpeg&nocache=1770334739062" alt="2024.5.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -429,7 +429,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="2024.4.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1770334739085" alt="2024.4.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446303/?captions=jpn&format=jpeg&nocache=1770334739085" alt="2024.4.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -452,7 +452,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1770334739092" alt="2024.3.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450608/?captions=jpn&format=jpeg&nocache=1770334739092" alt="2024.3.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -475,7 +475,7 @@ Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM リリースの概要ビデオ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1770334739079" alt="2024.1.0 AEM リリースの概要ビデオ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448930/?captions=jpn&format=jpeg&nocache=1770334739079" alt="2024.1.0 AEM リリースの概要ビデオ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
