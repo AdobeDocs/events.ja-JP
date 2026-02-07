@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
+source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '615'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 
 + [Adobe カスタマーサクセスウェビナー](overview.md)
 + 2026 {#2026}
+   + Customer Journey Analytics {#cja2026}
+      + [Customer Journey Analytics用 BRD-SDR ファイルの作成](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
       + [コンテンツサプライチェーンの最大化](2026/value-with-content-supply-chain.md)
       + [AEM Sitesの最新配信モデル](2026/modern-delivery-model-aem.md)
@@ -22,6 +24,7 @@ ht-degree: 5%
       + [組み込みインテリジェンスの移行](2026/embedded-intelligence.md)
    + 全般 {#general2026}
       + [ホリデー成功のための AI 戦略](2026/2025-holiday-results.md)
+      + [コンテンツSupply chainの基本アーキテクチャ](2026/csc-architecture.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Experience PlatformによるAdobe Commerceの強化](2025/enriching-adobe-commerce.md)
@@ -59,7 +62,7 @@ ht-degree: 5%
       + [データDistiller 101](2025/data-distiller-101.md)
       + [Id グラフのユースケースとトラブルシューティング](2025/identity-graph.md)
       + [AEPプロジェクトへのエグゼクティブスポンサーシップの獲得](2025/exec-sponsorship-aep-projects.md)
-   + GenStudio for Performance Marketing {#genstudio2025}
+   + パフォーマンスマーケティング用の GenStudio {#genstudio2025}
       + [コンテンツSupply chainとAdobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketingのオペレーティングモデル](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
