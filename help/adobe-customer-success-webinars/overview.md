@@ -2690,11 +2690,11 @@ Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience 
 
 
 
->>
+&#x200B;>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfrontの熟練度 – Strategies for Success&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
-    &lt;img class=&quot;is-borbordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfrontの熟練度 – Strategies for Success&quot;
+    &lt;img class=&quot;is-borbordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Workfrontの熟練度 – Strategies for Success&quot;
     style=&quot;幅：100%; アスペクト比：16 / 9; カバー；オーバーフロー：非表示；ディスプレイ：ブロック；margin: auto;&quot;>
     &lt;/a>
     &lt;/figure>
