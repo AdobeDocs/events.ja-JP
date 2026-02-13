@@ -23,4 +23,4 @@ Journey Optimizerでのキャンペーンオーケストレーションが、オ
 
 <img alt="Experience League LIVE 2026 年 3 月 3 日" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
 
-[ 今すぐ登録 ](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+[&#x200B; 今すぐ登録 &#x200B;](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
