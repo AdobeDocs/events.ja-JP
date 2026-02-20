@@ -2,9 +2,9 @@
 user-guide-title: Adobe カスタマーサクセスウェビナー
 breadcrumb-title: Adobe カスタマーサクセスウェビナー
 user-guide-description: Adobe カスタマーサクセス主導のウェビナーは、Adobe Experience Cloudへの投資を最適化する力を得ることを目的としています。 Adobe ソリューションの価値を最大限に高め、導入を促進するための貴重なインサイトを得ます。
-source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
+source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 5%
    + Customer Journey Analytics {#cja2026}
       + [Customer Journey Analytics用 BRD-SDR ファイルの作成](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
+      + [Edge Delivery Servicesでのオーサリング](2026/authoring-eds.md)
       + [コンテンツサプライチェーンの最大化](2026/value-with-content-supply-chain.md)
       + [AEM Sitesの最新配信モデル](2026/modern-delivery-model-aem.md)
       + [AEM Cloud Service の戦略的利点](2026/moving-to-aemcs.md)
@@ -24,7 +25,9 @@ ht-degree: 5%
       + [組み込みインテリジェンスの移行](2026/embedded-intelligence.md)
    + 全般 {#general2026}
       + [ホリデー成功のための AI 戦略](2026/2025-holiday-results.md)
+      + [Content Supply chainの Change Management Strategies](2026/csc-change-management.md)
       + [コンテンツSupply chainの基本アーキテクチャ](2026/csc-architecture.md)
+      + [コンテンツSupply chainの運用モデル](2026/csc-operating-model.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Adobe Experience PlatformによるAdobe Commerceの強化](2025/enriching-adobe-commerce.md)
