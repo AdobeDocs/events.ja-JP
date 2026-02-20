@@ -115,7 +115,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="Acrobat Signを使用したモバイル電子サインの最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1771611514396" alt="Acrobat Signを使用したモバイル電子サインの最適化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477533/?captions=jpn&format=jpeg&nocache=1771611514396" alt="Acrobat Signを使用したモバイル電子サインの最適化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -157,7 +157,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101 – はじめに" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1771611514858" alt="Acrobat Sign 101 – はじめに"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455466/?captions=jpn&format=jpeg&nocache=1771611514858" alt="Acrobat Sign 101 – はじめに"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -180,7 +180,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/authoring-environment.md" title="オーサリング環境に関する高度なトレーニング" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1771611514865" alt="オーサリング環境に関する高度なトレーニング"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455895/?captions=jpn&format=jpeg&nocache=1771611514865" alt="オーサリング環境に関する高度なトレーニング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Acrobat Signの高度なレポート" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1771611515223" alt="Acrobat Signの高度なレポート"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454406/?captions=jpn&format=jpeg&nocache=1771611515223" alt="Acrobat Signの高度なレポート"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -306,7 +306,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="署名用ドキュメントを送信するための高度なヒント" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1771611515708" alt="署名用ドキュメントを送信するための高度なヒント"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454879/?captions=jpn&format=jpeg&nocache=1771611515708" alt="署名用ドキュメントを送信するための高度なヒント"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,7 +329,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="ワンクリックで多くの署名を集める" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1771611515721" alt="ワンクリックで多くの署名を集める"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454892/?captions=jpn&format=jpeg&nocache=1771611515721" alt="ワンクリックで多くの署名を集める"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,7 +352,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="Adobe Acrobat SignのDocument Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1771611515715" alt="Adobe Acrobat SignのDocument Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454914/?captions=jpn&format=jpeg&nocache=1771611515715" alt="Adobe Acrobat SignのDocument Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -375,7 +375,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="入力可能な署名可能な Web フォームの投稿" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1771611515744" alt="入力可能な署名可能な Web フォームの投稿"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455444/?captions=jpn&format=jpeg&nocache=1771611515744" alt="入力可能な署名可能な Web フォームの投稿"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -398,7 +398,7 @@ Adobeのエキスパートが、Acrobat Signで新しい電子サインワーク
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="Microsoft Power Automate を活用したワークフローの自動化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1771611515735" alt="Microsoft Power Automate を活用したワークフローの自動化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454925/?captions=jpn&format=jpeg&nocache=1771611515735" alt="Microsoft Power Automate を活用したワークフローの自動化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
