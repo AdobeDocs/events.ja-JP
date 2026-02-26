@@ -3,16 +3,16 @@ title: Marketoの詳細
 description: Deep Dives は、専門家や同業者がAdobe Marketoの最適な使用方法に関する考えやアイデアを共有するビデオライブラリです。
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '1268'
+source-wordcount: '1370'
 ht-degree: 1%
 
 ---
 
 # Marketoの詳細
 
-このたびは、Deep Dives のオンデマンドイベント録画をご視聴いただき、誠にありがとうございます。 これらのリソースをAdobe Marketo [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja) および [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja) と組み合わせると、Adobe Marketoをビジネスのサポートに使用する方法をより深く理解することができます。
+このたびは、Deep Dives のオンデマンドイベント録画をご視聴いただき、誠にありがとうございます。 これらのリソースをAdobe Marketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html) および [ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) と組み合わせると、Adobe Marketoをビジネスのサポートに使用する方法をより深く理解することができます。
 
 <!-- CARDS
 
@@ -21,7 +21,8 @@ ht-degree: 1%
 * activity-log.md 
 * admin-console.md 
 * api.md 
-* applying-ai.md 
+* applying-ai.md
+* building-smarter-flows.md
 * campaign-operations.md 
 * certification.md 
 * email-designer.md 
@@ -46,7 +47,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="activity-log.md" title="アクティビティログでの複雑なプロセスの確認" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1752782691688" alt="アクティビティログでの複雑なプロセスの確認"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1772063850788" alt="アクティビティログでの複雑なプロセスの確認"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,7 +70,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Adobe Id でのMarketo Engageの準備" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432372/?captions=jpn&format=jpeg&nocache=1752782691676" alt="Adobe Id でのMarketo Engageの準備"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1772063850796" alt="Adobe Id でのMarketo Engageの準備"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,7 +93,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432503/?captions=jpn&format=jpeg&nocache=1752782691708" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1772063850782" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -115,7 +116,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="applying-ai.md" title="Marketoでの AI の適用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1752782691751" alt="Marketoでの AI の適用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458514/?format=jpeg&nocache=1772063850803" alt="Marketoでの AI の適用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,12 +134,35 @@ ht-degree: 1%
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automate & Innovate Building Smarter Flows with Webhooks & Self-Service Flow Steps (SSFS)">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="building-smarter-flows.md" title="Webhook とセルフサービスフローステップ（SSFS）を使用した、よりスマートなフローの構築の自動化と革新" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480207/?format=jpeg&nocache=1772063850773" alt="Webhook とセルフサービスフローステップ（SSFS）を使用した、よりスマートなフローの構築の自動化と革新"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="building-smarter-flows.md" target="_blank" rel="referrer" title="Webhook とセルフサービスフローステップ（SSFS）を使用した、よりスマートなフローの構築の自動化と革新">Webhook とセルフサービスフローステップ（SSFS）による構築の自動化と革新 </a>
+                    </p>
+                    <p class="is-size-6">このMarketoの詳細では、よりスマートな AI 対応マーケティング自動処理の構築に役立つ Webhook と Self-Service Flow Steps （SSFS）について説明します。 設定のベストプラクティス、リアルタイム統合手法、CRM の更新、データエンリッチメント、カスタムフローロジック、AI を利用したワークフローなど、実用的なユースケースについて説明します。 データ品質とキャンペーン結果の強化に重点を置いたMarketo ユーザー、MOPs チーム、管理者に最適です。</p>
+                </div>
+                <a href="building-smarter-flows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automating & Streamlining Campaign Operations Using the Marketo API">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="campaign-operations.md" title="Marketo API を使用したキャンペーン操作の自動化と効率化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1752782691699" alt="Marketo API を使用したキャンペーン操作の自動化と効率化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1772063850810" alt="Marketo API を使用したキャンペーン操作の自動化と効率化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -161,7 +185,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="certification.md" title="自分自身への投資 – Adobe [!DNL Marketo Engage] 認定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1752782691760" alt="自分自身への投資 – Adobe [!DNL Marketo Engage] 認定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1772063850818" alt="自分自身への投資 – Adobe [!DNL Marketo Engage] 認定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -184,7 +208,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-designer.md" title="Marketo Engageの新しいメールDesignerを確認する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1752782691717" alt="Marketo Engageの新しいメールDesignerを確認する"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456026/?format=jpeg&nocache=1772063850855" alt="Marketo Engageの新しいメールDesignerを確認する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -207,7 +231,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-nurture.md" title="Adobe [!DNL Marketo Engage] Champion の詳細なメール育成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1752782691728" alt="Adobe [!DNL Marketo Engage] Champion の詳細なメール育成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1772063850834" alt="Adobe [!DNL Marketo Engage] Champion の詳細なメール育成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -230,7 +254,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="executable-campaigns.md" title="実行可能なキャンペーン – 実行可能なキャンペーンによって効率と効果を高める方法を説明します" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1752782691736" alt="実行可能なキャンペーン – 実行可能なキャンペーンによって効率と効果を高める方法を説明します"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1772063850826" alt="実行可能なキャンペーン – 実行可能なキャンペーンによって効率と効果を高める方法を説明します"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -253,7 +277,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="global-marketing.md" title="Marketo Engageによるグローバルマーケティングの解放 – Adobe チャンピオンの詳細 – 2024 年 8 月" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1752782691787" alt="Marketo Engageによるグローバルマーケティングの解放 – Adobe チャンピオンの詳細 – 2024 年 8 月"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1772063850848" alt="Marketo Engageによるグローバルマーケティングの解放 – Adobe チャンピオンの詳細 – 2024 年 8 月"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,7 +300,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="ims-migration.md" title="IMS 移行の展開 – Marketo ユーザーの移行をシンプル化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1752782691779" alt="IMS 移行の展開 – Marketo ユーザーの移行をシンプル化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3441133/?format=jpeg&nocache=1772063850863" alt="IMS 移行の展開 – Marketo ユーザーの移行をシンプル化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -299,7 +323,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="inheriting-an-instance.md" title="インスタンスの継承" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1752782691743" alt="インスタンスの継承"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1772063850869" alt="インスタンスの継承"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -322,7 +346,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="lead-lifecycles.md" title="リード ライフサイクル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1752782691768" alt="リード ライフサイクル"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1772063850840" alt="リード ライフサイクル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -345,7 +369,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo-forms-aem-forms.md" title="いったい誰の形なんだ？ Marketo forms とAEM Formsの比較" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1752782691830" alt="いったい誰の形なんだ？ Marketo forms とAEM Formsの比較"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448534/?format=jpeg&nocache=1772063850901" alt="いったい誰の形なんだ？ Marketo forms とAEM Formsの比較"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -368,7 +392,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="maximize-email-deliverability.md" title="Marketoでのメール配信品質の最大化 – オーディエンスにリーチするためのベストプラクティス" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1752782691795" alt="Marketoでのメール配信品質の最大化 – オーディエンスにリーチするためのベストプラクティス"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435343/?format=jpeg&nocache=1772063850893" alt="Marketoでのメール配信品質の最大化 – オーディエンスにリーチするためのベストプラクティス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -391,7 +415,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="pmcf-fields.md" title="スケーラビリティのための PMCF フィールドの活用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1752782691804" alt="スケーラビリティのための PMCF フィールドの活用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1772063850884" alt="スケーラビリティのための PMCF フィールドの活用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -414,7 +438,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="salesforce-background-sync.md" title="可視化と制御の強化 – Salesforce バックグラウンド同期のアップグレードと使用状況の監視" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1752782691838" alt="可視化と制御の強化 – Salesforce バックグラウンド同期のアップグレードと使用状況の監視"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457883/?format=jpeg&nocache=1772063850916" alt="可視化と制御の強化 – Salesforce バックグラウンド同期のアップグレードと使用状況の監視"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -437,7 +461,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="small-team-instance.md" title="小規模なチームがAdobe [!DNL Marketo Engage] インスタンスを最大化する方法について説明します" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1752782691822" alt="小規模なチームがAdobe [!DNL Marketo Engage] インスタンスを最大化する方法について説明します"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1772063850876" alt="小規模なチームがAdobe [!DNL Marketo Engage] インスタンスを最大化する方法について説明します"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -460,7 +484,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="webhooks.md" title="Adobe Marketo Engage チャンピオンの詳細 – Webhook を使用したデータ転送" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1752782691814" alt="Adobe Marketo Engage チャンピオンの詳細 – Webhook を使用したデータ転送"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1772063850908" alt="Adobe Marketo Engage チャンピオンの詳細 – Webhook を使用したデータ転送"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
