@@ -21,7 +21,7 @@ ht-degree: 1%
 
 このセッションでは、Customer Journey Analytics（CJA）でデータサイロを分割し、チャネルやデバイスをまたいで ID の関連付けを有効にすることで、統合された顧客インサイトを活用する方法を説明します。 顧客データを結び付け、アトリビューションの精度を向上し、よりスマートなビジネス意思決定を推進するための実用的な戦略を理解したい場合に推奨されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480153/?captions=jpn&learn=on&enablevpops)
 
 ## 重要な留意点
 
