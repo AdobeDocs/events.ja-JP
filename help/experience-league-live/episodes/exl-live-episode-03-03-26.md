@@ -1,16 +1,16 @@
 ---
 title: Adobe Experience Platform エージェントによるマーケティング効率の向上とビジネス成果の向上
 description: Adobeの Agentic AI の実際の例をご覧ください。 次に、専門のエージェントがオーディエンスの作成、ジャーニーのオーケストレーション、コンテンツの最適化などのタスクを処理する様子をご覧ください。
-kt: KT-120175
+kt: 120175
 solution: Experience Platform
 feature: Agentic AI
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-03-03 09:00-8
 event-guests: Daniel Wright, Anjul Bhambhri, Gina Casagrande
 exl-id: 6482125f-0327-4947-bce4-113016b62c18
-source-git-commit: ae1e04b960662d9156efafaa3ed09bd0de545397
+source-git-commit: 6a6d2fa482ea04ebc595effbfd5d304fa23d84c2
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '1004'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,71 @@ ht-degree: 0%
 
 Adobe Experience Cloudのシニアバイスプレジデントであるアンジュール・バンブリと、Experience Cloud・エバンジェリズムのディレクターであるジーナ・カサグランデとのインサイトに満ちた Q&amp;A セッションです。 Adobeのジャーニーと大胆なビジョンにより、マーケティング担当者やクリエイティブ担当者が、制御や監督を妥協することなく、複雑な手順を自動化し、意思決定を迅速化し、チームの能力を拡大できる、革新的な Agentic AI 機能を提供します。 初期のお客様の導入の成功事例にインスピレーションを得て、Adobeがオンボーディングと導入プロセスをどのようにサポートし、独自の Agentic AI ジャーニーを開始する自信を得る方法を学びます。
 
-<img alt="Experience League LIVE 2026 年 3 月 3 日" src="./assets/WebBanner_Mar03_2026-v2.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-[&#x200B; 今すぐ登録 &#x200B;](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
+この番組やトピックに関するディスカッションを続けるには、[Experience League コミュニティ ディスカッションにアクセスしてください。](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}
+
+## 番組からの質問
+
+以下は、ショーの間に尋ねられた質問の一部です。
+
+### 今日、企業が組織がフレームワークにエージェント AI を実装する有意義な方法を見つけるのを支援し始めることができるならば、誰を含める必要があり、どこから始めることができるでしょうか？
+
+最も重要なことは、実用的なユースケースから始めることです。 エージェント機能は、基盤となるシステム全体で権限とデータ処理を適用し、ユーザーエクスペリエンスを損なうことなく、IT チームとセキュリティチームに自信を与えます。 Adobeは、役割ベースおよびタスクベースのサンプルプロンプトを提供し、チームがエージェントをより迅速に採用およびスケーリングできるようにします。
+
+### AEPを持っている人は誰でもエージェントにアクセスできますか？それとも、ライセンスで署名するライダーはいますか？
+
+はい、AEM as a Cloud Service、Real-Time CDP、Journey Optimizer、Customer Journey Analytics（および近日中にWorkfront）のライセンスを取得している場合はアクセスできます。 まだない場合は、Adobeの担当者にリクエストしてください。 GenAI ライダーは try-buy プログラムには必要ありません。
+
+### エージェントは、スキーマやデータセットなどの基礎となるデータを構築できますか。
+
+はい。 エージェントは、これらのアーティファクトを理解し、作成するのに役立つように進化しています。 近日中に、データエンジニアやアーキテクトが自然言語プロンプトを使用して、スキーマの構築、SQL ジョブの管理と実行をより簡単に行えるようにガイドするData Engineering Agentを立ち上げます。
+
+### Adobeは、AI エージェントが効果的に機能するために、特定のデータ構造を推奨しますか？
+
+AI エージェントは様々なデータで機能します。 ただし、オーディエンス/ジャーニーに説明的な名前があり、XDM フィールドに追加の説明が含まれている場合は、応答を向上させるのに役立ちます。
+
+### 作業が準拠するように、ブランドガイドラインとコピーガイドラインが読み込まれているとします。 Adobeのブランドチームは、アートディレクションやコピーディレクションのスキルを持っていますか、それともクリエイティブなループですか？
+
+Adobe Summitにご注目ください。作成したアセットがブランドに準拠していることの確認について説明します。
+
+### CJAでエージェントを使用して結果を説明できますか？ これらの結果をデータセットに書き出すことはできますか？
+
+Data Insights Agentは、ユーザーがCJAで結果を説明し、「理由」の質問に答えるのに役立ちます。 インサイトを要約したデータビューとテキストを使用して応答を出力します。 AEPのデータセットには、データのより包括的なビューが保存されます。
+
+### 以下を理解する必要があります。AI エージェント機能を有効にするには、再設計が必要ですか？ 新しいデザインと今後のアップデートの互換性を確保するには、Adobeではどのようなアプローチがありますか？
+
+AI エージェントでは、データセットの再設計は必要ありません。 AI エージェントがクエリデータをナビゲートできるように、いくつかの調整パラメーターのほか、追加のコンテキストを提供する規定があります。
+
+### Gemini が GA4 に対して行う処理と比較して、CJAの大規模なデータセットを分析する際に、Agentic AI 機能はどのように役立ちますか？
+
+Adobe独自の接地モデルは、精度と信頼性のためにフロンティアの LLM に積み重ねられています。
+
+### Adobeのオムニチャネルテクニカルスタックを立ち上げる準備を進めています。 GenAI の導入が理にかなっているのはいつですか？
+
+アンジュールが述べたように、できるだけ早く！ 製品の機能とベストプラクティスについて説明します。データを取り込むと、他のエージェントがデータの理解に役立ちます。
+
+### Anjul が言及したように、GPT モデルはエージェントに含まれていますか？
+
+次のドキュメントを参照してください。https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+
+### AEM MCP サーバーと連携することで、これらのエージェントの値が倍増します。 特定の適用範囲（OSGi 設定管理やログ分析など）を提供する MCP サーバーコミュニティオプションもオプションですか？
+
+Adobeは、IDE でコード生成とデバッグを行うためのエージェントスキルとローカル MCP サーバーを調べています。 お客様のユースケースとフィードバックに関心があり、aem-devagent@adobe.comまでお送りください。
+
+### 先ほど触れたリソースのエージェントの使い方をデモしていただけませんか？
+
+次のドキュメントを参照してください。https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+
+### 例えば、CJAのエージェントを使用して、オファーの結果に関する説明を行うことはできますか？
+
+Data Insights Agentは、ユーザーがCJAで結果を説明し、「理由」の質問に答えるのに役立ちます。 インサイトを要約したデータビューとテキストを使用して応答を出力します。 AEPのデータセットでは、データのより包括的なビューが保存されるので、現時点では、Data Insights Agentの結果の書き出しはサポートされていません。
+
+### ChatGPT、Perplexity、Claude、Gemini などと統合する方法を、別のエピソードで実際に示していただけますか？
+
+次のドキュメントを参照してください。https://experienceleague.adobe.com/en/docs/platform-learn/tutorial-one-adobe/agents/agents1/ex2
+
+### アドビの 4 年前からのバックエンドデータセットは、クリーンなフォーマット基準に従っており、BAU 操作を効果的にサポートしますが、AI エージェントは機能しません。 どうすればよいですか？ データセットを再設計する必要がありますか？
+
+AI エージェントでは、データセットの再設計は必要ありません。 AI エージェントがクエリデータをナビゲートできるように、いくつかの調整パラメーターのほか、追加のコンテキストを提供する規定があります
+
