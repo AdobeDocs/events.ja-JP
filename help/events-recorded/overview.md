@@ -13,9 +13,9 @@ ht-degree: 7%
 
 # Adobe Experience League イベント録画 {#events}
 
-## Experience Leagueで学ぶことは一つのイベントです。****
+## Experience Leagueで学ぶことは一つのイベントです。**&#x200B;**
 
-独自のイベントやウェビナーで最新情報を入手し、学習の幅を広げてください。 このスペースには、Experience League LIVE、スキルビルダー、デベロッパーライブなどの過去のイベントの録画を頻繁にアクセスできます。 今後のイベントに登録したい場合は、Experience Leagueの [ 今後のイベント ](https://%65xperienceleague.adobe.com/events/?lang=en) をご覧ください。
+独自のイベントやウェビナーで最新情報を入手し、学習の幅を広げてください。 このスペースには、Experience League LIVE、スキルビルダー、デベロッパーライブなどの過去のイベントの録画を頻繁にアクセスできます。 今後のイベントに登録したい場合は、Experience Leagueの [&#x200B; 今後のイベント &#x200B;](https://%65xperienceleague.adobe.com/events/?lang=en) をご覧ください。
 
 ## イベントシリーズ
 
