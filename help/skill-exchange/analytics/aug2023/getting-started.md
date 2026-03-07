@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Skill Exchange の「Getting Started」セグメントは、Adobe Analyticsを使い始めたばかりのユーザーを対象としています。 セッションが終了するまでに、Adobe Analyticsの用語やツールを理解し、Analysis Workspaceの主な機能を初心者レベルで紹介できるようになります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480563/?captions=jpn&learn=on)
