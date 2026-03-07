@@ -14,7 +14,7 @@ ht-degree: 11%
 
 + [概要](overview.md)
 + シリーズ別 {#series}
-   + [Acrobat アナライザーウェビナー](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+   + [Acrobat アナライザーウェビナー](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=ja)
    + [Acrobat Sign ウェビナー](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ja)
    + [Adobe Commerce Intelligence ウェビナー](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html?lang=ja)
    + [Adobe カスタマーサクセスウェビナー](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ja)
@@ -41,7 +41,7 @@ ht-degree: 11%
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=ja)
 + ソリューション別 {#solution}
    + Acrobatアナライザー {#aaa}
-      + [Acrobat アナライザーウェビナー](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+      + [Acrobat アナライザーウェビナー](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=ja)
    + Acrobat Sign {#as}
       + [Acrobat Sign ウェビナー](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ja)
    + Adobe Acrobat サービス {#aas}
