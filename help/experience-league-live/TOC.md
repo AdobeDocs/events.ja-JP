@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 13%
+source-wordcount: '371'
+ht-degree: 12%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 13%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [カスタマーエンゲージメントの新しいユースケース：iOS ライブアクティビティ、Web プッシュおよび永続メッセージ](episodes/exl-live-episode-04-08-26.md)
    + [Adobe Journey Optimizerでの Campaign オーケストレーションの概要](episodes/exl-live-episode-03-12-26.md)
    + [マーケティング効率の向上とビジネス成果の向上を実現するAdobe Experience Platform エージェント](episodes/exl-live-episode-03-03-26.md)
    + [職場のエージェント：オーディエンスとジャーニーの作成およびアクティブ化](episodes/exl-live-episode-01-28-26.md)
@@ -54,7 +55,7 @@ ht-degree: 13%
    + [エキスパートに質問 – RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
    + [エキスパートに質問する – Web SDKの基本](episodes/exl-live-episode-05-26-22.md)
    + [AEMとAdobe App Builderの拡張](episodes/exl-live-episode-07.md)
-   + [それをクリックしたのは誰ですか？その後何をしましたか？](episodes/exl-live-episode-04.md)
+   + [それをクリックしたのは誰ですか？ その後何をしましたか？](episodes/exl-live-episode-04.md)
    + [ホリデーキャンペーンを目立たせるためのエキスパートのヒント](episodes/exl-live-episode-03.md)
    + [Adobeの実装に関する 3 つのお気  [!DNL Analytics]  入りのヒント](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
