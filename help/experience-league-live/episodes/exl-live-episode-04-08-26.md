@@ -20,10 +20,10 @@ ht-degree: 0%
 <br>
 </br>
 
-[![4 月 8 日（Pt）の ExL ライブイベントバナー ](assets/April-8-2026-WebBanner.jpg)](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
+[![4 月 8 日（Pt）の ExL ライブイベントバナー &#x200B;](assets/April-8-2026-WebBanner.jpg)](https://youtube.com/live/hLVIIul_2_g){target=“_blank”}
 <br>
 </br>
-<b>[ 番組のリマインダーを設定！](https://youtube.com/live/hLVIIul_2_g)</b>
+<b>[&#x200B; 番組のリマインダーを設定！](https://youtube.com/live/hLVIIul_2_g)</b>
 
 <br>
 </br>
