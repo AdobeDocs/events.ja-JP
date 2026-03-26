@@ -21,10 +21,10 @@ Advisors Excelのクリエイティブオペレーションチームが、Workfr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481832/?learn=on&enablevpops)
 
-セッションを逃した場合、心配はありません！ [ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf)を確認し、オンデマンド録画を視聴します。
+セッションを逃した場合、心配はありません！ [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf)を確認し、オンデマンド録画を視聴します。
 
 イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)をご覧ください。
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
 
 

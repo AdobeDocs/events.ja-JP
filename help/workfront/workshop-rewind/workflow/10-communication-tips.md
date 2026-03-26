@@ -21,9 +21,9 @@ Nichole Vargas氏が、明確なコミュニケーションチャネルのガイ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481822/?learn=on&enablevpops)
 
-セッションを逃した場合、心配はありません！ [ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf)を確認し、オンデマンド録画を視聴します。
+セッションを逃した場合、心配はありません！ [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf)を確認し、オンデマンド録画を視聴します。
 
 イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874)をご覧ください。
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
 

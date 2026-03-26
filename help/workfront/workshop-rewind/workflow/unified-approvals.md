@@ -21,4 +21,4 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
