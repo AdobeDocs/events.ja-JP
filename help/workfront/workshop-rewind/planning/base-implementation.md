@@ -17,13 +17,13 @@ ht-degree: 1%
 
 # Workfront計画Smart Start – 基本実装の構築
 
-Adobeの製品管理チームが、Workfrontプランニングの導入を始めるためのベストプラクティスを紹介します。  Workfront計画の次の予定について詳しくは、Experience Leagueの[Adobe Workfront計画リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) ページを必ずブックマークしてください。
+Adobeの製品管理チームが、Workfrontプランニングの導入を始めるためのベストプラクティスを紹介します。  Workfront計画の次の予定について詳しくは、Experience Leagueの[Adobe Workfront計画リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) ページを必ずブックマークしてください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477113/?learn=on&enablevpops)
 
 セッションを逃した場合、心配はありません！ [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/073125+The+Smart+Start+%E2%80%94+Building+Your+Base+Implementation.pdf)を確認し、オンデマンド録画を視聴します。
 
-イベントで共有したいアイデアやフォローアップの質問はありますか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049)のコメントに自由に投稿してください。
+イベントで共有したいアイデアやフォローアップの質問はありますか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-the-smart-start-building-your/td-p/767049?profile.language=ja)のコメントに自由に投稿してください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
 

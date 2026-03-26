@@ -23,7 +23,7 @@ ht-degree: 2%
 
 セッションを逃した場合、心配はありません！ [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/022626+-+Enablement+that+Scales+-+Training+and+Blueprints+slides.pdf)を確認し、オンデマンド録画を視聴します。
 
-イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830)をご覧ください。
+イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830?profile.language=ja)をご覧ください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
 
