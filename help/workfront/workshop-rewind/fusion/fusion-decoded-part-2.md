@@ -18,12 +18,12 @@ ht-degree: 1%
 
 # Fusion Decoded Part 2 - Let&#39;s Start Building
 
-[&#x200B; パート 1](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded)では、Jen DesmondがFusionの機能とあらゆる組織に対する機能について説明しました。 本シリーズのパート 2では、すぐに使えるテンプレートについて解説します。 テンプレートによって憶測を排除し、セットアップ時間を短縮して、ゼロから始めなくても自信を持って真の自動化を開始する方法をご覧ください。
+[&#x200B; パート 1](https://experienceleague.adobe.com/ja/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded)では、Jen DesmondがFusionの機能とあらゆる組織に対する機能について説明しました。 本シリーズのパート 2では、すぐに使えるテンプレートについて解説します。 テンプレートによって憶測を排除し、セットアップ時間を短縮して、ゼロから始めなくても自信を持って真の自動化を開始する方法をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
 
 セッションを逃した場合、心配はありません！ [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf)を確認し、オンデマンド録画を視聴します。
 
-イベントのQ&amp;Aやリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622)をご覧ください。
+イベントのQ&amp;Aやリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622?profile.language=ja)をご覧ください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
