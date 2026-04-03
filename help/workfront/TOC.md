@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '538'
 ht-degree: 1%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 1%
    + [導入調査](expert-insights/adoption-surveys.md)
    + [アジャイル](expert-insights/agile.md)
    + [Content Supply chain](expert-insights/content-supply-chain.md)
+   + [インスタンスの進化](expert-insights/evolution-of-an-instance.md)
    + [Fusion](expert-insights/fusion.md)
    + [ガバナンスとセンターオブエクセレンス](expert-insights/centers-of-excellence.md)
    + [マスターテキストモード](expert-insights/text-mode.md)
