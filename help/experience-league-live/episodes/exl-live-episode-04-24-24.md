@@ -29,6 +29,6 @@ Experience Leagueのライブエピソードでは、プロダクトエキスパ
 
 >[!BEGINSHADEBOX  「質問がありますか？」 ]
 
-**Adobe Experience League [ コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}でこのトピックに関するディスカッションを続行します。**
+**Adobe Experience League [&#x200B; コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}でこのトピックに関するディスカッションを続行します。**
 
 >[!ENDSHADEBOX]

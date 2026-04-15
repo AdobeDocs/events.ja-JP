@@ -23,7 +23,7 @@ Edge Bridge拡張機能を使用して、移行のギャップを埋める方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**引き続きディスカッションを行うには、[Experience League コミュニティに関するディスカッション ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}にアクセスしてください。**
+**引き続きディスカッションを行うには、[Experience League コミュニティに関するディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}にアクセスしてください。**
 
 
 **詳細を表示**:

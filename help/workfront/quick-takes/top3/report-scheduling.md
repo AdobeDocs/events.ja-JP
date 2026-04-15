@@ -27,4 +27,4 @@ ht-degree: 2%
 
 詳しくは、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)を参照してください。
 
-新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience Leagueのイベントページ ](https://experienceleague.adobe.com/ja/events)で今後のワークショップに登録することを忘れないでください。
+新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience Leagueのイベントページ &#x200B;](https://experienceleague.adobe.com/ja/events)で今後のワークショップに登録することを忘れないでください。

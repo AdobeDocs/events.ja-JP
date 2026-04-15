@@ -25,7 +25,7 @@ ht-degree: 9%
 * [スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040325+-+25.4+Second+Quarter+2025+Release+Webinar.pdf)
 * [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-second-quarter-2025-release/td-p/746716)
 
-リリース機能について詳しくは、[2025年第2四半期リリース ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)の概要ページを参照してください。
+リリース機能について詳しくは、[2025年第2四半期リリース &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)の概要ページを参照してください。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463798/?learn=on&enablevpops)

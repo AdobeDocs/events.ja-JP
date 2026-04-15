@@ -37,13 +37,13 @@ Expert Insightsへようこそ！  あなたの「オンデマンド」Workfront
 
 お約束したように、以下に説明したリソースと、リクエストキューとキューのトピックに関する追加リンクをいくつか示します。
 
-* 継承したインスタンスを[管理する方法に関するリソース ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)には、[ ブループリントチュートリアル ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)のウェビナーへのリンクと詳細が含まれています
+* 継承したインスタンスを[管理する方法に関するリソース &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)には、[&#x200B; ブループリントチュートリアル &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)のウェビナーへのリンクと詳細が含まれています
 
-* リクエストキューの概要ドキュメント：[ キューのトピックの作成](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* リクエストキューの概要ドキュメント：[&#x200B; キューのトピックの作成](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)に関するLyndsyのウェビナーのプレゼンテーション：エンドユーザーとのコミュニケーション（このページには、[ エンドユーザーコミュニケーションクックブック ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)へのリンクも含まれています）
+* [System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)に関するLyndsyのウェビナーのプレゼンテーション：エンドユーザーとのコミュニケーション（このページには、[&#x200B; エンドユーザーコミュニケーションクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)へのリンクも含まれています）
 
-* Lyndsyの[ スキル交換プレゼンテーション リソース ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* Lyndsyの[&#x200B; スキル交換プレゼンテーション リソース &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
 
 * また、[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) 「Workfront Proofについて何でも聞く」では、リンジーとモニーク・エバンス、リチャード・カールソンがプルーフに関する質問に答えています。
 

@@ -27,7 +27,7 @@ Adobe Experience ManagerのUIを拡張して、反復的なコンテンツタス
 
 ## コミュニティ議論
 
-Adobe Developers Live コミュニティ [ ディスカッション ](https://adobe.ly/3Ywf6kg)で引き続きディスカッションを行います。
+Adobe Developers Live コミュニティ [&#x200B; ディスカッション &#x200B;](https://adobe.ly/3Ywf6kg)で引き続きディスカッションを行います。
 
 ## 重要な留意点
 

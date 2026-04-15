@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-このビデオを補足するために、[ ホワイトペーパーをダウンロードすることもできます](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
+このビデオを補足するために、[&#x200B; ホワイトペーパーをダウンロードすることもできます](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

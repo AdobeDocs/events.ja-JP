@@ -74,9 +74,9 @@ Adobe Adobe Marketo Engage ChampionのDarshil Shah氏が、顧客の行動、デ
 ## その他のリソース
 
 * [プレゼンテーションスライド](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
-* Marketing Nation コミュニティのディスカッション [ スレッド ](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"}に参加する
+* Marketing Nation コミュニティのディスカッション [&#x200B; スレッド &#x200B;](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"}に参加する
 * [セグメントの作成](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
 * [セグメントの編集](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
-* Marketo Engage サクセスシリーズ - [ セグメント化](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
-* [ セグメント正常性チェックの更新](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - セグメントを最新の状態に保つためのヒントとテクニック
-* [電子メールパフォーマンスレポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* Marketo Engage サクセスシリーズ - [&#x200B; セグメント化](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* [&#x200B; セグメント正常性チェックの更新](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - セグメントを最新の状態に保つためのヒントとテクニック
+* [電子メールパフォーマンスレポート &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

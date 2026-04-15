@@ -40,4 +40,4 @@ ht-degree: 0%
 
 チャットで目にした最大のテーマのひとつは、プロジェクトテンプレートをシンプルにしつつ、その労力を追跡し、プロジェクトを完了するために必要なあらゆるステップをチームが確実に実行できるという課題でした。  
 
- 今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント ](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。
+ 今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。

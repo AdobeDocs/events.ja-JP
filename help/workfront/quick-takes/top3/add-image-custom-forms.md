@@ -27,4 +27,4 @@ ht-degree: 2%
 
 詳しくは、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)を参照してください。
 
-新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience Leagueのイベントページ ](https://experienceleague.adobe.com/ja/events)で今後のワークショップに登録することを忘れないでください。
+新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience Leagueのイベントページ &#x200B;](https://experienceleague.adobe.com/ja/events)で今後のワークショップに登録することを忘れないでください。

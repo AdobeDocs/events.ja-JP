@@ -31,4 +31,4 @@ Marketo Engage REST APIの機能を利用すれば、マーケティング業務
 >[!VIDEO](https://video.tv.adobe.com/v/3428435/?learn=on)
 
 
-[Marketing Nation コミュニティウェビナースレッド ](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}で会話に参加してください。
+[Marketing Nation コミュニティウェビナースレッド &#x200B;](https://nation.marketo.com/t5/product-discussions/webinar-april-17th-8am-pst-unlocking-powerful-workflow/td-p/346330){target="_blank"}で会話に参加してください。

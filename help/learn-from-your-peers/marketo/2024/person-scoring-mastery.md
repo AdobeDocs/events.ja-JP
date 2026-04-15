@@ -35,9 +35,9 @@ Marketo EngageチャンピオンのKatja Keesomが、スコアリングモデル
 
 ## ウェビナーのリソース共有
 
-* Marketing Nation コミュニティウェビナースレッド - [ ディスカッション ](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* ローカル影響演習による人物/リードスコアリング - [ ワークシートをダウンロード ](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
-* リードスコアリングルールの大きなリスト - [ ワークシートを表示](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Marketo Engage プログラム読み込みライブラリ - [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
-* リードスコアリング前、中、後のプロセスについて知っておくべきあらゆることをスコアリング - [ オンデマンドウェビナー](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
-* リードスコアリングに関するChampionの見解 – [ ブログ ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
+* Marketing Nation コミュニティウェビナースレッド - [&#x200B; ディスカッション &#x200B;](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* ローカル影響演習による人物/リードスコアリング - [&#x200B; ワークシートをダウンロード &#x200B;](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
+* リードスコアリングルールの大きなリスト - [&#x200B; ワークシートを表示](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Marketo Engage プログラム読み込みライブラリ - [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* リードスコアリング前、中、後のプロセスについて知っておくべきあらゆることをスコアリング - [&#x200B; オンデマンドウェビナー](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* リードスコアリングに関するChampionの見解 – [&#x200B; ブログ &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

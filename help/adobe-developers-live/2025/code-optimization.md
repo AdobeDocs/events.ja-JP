@@ -30,4 +30,4 @@ Adobe Developers Live 2025を支援してくださったスポンサーのAlgoli
 ## 次の手順
 
 * [Experience League](https://adobe.ly/47ss08A)で会話を続ける
-* [今後のイベント ](https://developerevents.adobe.com)を見つける
+* [今後のイベント &#x200B;](https://developerevents.adobe.com)を見つける

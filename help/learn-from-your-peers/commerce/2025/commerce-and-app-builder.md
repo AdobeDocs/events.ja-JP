@@ -36,5 +36,5 @@ App Builderを導入したばかりの企業であっても、拡張性の戦略
 
 ## その他のリソース
 
-* Alex Lyzunとの[ ウェビナー後のオフィスアワー](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/)
+* Alex Lyzunとの[&#x200B; ウェビナー後のオフィスアワー](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-amp-app-builder-essentials-from-basics-to-impact-webinar-office-hours/)
 * [Adobe Commerce ユーザーグループ](https://commerce-augs.adobe.com/)

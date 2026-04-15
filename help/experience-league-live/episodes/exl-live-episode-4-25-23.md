@@ -28,5 +28,5 @@ ht-degree: 22%
 
 上記のビデオを開始して、このライブストリームイベントの再生を表示します。
 
-よくある質問と？ このトピックに関するディスカッションは、Adobe Experience League [ コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476)で続けてください。
+よくある質問と？ このトピックに関するディスカッションは、Adobe Experience League [&#x200B; コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476)で続けてください。
 

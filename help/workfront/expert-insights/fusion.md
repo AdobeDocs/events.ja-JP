@@ -39,7 +39,7 @@ Expert Insightsへようこそ！  あなたの「オンデマンド」Workfront
 
 ## リソース
 
-* [使用可能なFusion テンプレートのリスト ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [使用可能なFusion テンプレートのリスト &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
 * [Adobe Workfront Fusion ビデオの概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## 講演者について

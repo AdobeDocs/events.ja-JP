@@ -54,7 +54,7 @@ _エキスパートに質問_&#x200B;は、次の2つのセッションで構成
 
 >[!TIP]
 >
->Commerce Intelligenceを初めて利用する場合は、データの集計、分析、ビジュアライゼーションを通じてビジネスに関する優れたインサイトと成果を促進するための全体像を、[入門ビデオシリーズ ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html)でご確認ください。
+>Commerce Intelligenceを初めて利用する場合は、データの集計、分析、ビジュアライゼーションを通じてビジネスに関する優れたインサイトと成果を促進するための全体像を、[入門ビデオシリーズ &#x200B;](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html)でご確認ください。
 
 - [Commerce Intelligenceの概要](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
 - [Commerce Intelligenceサポート](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

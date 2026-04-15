@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
 
-オフィスアワーは、Workfrontコミュニケーションプラン全体の重要な一部です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [ エンドユーザーコミュニケーションクックブック ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)をご覧ください。
+オフィスアワーは、Workfrontコミュニケーションプラン全体の重要な一部です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [&#x200B; エンドユーザーコミュニケーションクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)をご覧ください。
 
 ありがとうございました。Workfrontの導入を楽しくする方法について、Expert Insightsでアイデアを共有しました。 
 

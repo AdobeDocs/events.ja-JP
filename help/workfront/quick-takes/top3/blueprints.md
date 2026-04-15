@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # 上位3 - ブループリントを使用したCreativeのアプローチ
 
-おい皆さん！ あなたの「オンデマンドWorkfrontCSM」は私で、トップ 3のビデオが帰ってきました。  今回は、[ ブループリント ](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview)についてお話ししましょう。 ブループリントは「Workfrontの作業」への近道であると言われたことがありますが、ブループリントを使用して企業のニーズを迅速に把握する他の方法は何ですか？
+おい皆さん！ あなたの「オンデマンドWorkfrontCSM」は私で、トップ 3のビデオが帰ってきました。  今回は、[&#x200B; ブループリント &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview)についてお話ししましょう。 ブループリントは「Workfrontの作業」への近道であると言われたことがありますが、ブループリントを使用して企業のニーズを迅速に把握する他の方法は何ですか？
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
 
-本番環境に何かをインストールする前にまず試してみたい場合は、心配はありません。  最初に[ サンドボックスプレビュー環境](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment)で操作してみてください。
+本番環境に何かをインストールする前にまず試してみたい場合は、心配はありません。  最初に[&#x200B; サンドボックスプレビュー環境](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment)で操作してみてください。
 
 最新のブループリントに興味がありますか？
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 * [ブループリントのリリース：People Manager ダッシュボード](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
 * [利用可能なブループリントの完全なリスト](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
-新しいアイデアやクリエイティブなアプローチについて学びたい方は、次回のワークショップに[Experience League イベント ページ ](https://experienceleague.adobe.com/en/events?filters=Workfront)から登録することを忘れないでください。 近いうちにお会いできるのを楽しみにしています。
+新しいアイデアやクリエイティブなアプローチについて学びたい方は、次回のワークショップに[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront)から登録することを忘れないでください。 近いうちにお会いできるのを楽しみにしています。

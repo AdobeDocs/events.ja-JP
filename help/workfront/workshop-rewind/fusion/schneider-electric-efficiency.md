@@ -23,6 +23,6 @@ Schneider ElectricのCreativeオペレーションのエキスパートである
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481820/?learn=on&enablevpops)
 
-セッションを逃した場合、心配はありません！ [ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120325+-+Measuring+What+Matters+-+How+Schneider+Electric+Drives+Workfront+Efficiency+with+Fusion.pdf)を確認し、オンデマンド録画を視聴します。
+セッションを逃した場合、心配はありません！ [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120325+-+Measuring+What+Matters+-+How+Schneider+Electric+Drives+Workfront+Efficiency+with+Fusion.pdf)を確認し、オンデマンド録画を視聴します。
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

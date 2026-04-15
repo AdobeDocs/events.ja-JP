@@ -31,4 +31,4 @@ ht-degree: 16%
 
 この夏のイベントでは、オムニチャネルマーケティング戦略を強化し、シーズンのエンゲージメントの機会を最大限に活用します。 Adobe Adobe Journey Optimizerを活用して、カスタマージャーニーと施策を改善し、成功を促進しましょう。
 
-**Journey Optimizer コミュニティ フォーラムの[Adobe Journey Optimizer コミュニティ Q&amp;A コーヒーブレーク ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931)でディスカッションを続けます。**
+**Journey Optimizer コミュニティ フォーラムの[Adobe Journey Optimizer コミュニティ Q&amp;A コーヒーブレーク &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-leagu[...]ugust-28th-8-30-am-pt-supercharge-your/td-p/697931)でディスカッションを続けます。**

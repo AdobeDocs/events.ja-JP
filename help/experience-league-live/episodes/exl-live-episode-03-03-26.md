@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3480449/?quality=12&learn=on)
 
-この番組/トピックに関するディスカッションを続けるには、[Experience Leagueのコミュニティ ディスカッション ](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}にアクセスしてください。
+この番組/トピックに関するディスカッションを続けるには、[Experience Leagueのコミュニティ ディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-post-session-discussion-adobe-experience-platform-agents-for-improved-marketing-efficiency-and-better-business-outcomes-248926){target="_blank"}にアクセスしてください。
 
 ## 番組からの質問
 
