@@ -1,25 +1,27 @@
 ---
-title: Workfront ライセンスを最大限に活用 – ユーザー管理とライセンスに関する Pro ヒント
-description: Workfrontのスマートなユーザー設定、合理化されたライセンス管理、ガバナンスの向上に関するエキスパートのヒントを活用して、価値と効率を最大限に高めます。
+title: Workfront ライセンスを最大限に活用 – ユーザー管理とライセンス取得のプロ向けヒント
+description: Workfrontをスマートに設定し、ライセンス管理を合理化して、ガバナンスを改善し、価値と効率性を最大化するための専門家のヒントをご紹介します。
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Performance, Administration
 role: Leader
 level: Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-09T00:00:00Z
 jira: KT-19095
-source-git-commit: a77a388f759c2f85b3bf3000260077d50102090d
+exl-id: aac8a3d4-ba6b-4661-ae21-11971e4a79e8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
+# Workfront ライセンスを最大限に活用 – ユーザー管理とライセンス取得のプロ向けヒント
 
-# Workfront ライセンスを最大限に活用 – ユーザー管理とライセンスに関する Pro ヒント
+Workfront ライセンスは現在と同じように動作しますか？ Stanley Black &amp; DeckerのMonique Evans氏とAdobeのSonia Espejo氏によるセッションでは、よりスマートなユーザー設定、合理化されたメンテナンス、実用的なレポートにより、より多くの価値を創出するのに役立つ専門家のヒントとテクニックを紹介します。
 
-Workfront ライセンスは現在と同じように機能していますか？ Stanley Black &amp; Decker の Monique Evans とAdobeの Sonia Espejo が、エキスパートのヒントやテクニックを満載した迅速なセッションに参加しましょう。よりスマートなユーザーセットアップ、合理化されたメンテナンス、実用的なレポートにより多くの価値を高めるのに役立ちます。
-
-役割、グループ、チーム、カスタムフォームを使用して規模を簡素化し、管理オーバーヘッドを削減することで、適切なユーザーが適切なアクセス権を持つようにする方法を説明します。 このセッションでは、インスタンスをクリーンアップし、ガバナンスを改善し、Workfront設定を最適化するための実践的な方法を説明します。
+Moniqueが、役割、グループ、チーム、カスタムフォームを使用して、規模を簡素化し、管理者のオーバーヘッドを削減することで、適切なユーザーが適切にアクセスできるようにする方法をご覧ください。 このセッションでは、インスタンスのクリーンアップ、ガバナンスの改善、Workfrontの設定の最適化を行うための実用的な方法を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)

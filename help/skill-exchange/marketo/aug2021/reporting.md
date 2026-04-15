@@ -1,37 +1,39 @@
 ---
-title: ' [!DNL Marketo Engage] 内でのレポート'
-description: このセッションでは、レポートスマートリストアナライザー MPI メールインサイトを含む  [!DNL Marketo Engage]  で使用可能なすべてのレポートツールについて説明します
+title: ' [!DNL Marketo Engage]以内のレポート'
+description: このセッションでは、Reports Smart Lists Analyzers MPI Email Insightsを含む [!DNL Marketo Engage] で利用可能なすべてのレポートツールについて説明します
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
 exl-id: be7ce77f-d4e0-47fa-b811-f1792ef76be6
 duration: 2355
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
-# [!DNL Marketo Engage] 内のレポート
+# [!DNL Marketo Engage]内のレポート
 
-このセッションでは、[!DNL Marketo Engage] で使用可能なすべてのレポートツールを確認します。レポートツールには以下が含まれます。
+このセッションでは、次を含む[!DNL Marketo Engage]で利用可能なすべてのレポートツールを確認します。
 
 * レポート
-* スマート・リスト
+* Smart Lists
 * アナライザー
 * MPI
-* メールインサイト
-* 収益エクスプローラー
+* 電子メールのインサイト
+* Revenue Explorer
 * レポートタイプの概要
-   * グローバルレポート （Analytics）とローカルレポート （マーケティングアクティビティ）
-* 標準レポートとスマート・リストのどちらを使用するか
+   * グローバルレポート（分析）とローカルレポート（マーケティング活動）
+* 標準レポートとスマートリストの使用例
    * 購読
 
-このセッションでは、[!DNL Marketo Engage] 内のレポート機能の概要と、レポートとスマートリストについて詳しく説明します。
+このセッションでは、[!DNL Marketo Engage]内の高レベルのレポート機能について理解し、レポートとスマートリストについて詳しく説明します。
 
-このセッションの最後にあるライブ Q&amp;A では、未回答の質問にお答えします。
+このセッションの最後にライブ Q&amp;Aを行うと、未解決の質問に答えることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342557/?quality=12&learn=on)

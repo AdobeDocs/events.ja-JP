@@ -1,8 +1,9 @@
 ---
-title: アクティビティログでの複雑なプロセスの確認
-description: このディープダイブセッションでは、ベス・マスラ、ジミー・スペンサー、モデレーターのコーリー・ベイレスが、アクティビティ・ログ・ノートを使用して、プロセスの開始、終了、失敗、成功を追跡し、Marketoの複雑なマルチレッグ・プロセスのための革新的なトラブルシューティング手法を説明します。
+title: アクティビティログでの複雑なプロセスの表示
+description: このディープダイブセッションでは、Beth Massura、Jimmy Spencer、モデレーターのCorey Baylessが、Adobe Marketoの複雑なマルチレグプロセスに関する革新的なトラブルシューティング手法を紹介します。アクティビティログノートを使用して、プロセスの開始、終了、失敗、成功を追跡します。
 solution: Marketo Engage
 feature: Audit Trail
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,15 +12,15 @@ last-substantial-update: 2024-02-08T00:00:00Z
 jira: KT-14922
 thumbnail: 3427149.jpeg
 exl-id: df731e4b-3a3c-4cdf-8901-d803e9a4ae64
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-# アクティビティログでの複雑なプロセスの確認
+# アクティビティログでの複雑なプロセスの表示
 
-自分のプロセスが失敗した理由を見つけることは、干し草の山で針を探すようなものだと感じたことがありますか？ 私たちは関連付けることができます！ 忙しい MOP の専門家は、複雑なプロセスをトラブルシューティングするための効率的な方法を求めています。 このディープダイブセッションでは、Marketo チャンピオンが標準搭載の考え方を使用して、複雑なマルチレグプロセスのパンくずリストの証跡を作成した方法を説明します。 作成したアクティビティログメモを使用して、プロセスの開始、終了、失敗、成功の場所をレコードについて説明します。 主催：ベス・マスラ&amp;ジミー・スペンサー、モデレーター：コーリー・ベイレス
+プロセスが失敗した理由を知ることは、干し草の山の中から針を探すようなものだと感じたことがありますか？ 共感できます！ 忙しいMOPsの専門家は、複雑なプロセスをトラブルシューティングするための効率的な方法を望んでおり、私たちはそれを求めています！ このセッションでは、Marketo Champsがすぐに使える手法を活用して、複雑なマルチレッグのプロセスに対応するパンくずリストを作成する方法を紹介します。 作成したアクティビティログノートを使用して、レコードのプロセスの開始、終了、失敗、成功の場所を確認します。 司会：Beth Massura &amp; Jimmy Spencer、司会：Corey Bayless
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427149/?learn=on)

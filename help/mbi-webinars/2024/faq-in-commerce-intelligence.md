@@ -1,8 +1,10 @@
 ---
-title: Commerce Intelligenceの FAQ
-description: セルフサービス設定、統合、セキュリティ、ベストプラクティスなどのトピックに関して、Commerce Intelligenceでよくある質問への回答を示します。
+title: COMMERCE INTELLIGENCEのよくある質問
+description: Commerce IntelligenceのFAQでは、セルフサービス設定、統合、セキュリティ、ベストプラクティスなど、さまざまなトピックについて解説しています。
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Integrations, Security
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,35 +12,35 @@ duration: 2167
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15680
 exl-id: ead47498-4526-481c-8910-961377bdb55f
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Commerce Intelligenceの FAQ
+# COMMERCE INTELLIGENCEのよくある質問
 
-セルフサービス設定、統合、セキュリティ、ベストプラクティスなどのトピックに関して、Commerce Intelligenceでよくある質問への回答を示します。
+Commerce IntelligenceのFAQでは、セルフサービス設定、統合、セキュリティ、ベストプラクティスなど、さまざまなトピックについて解説しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429617/?learn=on)
 
-## 重要ポイント
+## 重要な留意点
 
-**通貨の管理**
+**通貨管理**
 
-* 通貨は、単一通貨の設定に基づいて管理されます。
-* レポートの通貨数値の前には、指定された通貨記号が付きます。
-* 通貨の設定は、適切な通貨を選択して通貨レートを換算することにより、勘定科目の設定で行われます。
+* 通貨は、単一の通貨設定に基づいて管理されます。
+* レポートの金銭的数値には、特定の通貨記号が先頭に付けられます。
+* 通貨の設定は、通貨レートを変換するために該当する通貨を選択することによって、アカウント設定で行われます。
 
-**データのインポート方法**
+**データ読み込み方法**
 
-* データのインポートは、API 接続、CSP アップロード、インポート API を使用して実行できます。
-* Oracle DB はサポートされていません。ただし、CSP のアップロードまたは読み込み API を代わりに使用できます。
-* API 使用の制限には、月に 1 回の使用リクエストと、月に約 100,000 件のレコードに相当する約 100 件のレコードリクエストが含まれます。
+* データのインポートは、API接続、CSP アップロード、インポート APIを使用して実行できます。
+* Oracle DBはサポートされていませんが、CSPのアップロードまたはインポート APIは代替手段として使用できます。
+* APIの使用に関する制限には、1か月に1回の使用要求と約100件のレコード要求が含まれます。これは、1か月あたり約100,000件のレコードに相当します。
 
-**Data Sourceの統合**
+**Data Sourceとの統合**
 
 * Adobe Commerce Intelligenceは、Adobe Commerce、SAS、API、データベースなど、複数のデータソースをサポートしています。
-* 様々なAdobe Commerce インスタンスからのデータを 1 つのCommerce Intelligence インスタンスに収束させることができます。
-* Commerce Intelligenceおよびサポートチームが統合を容易にし、ビジネスニーズに応じてインスタンスを設定できます。
+* 様々なAdobe Commerce インスタンスからのデータを1つのCommerce Intelligence インスタンスに集約できます。
+* Commerce Intelligenceとサポート部門は、ビジネスニーズに応じてインスタンスを設定することで、容易に統合を進めることができます。

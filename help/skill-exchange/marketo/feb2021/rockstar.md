@@ -1,22 +1,24 @@
 ---
 title: Adobe [!DNL Marketo Engage]  ロックスターセグメント
-description: 「Rockstar」を導入しているお客様 4 名が、それぞれ最高のヒント  [!DNL Marketo Engage]  コツを提示します。 誰があなたを信じられないほど魅了しますか？
+description: 4人の「Rockstar」のお客様は、それぞれ最高の [!DNL Marketo Engage]  ヒントまたはトリックを提示します。 誰が信じられないほど君を魅了するのか。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9707
 thumbnail: 340311.jpeg
 exl-id: 80120f0f-6a32-4241-91c6-43d4d814f032
 duration: 2281
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Marketo Engage] ロックスター
+# Adobe [!DNL Marketo Engage] Rockstar セグメント
 
-「Rockstar」を使用するお客様 4 名が、最高の [!DNL Marketo Engage] ール・ヒントやコツを提供します。 誰があなたを信じられないほど魅了しますか？
+4人の「Rockstar」のお客様は、それぞれ最高の[!DNL Marketo Engage] ヒントまたはトリックを提示します。 誰が信じられないほど君を魅了するのか。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

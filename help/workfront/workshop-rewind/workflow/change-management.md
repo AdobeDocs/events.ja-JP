@@ -1,22 +1,24 @@
 ---
-title: Workfrontの Change Management
-description: 変更管理が、実践的な戦略とインサイトを使用してWorkfrontのジャーニーを強化する方法を説明します。
+title: Workfrontの変更管理
+description: 変更管理によって、どのようにWorkfrontの活用を促進できるのか、実用的な戦略とインサイトをご確認ください。
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3493
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19757
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 2fd9e67a-1eb3-44ff-9b55-2985511befed
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
+# Workfrontの変更管理
 
-# Workfrontの Change Management
-
-変更管理の原則を適用してWorkfrontのジャーニーを変革する方法について説明します。 抵抗を克服し、採用を促進し、デジタルトランスフォーメーションを成功に導くための戦略的アプローチについて説明します。 このセッションでは、変化を効果的にナビゲートし、チームがエンゲージメントされ、目標が達成されるようにするのに役立つ実用的なインサイトとツールを提供します。
+変更管理の原則を適用することで、Workfrontのジャーニーをどのように変革できるかをご確認ください。 抵抗を克服し、導入を促進し、デジタル変革を成功させるための戦略的アプローチを学びましょう。 このセッションでは、変化を効果的に乗り切るための実践的なインサイトとツールを提供し、チームの意欲を高め、目標を達成するのに役立ちます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477096/?learn=on&enablevpops)

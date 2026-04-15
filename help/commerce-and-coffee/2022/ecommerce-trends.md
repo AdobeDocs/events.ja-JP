@@ -1,7 +1,8 @@
 ---
-title: Commerceとコーヒー – E-Commerce トレンド
-description: このセッションでは、今日の e コマースのトップトレンドの 5 つに焦点を当てます。 トップトレンドに関する戦略と戦術、および実装時のビジネスへの影響について説明します。 次に、Corey はイベントティッカー、カテゴリ権限、B2B 機能などのデモを紹介します。 プレゼンテーションとデモには、Corey とのライブ Q&A が付属しています。
+title: Commerceとコーヒー – E-Commerceトレンド
+description: このセッションでは、今日のコマースの上位5つのトレンドについて解説します。 トップトレンドと、その影響について戦略と戦術を解説します。 続いて、Coreyは、イベントチッカー、カテゴリーパーミッション、B2B機能などのデモを行い、 プレゼンテーションとデモには、Corey氏によるライブ Q&Aが伴います。
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,15 +12,15 @@ kt: 11652
 thumbnail: 3412701.jpeg
 exl-id: 47859ed1-8c50-4866-b710-f2da41ea06bb
 duration: 3705
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-# Commerceとコーヒー – E-Commerce トレンド
+# Commerceとコーヒー – E-Commerceトレンド
 
-このセッションでは、今日の e コマースのトップトレンドの 5 つに焦点を当てます。 トップトレンドに関する戦略と戦術、および実装時のビジネスへの影響について説明します。 次に、Corey はイベントティッカー、カテゴリ権限、B2B 機能などのデモを紹介します。 プレゼンテーションとデモには、Corey とのライブ Q&amp;A が付属しています。
+このセッションでは、今日のコマースの上位5つのトレンドについて解説します。 トップトレンドと、その影響について戦略と戦術を解説します。 続いて、Coreyは、イベントチッカー、カテゴリーパーミッション、B2B機能などのデモを行い、 プレゼンテーションとデモには、Corey氏によるライブ Q&amp;Aが伴います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412701/?quality=12&learn=on)

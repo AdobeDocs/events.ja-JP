@@ -1,7 +1,9 @@
 ---
-title: ライトニングスピード - AdobeEdge Deliveryサービス
-description: APAC Commerce ウェビナーシリーズの 8 月版では、シニアソリューションコンサルタントの Kamalesh Radhakrishnan 氏を歓迎し、Adobe Edge Delivery サービスで Lightning Speed の概要を紹介します。
+title: Lightning Speed - Adobe Edge Delivery Service
+description: APAC Commerce ウェビナーシリーズの8月の記事では、シニアソリューションコンサルタントのKamalesh Radhakrishnan氏を迎え、AdobeのEdge Delivery ServiceとLightning Speedの概要を共有します。誰もがAIを活用したコンテンツ制作と検証を行い、優れたデジタルエクスペリエンスを迅速に提供できるようになります。
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Integrations, Performance, Commerce
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,58 +11,58 @@ duration: 2650
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16131
 exl-id: dbdda6ae-335c-45db-8090-62eaf0385ad7
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-# Lightning Speed:AdobeEdge Deliveryサービス
+# 超高速：AdobeのEdge Deliveryサービス
 
-APACCommerceウェビナーシリーズの 8 月版では、シニアソリューションコンサルタントの Kamalesh Radhakrishnan 氏を歓迎し、AdobeのEdge Deliveryサービスと Lightning Speed の概要について説明します。
+APAC Commerce ウェビナーシリーズの8月のリリースでは、シニアソリューションコンサルタントのKamalesh Radhakrishnan氏を迎え、Lightning Speedの概要をAdobeのEdge Delivery サービスと共有します。
 
-AI と実験を使用してコンテンツを作成し、優れたデジタルエクスペリエンスを超高速で提供する権限を全員に与えます。
+AIを利用したテストにより、誰もがコンテンツを制作し、優れたデジタルエクスペリエンスを迅速に提供できるようになります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433274/?learn=on)
 
 ## ウェビナーの概要
 
-このウェビナーでは、AdobeのEdge Delivery Servicesと、Adobe Commerce ユーザーにとってのメリットに焦点を当てました。 AdobeのEdge Delivery Servicesには、Commerce ユーザーに対して次のような主なメリットがあります。
+このウェビナーでは、AdobeのEdge Delivery Servicesと、そのAdobe Commerceユーザーにとってのメリットに焦点を当てました。 AdobeのEdge Delivery Servicesは、Commerceユーザーにとって重要な利点がいくつかあり，
 
-### 速度とパフォーマンスの向上
+### スピードとパフォーマンスの向上
 
-Google Lighthouse の完璧なスコア 100 を約束し、読み込み時間の短縮とユーザーエンゲージメントの向上を実現します。
-サイトのパフォーマンスが向上し、コンバージョン率の増加とバウンス率の低下につながる可能性があります。&#x200B;
+Google Lighthouse スコアが100であることを保証し、コンテンツの読み込み時間を短縮して、オーディエンスのエンゲージメントを向上させます。
+サイトパフォーマンスを向上させることで、コンバージョン率を高め、直帰率を減らすことができます。 &#x200B;
 
-### 合理化されたコンテンツ作成
+### コンテンツ制作の合理化
 
-Google Docsや Excel などの使い慣れたツールを使用したコンテンツ作成が可能になり、すべてのチームメンバーがアクセスできるようになります。
+Google DocsやExcelなどの使い慣れたツールを使用して、コンテンツを制作できるため、チームメンバー全員がアクセスできます。
 コンテンツの更新と公開のプロセスを簡素化し、必要な時間と労力を削減します。
 
-### 効果的なエクスペリエンス
+### 影響力の高い体験
 
-顧客の期待に応える、魅力的で最適化された web エクスペリエンスの作成を可能にします。
-は、API ベースのアプローチを通じて、様々なコンテンツブロックと e コマース機能の統合をサポートしています。&#x200B;
+顧客の期待に応える、魅力的で最適化されたweb エクスペリエンスを構築できる。
+API ベースのアプローチにより、様々なコンテンツブロックやe コマース機能の統合をサポートします。 &#x200B;
 
 ### 実験と最適化
 
-A/B テストおよび実験用のツールを提供し、企業がデータ駆動型のインサイトに基づいてユーザーエクスペリエンスを最適化できるようにします。
-Real User Monitoring （RUM）は、ユーザーがサイトとやり取りする方法に関する詳細なフィードバックを提供し、パフォーマンスの問題の特定と対処に役立ちます。&#x200B;
+A/B テストと検証のためのツールを提供し、データ主導のインサイトにもとづいてユーザーエクスペリエンスを最適化できます。
+リアルユーザーモニタリング（RUM）は、利用者がサイトとどのようにやり取りしているのかに関する詳細なフィードバックを提供し、パフォーマンス上の課題を特定し、対処するのに役立ちます。 &#x200B;
 
-### 迅速な開発
+### 迅速な制作
 
-従来の線形開発からコンテンツファーストのアプローチに移行し、市場投入までの時間を短縮
-基本的な Web 開発スキル（CSS およびJavaScript）を活用しているので、開発者の検索とトレーニングが容易になります。&#x200B;
+従来の直線的な開発から、コンテンツファーストのアプローチに移行することで、市場投入までの時間を短縮できます。
+web開発の基礎的なスキル（CSSおよびJavaScript）を活用して、開発者の検索とトレーニングを容易にします。 &#x200B;
 
-### SEO とオーガニックトラフィックの強化
+### SEOとオーガニックトラフィックの向上
 
-サイトのパフォーマンスと読み込み時間が短縮され、検索エンジンの最適化（SEO）が向上しました。&#x200B;
-Google Lighthouse のスコアが高いほど、オーガニックトラフィックが増加し、検索エンジンのインデックスが改善される可能性があります。&#x200B;
+サイトのパフォーマンスと読み込み時間の短縮により、検索エンジン最適化（SEO）が向上します。 &#x200B;
+Google Lighthouseのスコアが高いほど、オーガニックトラフィックが増加し、検索エンジンのインデックス作成が向上します。 &#x200B;
 
 ### 柔軟性と拡張性
 
-は、様々なサードパーティ製のツールやプラットフォームとの統合をサポートしており、コンテンツの管理と配信を柔軟に行えます。&#x200B;
-多数の SKU と複雑な e コマース設定を処理できる拡張性。
+様々なサードパーティツールやプラットフォームとの統合をサポートし、コンテンツの管理と配信に柔軟性を提供します。 &#x200B;
+大量のSKUや複雑なe コマース設定に対応できる拡張性。
 
-全体的に、AdobeのEdge Delivery Servicesは、e コマース web サイトのスピード、パフォーマンス、ユーザーエクスペリエンスを向上させ、コンバージョン率とビジネスの成長を促進することを目指しています。
+全体として、AdobeのEdge Delivery Servicesは、コマースサイトのスピード、パフォーマンス、ユーザーエクスペリエンスを向上させ、コンバージョン率とビジネスの成長を促進することを目指しています。

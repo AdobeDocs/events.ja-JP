@@ -1,29 +1,31 @@
 ---
-title: Marketoと Mocha – 継承されたインスタンスまたは現在のインスタンスの監査
-description: Marketo インスタンスを継承しましたか、または監査しますか？ Adobe アドバイザーの Cynthia Chang と Carly Gaver が、Marketo Engageの監査と最適化のための 5 つの主な手順を説明します。
+title: MarketoとMochas – 継承または現在のインスタンスの監査
+description: Marketo インスタンスを継承しましたか、それとも監査しますか？ AdobeアドバイザーのCynthia Chang氏とCarly Gaver氏が、Marketo Engageを監査および最適化するための5つの重要なステップについて解説します。
+feature: Programs, Reporting
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3956
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18155
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 66d45044-86a0-4cd8-bbdd-7d04cebf6c8f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 31%
+ht-degree: 32%
 
 ---
 
+# MarketoとMochas：継承または現在のインスタンスの監査
 
-# Marketoと Mocha：継承されたインスタンスまたは現在のインスタンスの監査
+最近、Marketo インスタンスを継承しましたか？ または、現在のインスタンスの可能性を最大限に高めるために、定期的な監査を実施したいとお考えですか？ Adobe ビジネスアドバイザーの Cynthia Chang と Carly Gaver が、インスタンスの現状を把握するための詳細な監査の実行方法を中心に解説する、Marketo &amp; Mochas ウェビナーにご参加ください。 このセッションでは、テクノロジーのセットアップとガバナンス、データ、メールの配信品質など、新しいインスタンスを迅速に立ち上げたり、現在のインスタンスを改善したりするのに役立ちます。
 
-最近、Marketo インスタンスを継承しましたか？ または、現在のインスタンスの可能性を最大限に高めるために、定期的な監査を実施したいとお考えですか？Adobe ビジネスアドバイザーの Cynthia Chang と Carly Gaver が、インスタンスの現状を把握するための詳細な監査の実行方法を中心に解説する、Marketo &amp; Mochas ウェビナーにご参加ください。技術のセットアップとガバナンスからデータとメールの配信品質まで、このセッションは、新しいインスタンスの準備を進めたり、現在のインスタンスを改善したりするのに役立ちます。
-
-Marketo Engage インスタンスを継承する際に、Cynthia と Carly が踏み込む 5 つの主な手順は次のとおりです。
+CynthiaとCarlyがMarketo Engage インスタンスを継承する際に行う5つの重要な手順は次のとおりです。
 
 - イネーブルメント
 - ドキュメントのチェックリスト
-- 内部整合性
+- 内部調整
 - インスタンス監査
 - 次のステップの優先順位付け
 

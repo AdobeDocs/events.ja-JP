@@ -1,25 +1,26 @@
 ---
-title: よりパーソナライズされた顧客体験をリアルタイムで提供
-description: Adobe TargetとAdobe Real-time Customer Data Platformを統合すると、よりパーソナライズされたカスタマーエクスペリエンスを提供できます。 このライブストリームイベントでは、これら 2 つのプラットフォームの統合が、企業がリアルタイムでデータを収集し、ターゲットを絞ったエクスペリエンスを作成およびテストするのにどのように役立つかを確認します。 この強力な機能のエンドツーエンドのプロセスをライブデモでご覧ください。
+title: よりパーソナライズされた顧客体験をリアルタイムで提供する
+description: Adobe TargetとAdobe Real-Time CDPを統合することで、よりパーソナライズされた顧客体験を提供することができます。 これらのAdobe Experience Manager製品を統合することで、データをリアルタイムで収集し、ターゲティングされたエクスペリエンスを構築およびテストできます。その方法をご確認ください。 この強力な機能のエンドツーエンドのプロセスをライブデモでご覧ください。
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
+topic: Personalization, Integrations
 kt: 11004
 event-start-time: 2022-09-20 09:00-7
 event-guests: Gina Casagrande,Brent Kostak
 exl-id: e14bea3f-e770-4780-9f51-8bd97456fb68
 duration: 3694
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 1%
+source-wordcount: '165'
+ht-degree: 27%
 
 ---
 
-# よりパーソナライズされた顧客体験をリアルタイムで提供
+# よりパーソナライズされた顧客体験をリアルタイムで提供する
 
-Adobe TargetとAdobe Real-time Customer Data Platformを統合すると、よりパーソナライズされたカスタマーエクスペリエンスを提供できます。 このライブストリームイベントでは、これら 2 つのプラットフォームの統合が、企業がリアルタイムでデータを収集し、ターゲットを絞ったエクスペリエンスを作成およびテストするのにどのように役立つかを確認します。 この強力な機能のエンドツーエンドのプロセスをライブデモでご覧ください。
+Adobe TargetとAdobe Real-Time CDPを統合することで、よりパーソナライズされた顧客体験を提供することができます。 これらのAdobe Experience Manager製品を統合することで、データをリアルタイムで収集し、ターゲティングされたエクスペリエンスを構築およびテストできます。その方法をご確認ください。 この強力な機能のエンドツーエンドのプロセスをライブデモでご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-[Edgeのセグメント化 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ja) と [&#x200B; ストリーミングセグメント化 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja) について詳しくは、ドキュメントを参照してください。
+[Edge セグメンテーション ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ja)および[ ストリーミングセグメンテーション ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja)について詳しくは、ドキュメントを参照してください。
 

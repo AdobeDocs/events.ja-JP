@@ -1,7 +1,9 @@
 ---
-title: MarketoのAdobe Admin Consoleへの移行 – （移行前）
-description: Adobeは、ユーザー管理を向上させるために、Marketo EngageをAdmin Consoleに移行しています。 自動および自己移行のタイプ、前提条件、移行後の変更、ベストプラクティス、一般的な落とし穴、サポートについて説明します。 AdobeのExperience League web サイトでセッションの録画にアクセスします。
+title: Adobe Admin ConsoleへのMarketoの移行 – （移行前）
+description: Adobeでは、ユーザー管理を改善するためにMarketo EngageをAdmin Consoleに移行しています。 自動および自己移行の種類、前提条件、移行後の変更、ベストプラクティス、一般的な落とし穴、サポートについて説明します。 AdobeのExperience League web サイトのセッション録画にアクセスします。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,68 +11,68 @@ duration: 2280
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17483
 exl-id: 9c3da83f-9e02-4a2e-9784-10213facf056
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
-# MarketoのAdobe Admin Consoleへの移行 – 事前移行
+# Adobe Admin ConsoleへのMarketoの移行 – 移行前
 
-Adobe エキスパートとのシームレスなMarketo移行にご参加ください。
+Adobeの専門家によるシームレスなMarketoへの移行にご参加ください。
 
-この有益なウェビナーで、Adobeのカスタマーエクスペリエンス &amp; ID チームと共に、Marketoへの移行に先立ってください。 Adobe Admin Consoleへのスムーズな移行を実現するための重要な手順、ベストプラクティス、一般的な課題について説明します。
+このウェビナーでは、Adobe Customer Experience &amp; Identity Teamを利用して、Marketoへの移行に先手を打つことができます。 Adobe Admin Consoleへのスムーズな移行を実現するための主要なステップ、ベストプラクティス、一般的な課題について説明します。
 
-学習内容
+学習すること，
 
-* 事前移行プロセスの段階的なロードマップ
+* 移行前プロセスのステップバイステップ形式のロードマップ
 * 移行を簡素化し、落とし穴を回避するためのベストプラクティス
-* 移行に関するよくある懸念に対するエキスパートの回答
+* 移行に関する一般的な懸念に対する専門家の回答
 
-移行を開始する場合でも、最終的な手順に向けて準備する場合でも、このセッションでは、自信を持ってプロセスを進めるための知識とツールを身に付けることができます。 Marketoの移行をシームレスに進めるこのチャンスをお見逃しなく。
+移行を始めたばかりでも、最後のステップに向けて準備しているだけでも、このセッションでは、プロセスを確実に進めるための知識とツールを提供します。 Marketoへの移行をシームレスにするために、このチャンスをお見逃しなく！
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449712/?learn=on&enablevpops)
 
-## 重要ポイント
+## 重要な留意点
 
 ### 移行の目的と概要
 
-Adobeでは、Marketo EngageをAdmin Consoleに移行して、すべての製品を 1 つのハブに統合し、ユーザー管理とアクセスを向上させています。  Admin Consoleは、Adobe製品、ユーザーの役割、権限、サポートアクセスを管理する中央ハブとして機能します。 Marketo Engageにアクセスするための URL が、Adobe Experience Cloud Platform に変わります。
+Adobeでは、Marketo EngageをAdmin Consoleに移行し、すべての製品を1つのハブに統合することで、ユーザーの管理とアクセスを改善しています。  Admin Consoleは、Adobe製品、ユーザーの役割、権限、サポートアクセスを管理する中央ハブとして機能します。 MARKETO ENGAGEにアクセスするためのURLは、AdobeのExperience Cloud プラットフォームに変更されます。
 
 ### 移行タイプ
 
-* **自動移行** ユーザー数が 75 未満で、SSL を設定していない組織の場合。 Adobeが移行を処理します。
-* **セルフ移行**:SSL を設定している組織の場合。 管理者は、移行コンソールを使用して移行プロセスを管理します。
+* **自動移行** ユーザー数が75人未満で、SSL設定がない組織の場合。 Adobeが移行を処理します。
+* **自己移行** SSL設定を持つ組織の場合。 管理者は、移行コンソールを使用して移行プロセスを管理します。
 
 ### 移行の前提条件
 
-* システム管理者は、同意メールを完了する必要があります。
-* SSL は、（Marketo インスタンスではなく）Admin Consoleで設定する必要があります。
+* システム管理者は同意メールに入力する必要があります。
+* SSLは、（Marketo インスタンスではなく）Admin Consoleで設定する必要があります。
 
 ### 移行後の変更
 
-* ユーザーは、Adobe IDまたは Federated ID （SSL）を使用してログインします。
+* ユーザーは、Adobe IDまたはFederated ID （SSL）を使用してログインします。
 * 管理者の役割と権限によって、Admin Consoleのアクセスレベルが決まります。
 
 ### ベストプラクティス
 
-* 移行前に、ユーザーの E メールを確認し、ロックアウトされているアカウントを解決してください。
+* 移行前にユーザーの電子メールを確認し、ロックアウトされたアカウントを解決します。
 * 適切な管理者ロールが割り当てられていることを確認します。
-* 広告ブロッカーを無効にするか、匿名モードを使用して、ログインの問題を回避します。
+* 広告ブロッカーを無効にするか、シークレットモードを使用してログインの問題を回避します。
 
-### よくある落とし穴
+### 陥りやすい失敗
 
-* 管理者権限が正しくないと、アクセスが制限される可能性があります。
-* ブラウザー拡張機能と広告ブロッカーが、アクセスを妨げる可能性があります。
-* IP の許可リストへの登録は、Admin Consoleではまだサポートされていませんが、現在開発中です。
+* 管理者の権限が正しくないと、アクセスが制限される場合があります。
+* ブラウザーの拡張機能や広告ブロッカーがアクセスを妨げる場合があります。
+* IP ホワイトリスト登録は、Admin Consoleではまだサポートされていませんが、現在開発中です。
 
 ### 機能への影響
 
-* 自動メール、API ユーザーおよび Munchkin コードは、移行の影響を受けません。
-* 移行は、主にユーザー認証と管理に影響を与えます。
+* 自動化されたメール、API ユーザー、およびmunchkin コードは、移行の影響を受けません。
+* 移行は、主にユーザーの認証と管理に影響します。
 
 ### サポート
 
-* 問題が発生した場合は、Adobe カスタマーケアでサポートケースをオープンしてください。
-* 迅速な解決を実現するために、サポートケースに IMS 組織 ID を含めます。
+* 問題が発生したユーザーは、Adobe カスタマーケアでサポートケースを開く必要があります。
+* 迅速な解決のために、サポートケースにIMS組織IDを含めます。

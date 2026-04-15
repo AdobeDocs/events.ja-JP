@@ -1,30 +1,32 @@
 ---
-title: Experience Makers スポットライトのトラッキング
-description: 世界の大手ブランドが自分の仕事をどのように管理しているかを知りたいと思ったことはありませんか？
+title: Track Experience Makersの見どころ
+description: 世界有数のブランドが自社の業務をどのように管理しているのか、現状を確認したいと思ったことはありますか？
 solution: Workfront
+feature: Reports and Dashboards
+topic: Performance
 role: User
 level: Beginner
 kt: 10312
 thumbnail: 342521.jpeg
 exl-id: 352cbded-40d0-462d-960a-0abd93747de3
 duration: 2739
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-# 学習トラック - Experience Makers Spotlight
+# ラーニングトラック - Experience Makersの見どころ
 
-世界の大手ブランドが自分の仕事をどのように管理しているかを知りたいと思ったことはありませんか？
+世界有数のブランドが自社の業務をどのように管理しているのか、現状を確認したいと思ったことはありますか？
 
-Experience Makers Spotlight セッションに参加して、3 つの非常に異なる組織からWorkfrontの使用方法について聞いてください。 彼らは彼らの旅について話し、ボーナスとして、私たちのプレゼンターのそれぞれは、彼らの最高の作品を共有します「私が知っていたことを望む」 アドバイス。
+アドビのExperience Makers スポットライトセッションでは、3つの団体によるWorkfrontの活用方法について解説します。 彼らは彼らの旅について話すでしょう、そして、ボーナスとして、私たちのプレゼンターのそれぞれが「私が知っていたらよかった」アドバイスの彼らの最高の部分を共有します。
 
-聞こえるであろう：
+主な内容：
 
-* Esri がレポートを活用してユーザーエクスペリエンスを改善し、マーケティング KPI を測定する方法
-* Workfrontのパイロットを組織全体の大規模なロールアウトに変えたキャピタルワン内のスクラップチームから学んだ教訓
-* 3 つの方法 – マーケティング以外！  – その内陸帝国ヘルスプランはWorkfrontを使用します
+* Esri、レポートを活用してユーザーエクスペリエンスを向上させ、マーケティング KPIを測定
+* Workfrontの試験導入を、組織全体での大規模な展開に成功させたCapital Oneのスクラップチームの教訓から学びました
+* マーケティング以外の3つの方法！ - インランド・エンパイア・ヘルス・プランがWorkfrontを利用していること
 
 >[!VIDEO](https://video.tv.adobe.com/v/342521/?quality=12&learn=on)

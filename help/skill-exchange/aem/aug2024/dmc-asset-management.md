@@ -1,31 +1,33 @@
 ---
-title: スケーリング効率 – 大量のクリエイティブ Assetsに対するAdobe Dynamic Media Classicの活用
-description: ワークフローを変革し、手動の労力を大幅に削減し、必要なガイドラインに正確に準拠する方法について説明します。##重要ポイント Adobe Dynamic Media Classicを活用して広告テンプレートを作成し、市場投入までのスピードを加速Adobeのソリューションをクライアントデータと独自のアプリケーションと統合して、シームレスでスケーラブルなワークフローを構築します
+title: 効率性の向上 – 大量のCreative AssetsにAdobe Dynamic Media Classicを活用
+description: ワークフローをどのように変革し、手作業を大幅に削減し、必要なガイドラインを正確に遵守しているかを説明します。## Adobe Dynamic Media Classicを使用して広告テンプレートを作成し、市場投入を高速化する主なポイントAdobeのソリューションとクライアントデータおよび独自のアプリケーションを統合し、シームレスでスケーラブルなワークフローを構築する品質管理のベストプラクティスを紹介します
 solution: Dynamic Media Classic
+feature: Dynamic Media Classic
+topic: Integrations, Performance
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2118
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16094
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 3cbeb1e3-08c2-4108-979b-bb2e8f81b4d4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
+# 効率の向上：大量のCreative AssetsにAdobe Dynamic Media Classicを活用する
 
-# スケーリング効率：大量のクリエイティブ Assetsに対するAdobe Dynamic Media Classicの活用
+今日の変化の激しい広告業界では、高品質で大量の広告アセットの需要に対応することは、困難な課題です。 Adobe Dynamic Media Classicと連携し、クリエイティブの制作プロセスを合理化および拡張して、オンデマンドで数千ものカスタマイズされたグラフィックを効率的に作成できます。
 
-今日の急速なペースの広告業界では、高品質で大量の広告アセットの需要に追いつくことは、大変な課題になる可能性があります。 Adobe Dynamic Media Classicの機能を活用してクリエイティブな制作プロセスを合理化および拡張することで、何千ものカスタマイズされたグラフィックをオンデマンドで効率的に生成できます。
-
-Stream Companies の Creative Innovation のDirectorである Corinne Preston が、ワークフローがどのように変わり、手動の労力を大幅に削減し、必要なガイドラインに正確に準拠しているかについて説明します。
+Stream CompaniesのCreativeイノベーション担当ディレクターであるCorinne Preston氏が、チームがワークフローをどのように変革し、手作業を大幅に削減して、必要なガイドラインを正確に遵守しているかを解説します。
 
 ## 重要な留意点
 
-* Adobe Dynamic Media Classicを使用した広告テンプレートの作成による市場投入の迅速化
-* Adobeのソリューションをクライアントデータおよび独自のアプリケーションと統合して、シームレスでスケーラブルなワークフローを作成
-* 品質管理のベストプラクティス。すべてのアセットが業界標準を満たし、独自のクリエイティブをクライアントから期待されていることを確認します。
+* Adobe Dynamic Media Classicを使用した広告テンプレートの作成により、市場投入までの時間を短縮
+* Adobeのソリューションを、クライアントデータや自社アプリケーションと統合し、シームレスでスケーラブルなワークフローを実現します
+* 品質管理のベストプラクティス。あらゆるアセットが業界標準と顧客の期待に応え、独自のクリエイティブを生み出すことを保証します
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433167/?learn=on)

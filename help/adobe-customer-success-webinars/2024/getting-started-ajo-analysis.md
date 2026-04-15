@@ -1,33 +1,35 @@
 ---
-title: Customer Journey AnalyticsでのAdobe Journey Optimizer Analysis の概要
-description: このセッションは、Customer Journey AnalyticsとAdobe Journey Optimizerが連携して複数のAdobe Journey Optimizer キャンペーンおよびジャーニーの測定を効率化する方法を実演することを目的としています。
+title: Customer Journey AnalyticsでのAdobe Journey Optimizer Analysisの概要
+description: このセッションでは、Customer Journey AnalyticsとAdobe Journey Optimizerが連携して、複数のAdobe Journey Optimizer キャンペーンとジャーニーの測定を効率化する方法を示すことを目的としています。
 solution: Customer Journey Analytics, Journey Optimizer
+feature: Integrations, Journeys
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3218
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16031
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+exl-id: 5cdd8fe0-32e5-4799-9695-73f37c80917c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
+# Customer Journey AnalyticsでのAdobe Journey Optimizer Analysisの概要
 
-# Customer Journey AnalyticsでのAdobe Journey Optimizer Analysis の概要
-
-このセッションは、Customer Journey AnalyticsとAdobe Journey Optimizerが連携して複数のAdobe Journey Optimizer キャンペーンおよびジャーニーの測定を効率化する方法を実演することを目的としています。
+このセッションでは、Customer Journey AnalyticsとAdobe Journey Optimizerが連携して、複数のAdobe Journey Optimizer キャンペーンとジャーニーの測定を効率化する方法を示すことを目的としています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432996/?learn=on)
 
-このウェビナーでは、Adobe Journey Optimizer Analytics での Agile Analytics の統合と機能について説明し、これらのツールを一緒に使用することの価値とメリットを理解し、より深い分析とインサイトを得られるようにします。
+このウェビナーでは、Adobe Journey Optimizer Analyticsにアジャイル分析を統合する方法と、その利点を解説します。
 
-## 重要ポイント
+## 重要な留意点
 
-* Agile Analytics とAdobe Journey Optimizer Analytics の統合により、様々なソースのデータを組み合わせて、より有意義な指標を生成することで、より深い分析とインサイトを得ることができます。
+* Adobe Agile AnalyticsとAdobe Journey Optimizer Analyticsを統合することで、さまざまなソースから収集したデータを組み合わせて、より有意義な指標を生成し、より詳細な分析とインサイトを獲得できます。
 
-* Adobe Journey Optimizerのタグとカテゴリをジャーニーとキャンペーンに適用すると、それらを効果的にフィルタリングしてグループ化でき、様々な条件に基づいてパフォーマンスを分析および測定する方法を提供できます。
+* Adobe Journey Optimizerのタグとカテゴリーをジャーニーやキャンペーンに適用し、効果的にフィルタリングおよびグループ化することで、さまざまな基準にもとづいてパフォーマンスを分析および測定できます。
 
-* Adobe Journey Optimizer Analytics でアジャイルデータを活用するための設定および設定プロセスには、接続、データビュー、指標の作成が含まれます。これは、ユーザーがデータにアクセスして効果的に利用できるようにするために、管理者が 1 回限りで行うことができます。
+* Adobe Journey Optimizer Analyticsでアジャイルデータを活用するための設定と設定プロセスでは、接続、データビュー、指標を作成します。このプロセスは、管理者がデータに効果的にアクセスして活用できるように、1回限りの労力で実施することができます。

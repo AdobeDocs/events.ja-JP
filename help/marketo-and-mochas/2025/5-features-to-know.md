@@ -1,6 +1,8 @@
 ---
-title: Marketoと Mocha - 2025 年に知っておくべき 5 つのMarketoの機能
-description: Marketo Engageのエキスパートであるカーリー・ガーバーとケイト・コルバートによる、今年の初めてのMarketo&モカス セッションをご覧ください。 Carly と Kate は、2025 年のカスタマーエクスペリエンスを向上させ、需要を促進するのに役立つ、Marketo パッケージの 5 つの機能豊富な機能を調べました。 Marketo プラットフォームの可能性を最大限に引き出しましょう。
+title: MarketoとMochas - 2025年に知っておくべき5つのMarketo機能
+description: アドビとMarketo EngageのエキスパートであるCarly Gaver氏とKate Colbert氏による初のMarketoとMochasのセッションをご覧ください。 Carly氏とKate氏は、2025年に顧客体験の向上と需要の喚起に役立つ、5つ以上の機能豊富な機能をMarketoパッケージに組み込みました。 Marketoプラットフォームの可能性を最大限に引き出しましょう。
+feature: Reporting
+topic: Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,91 +10,90 @@ duration: 3382
 last-substantial-update: 2025-02-13T00:00:00Z
 jira: KT-17272
 exl-id: d536d724-9a25-47ae-9a60-c29861359e0b
-source-git-commit: bca10c328d4118782de5fd6d63b8b32861cd5155
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '553'
 ht-degree: 2%
 
 ---
 
+# MarketoとMochas:2025年にMarketoが備えるべき5つの機能
 
-# Marketoと Mocha:2025 年に知っておくべき 5 つのMarketoの機能
-
-Marketo Engageのエキスパートであるカーリー・ガーバーとケイト・コルバートによる、今年の初めてのMarketo&amp;モカス セッションをご覧ください。 Carly と Kate は、2025 年のカスタマーエクスペリエンスを向上させ、需要を促進するのに役立つ、Marketo パッケージの 5 つの機能豊富な機能を調べました。 Marketo プラットフォームの可能性を最大限に引き出しましょう。
+アドビとMarketo EngageのエキスパートであるCarly Gaver氏とKate Colbert氏による初のMarketoとMochasのセッションをご覧ください。 Carly氏とKate氏は、2025年に顧客体験の向上と需要の喚起に役立つ、5つ以上の機能豊富な機能をMarketoパッケージに組み込みました。 Marketoプラットフォームの可能性を最大限に引き出しましょう。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444165/?learn=on&enablevpops)
 
-*プレゼンター：カーリーエイバーとケイト・コバーン*
+*プレゼンター：Carly AberとKate Coburn。*
 
-## 参照先のリンクとダウンロード
+## 参照リンクとダウンロード
 
 * **配布資料**
-   * [2025 年に知っておくべき 5 つの機能](../assets/marketo-&-mochas-5-features-handout.pdf)
+   * [2025年に知っておくべき5つの機能](../assets/marketo-&-mochas-5-features-handout.pdf)
 
-* **Target アカウント管理**
-   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
-   * [FAQ](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
-   * [&#x200B; ヒントとコツのビデオ &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
+* **ターゲットアカウント管理**
+   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [よくある質問](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
+   * [ヒントとテクニック ビデオ](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
-* **Predictive Audiences**
-   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
-   * [使用例](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
+* **予測オーディエンス**
+   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [ユースケース](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **高度なジャーニー分析**
-   * [&#x200B; レポートの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [&#x200B; ライフサイクルModelerの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [レポートの概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Lifecyle Modelerの概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **サンドボックス**
-   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **ワークスペースとパーティション**
-   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
-## 重要ポイント
+## 重要な留意点
 
 ### セッション構造
 
-* 最後に Q&amp;A を含むインタラクティブウェビナー。
-* 録画は後で見ることができます。
+* 最後にQ&amp;A付きのインタラクティブウェビナーを行います。
+* 録画は後で視聴できます。
 * リソースリンクと今後のイベントを含む配布資料。
 
-### 説明された機能
+### 機能について説明しました
 
-**Target アカウント管理（TAM）**
+**ターゲットアカウント管理（TAM）**
 
-* Account-Based Marketing（ABM）用のツールです。
-* パーソナライズされたジャーニーで価値の高いアカウントのターゲティングを可能にします。
-* 指定されたアカウント、アカウントリスト、ABM フィルターおよびトリガーなどの機能が含まれます。
-* ベストプラクティス：意図的に、セールスとの共同作業、指定アカウントの数を制限します。
+* Adobe Account-Based Marketing製品（ABM）:
+* パーソナライズされたジャーニーで価値の高いアカウントをターゲティング。
+* 名前付きアカウント、アカウントリスト、ABM フィルターやトリガーなどの機能が含まれています。
+* ベストプラクティス：意図的に、営業部門との共同作業を行い、名前付きアカウントの数を制限します。
 
-**Predictive Audiences**
+**予測オーディエンス**
 
-* は、オーディエンスのセグメント化に AI と機械学習を使用します。
-* 予測フィルター（出席、登録、登録解除の可能性）と類似フィルターが含まれます。
-* 制限：トリガーキャンペーン、クローン作成/移動制限、入力制限には使用できません。
-* ベストプラクティス：データ品質と完全性を確保する。
+* AI （人工知能）とマシンラーニング（機械学習）を利用したオーディエンスのセグメンテーション：
+* 予測フィルター（参加、登録、登録解除の可能性）と類似フィルターが含まれます。
+* 制限事項：トリガー施策、複製/移動の制限、入力制限では利用できません。
+* ベストプラクティス：データ品質と完全性を確保します。
 
 **高度なジャーニー分析（AJA）**
 
-* カスタマージャーニーマッピングとライフサイクルモデリングを提供します。
-* オポチュニティ影響分析と成功パス分析が含まれます。
-* ベストプラクティス：営業との共同作業、ステージ移行のための運用プログラムの使用、CRM とのライフサイクルステータスの同期。
+* カスタマージャーニーのマッピングとライフサイクルモデリングを提供します。
+* 商談インフルエンスアナライザーとサクセスパスアナライザーが含まれます。
+* ベストプラクティス：営業部門との連携、ステージ移行での運用プログラムの使用、ライフサイクルステータスのCRMとの同期
 
 **ワークスペースとパーティション**
 
-* ワークスペースは作業を分割し、パーティションはデータを分割します。
-* 設定するビジネス上の強い理由を持つことが重要です。
-* ベストプラクティス：シンプルにし、ビジネス要件を把握します。
+* ワークスペースは作業を分離し、パーティションはデータを分離します。
+* 設定する強力なビジネス上の理由があることが重要です。
+* ベストプラクティス：シンプルなデザインを維持し、ビジネス要件を把握します。
 
 **サンドボックスインスタンス**
 
-* 開発およびテスト用の追加インスタンス。
+* 開発とテストのための追加インスタンス。
 * ミラーインスタンスではありません。空で開始します。
-* 一般的なユースケース：テスト、トレーニング、インスタンスの安定性、コンプライアンス。
-* ベストプラクティス：制限事項と統合要件について。
+* 一般的なユースケース：テスト、トレーニング、インスタンスの安定性、コンプライアンス
+* ベストプラクティス：制限事項と統合要件を理解する。
 
-### Q&amp;A ハイライト
+### Q&amp;Aのハイライト
 
-* パッケージアップグレードまたは個別のアドオンとして使用可能な機能。
-* ワークスペースおよびパーティションのビジネス要件の理解の重要性。
-* トリガースマートキャンペーンを減らし、バッチキャンペーンを活用するためのベストプラクティスです。
+* 機能は、パッケージアップグレードまたは個別のアドオンとして利用できます。
+* ワークスペースとパーティションのビジネス要件を理解する重要性。
+* トリガースマートキャンペーンを減らし、バッチキャンペーンを活用するためのベストプラクティスを紹介します。

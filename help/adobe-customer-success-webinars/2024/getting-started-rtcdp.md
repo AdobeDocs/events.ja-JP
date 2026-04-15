@@ -1,23 +1,25 @@
 ---
-title: Real-time Customer Data Platform – はじめに
-description: Real-Time CDPを使用して、様々なデータソースを統合し、包括的なカスタマープロファイルを作成して、様々なチャネルにわたってアクティブ化する方法を説明します。 より効果的なカスタマージャーニーを作成するのに役立つ、RTCDP の機能とベストプラクティスについて説明し​ます。
+title: Real-Time Customer Data Platform – はじめに
+description: Real-Time CDPが、異なるデータソースを統合し、包括的な顧客プロファイルを構築し、チャネルをまたいで活用する方法をご確認ください。 より効果的なカスタマージャーニーを構築するためのRTCDPの機能とベストプラクティスについてご確認ください​。
 solution: Real-Time Customer Data Platform
+feature: Profiles
+topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3496
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16110
-source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
+exl-id: d6480628-37fd-425e-bdd2-8553ef9a85de
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
+# Real-Time Customer Data Platform：はじめに
 
-# Real-time Customer Data Platform：はじめに
-
-Real-Time CDPを使用して、様々なデータソースを統合し、包括的なカスタマープロファイルを作成して、様々なチャネルにわたってアクティブ化する方法を説明します。 より効果的なカスタマージャーニーを作成するのに役立つ、RTCDP の機能とベストプラクティスについて説明し&#x200B;ます。
+Real-Time CDPが、異なるデータソースを統合し、包括的な顧客プロファイルを構築し、チャネルをまたいで活用する方法をご確認ください。 より効果的なカスタマージャーニーを構築するためのRTCDPの機能とベストプラクティスについてご確認ください&#x200B;。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433224/?learn=on)

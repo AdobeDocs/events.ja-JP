@@ -1,22 +1,24 @@
 ---
-title: AEM Sitesの最新配信モデル
-description: AEM Sitesの最新の配信モデルを紹介し、拡張性と機敏性に優れたコンテンツ配信および最適化されたオーサリングエクスペリエンスを確保します。
+title: AEM Sitesの最新の配信モデル
+description: AEM Sitesの最新の配信モデルを確認し、スケーラブルでアジャイルなコンテンツ配信と最適化されたオーサリング体験を実現しましょう。
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
+topic: Headless
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2175
 last-substantial-update: 2026-01-14T00:00:00Z
 jira: KT-20077
-source-git-commit: 3adfd7af432caffaf2142c5a97b9a4c5279ee483
+exl-id: b7930764-2b47-48a1-b3f6-27c0f935e3d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# AEM Sitesの最新の配信モデル
 
-# AEM Sitesの最新配信モデル
+今日のデジタル世界では、チャネルや地域をまたいでパフォーマンスの高いエクスペリエンスを提供することが重要です。 企業がスピードと柔軟性を高めるために、モダンな配信モデルを採用している理由をご確認ください。 ヘッドフル配信、ヘッドレス配信、ハイブリッド配信、エッジ配信サービスの違いについて説明します。 コアコンポーネントとローカライゼーションフレームワークが、マルチブランドおよびマルチリージョン戦略をどのようにサポートしているかをご確認ください。
 
-今日のデジタル世界では、チャネルや地域をまたいでパフォーマンスの高いエクスペリエンスを提供することが重要です。 組織がスピードと柔軟性を高めるために最新の配信モデルを採用している理由を説明します。 ヘッドフル、ヘッドレス、ハイブリッドおよびエッジ配信サービスの違いについて説明します。 コアコンポーネントとローカリゼーションフレームワークがマルチブランド戦略とマルチ地域戦略をどのようにサポートしているかをご覧ください。
-
->[!VIDEO](https://video.tv.adobe.com/v/3478776/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)

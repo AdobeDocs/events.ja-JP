@@ -1,44 +1,46 @@
 ---
-title: ローンチの先 – Marketo EngageのメールDesignerの進化について
-description: Marketo Engageの電子メールDesignerがどのように変革され、HTMLをコーディングせずにメールの作成を強化する、マーケターにとって使いやすいツールが提供されたかを確認します。
+title: Adobe Marketo Engageの電子メール「Designer」の今後の展望
+description: Marketo Engageの電子メールDesignerが、マーケターが使いやすいツールを提供し、HTMLでコーディングすることなく電子メールの作成を強化するのにどのように役立つのかをご確認ください。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Migration, Administration
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2515
 last-substantial-update: 2026-01-09T00:00:00Z
 jira: KT-20063
-source-git-commit: f04cc6261536cb98fdbbc78f31463e2daf8e0e65
+exl-id: 6a4502e0-494f-466c-9290-afab570111f0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 4%
+source-wordcount: '348'
+ht-degree: 5%
 
 ---
 
+# Adobe Marketo Engageの電子メールDesignerの進化
 
-# ローンチの先：Marketo EngageのメールDesignerの進化について
-
-Adobe Marketo Engageでのメールの作成は、新しいメールDesignerによって簡単になり、マーケターに適したデザインツールを使用した手動のHTML コーディングの必要性から置き換わりました。 Marketo Engage チャンピオンの 3 回連続の Katja Keesom が、正直な実践的なヒントを紹介し、彼女が組織で新しいメールDesignerをどのように採用したかを示します。
+新しい電子メールDesignerを利用すれば、Adobe Marketo Engageで電子メールを容易に作成できるようになり、マーケターが使いやすいデザインツールでHTMLを手作業でコーディングする必要がなくなりました。 Adobe Marketo Engage Championに3度選出されたKatja Keesom氏が、実践的なヒントを共有し、新しい電子メールDesignerの導入方法を実演します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478696/?learn=on&enablevpops)
 
-このウェビナーで学ぶ内容は次のとおりです。
+このウェビナーでは、次の項目について解説します。
 
-* 新しいメールDesignerの使用を開始する方法：テンプレート構造とコンテンツ、ガバナンスとブランド管理、AI アシスタントを使用したビルド時間の短縮
+* 新しい電子メールDesignerの導入方法：テンプレート構造とコンテンツ、ガバナンスとブランドコントロール、AI アシスタントの使用により、構築時間を短縮
 * 既存のテンプレートを移動する際に避けるべき移行戦略と落とし穴
 * 日々のマーケターをサポートするブランドテーマとテンプレートコンバーター
-* 新しいメールDesignerで作成されたメールの実際の例
+* 新しいEmail Designerで作成されたメールの実例
 
-メールDesignerがどのように成熟したのか、そしてマーケティングチームにとってどのような意味があるのかを実践的に見てみましょう。
+メールDesignerがどのように成熟し、マーケティング部門にどのような影響を及ぼすのかを解説します。
 
 ## その他のリソース
 
-* [E メールDesignerの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI アシスタント](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [&#x200B; カスタマイズ可能なフラグメント &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [条件付きコンテンツ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
-* [&#x200B; ブランドテーマ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [&#x200B; 新旧のメールDesignerと機能の比較 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [メールDesignerの概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI アシスタント](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [カスタマイズ可能なフラグメント](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [条件付きコンテンツ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [ブランドのテーマ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
+* [機能の比較旧バージョンと新バージョンのメールDesigner](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [リリースノート](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/current)
-* [&#x200B; チャンピオンの詳細：Marketo Engageで新しいメールDesignerを確認する &#x200B;](https://experienceleague.adobe.com/ja/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
-* [&#x200B; コミュニティに関する Q&amp;A の会話に参加 &#x200B;](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
+* [Championの詳細：Marketo Engageでの新しい電子メールDesignerの詳細](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Q&amp;A付きのコミュニティに関する会話に参加する](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)

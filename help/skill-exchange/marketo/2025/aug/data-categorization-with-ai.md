@@ -1,7 +1,8 @@
 ---
-title: 微調整された AI モデルを使用して、Marketo Engageのデータ分類を改善する
-description: Marketo Engageで微調整された AI モデルを使用して、スパムを検出する方法、役職をペルソナに一致させる方法、Webhook を使用して開いているテキストフィールドを分類する方法について説明します。
+title: 最適化されたAI モデルを活用したMarketo Engageでのデータ分類の改善
+description: Marketo Engageで調整されたAI モデルを使用して、スパムを検出し、ペルソナに役職名を一致させ、webhookを使用してオープンテキストフィールドを分類する方法をご確認ください。
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,38 +11,38 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
-# 微調整された AI モデルを使用して、Marketo Engageのデータ分類を改善する
+# 最適化されたAI モデルを活用したMarketo Engageでのデータ分類の改善
 
-売上高の運用担当者は、スパムフォームの送信、ペルソナを決定するための役職でのキーワードのマッチング、データからインサイトを抽出するのが難しい雑然としたオープンテキストフィールドなどに苦労している可能性があります。 これらのデータ分類の課題により、セグメント化、パーソナライゼーションおよびレポートが妨げられ、チームがデータを活用できず、カスタマイズされたコンテンツをオーディエンスに送信するのが困難になります。
+レベニューオペレーションの担当者は、スパムフォーム送信、ペルソナを決定するための役職名のキーワードマッチング、データからインサイトを抽出するのが困難な乱雑なオープンテキストフィールドなどに苦慮しているかもしれません。 こうしたデータ分類の課題は、セグメンテーション、パーソナライゼーション、レポート作成の妨げとなり、データを活用して、オーディエンスに合わせたコンテンツを配信することが難しくなります。
 
-大規模な言語モデル（LLM）の微調整が、これらの永続的なデータ問題にどのように役立つかについて説明します。 カスタムトレーニング済みモデルが、スパムフィルタリングの精度を大幅に高め、ペルソナ分類を自動化し、非構造化された入力をインテリジェントに分類し、AI をMarketo Engageに取り込む方法について説明します。
+調整された大規模言語モデル（LLM）がこれらの永続的なデータ問題に対処するのにどのように役立つかをご覧ください。 カスタムトレーニングされたモデルが、スパムフィルタリングの精度を大幅に高め、ペルソナ分類を自動化し、非構造化入力をインテリジェントに分類し、AIをMarketo Engageに取り込む方法を解説します。
 
-以下について説明します。
+主な内容，
 
-* AI によってMarketo Engageのデータ分類が大幅に向上する実際のユースケース。
-* 独自のデータを使用して LLM を微調整する方法（例として OpenAI を使用）。
-* Webhook を介してMarketo Engageの微調整モデルを使用。
+* AIを活用して、Marketo Engageでのデータ分類を有意義に改善する実際のユースケース。
+* 自社データを使用してLLMを調整する方法（例：OpenAIを活用）
+* Webhook経由でMarketo Engageで微調整モデルを使用します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471388/?learn=on&enablevpops)
 
-## データ分類のための AI のユースケース
+## データ分類のためのAI ユースケース
 
-* **スパム検出** AI モデルは CAPTCHA よりもパフォーマンスが高く、誤検知や誤検知を減らし、セールスチームの時間を節約します。
-* **ペルソナマッチング** AI は、役職名（スペルミスやその他の言語の場合でも）をペルソナに正確にマッピングし、リードスコアリングとセグメント化を改善します。
-* **オープンテキストフィールドの分類** AI は、様々なアトリビューションソースをグループ化し、スペルミスや言語の処理を行い、より豊富なインサイトとレポートを可能にします。
-* **カスタマイズ** 微調整されたモデルにより、カテゴリごとにルールと説明を定義して、結果を完全に制御できます。
+* **スパム検出** AI モデルはCAPTCHAよりも優れており、誤検出/誤検出を減らし、営業部門の時間を節約します。
+* **ペルソナマッチング** AIは、スペルミスや他の言語でも役職をペルソナに正確にマッピングし、リードスコアリングとセグメンテーションを改善します。
+* **オープンテキストフィールドの分類** AIは、様々なアトリビューションソースをグループ化し、スペルミスや言語を処理して、より豊富なインサイトとレポートを実現します。
+* **カスタマイズ**&#x200B;微調整モデルを使用すると、各カテゴリのルールと説明を定義して、結果を完全に制御できます。
 
 
 ## その他のリソース
 
-* [Marketo Engage向けの微調整された AI モデル &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
-* [Webhook クイックスタートガイド &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
-* [ChatGPT とMarketo Engageの統合 &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
-* [&#x200B; セルフサービスフロー手順ガイド &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)
+* [Marketo Engage向けに調整されたAI モデル](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
+* [Webhook クイックスタートガイド](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
+* [ChatGPTとMarketo Engageの統合](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
+* [セルフサービスフローステップガイド](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

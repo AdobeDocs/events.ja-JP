@@ -1,19 +1,21 @@
 ---
 title: Advisors Excelでリソース管理を再考するアジャイルな方法
 description: Advisors Excelが、Adobe Workfrontのアジャイルプラクティスを活用して、リソース管理をどのように変革したのかをご確認ください。
+feature: Resource Management, Work Management
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3497
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20610
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: bc6198fe-caf9-4a2f-bb00-506adb96cc97
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 1%
 
 ---
-
 
 # Advisors Excelでリソース管理を再考するアジャイルな方法
 
@@ -21,10 +23,8 @@ Advisors Excelのクリエイティブオペレーションチームが、Workfr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481832/?learn=on&enablevpops)
 
-セッションを逃した場合、心配はありません！ [&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf)を確認し、オンデマンド録画を視聴します。
+セッションを逃した場合、心配はありません！ [ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/FINAL+Rethinking+Resource+Management+the+Agile+Way+at+Advisors+Excel+-+March+19%2C+2026.pdf)を確認し、オンデマンド録画を視聴します。
 
-イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316?profile.language=ja)をご覧ください。
+イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-rethinking-resource-management-the-agile-way-at-advisors-excel-march-19-2026-249316)をご覧ください。
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
-
-
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

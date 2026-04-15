@@ -1,54 +1,55 @@
 ---
-title: 新しいAdobe Campaign web ユーザーインターフェイスの利用
-description: 新しいAdobe Campaign web ユーザーインターフェイスを使用した、メールマーケティングやソーシャルメディアマーケティングなどのクロスチャネルマーケティング戦略の計画、開始、測定に関して、より効率的になる方法を説明します。
+title: 新しい Adobe Campaign web ユーザーインターフェイスで一歩先へ
+description: Adobe Campaignの新しいweb ユーザーインターフェイスを活用して、メールマーケティングやソーシャルメディアマーケティングなどのクロスチャネルマーケティング戦略の計画、立ち上げ、測定をより効率的におこなえるようになります。
 jira: KT-14433
 solution: Campaign v8 Web User Interface
 feature: Configuration
+topic: Integrations
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
-# 新しいAdobe Campaign web ユーザーインターフェイスの利用
+# 新しい Adobe Campaign web ユーザーインターフェイスで一歩先へ
 
-Adobe Campaign v8 のルックアンドフィールは一新されます。 新しいユーザーエクスペリエンスにより、キャンペーンの設計プロセスが簡単になり、他のAdobe Experience Cloud ソリューションとの一貫性が保たれます。
+Adobe Campaign v8は、まったく新しいルックアンドフィールになります。 再構築されたユーザーエクスペリエンスは、キャンペーンのデザインプロセスを簡素化し、他のAdobe Experience Cloud ソリューションと一貫性があります。
 
-このExperience Leagueライブセッションには、Adobe Campaignの製品エキスパートが、新しいユーザーエクスペリエンスでクロスチャネルキャンペーンを計画、開始、測定する方法を紹介します。
+Experience Leagueのライブセッションでは、Adobe Campaignの製品エキスパートが、新しいユーザーエクスペリエンスでクロスチャネルキャンペーンを計画、立ち上げ、測定する方法を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
->[!BEGINSHADEBOX  「ご質問がある場合」 ]
+>[!BEGINSHADEBOX  「質問がありますか？」 ]
 
-引き続き、このトピックに関するディスカッションをAdobe Experience League[&#x200B; コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=ja#M2671){target="_blank"} で行います。
+このトピックに関するディスカッションは、Adobe Experience League [ コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}で続けてください。
 
 >[!ENDSHADEBOX]
 
-新しい Campaign web ユーザーインターフェイスは、Adobe Campaign ユーザーに統一された最新のユーザーエクスペリエンスを提供するので重要です。 キャンペーンの作成プロセスを合理化し、ナビゲーションと設定を容易にし、オーディエンスの作成、コンテンツのデザイン、キャンペーンの管理などの機能を提供します。 また、この新しい UI は他のAdobe Experience Cloud ソリューションとも統合されているため、ユーザーがエコシステム内の様々なツールにアクセスして利用しやすくなります。 さらに、新しい UI には web ブラウザーからアクセスできるので、ユーザーはプラットフォームやアプリケーションを切り替える必要がありません。 全体として、新しい Campaign web UI により、マーケターやキャンペーンマネージャーの効率、ユーザーエクスペリエンス、共同作業が向上します。
+新しいCampaign web ユーザーインターフェイスは、Adobe Campaign ユーザーに統一された最新のユーザーエクスペリエンスを提供するため、重要です。 キャンペーン作成プロセスが合理化され、ナビゲーションや設定が簡単になり、オーディエンスの作成、コンテンツ設計、キャンペーン管理などの機能が提供されます。 また、新しいUIは他のAdobe Experience Cloudソリューションとも統合されているため、エコシステム内でさまざまなツールに容易にアクセスして、活用できます。 さらに、新しいUIはweb ブラウザーからアクセスできるため、利用者がさまざまなプラットフォームやアプリケーションを切り替える必要はありません。 全体として、新しいCampaign web UIは、マーケターとキャンペーンマネージャーの効率性、ユーザーエクスペリエンス、コラボレーションを向上させます。
 
-## 重要ポイント
+## 重要な留意点
 
-* 新しいAdobe campaign web ユーザーインターフェイスがローンチされ、Adobe Campaign バージョン 8.6 を使用しているお客様が利用できるようになりました。
-* Web UI は、Adobe Experience Cloud製品全体で統一された一貫性のあるユーザーエクスペリエンスを提供します。
-* Web UI のホームページでは、Experience Cloud内のすべてのアプリケーションにすばやくアクセスでき、通知やサポートオプションを提供します。
-* Web UI を使用すると、オーディエンスの作成、キャンペーンの定義およびメールコンテンツのデザインのプロセスが簡単になります。
-* Web UI を使用すると、サードパーティのデータベースを統合し、Adobe Experience PlatformやAdobe Analyticsにアクセスできます。
-* JavaScript アクティビティは、まだ web UI では編集できませんが、引き続き実行および表示できます。
-* Web UI では、定義済みフィルターの使用がサポートされており、エクスプローラーナビゲーションをカスタマイズできます。
-* Web UI は、新しい機能で継続的に更新されています。
+* 新しいAdobe campaign web ユーザーインターフェイスがリリースされ、Adobe Campaign バージョン 8.6を使用しているお客様が使用できるようになりました。
+* web UIは、Adobe Experience Cloud製品全体で統一された一貫性のあるユーザーエクスペリエンスを提供します。
+* Web UIのホームページでは、Experience Cloud内のすべてのアプリケーションにすばやくアクセスでき、通知とサポートオプションが提供されます。
+* web UIは、オーディエンスの作成、キャンペーンの定義、メールコンテンツの設計プロセスを簡素化します。
+* Web UIでは、サードパーティのデータベースを統合し、Adobe Experience PlatformとAdobe Analyticsにアクセスできます。
+* JavaScript アクティビティは、web UIではまだ編集できませんが、実行して表示することはできます。
+* Web UIでは、定義済みフィルターの使用がサポートされており、エクスプローラーのナビゲーションをカスタマイズできます。
+* web UIは、常に新しい機能と能力で更新されています。
 
 
 ## その他のリソース
 
-* **[Campaign Web ユーザーインターフェイス – 主な機能 &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
-  *Adobe Campaign Web ユーザーインターフェイスで現在使用可能な機能に関する詳細なドキュメント*
+* **[Campaign Web ユーザーインターフェイス – 主な機能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=ja){target="_blank"}**
+  *現在Adobe Campaign Web ユーザーインターフェイスで利用できる内容に関する詳細なドキュメント。*
 
-* **[Adobe Campaign Web ユーザーインターフェイス -Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=ja){target="_blank"}**
-  *Adobe Campaign web ユーザーインターフェイスの特長と機能に関するハウツービデオおよびチュートリアル*。
+* **[Adobe Campaign Web ユーザーインターフェイス – チュートリアル](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+  *Adobe Campaign Web ユーザーインターフェイスの機能と操作方法に関するビデオとチュートリアル。*
 

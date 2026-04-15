@@ -1,7 +1,8 @@
 ---
-title: Customer Journey Analyticsによるデータレポートとビジュアライゼーションの向上
-description: Customer Journey Analyticsがクロスチャネルインサイトを強化し、Target およびAdobe Journey Optimizerと統合し、よりスマートな意思決定のための高度なダッシュボードを提供する仕組みについて説明します。
+title: Customer Journey Analyticsでデータのレポートと視覚化を改善
+description: Customer Journey Analyticsが、クロスチャネルのインサイトを強化し、Adobe TargetとAdobe Journey Optimizerと統合して、よりスマートな意思決定のための高度なダッシュボードを提供する方法をご確認ください。
 solution: Customer Journey Analytics, Analytics, Target
+feature: Integrations, Identity, Segmentation, Visualizations
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,29 +11,29 @@ duration: 3744
 last-substantial-update: 2025-09-23T00:00:00Z
 jira: KT-19279
 exl-id: 74b6cd7e-b523-45ea-be1a-31214f6b57cb
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# Customer Journey Analyticsによるデータレポートとビジュアライゼーションの向上
+# Customer Journey Analyticsでデータのレポートと視覚化を改善
 
-Customer Journey Analytics（CJA）でクロスチャネルデータの分析とレポート作成をすぐに向上させる方法に関する詳細なセッションをご覧ください。 Adobe Analytics、Adobe Target、Adobe Journey Optimizer（AJO）のいずれを使用している場合でも、このセッションでは、CJAで強化されたインサイトを使用して新しいレベルのレポートや意思決定を行う方法を説明します。
+Customer Journey Analytics（CJA）が、クロスチャネルデータ分析とレポートを即座に強化する方法について、詳細なセッションをご覧ください。 このセッションでは、Adobe Analytics、Adobe Target、Adobe Journey Optimizer（AJO）のいずれを使用していても、CJAがどのように高度なインサイトを活用し、新しいレベルのレポートと意思決定を可能にするのかを解説します。
 
-様々なソースからデータを取り込む方法、Target とAJOの統合を使用してそのデータをアクティブ化する方法、およびCJAで可能になるダッシュボードとビジュアライゼーションのタイプのライブデモについて説明します。
+さまざまなソースからデータを取得する方法、Adobe TargetとAJOとの統合を使用してデータをアクティベートする方法、CJAが可能にするダッシュボードの種類とビジュアライゼーションのライブデモを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475187/?learn=on&enablevpops)
 
-## Customer Journey Analyticsのロック解除
+## Customer Journey Analyticsを活用
 
-Customer Journey Analytics（CJA）を使用すると、web、モバイル、CRM、コールセンター、店舗でのやり取りなどのデータを統合して、包括的なオムニチャネルカスタマージャーニーを分析できます。
+Customer Journey Analytics（CJA）は、web、モバイル、CRM、コールセンター、実店舗でのインタラクションからのデータを統合することで、オムニチャネルのカスタマージャーニーを包括的に分析するのに役立ちます。
 
-* **包括的なデータ統合** CJAは、様々なデータソースを接続し、従来の web 分析を超えた総合的な分析を可能にします。
-* **柔軟なデータモデリング** カスタマイズされたインサイトのために、高度なデータ変換、クリーニング、分類をサポートします。
-* **AI を活用した機能** 異常値検出、貢献度分析、標準のダッシュボードを含み、インサイトを促進します。
-* **ID 解決** グラフベースとフィールドベースのステッチでは、チャネルをまたいで顧客プロファイルがリンクされ、より深い理解が得られます。
-* **アクションにつながるセグメント化** パーソナライズされたエクスペリエンスとキャンペーンの最適化のために、オーディエンスを作成および共有します。
+* **包括的なデータ統合** CJAは、多様なデータソースをつなぎ合わせ、従来のweb分析を超えた包括的な分析を可能にします。
+* **柔軟なデータモデリング** カスタマイズされたインサイトを得るために、高度なデータ変換、クリーニング、分類をサポートします。
+* **AIを活用した機能**&#x200B;異常値検出、貢献度分析、すぐに使えるダッシュボードを使用して、インサイトを加速できます。
+* **ID解決** グラフベースおよびフィールドベースの合成により、チャネル間で顧客プロファイルがリンクされ、より深い理解が可能になります。
+* **実用的なセグメンテーション** パーソナライズされたエクスペリエンスとキャンペーンの最適化のためにオーディエンスを構築し、共有します。
 
-これらの機能を活用することで、組織はパーソナライゼーション、実験およびジャーニーの最適化に関するループを閉じることができます。
+これらの機能を活用することで、パーソナライゼーション、実験、ジャーニーの最適化のループを終わらせることができます。

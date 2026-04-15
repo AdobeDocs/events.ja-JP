@@ -1,9 +1,10 @@
 ---
-title: AEM Cloud Serviceへの移行の戦略的および戦術的ヒント
-description: AEM Cloud Serviceへの移行によって、AEMが提供する最新かつ最大限の価値を取得し、オンプレミスおよび Managed Services インスタンスをCloud Serviceに移行することで、移行の価値をより深く理解し、社内で売り込むことができます。移行のリスクとコストを管理するアプローチと、既存の取り組みを効率的に活用します。タスクが大きいと思われる場合に、移行を段階的に達成する技術戦術
+title: AEM Cloud Serviceに移行するための戦略的および戦術的なヒント
+description: AEM Cloud Serviceに移行して、AEMが提供する最新かつ最高のサービスを入手し、オンプレミスおよびマネージドサービスインスタンスをCloud Serviceに移行することで、移行の価値をより深く理解し、社内で売り込む能力を獲得します。移行のリスクとコストを管理し、既存の取り組みを効率的に活用するアプローチ移行タスクが大きいと思われる場合に、移行を段階的に移行移行実行するする技術戦術
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager
 feature: Migration
+topic: Migration
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,19 +13,19 @@ jira: KT-14149
 thumbnail: 3424018.jpeg
 exl-id: f34a0cea-c94e-4874-b743-bf8f85ac538a
 duration: 2515
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Skill Exchange Event 2023 年 8 月 – AEM Developer Track - AEM Cloud Serviceへの移行に関する戦略的および戦術的なヒント
+# スキル交換イベント 2023年8月 – AEM Developer Track - AEM Cloud Serviceに移行するための戦略的および戦術的なヒント
 
-AEMが提供する最新かつ優れた機能を利用するには、AEM Cloud Serviceに移行する必要があることは誰もが知っていますが、多くの場合、その方が言ったよりも簡単に感じることができます。 オンプレミスおよび Managed Services インスタンスをCloud Serviceに移行する際の課題には、真の回答が必要です。その場に着いたら、実際に価値が現れることを理解する必要があります。 出席者には次の機能が提供されます。
+Adobe AEMの最新情報を入手するためには、AEM Cloud Serviceに移行する必要がありますが、多くの場合、それが言うほど容易なことはありません。 オンプレミスおよびマネージドサービスインスタンスをCloud Serviceに移行する際の課題には、本当の答えが必要です。その答えにたどり着いたとき、実際に価値を見出すことができることを知る必要があります」とHulscher氏は述べています。 参加者は、次のような内容で参加できます。
 
-* 移行の価値に関する社内での理解とセールス能力の向上
-* 移行のリスクとコストを管理し、既存の作業を効率的に活用するアプローチ
-* タスクが大きく思える場合に、段階的に移行を達成するための技術的戦術
+* 移行の価値について社内で販売する理解と能力
+* 移行のリスクとコストを管理し、既存の取り組みを効率的に活用するためのアプローチ
+* タスクが大きいと思われる場合に、移行を段階的に達成するための技術的戦術
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424018/?learn=on)

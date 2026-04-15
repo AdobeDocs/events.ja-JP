@@ -1,7 +1,8 @@
 ---
-title: オープニング キーノート
-description: 2023 年 11 月 6 日（PT）にAdobe Developers Live コンテンツおよびCommerceで録画されたこの基調講演では、業界の専門家である Nishant Kapoor と Cedric Huesler が、Adobe CommerceとExperience Managerの最新の進歩について発表します。 実世界のアプリケーション、ローコードの開発ツール、高性能 web サイトを維持するための戦略に重点を置いて、これらの強力なプラットフォームの進化と将来を探ります。 Ron Nagy は、このインサイトに満ちたセッションを主催し、魅力的でパーソナライズされたデジタルエクスペリエンスを可能にするツールの詳細を提供します。
+title: 基調講演を開く
+description: 2023年11月6日（PT）にAdobe Developers LiveコンテンツとCommerceで収録されたこの基調講演では、業界の専門家であるNishant Kapoor氏とCedric Huesler氏が、Adobe CommerceとExperience Managerの最新の動向を発表します。 実世界のアプリケーション、ローコード開発ツール、高性能web サイトを維持するための戦略に焦点を当て、これらの強力なプラットフォームの進化と未来を探ります。 Ron Nagyが開催するセッションでは、魅力的でパーソナライズされたデジタル体験を実現するツールについて解説します。
 solution: Commerce, Experience Manager as a Cloud Service
+feature: Integration, Edge Delivery Services, Migration
 topic: Development
 role: Developer
 level: Beginner
@@ -11,17 +12,17 @@ jira: KT-14419
 thumbnail: 3425637.jpeg
 exl-id: c69e338a-fb6e-4bcc-bd8e-6aaea33e1837
 duration: 3691
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-# Adobe Developers Liveオープニングキーノート - 2023 年 11 月
+# Adobe Developers Liveオープニング基調講演 – 2023年11月
 
-新機能と開発者の次の手順
+開発者にとっての新機能と次期機能
 
-2023 年 11 月 6 日（PT）にAdobe Developers Live：コンテンツとCommerceで行われたこの基調講演では、業界の専門家である Nishant Kapoor と Cedric Huesler が、Adobe CommerceとExperience Managerの最新の進歩について発表します。 実世界のアプリケーション、ローコードの開発ツール、高性能 web サイトを維持するための戦略に重点を置いて、これらの強力なプラットフォームの進化と将来を探ります。 Ron Nagy は、このインサイトに満ちたセッションを主催し、魅力的でパーソナライズされたデジタルエクスペリエンスを可能にするツールの詳細を提供します。
+2023年11月6日（PT）にAdobe Developers Live：コンテンツおよびCommerceで収録されたこの基調講演では、業界の専門家であるNishant Kapoor氏とCedric Huesler氏が、Adobe CommerceとExperience Managerの最新の動向を発表します。 実世界のアプリケーション、ローコード開発ツール、高性能web サイトを維持するための戦略に焦点を当て、これらの強力なプラットフォームの進化と未来を探ります。 Ron Nagyが開催するセッションでは、魅力的でパーソナライズされたデジタル体験を実現するツールについて解説します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425637/?learn=on)

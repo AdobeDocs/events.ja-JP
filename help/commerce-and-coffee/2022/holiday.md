@@ -1,7 +1,8 @@
 ---
-title: Commerceとコーヒー – 2021 年のホリデーレトロスペクティブ
-description: このセッションでは、2021 年のホリデーシーズンに e コマースの展望がどのように成功したかを見ていきます。 これらの知識を活用して、2022 年のAdobe Commerce戦略にさらに良い影響を与える方法について説明します。 次に、Corey は、製品ストックアラート、BOPI/カーブサイドピックアップ、報酬とロイヤルティなどを実演します。 プレゼンテーションとデモには、Corey とのライブ Q&A が付属しています。
+title: Commerceとコーヒー – 2021年のホリデーレトロスペクティブ
+description: このセッションでは、e コマースを取り巻く状況が、ユニークな2021年のホリデーシーズンでどのように成功したかを見ていきます。 以上のデータをもとに、2022年に自社のAdobe Commerce戦略をより効果的に推進する方法を解説します。 その後、Coreyは商品の在庫アラート、BOPIS/カーブサイドピックアップ、報酬とロイヤルティなどを実演しました。 プレゼンテーションとデモには、Corey氏によるライブ Q&Aが伴います。
 solution: Commerce
+feature: Integration, Edge Delivery Services
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,15 +12,15 @@ kt: 11654
 thumbnail: 3412715.jpeg
 exl-id: 8a603d4f-50d5-4221-8bcc-c6359bc91ed8
 duration: 3565
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# 2021 年の休日を振り返る
+# 2021年のホリデーレトロスペクティブ
 
-このセッションでは、2021 年のホリデーシーズンに e コマースの展望がどのように成功したかを見ていきます。 これらの知識を活用して、2022 年のAdobe Commerce戦略にさらに良い影響を与える方法について説明します。 次に、Corey は、製品ストックアラート、BOPI/カーブサイドピックアップ、報酬とロイヤルティなどを実演します。 プレゼンテーションとデモには、Corey とのライブ Q&amp;A が付属しています。
+このセッションでは、e コマースを取り巻く状況が、ユニークな2021年のホリデーシーズンでどのように成功したかを見ていきます。 以上のデータをもとに、2022年に自社のAdobe Commerce戦略をより効果的に推進する方法を解説します。 その後、Coreyは商品の在庫アラート、BOPIS/カーブサイドピックアップ、報酬とロイヤルティなどを実演しました。 プレゼンテーションとデモには、Corey氏によるライブ Q&amp;Aが伴います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412715/?quality=12&learn=on)

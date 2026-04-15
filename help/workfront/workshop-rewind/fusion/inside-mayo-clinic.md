@@ -1,31 +1,32 @@
 ---
-title: メイヨークリニックの様子 – Workfront Fusion が人間に与える影響
-description: Mayo Clinic がWorkfront Fusion を使用して働き方を変えている方法については、6 つの異なるユースケースを紹介します。
+title: Mayo Clinicの内部：Workfront Fusionが人間を支援する方法
+description: Mayo ClinicがWorkfront Fusionを利用して業務プロセスを変革している6つのユースケースを紹介します。
+feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3504
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19785
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 7c64182d-4e0e-43fd-bc7a-bb94880641db
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 1%
 
 ---
 
+# Mayo Clinicの内部：Workfront Fusionが人間を助ける方法
 
-# メイヨークリニックの様子：Workfront Fusion が人間に与える影響
-
-このセッションでは、Tia Calvert と Mayo Clinic の Matt Lien がホストとなり、Mayo Clinic がWorkfront Fusion を使用して働き方を変えている 6 つの異なるユースケースについて詳しく説明しました。
+Mayo ClinicのTia Calvert氏とMatt Lien氏と共同で開催されたこのセッションでは、Mayo ClinicがWorkfront Fusionを利用して業務を変革している6つのユースケースを紹介しました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477134/?learn=on&enablevpops)
 
-[&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf) を確認し、オンデマンド録画が続くのを見ます。
+[ スライドデッキ ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf)を確認し、オンデマンド録画を視聴します。
 
-Fusion には時間と練習が必要なので、使い始めたばかりの場合は、（無料で） [Workfrontの Fusion トレーニング &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) の詳細を確認してください。[Experience League Fusion コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2?profile.language=ja) で他のお客様にお問い合わせください。
+Fusionには時間と練習が必要なので、まだ始めたばかりであれば、（無料で）詳しく学んでください。 [Experience LeagueでのFusion トレーニング ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)を利用できます。Workfront Fusion コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2)に関する他のお客様からのサポートを受けることをお勧めします。[
 
-その他のリソースとそのユースケースの詳細については、[Experience League Community の投稿をご覧ください &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981?profile.language=ja)
+その他のリソースとユースケースについて詳しくは、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981)を参照してください。
 
-毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
-
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

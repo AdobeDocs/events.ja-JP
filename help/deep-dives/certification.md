@@ -1,6 +1,8 @@
 ---
-title: お客様への投資 – Adobe [!DNL Marketo Engage]  認定
-description: 資格認定によってマーケティングキャリアをどのように強化できるかをご覧になりたい場合は、 Adobe Marketo Engage Champions にご参加ください。Marketo認定のエキスパートまたはアーキテクトになるための勉強、準備、試験を受けるための経験とヒントをお届けします。
+title: 自分への投資 – Adobe [!DNL Marketo Engage] 認定制度
+description: 認定制度がマーケティングキャリアにどのように役立つのかをご確認ください。 Adobe Adobe Marketo Engage Championでは、Marketo認定エキスパートまたはアーキテクトになるための試験を受験、準備、実施するための経験やヒントを共有します。
+feature: Programs, Reporting
+topic: Certification
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,17 +11,17 @@ jira: KT-12941
 thumbnail: 3416760.jpeg
 exl-id: aea1f3e5-3b28-432f-95df-a4eb300830c8
 duration: 3331
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-# 自分自身への投資 – Adobe[!DNL Marketo Engage] 認定
+# 自分への投資 – Adobe [!DNL Marketo Engage]認定
 
-資格認定プロセスに関心がありましたか？また、マーケティングキャリアにどのように役立ちますか？ それとも、勉強、準備、試験を受けるためのプロセスに興味があるでしょうか。 Adobe[!DNL Marketo Engage] チャンピオンが、Marketo認定エキスパートまたはアーキテクトへの道のりを語ります。
+認定プロセスと、それがマーケティングキャリアにどのように役立つかにご興味がありますか？ あるいは、勉強、準備、試験の受験のプロセスに興味がありますか？ Adobe [!DNL Marketo Engage] Championが、Marketo認定エキスパートまたはアーキテクトになるまでの道のりを解説します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-セッションスライドについては、**[こちら](assets/certification.pdf){target="_blank"}** をクリックしてください。
+セッションスライドについては、**[ここ](assets/certification.pdf){target="_blank"}**&#x200B;をクリックしてください。

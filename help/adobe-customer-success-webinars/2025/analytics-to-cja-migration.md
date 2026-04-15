@@ -1,7 +1,8 @@
 ---
 title: Adobe AnalyticsからAdobe Customer Journey Analyticsへの移行に関するベストプラクティス
-description: XDM スキーマ設計、データマッピング、データビュー設定など、Adobe AnalyticsからCustomer Journey Analytics（CJA）への移行に不可欠な手順とベストプラクティスについて説明します。
+description: XDM スキーマの設計、データマッピング、データビューの設定など、Adobe AnalyticsからCustomer Journey Analytics（CJA）への移行に必要な手順とベストプラクティスについて説明します。
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases, Identity
 topic: Migration
 role: Developer
 level: Beginner, Intermediate
@@ -9,34 +10,34 @@ doc-type: Event
 duration: 3654
 last-substantial-update: 2025-07-16T00:00:00Z
 jira: KT-18535
-source-git-commit: 90eb4a9d2cf445c58fde776092fb047f820fa207
+exl-id: 725291fa-add4-4c93-8bc9-37155936c9d8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
-
 # Adobe AnalyticsからAdobe Customer Journey Analyticsへの移行に関するベストプラクティス
 
-Adobe AnalyticsからCustomer Journey Analytics（CJA）への移行について説明します。 このセッションは、AdobeのUltimate Success チームの Nicolina Picone と Maurizio Corò がホストし、CJAの概要、機能、移行に関するベストプラクティスを説明します。
+Adobe AnalyticsからCustomer Journey Analytics（CJA）への移行について説明します。 このセッションでは、AdobeのUltimate Success チームのNicolina Picone氏とMaurizio Corò氏がホストを務め、CJAとその機能、移行に関するベストプラクティスについて詳しく説明します。
 
-## 話し合った主要なトピック
+## 主なトピック
 
-* analytics とCJAの違い
-* 強力な ID 識別子、データ構造の調整、カスタマイズ可能なデータビューの作成の重要性
-* 履歴データの読み込み、マーケティングチャネルアトリビューションの管理、カスタマイズされたレポートを柔軟にCJAで活用するための戦略について説明します
+* adobe AnalyticsとCJAの違い
+* 強力なID識別子、データ構造の調整、カスタマイズ可能なデータビューの作成の重要性です
+* 過去のデータのインポートや、マーケティングチャネルのアトリビューションの管理、CJAの柔軟性を活用したカスタマイズされたレポート作成などの戦略について解説します
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464911/?learn=on&enablevpops)
 
-## 重要な高速道路
+## 重要なポイント
 
-* **Customer Journey Analytics（CJA）の概要** CJAは、Adobe Analyticsの進化形であり、1 つの追跡イベントではなく、複数のタッチポイント（モバイル、web、CRM、コールセンターなど）にわたる完全なカスタマージャーニーに焦点を当てています。 リアルタイムのデータ処理と操作が可能です。
+* **Customer Journey Analytics（CJA）の概要** CJAは、Adobe Analyticsの進化であり、シングルトラックイベントではなく、複数の顧客接点（モバイル、web、CRM、コールセンターなど）をまたいだカスタマージャーニー全体に焦点を当てています。 リアルタイムのデータ処理と操作が可能になります。
 
-* **移行への対応** Adobe AnalyticsからCJAへの移行の主な手順には、強力な ID 識別子（例：人物 ID）の確保、変数とディメンションの調整、XDM スキーマへのデータのマッピングが含まれます。 履歴データは、検証手順と共にインポートできます。
+* **移行の準備状況** Adobe AnalyticsからCJAへの移行に関する主な手順には、強力なID ID （例：人物ID）の確認、変数とディメンションの調整、データのXDM スキーマへのマッピングが含まれます。 検証ステップで履歴データをインポートすることも可能です。
 
-* **データビューと柔軟性** CJAを使用すると、セッション時間、セグメント化フィルター、アトリビューション設定を調整して、カスタマイズ可能なデータビューを作成できます。 この柔軟性により、カスタマイズされたレポート作成および分析が可能になります。
+* **データビューと柔軟性** CJAを使用すると、セッション期間、セグメント化フィルター、アトリビューション設定を調整して、カスタマイズ可能なデータビューを作成できます。 こうした柔軟性により、カスタマイズされたレポートと分析が可能になります。
 
-* **履歴データ移行のベストプラクティス** 許容範囲内（例：10% の違い）でCJA データをAdobe Analytics データと比較して、検証します。 最初は短いバックフィルウィンドウ（例：1 か月）から開始して、徐々にスケールアップします。
+* **過去データの移行に関するベストプラクティス** CJA データを、許容される範囲内（10%の差など）のAdobe Analytics データと比較して検証します。 短いバックフィルウィンドウ（1か月など）から始め、徐々にスケールアップしていきます。
 
-* **マーケティングチャネルアトリビューション** CJAは、マーケティングチャネルアトリビューションの機能強化を提供し、「訪問の最初のページ」機能などの制限を排除し、より動的なセッション設定を可能にします。
+* **マーケティングチャネルアトリビューション** CJAでは、マーケティングチャネルアトリビューション機能が強化され、「最初の訪問」機能などの制限がなくなり、より動的なセッション設定が可能になります。

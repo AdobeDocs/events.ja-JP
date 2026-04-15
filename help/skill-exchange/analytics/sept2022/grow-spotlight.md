@@ -1,7 +1,9 @@
 ---
-title: Analytics Grow Experience Makers のスポットライト
-description: 2 人のエキスパートのお客様である Andy Lunsford と Tyler Scott、およびAdobe Analytics ユーザーにご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
+title: Adobe AnalyticsによるExperience Makersの成長
+description: アドビのエキスパートであるAndy Lunsford氏とTyler Scott氏、そしてAdobe Analyticsのユーザーにスポットライトを当てます。 各自がAdobe Analyticsのヒントやコツを共有します。 そのセッションの後、質問をする機会がライブで提供されます。 このチャンスを逃したくはありません。
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,15 +12,15 @@ kt: 11439
 thumbnail: 3411014.jpeg
 exl-id: df1ad240-f6c8-4507-abed-abadd2f89a71
 duration: 2494
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Analytics Grow Experience Makers のスポットライト
+# Adobe AnalyticsによるExperience Makersの成長
 
-2 人のエキスパートのお客様である Andy Lunsford と Tyler Scott、およびAdobe Analytics ユーザーにご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
+アドビのエキスパートであるAndy Lunsford氏とTyler Scott氏、そしてAdobe Analyticsのユーザーにスポットライトを当てます。 各自がAdobe Analyticsのヒントやコツを共有します。 そのセッションの後、質問をする機会がライブで提供されます。 このチャンスを逃したくはありません。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411014/?quality=12&learn=on)

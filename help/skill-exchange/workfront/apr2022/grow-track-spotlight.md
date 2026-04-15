@@ -1,28 +1,30 @@
 ---
-title: Experience Makers スポットライトを育てる
-description: 作業管理の成熟度への道のりは一朝一夕には訪れません。 戦略的計画、計画的なリーダーシップ、そして変化を受け入れる準備ができている文化が必要です。
+title: Adobe Grow Track Experience Makersの見どころ
+description: 作業管理の成熟度は、一日で向上するものではありません。 変化を受け入れる準備ができている、戦略的プランニング、慎重なリーダーシップ、文化が必要です。
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10314
 thumbnail: 342524.jpeg
 exl-id: 704dbe58-dc9a-4920-b211-9afb77798079
 duration: 3258
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Grow Track - Experience Makers Spotlight
+# コースを拡大 – Experience Makersの見どころ
 
-作業管理の成熟度への道のりは一朝一夕には訪れません。 戦略的計画、計画的なリーダーシップ、そして変化を受け入れる準備ができている文化が必要です。 Experience Makers Spotlight セッションに参加して、3 つの非常に異なる組織から、組織がどのように作業を次のレベルに引き上げてきたかについて聞いてください。
+作業管理の成熟度は、一日で向上するものではありません。 変化を受け入れる準備ができている、戦略的プランニング、慎重なリーダーシップ、文化が必要です。 アドビのExperience Makers スポットライトセッションでは、3つの組織から、自社がどのように作業を次のレベルに引き上げたのかを紹介します。
 
-聞こえるであろう：
+主な内容：
 
-* Workfrontのインサイト Lumen は、組織全体のクリエイティブオペレーションの効率化を推進するために使用されます
-* T-Mobile がどのようにして真の運用測定戦略を生み出したか
-* Synchrony がキャンペーンの実行を完全に調整するために実施した複数年にわたるジャーニー
+* Workfront Insight Lumenは、組織全体のクリエイティブな作業を効率化するために使用されます
+* T-Mobileが真の運用測定戦略を構築した方法
+* Synchronyは、キャンペーン実施を完全に調整するために、複数年に及ぶジャーニーを踏み出しました
 
 >[!VIDEO](https://video.tv.adobe.com/v/342524/?quality=12&learn=on)

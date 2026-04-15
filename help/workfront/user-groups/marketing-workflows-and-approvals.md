@@ -1,21 +1,23 @@
 ---
-title: マーケティングワークフローと承認、Leap 2020 （2020 年 7 月 1 日）
-description: Listen as Catherine Hayes 氏は、チャネル会社が自社でどのようにマーケティングワークフローを作成し、使用しているかについてインサイトを提供します。
+title: 「Marketing Workflows and Approvals （マーケティングワークフローと承認）」、Leap 2020 （2020年7月1日）
+description: Catherine Hayesが、The Channel Companyが自社でどのようにマーケティングワークフローを構築し、使用しているのか、insightで解説します。
+feature: Work Management, Workfront Fusion
+topic: Administration, Integrations
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10003
 thumbnail: 341225.jpeg
 exl-id: 64b7c597-1642-49d2-bfb7-e52f9f05b1fd
 duration: 1525
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# マーケティングワークフローと承認、Leap 2020 （2020 年 7 月 1 日）
+# マーケティングワークフローと承認（2020年7月1日）
 
-Listen as Catherine Hayes 氏は、チャネル会社が自社でどのようにマーケティングワークフローを作成し、使用しているかについてインサイトを提供します。
+Catherine Hayesが、The Channel Companyが自社でどのようにマーケティングワークフローを構築し、使用しているのか、insightで解説します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341225/?quality=12&learn=on)

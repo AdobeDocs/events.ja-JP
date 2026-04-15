@@ -1,31 +1,33 @@
 ---
-title: オンサイト作業の強化
-description: Adobe Brand Conciergeが、AI 駆動のパーソナライズされたインタラクションでデジタルエクスペリエンスを変換し、エンゲージメントとコンバージョンを高める方法を説明します。
+title: オンサイト体験の向上
+description: Adobe Brand Conciergeが、AIを活用したパーソナライズされたインタラクションでデジタル体験をどのように変革し、エンゲージメントとコンバージョンを促進するのかをご確認ください。
+feature: Edge Delivery Services, Release Information
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 779
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19983
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: dd524527-e8fc-4de1-8974-cdea2573855d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
 
+# Brand Conciergeでオンサイト体験を向上
 
-# Brand Conciergeのオンサイトエクスペリエンスの強化
-
-AdobeのBrand Conciergeを探索し、AI 駆動型のパーソナライズされたインタラクションでデジタルエクスペリエンスを変革します。 この革新的なソリューションが、対話型エクスペリエンスを Web サイトにシームレスに統合することで、エンゲージメントを向上させ、コンバージョンを促進する方法を説明します。 インテリジェントコンシェルジュ機能を通じてサイト訪問者と接続し、ユーザージャーニーを充実させ、顧客接続を強化する方法を説明します。
+AdobeとBrand Conciergeの連携により、AIを活用してパーソナライズされたインタラクションを実現して、デジタル体験を変革する方法をご確認ください。 この革新的なソリューションが、会話体験をweb サイトにシームレスに統合することで、エンゲージメントを高め、コンバージョンを促進する方法をご確認ください。 インテリジェントなコンシェルジュ機能により、ユーザージャーニーを充実させ、顧客とのつながりを強化して、サイト訪問者とつながる方法をご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477680/?learn=on&enablevpops)
 
-このセッションでは、Brand Conciergeのオンサイトエクスペリエンスを強化するために、インテリジェントなコンシェルジュ機能を通じて企業とサイト訪問者をつなぐAdobeの革新的な web 統合ソリューションを紹介する Nina Ciocanu を取り上げます。 パーソナライズされた AI 駆動のエクスペリエンスを直接 web サイトに追加して、エンゲージメントと顧客接続を高める方法を説明します。 サンノゼでライブ録画。
+このセッション「Brand Conciergeでオンサイト体験を向上」では、Nina Ciocanu氏が、インテリジェントなコンシェルジュ機能を通じてサイト訪問者とつながるためのAdobeの革新的なweb統合ソリューションを解説します。 AIを利用して、パーソナライズされたエクスペリエンスをweb サイトに直接追加し、エンゲージメントと顧客とのつながりを強化する方法をご確認ください。 サンノゼからライブ録音。
 
-Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
+Adobe Developers Live 2025を支援してくださったスポンサーのAlgoliaとEnsembleに感謝いたします。
 
 ## 次の手順
 
-* [Experience League](https://adobe.ly/47ss08A) で会話を続ける
-* Discover [&#x200B; 今後のイベント &#x200B;](https://developerevents.adobe.com)
+* [Experience League](https://adobe.ly/47ss08A)で会話を続ける
+* [今後のイベント ](https://developerevents.adobe.com)を見つける

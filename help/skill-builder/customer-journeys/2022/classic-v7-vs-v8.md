@@ -1,7 +1,9 @@
 ---
-title: Adobe [!DNL Campaign Classic] V7 と V8 の比較
-description: このセッションに参加して、最新の製品アップデートについて聞いたり、プロダクトマネージャーから V7 と V8 の違いを理解したりします。
+title: Adobe [!DNL Campaign Classic] V7とV8の比較
+description: このセッションに参加して、最新の製品アップデートを確認したり、製品マネージャーからV7とV8の違いを理解したりしてください。
 solution: Campaign, Campaign Classic v7, Campaign v8 Client Console
+feature: Email Design, Deliverability, SMS
+topic: Development
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10566
@@ -9,19 +11,19 @@ thumbnail: 343823.jpeg
 hideFromToc: true
 hideFromSearch: true
 duration: 2282
-source-git-commit: b6441f405838ea5c7cf25f839984f439dd6323e2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Classic] V7 と V8 の比較
+# Adobe [!DNL Campaign Classic] V7対V8
 
-このセッションに参加して、最新の製品アップデートについて聞いたり、プロダクトマネージャーから V7 と V8 の違いを理解したりします。
+このセッションに参加して、最新の製品アップデートを確認したり、製品マネージャーからV7とV8の違いを理解したりしてください。
 
-*Christophe Protat* プロダクトマネージャー/Adobe
+*Christophe Protat* Product Manager / Adobe
 
-*Gael Mouello* シニアプロダクトマネージャー/Adobe
+*Gael Mouello* シニアプロダクトマネージャー/ Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

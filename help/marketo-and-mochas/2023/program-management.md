@@ -1,9 +1,10 @@
 ---
-title: Marketoと Mocha - プログラム管理のベストプラクティス
-description: プログラムライブラリテンプレート、クリエイティブアセット、ベストプラクティスデモンストレーションの最新のアップデートにより、フォルダーの設定、命名規則、メンバーの検索、プログラムのステータスチェックなど、Marketo プログラムの基本的な要素について説明します。
+title: MarketoとMochas - プログラム管理のベストプラクティス
+description: プログラムライブラリテンプレート、クリエイティブアセット、ベストプラクティスデモの最新アップデートにより、フォルダー設定、命名規則、メンバー検索、プログラムステータスチェックなど、Marketoプログラムに不可欠な要素を確認できます。
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -12,17 +13,17 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# Marketoと Mocha - プログラム管理のベストプラクティス
+# MarketoとMochas - プログラム管理のベストプラクティス
 
-プログラムは、Marketoで最も重要な要素の 1 つです。 フォルダーの設定、命名規則の操作、メンバーの検索、プログラムのステータスの確認、ベストプラクティスの管理などをおこなう場合に、このイベントが適しています。 Marketo&amp;Mochas では、Adobeビジネスアドバイザー、シンシア・チャン、ケイト・コルバートが、プログラムライブラリテンプレートとクリエイティブアセットの最新情報を紹介し、プログラム管理のベストプラクティスとデモを紹介します。
+プログラムは、Marketoの最も重要な要素のひとつです。 フォルダーの設定、命名規則の作成、メンバーの検索、プログラムのステータスの確認、ベストプラクティスの管理など、あらゆる作業に役立ちます。 このMarketoとMochasでは、Adobeビジネスアドバイザー、Cynthia ChangとKate Colbertが、プログラムライブラリテンプレートとクリエイティブアセットの最新のアップデートと、プログラム管理のベストプラクティスとデモを紹介します。
 
-プレゼンテーションの後に、プログラムをインポートする方法のデモを行い、長年にわたって更新を受けた新しいプログラムテンプレートの一部を共有します。 シンシアとケイトはライブ Q&amp;A でセッションを終えます。
+彼らは、プログラムをインポートし、何年もの後に更新を受け取ったばかりの新しいプログラムテンプレートのいくつかを共有する方法のデモでプレゼンテーションに続きます。 CynthiaとKateがライブ Q&amp;Aでセッションを締めくくります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425070/?learn=on)

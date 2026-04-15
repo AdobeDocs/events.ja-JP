@@ -1,9 +1,10 @@
 ---
 title: はじめに
-description: Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。
+description: Adobe Analyticsの基本ユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始しましょう。
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace, Workspace Basics
+topic: Migration, Integrations
 doc-type: Event
 role: User
 level: Beginner
@@ -11,7 +12,7 @@ kt: 10317
 thumbnail: 342527.jpeg
 exl-id: 414a84e8-fd22-432a-a3e3-315ad4552658
 duration: 2724
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 4%
@@ -20,6 +21,6 @@ ht-degree: 4%
 
 # Adobe Analytics：はじめに
 
-Analytics の基本的なユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始します。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
+Adobe Analyticsの基本ユーザーインターフェイスを理解し、Analysis Workspaceで最初のプロジェクトを開始しましょう。 このセッションでは、テーブル、ビジュアライゼーション、パネルの使用を開始します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342527/?quality=12&learn=on)

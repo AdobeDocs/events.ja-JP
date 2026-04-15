@@ -1,7 +1,9 @@
 ---
-title: EA Northstar アーキテクチャの計画
-description: クロスソリューションアーキテクチャの設計に関するウェビナーでは、Northstar 図の価値と作成について、開発者、リーダー、ユーザー向けの主要なインサイトを交えて説明しました。
+title: EA Northstar Architecture Planning
+description: 「クロスソリューションアーキテクチャの設計」に関する本ウェビナーでは、ノーススター図の価値と作成方法について、開発者、リーダー、ユーザー向けの重要なインサイトを紹介しました。
 solution: General
+feature: Developer Tools
+topic: Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,20 +11,20 @@ duration: 3546
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18244
 exl-id: 54e7d661-eecb-42ec-8bff-7776bafbdb31
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# EA Northstar アーキテクチャの計画
+# EA Northstar Architecture Planning
 
-この「クロスソリューションアーキテクチャデザインの概要」に関するウェビナーでは、Northstar アーキテクチャ図の作成と重要性に関する貴重なインサイトを提供しました。 参加者は、クロスソリューションアーキテクチャ設計の重要性を理解し、その作成と管理について学びました。
+このウェビナーでは、「クロスソリューションアーキテクチャデザイン入門」に関して、Northstar アーキテクチャ図の作成と意義に関する貴重なインサイトを提供しました。 参加者は、クロスソリューションアーキテクチャデザインの重要性を理解し、その作成と管理について学びました。
 
-主な議論のポイント
+主な討議ポイント
 
-* クロスソリューションアーキテクチャ設計の重要性を理解します。
-* クロスソリューションアーキテクチャ設計および管理。
+* クロスソリューションアーキテクチャ設計の重要性を理解する。
+* クロスソリューションアーキテクチャ デザインの作成と管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463355/?learn=on&enablevpops)

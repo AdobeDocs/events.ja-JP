@@ -1,30 +1,31 @@
 ---
-title: シームレスなジャーニー - CJAによる ID のロック解除
-description: このウェビナーでは、Customer Journey Analytics（CJA）でデータサイロを排除し、チャネルやデバイスをまたいで ID の組み合わせを使用して、統一された顧客インサイトを提供する方法について説明します。 フィールドベースとグラフベースのステッチの違い、CJAによるクロスチャネルアトリビューションの改善方法、より多くの識別されたイベントとアクションにつながる分析を示すデモをご覧ください。
+title: シームレスなジャーニー- CJAでIDを開放
+description: このウェビナーでは、Customer Journey Analytics（CJA）が、チャネルやデバイスをまたいでデータの分断化を解消し、IDをつなぎ合わせることで、統合された顧客インサイトをどのように実現するのかを解説します。 フィールドベースとグラフベースの合成の違い、CJAがクロスチャネルアトリビューションをどのように改善するか、より特定されたイベントや実用的な分析を示すデモをご覧ください。
 solution: Customer Journey Analytics
 feature: Identity
+topic: Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1809
 last-substantial-update: 2026-02-25T00:00:00Z
 jira: KT-20378
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+exl-id: 0c3e5e2f-542f-4517-a17b-80179850d521
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '149'
 ht-degree: 1%
 
 ---
 
+# シームレスなジャーニー:CJAでIDを解き放つ
 
-# シームレスなジャーニー:CJAでの ID のロック解除
+このセッションでは、Customer Journey Analytics（CJA）が、どのようにデータの分断を解消し、チャネルやデバイスをまたいでIDをつなぎ合わせることを可能にすることで、統合された顧客インサイトを実現するのかを解説します。 顧客データをつなぎ合わせ、アトリビューションの精度を高め、よりスマートなビジネス上の意思決定を促進するための実用的な戦略を理解したい人に最適です。
 
-このセッションでは、Customer Journey Analytics（CJA）でデータサイロを分割し、チャネルやデバイスをまたいで ID の関連付けを有効にすることで、統合された顧客インサイトを活用する方法を説明します。 顧客データを結び付け、アトリビューションの精度を向上し、よりスマートなビジネス意思決定を推進するための実用的な戦略を理解したい場合に推奨されます。
-
->[!VIDEO](https://video.tv.adobe.com/v/3480153/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
 
 ## 重要な留意点
 
-* フィールドベースとグラフベースの ID ステッチの違いと、それらがデータ品質に与える影響について説明します。
-* CJAを使用して、指標やチャネルをまたいで柔軟で一貫性のあるアトリビューションを可能にする方法を理解します
-* 識別されたイベントとアクションにつながる分析の向上を示す製品デモのウォークスルーを確認する
+* フィールドベースとグラフベースのID照合を区別し、データ品質に与える影響を理解する。
+* CJAが、指標とチャネルをまたいで柔軟で一貫性のあるアトリビューションをどのように実現するのかをご確認ください
+* 特定されたイベントと実用的な分析の向上を示す製品デモのチュートリアルを確認します

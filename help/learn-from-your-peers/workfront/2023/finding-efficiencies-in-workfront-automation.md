@@ -1,7 +1,8 @@
 ---
-title: 自動処理ウェビナーによるWorkfrontの効率性の発見
-description: オンデマンドウェビナーで、Adobe Workfrontの効率的なメンテナンス戦略について説明します。 Stanley Black & Decker とWorkfrontのエキスパートが、繰り返し作業の自動化、Fusion テンプレートの利用、最適な効率性を実現するためのワークフロープロセスの進化に関するヒントを紹介します。
+title: MAに関するウェビナーでAdobe Workfrontの効率を向上
+description: Adobe Workfrontの効率的なメンテナンス戦略をご紹介します。 Stanley Black & DeckerとWorkfrontの専門家が、繰り返し作業の自動化、Fusion テンプレートの活用、最適な効率化のためのワークフロープロセスの進化に関するヒントを紹介します。
 feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin
 solution: Workfront
 level: Beginner, Intermediate, Experienced
@@ -10,22 +11,22 @@ duration: 3682
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15822
 exl-id: a3fc6790-7ae6-4d6e-b2ee-6d2dcb6129f6
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# 自動化によるWorkfrontの効率向上
+# MAを利用し、Workfrontで効率化を実現
 
-Adobe Workfront システム管理者は、使用されていないテンプレートの削除やユーザーのライセンスタイプの更新など、メンテナンスタスクを繰り返し実行していることに気付きますか？ インスタンスをクリーンに保つことが重要ですが、より優れた方法が必要です。
+Adobe Workfront システム管理者は、使用されていないテンプレートの削除、ユーザーのライセンスタイプの更新など、メンテナンスタスクを何度も繰り返し実行する必要があります。インスタンスをクリーンに保つことは重要ですが、もっと良い方法があるはずです。
 
-このオンデマンドウェビナーでは、Stanley Black &amp; Decker の Systems Operations Manager である Monique Evans と、Workfrontのシニアカスタマーサクセスアーキテクト（および以前のお客様）である Ewan Hruska が、非効率性に対処するための「良い、良い、最良の」ヒントを簡単なレポートから Fusion シナリオまで紹介します。 共有される内容：
+このオンデマンドウェビナーでは、Stanley Black &amp; DeckerのシステムオペレーションマネージャーであるMonique Evans氏と、WorkfrontのシニアカスタマーサクセスアーキテクトであるEwan Hruska氏（および以前のお客様）が、シンプルなレポートからFusion シナリオに至るまで、非効率性に対処するための「優れている、より優れている、最良の」ヒントを共有します。 推奨事項：
 
-* 管理者を悩ませる可能性のある繰り返しプロセス
-* 一般的なシナリオ向けに改善された新しい Fusion テンプレート
-* Stanley Black &amp; Decker の Monique Evans が、時間の経過と共にワークフロープロセスを反復更新した仕組み
-* さらに件
+* 管理者の悩みの種となる反復プロセス
+* 一般的なシナリオに対応する新しいFusion テンプレートと改善されたFusion テンプレート
+* Stanley Black &amp; DeckerのMonique Evans氏は、時間をかけてワークフロープロセスを繰り返し改善しています
+* その他
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431016/?learn=on)

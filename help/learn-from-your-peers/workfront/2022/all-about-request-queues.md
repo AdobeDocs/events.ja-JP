@@ -1,36 +1,38 @@
 ---
-title: リクエストキューに関するすべてウェビナー
-description: Workfront リクエストキューを最大限に活用する方法について、同業者から説明します。 オンデマンドウェビナーで、ディズニーのイエローシューズの様々な用途やベストプラクティスをご覧ください。
+title: リクエストキューに関するウェビナー
+description: Workfrontリクエストキューの最大化について同業者から学びます。 オンデマンドウェビナーでは、Disney’s Yellow Shoesの多様な用途とベストプラクティスを紹介しています。
 role: Admin
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
 exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
 
-# リクエストキューに関するすべて
+# リクエストキューについて
 
-リクエストキューには、リクエスト作業よりも多くの作業があります
+リクエストキューは、作業依頼だけでなく
 
-Adobe Workfront リクエストキューは、チームや部署の作業をリクエストする手段として知っているかもしれませんが、はるかに多くのことがあります。
+Adobe Workfrontのリクエストキューは、チームや部門に作業を依頼する手段として使い慣れているかもしれませんが、実際にはもっと多くの機能を利用できます。
 
-リクエストキューを使用すると、新しい作業のリクエストや、PTO 承認、ハードウェアまたはソフトウェアのリクエスト、新しい名刺の注文、データの書き出し、バグの報告など、いくつかの簡単なアイデアに対するものであっても、リクエストを送信するための一元化された場所が得られます。
+リクエストキューを使用すると、リクエストを送信するための一元的な場所を持つことができます。リクエストは新しい作業のためであるか、PTO承認、ハードウェアまたはソフトウェアのリクエスト、新しい名刺の注文、データの書き出し、バグの報告などの場合でも、いくつかの簡単なアイデアを例に挙げることができます。
 
-このオンデマンドウェビナーでは、Walt Disney Parks &amp; Resorts の内部広告代理店である Disney&#39;s Yellow Shoes の 2 人のシステム管理者が、リクエストキューで経験と進化を共有します。 説明する内容は次のとおりです。
+このオンデマンドウェビナーでは、Walt Disney Parks &amp; Resortsの社内広告代理店であるDisney’s Yellow Shoesの2人のシステム管理者が、リクエストキューを利用して経験と進化を共有します。 主な内容：
 
-* リクエストキューの詳細
-* 「イシュー」の概要
+* リクエストキューの構造
+* イシューの概要
 * キューの設定とキューのトピック
-* 「役に立つ情報」のクイックヒント
-* Disney&#39;s Yellow Shoes のリクエストキューは時間の経過と共にどのように進化したか
+* いくつかの「知っていますか」の簡単なヒント
+* Disney’s Yellow Shoesのリクエストキューが時間とともにどのように進化したか
 * その他
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431008/?learn=on)

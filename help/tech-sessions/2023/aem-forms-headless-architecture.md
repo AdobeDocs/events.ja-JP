@@ -1,6 +1,7 @@
 ---
-title: AEM Forms ヘッドレスアーキテクチャ
-description: ヘッドレスアーキテクチャの概要、AEM Forms ヘッドレスのメリット、ライブデモ。
+title: AEM Formsのヘッドレスアーキテクチャ
+description: ヘッドレスアーキテクチャの概要、AEM Forms ヘッドレスの利点、ライブデモ。
+feature: Edge Delivery Services, Release Information
 topic: Headless
 role: Admin, User
 level: Beginner
@@ -10,15 +11,15 @@ jira: KT-13812
 thumbnail: 3422750.jpeg
 exl-id: ee2d35db-d2fe-4191-9043-8b00f49d95db
 duration: 3004
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# AEM Forms ヘッドレスアーキテクチャ
+# AEM Formsのヘッドレスアーキテクチャ
 
-このセッションでは、ヘッドレスアーキテクチャの概要、AEM Forms ヘッドレスのメリットおよびライブデモについて説明します。
+このセッションでは、ヘッドレスアーキテクチャの概要、AEM Forms ヘッドレスの利点、ライブデモについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422750/?learn=on)

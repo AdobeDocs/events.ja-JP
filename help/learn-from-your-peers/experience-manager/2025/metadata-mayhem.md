@@ -1,30 +1,31 @@
 ---
-title: メタデータメイヘムを習得
-description: AEM AssetsとWorkfront コネクタの実装、メタデータのマッピング、ロールアウトを成功させるための役割の関連付けについて、エキスパートがヒントを説明します。
+title: Metadata Mayhem to Mastery
+description: AEM AssetsとWorkfront コネクタを実装し、メタデータをマッピングし、ロールアウトを成功させるために役割を調整するためのエキスパートのヒントを説明します。
 solution: Experience Manager, Workfront, Experience Manager Assets
 feature: Metadata
+topic: Integrations
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3613
 last-substantial-update: 2025-11-14T00:00:00Z
 jira: KT-19693
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+exl-id: 5de073f2-ae5c-49b8-968b-f0b1447f665b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
+# Metadata Mayhem to Mastery
 
-# メタデータメイヘムを習得
+このウェビナーでは、Adobeの専門家であるAutumn Earle氏とJohn Lemme氏が、AEM AssetsとWorkfrontのネイティブコネクタを効果的に実装するためのベストプラクティスを紹介します。 また、関係者の調整、統合戦略の改善、より迅速な価値創出に役立つ、さまざまな貴重なプランニングリソースにアクセスできます。
 
-このウェビナーでは、Adobeのエキスパートである Autumn Earle と John Lemme が、AEM AssetsとWorkfront ネイティブコネクタの効果的な実装に関するベストプラクティスを紹介します。 また、関係者の足並みを揃え、統合戦略を調整し、より迅速に価値を生み出すのに役立つ、多くの貴重な計画リソースにもアクセスできます。
+## 学習すること
 
-## 学習内容
-
-* 統合実装プロセスの段階的な概要
+* 統合実装プロセスをステップバイステップで解説
 * AEMとWorkfront間のメタデータフィールドマッピングのベストプラクティス
-* ロールアウトを成功させるために必要な主要な役割とペルソナ
+* 導入を成功させるために必要な主要な役割とペルソナ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476712/?learn=on&enablevpops)

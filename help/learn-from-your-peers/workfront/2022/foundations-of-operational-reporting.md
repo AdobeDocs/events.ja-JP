@@ -1,7 +1,8 @@
 ---
-title: 運用報告ウェビナーの基盤
-description: Workfrontでシステム管理者が測定すべき内容について、同業者から学びます。 オンデマンドウェビナーで、主要指標、レポートニーズ、サンプルダッシュボードをご確認ください。
+title: オペレーショナルレポーティングの基本ウェビナー
+description: Workfrontでシステム管理者が測定すべき項目について、他のユーザーから学びます。 オンデマンドウェビナーの主な指標、レポートニーズ、サンプルダッシュボードをご確認ください。
 feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin
 solution: Workfront
 level: Beginner, Intermediate, Experienced
@@ -10,25 +11,25 @@ duration: 3672
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15813
 exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '147'
 ht-degree: 1%
 
 ---
 
-# 同業者から学ぶウェビナー：Operational Reportingの基盤
+# 仲間から学ぶウェビナー：Operational Reportingの基盤
 
-Workfrontでは多くのレポートを作成できますが、システム管理者として何を測定する必要があるかご存知ですか？
+Workfrontには多くのレポートがありますが、システム管理者として何を測定すべきか知っていますか？
 
-レポートは、それ自体で強力な作業管理ツールになる可能性があります。 実行中の作業を可視化できるだけでなく、生産性を向上させ、発生前に問題を特定することもできます。
+レポートは、それ自体が強力な作業管理ツールになります。 これにより、作業を可視化するだけでなく、生産性を向上させ、問題を事前に特定できます。
 
-このオンデマンドウェビナーでは、運用レポートに関するトピックで、以下を扱います。
+このオンデマンドウェビナーでは、オペレーショナルレポートについて解説します。
 
-* レポートの作成を開始する前に特定する必要があること
+* レポート作成を始める前に特定すべきこと
 * 一般的な運用指標の例
-* ペルソナタイプとそのレポートニーズの違い
-* 様々な方法で情報を表示および並べ替えられるサンプルダッシュボード
+* ペルソナの種類とレポートのニーズの違い
+* 情報の表示および並べ替え方法を示すダッシュボードの例
 * その他
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431007/?learn=on)

@@ -1,31 +1,33 @@
 ---
-title: Adobe Experience Managerを使用した AI コンテンツ検出
-description: Adobe Experience Managerで AI 駆動型のコンテンツ検出と Dynamic Media レンディションを調べ、アセットの再利用と配信を簡単にします。
+title: ADOBE EXPERIENCE MANAGERによるAI コンテンツの発見
+description: Adobe Experience Managerが提供する、AIを活用したコンテンツの発見とダイナミックメディアのレンディションにより、アセットを簡単に再利用および配信することができます。
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Development
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1398
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19978
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 3b5a815a-98bd-41bb-a3d7-81c696015693
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
 
+# チャネル対応のレンディションでAIによるコンテンツ発見を促進
 
-# チャネル対応レンディションを使用した AI 主導のコンテンツ検出
+AIが、Adobe Experience Managerを活用して、コンテンツ発見をどのように変革するのかをご確認ください。 Content Advisorを使用して、セマンティック検索とAIを活用したアセットレコメンデーションを行う方法を説明します。 このセッションでは、キャンペーン概要ベースの発見とDynamic Media レンディションへの迅速なアクセスをカバーし、OpenAPI スタックを通じたコンテンツの再利用と配信を簡素化します。
 
-AI がAdobe Experience Managerでコンテンツ検出をどのように変えるかを説明します。 コンテンツアドバイザーを意味検索および AI を利用したアセットのレコメンデーションに使用する方法について説明します。 このセッションでは、Campaign の概要ベースの検出と Dynamic Media レンディションへの迅速なアクセス、OpenAPI スタックを使用したコンテンツの再利用と配信の簡素化について説明します。
+>[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3477741/?captions=jpn&learn=on&enablevpops)
+このセッション「チャネル対応レンディションを使用したAI主導のコンテンツ発見」では、Matt Briscoe氏、Deepa Gupta氏、Mathias Siegel氏が、開発者がContent Advisorを使用して、セマンティック検索とAIを活用したレコメンデーションでアセットとコンテンツフラグメントを発見する方法について解説します。 キャンペーン概要ベースの発見と、Scene7およびDMをまたいだダイナミックメディアレンディションへの迅速なアクセスにより、OpenAPI スタックを通じてコンテンツの再利用と配信を簡素化する方法をご確認ください。 サンノゼからライブ録音。
 
-このセッション — Channel Ready Renditions を使用した AI 主導のコンテンツ検出では、Matt Briscoe、Deepa Gupta、Mathias Siegel の各氏が、開発者がコンテンツアドバイザーを使用してセマンティック検索と AI を利用したレコメンデーションにより、アセットとコンテンツフラグメントを検出する方法を説明します。 Scene7 と DM をまたいで、Campaign の概要ベースの検出と Dynamic Media レンディションへの迅速なアクセスが、OpenAPI スタックを通じてコンテンツの再利用と配信を簡素化する仕組みを説明します。 サンノゼでライブ録画。
-
-Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
+Adobe Developers Live 2025を支援してくださったスポンサーのAlgoliaとEnsembleに感謝いたします。
 
 ## 次の手順
 
-* [Experience League](https://adobe.ly/47ss08A) で会話を続ける
-* Discover [&#x200B; 今後のイベント &#x200B;](https://developerevents.adobe.com)
+* [Experience League](https://adobe.ly/47ss08A)で会話を続ける
+* [今後のイベント ](https://developerevents.adobe.com)を見つける

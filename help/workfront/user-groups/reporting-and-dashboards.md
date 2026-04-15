@@ -1,21 +1,23 @@
 ---
-title: レポートおよびダッシュボード（2021 年 3 月 16 日）
-description: J.P. Morgan のマーケティング担当副社長である Jordan Emery 氏から、取り込みリクエストを追跡するために使用するレポートとダッシュボードについて説明があります。
+title: レポートとダッシュボード（2021年3月16日（PT））
+description: J.P. Morganのマーケティング担当バイスプレジデントであるJordan Emery氏が、受注リクエストの追跡に使用したレポートやダッシュボードについて解説します。
+feature: Reports and Dashboards, Work Management
+topic: Administration, Integrations
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10005
 thumbnail: 341216.jpeg
 exl-id: b2260796-9cf5-4922-a0b0-4dec1a81ccff
 duration: 3899
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# レポートおよびダッシュボード（2021 年 3 月 16 日）
+# レポートとダッシュボード（2021年3月16日（PT））
 
-J.P. Morgan のマーケティング担当副社長である Jordan Emery 氏から、取り込みリクエストを追跡するために使用するレポートとダッシュボードについて説明があります。
+J.P. Morganのマーケティング担当バイスプレジデントであるJordan Emery氏が、受注リクエストの追跡に使用したレポートやダッシュボードについて解説します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341216/?quality=12&learn=on)

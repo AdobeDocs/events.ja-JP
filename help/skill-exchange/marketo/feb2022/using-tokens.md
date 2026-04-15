@@ -1,28 +1,30 @@
 ---
-title: ' [!DNL Marketo Engage] のトークンを使用したスケーラビリティと効率'
-description: ' [!DNL Marketo Engage] でプログラムの作成と操作の効率を高めるために、パーソナライゼーション以外にもトークンを使用する方法を説明します。'
+title: ' [!DNL Marketo Engage]のトークンを使用したスケーラビリティと効率性'
+description: ' [!DNL Marketo Engage]でプログラムの構築と操作をより効率的にするために、パーソナライゼーション以外のトークンを使用する方法を説明します。'
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 529a09c2-8122-4d1c-a4a5-0fcfb3406b04
 duration: 3010
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] でのトークンを使用したスケーラビリティと効率
+# [!DNL Marketo Engage]のトークンを使用したスケーラビリティと効率性
 
-パーソナライゼーション以外にもトークンを使用して、プログラムのビルドや操作をより効率的に行う方法を説明 [!DNL Marketo Engage] ます。
+[!DNL Marketo Engage]でプログラムの構築と操作をより効率的にするために、パーソナライゼーション以外のトークンを使用する方法を説明します。
 
-**重要ポイント**
+**重要なポイント**
 
-* 様々なタイプのトークンと、それらを使用できる場所について
-* トークン戦略のドキュメント化方法に関するアイデアを得ます
-* トークンを使用するためのユースケースとアイデアをレビューします
+* さまざまな種類のトークンとその使用方法を理解する
+* トークン戦略を文書化する方法に関するアイデアを得る
+* トークンを使用するためのユースケースとアイデアを確認する
 
 >[!VIDEO](https://video.tv.adobe.com/v/340593/?quality=12&learn=on)

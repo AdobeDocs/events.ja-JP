@@ -1,9 +1,10 @@
 ---
-title: ドットの接続 – キャンペーンオーケストレーションの基本戦略
-description: Campaign オーケストレーションの基礎Personalization内での Campaign オーケストレーションの役割@スケールの基礎的な柱と基本原則オーケストレーション測定のベストプラクティス共通の課題とソリューション
+title: 点と点をつなぐ – キャンペーンオーケストレーションの基本戦略
+description: キャンペーンオーケストレーションの基盤Personalization内でのキャンペーンオーケストレーションの役割Foundations Pillars & Guiding Principles Orchestration Measurement Best Practices Common Challenges & Solutions
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
+topic: Personalization, Performance
 role: Admin, Architect, Data Architect, Data Engineer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -12,19 +13,19 @@ jira: KT-13927
 thumbnail: 3424016.jpeg
 exl-id: 0cebc7d8-fcba-453d-a160-d9de443c8f4c
 duration: 2298
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# ドットの接続 – キャンペーンオーケストレーションの基本戦略
+# 点と点をつなぐ – キャンペーンオーケストレーションの基本戦略
 
-*キャンペーンオーケストレーションの基盤*
+*キャンペーンオーケストレーションの基礎*
 
-* Personalization @ スケール内のキャンペーンオーケストレーションの役割
-* 基本理念と基本理念
+* The Role of Campaign Orchestration within Personalization @ Scale
+* 基本的な柱と指針
 * オーケストレーション測定のベストプラクティス
 * 共通の課題とソリューション
 

@@ -1,7 +1,9 @@
 ---
-title: Adobe Workfrontによる効率の最大化 – リーンチームウェビナー
-description: 業界の専門家が提示する、Adobe Workfrontによるリーン方式を使用した生産性の向上とオペレーションの合理化に関する戦略と実践的なアプローチを確認します。
+title: 「Maximizing Efficiency with Adobe Workfront - Lean Teams」ウェビナー
+description: 業界の専門家が紹介するAdobe Workfrontのリーン手法を使用して、生産性を高め、業務を効率化するための戦略と実践的なアプローチを探ります。
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,49 +11,49 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-# Adobe Workfrontによる効率性の最大化：リーン方式のチームウェビナー
+# Adobe Adobe Workfrontで効率を最大化：Lean Teams ウェビナー
 
-無駄のない方法論を通じて、業務の合理化と生産性の向上を目指す組織のための洞察に満ちた戦略と実践的なアプローチ。 業界の専門家がホストするこのウェビナーでは、リーン思考のコア原則とAdobe Workfront内での応用について詳しく説明します。
+リーン生産方式による業務の合理化と生産性の向上を目指す企業にとっては、インサイトに満ちた戦略と実践的なアプローチが必要です。 業界の専門家によって開催されたこのウェビナーでは、Adobe Workfrontにおけるリーンシンキングの基本原則と、その応用について解説します。
 
-## 主な議論のポイント
+## 主な討議ポイント
 
-* リーン プリンシパルについて
-* Workfrontを使用したリーン方式のプロジェクト管理のサポート
+* リーンプリンシパルの理解
+* Workfrontを使用したリーンプロジェクト管理
 * 継続的な学習と適応
 
->[!VIDEO](https://video.tv.adobe.com/v/3456707/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
 
-## 会議の概要
+## ミーティングの概要
 
-このミーティングでは、リーン方式のチームと、Adobe Workfrontを使用した効率性の最大化に焦点を当てました。 ここで説明した主なポイントの概要を示します。
+このミーティングでは、Adobe Workfrontを利用して、リーンチームと効率性を最大化することに重点を置きました。 ここで議論された重要なポイントの概要を示します，
 
-**無駄のないチームと効率**
+**リーンチームと効率性**
 
-* リーン・チームが直面している課題について議論しました。
-* リーン経営の目標とメリットを強調しました。
-* リーン経営に関連する原則を強調しました。
+* Lean チームが直面している課題について説明した。
+* リーン管理の目標とメリット。
+* リーン管理に関連する原則を強調。
 
-**能率化の方策**
+**効率性に関する戦略**
 
-* 継続的改善の重要性。
-* コミュニケーションを合理化します。
-* データに基づく意思決定
+* 継続的な改善の重要性。
+* コミュニケーションの合理化。
+* データにもとづく意思決定。
 
-**Workfront ツール**
+**Workfront Tools**
 
-* ブループリント、リソースプランナー、統合などのWorkfront ツールを活用して成果を上げる。
+* ブループリント、リソースプランナー、統合機能など、Workfrontツールを活用する。
 
-**重要ポイント**
+**重要なポイント**
 
 * 効率化のための戦略。
-* コミュニケーションの合理化。
-* データドリブンな意思決定。
-* 学習のマインドセットを養う。
-* Workfront コミュニティとの連携によるサポートとベストプラクティス。
+* コミュニケーションの合理化：
+* データにもとづく意思決定：
+* 学習マインドセットの醸成：
+* サポートとベストプラクティスを求めて、Workfrontコミュニティに参加する。

@@ -1,35 +1,37 @@
 ---
-title: AEM Modernization Suite の概要
-description: 静的テンプレートページを編集可能テンプレートに変換する方法を説明します。 カスタムまたはレガシーのコンポーネントをコアコンポーネントプロキシに変換する方法などを説明します。
+title: AEM Modernization Suiteについて
+description: 静的テンプレートページを編集可能なテンプレートに変換する方法について説明します。 カスタムコンポーネントやレガシーコンポーネントをコアコンポーネントプロキシに変換する方法などをご紹介します。
+feature: Authoring
+topic: Development, Headless
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 1a3fb1de-4c75-4527-9743-a14822566369
 duration: 3324
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-# AEM Modernization Suite の概要{#introducing-the-aem-modernization-suite}
+# AEM Modernization Suiteについて{#introducing-the-aem-modernization-suite}
 
-一部のユーザーは、AEM Sitesのオーサリングエクスペリエンスに、引き続きクラシック UI を使用しています。 このインターフェイスの廃止に伴い、お客様の実装を最新の機能に更新するための支援のサミットラボが提案されました。 このラボをサポートし、お客様に必要な手段を提供するために、Bryan Stopp と Gilles Knobloch は、AEM Modernization Tool Suite を作成しました。  この新しいツールの次の機能について説明します。
+一部のお客様は、AEM Sitesのオーサリングエクスペリエンスにクラシック UIを引き続き使用しています。 このインターフェイスの廃止に伴い、実装を最新の機能に更新できるよう、Summit ラボが提案されました。 このラボをサポートし、必要な手段をお客様に提供するために、Bryan Stopp氏とGilles Knobloch氏はAEM Modernization Tool Suiteを開発しました。  この新しいツールの機能について説明します。
 
-* 静的テンプレートページを編集可能テンプレートに変換
+* 静的テンプレートページを編集可能なテンプレートに変換
 * カスタム/レガシーコンポーネントをコアコンポーネントプロキシ（または他のカスタムコンポーネント）に変換
-* コンポーネントデザインを編集可能なテンプレートポリシーとしてインポートおよび変換
-* Classic/Coral2 のダイアログを Coral 3 のダイアログにアップデート
+* コンポーネントデザインを編集可能なテンプレートポリシーとしてインポートおよび変換する
+* （もちろん） Classic/Coral2 ダイアログをCoral 3 ダイアログに更新します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*2019 年 5 月 8 日（PT）に配信*
+*配信05/08/19*
 
-**発表者：**
+**表示者：**
 
-* Adobe、AEM テクニカルアーキテクト、Bryan Stopp
-* Adobe、シニアエンジニアリングマネージャー、Gilles Knobloch
+* Bryan Stopp氏（Adobe、AEMテクニカルアーキテクト）
+* Gilles Knobloch氏（Adobe、シニアエンジニアリングマネージャー）
 
-**発表者のスライド**
+**発表者スライド**
 
-[ファイルを入手](assets/modernization-toolsaemgems.pdf)
+[ファイルを取得](assets/modernization-toolsaemgems.pdf)

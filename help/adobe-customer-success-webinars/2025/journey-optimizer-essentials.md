@@ -1,28 +1,30 @@
 ---
 title: Journey Optimizer Essentials
-description: Adobe Journey Optimizerを探索し、よりスマートで合理化されたエンゲージメントのために、チャネルをまたいで AI に基づきパーソナライズされたカスタマージャーニーを作成する方法をご覧ください。
+description: Adobe Adobe Journey Optimizerの詳細と、AIを活用してパーソナライズされたカスタマージャーニーを、チャネルをまたいでスマートかつ合理的に構築する方法をご確認ください。
+feature: Journeys
+topic: Personalization, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2478
 last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-18444
-source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
+exl-id: 1db0a9de-d5ea-4304-a1bc-6867ba5434f0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
 # Journey Optimizer Essentials
 
-パーソナライズされた AI 駆動型ジャーニーでカスタマーエクスペリエンスを向上させます。 お価値の高いウェビナーにご参加ください。Adobe Journey Optimizerの基本事項を順を追って説明し、お客様とのやり取りを簡単に設計、調整、最適化できるよう支援します。
+パーソナライズされたAI主導のジャーニーで顧客体験を向上させましょう。 アドビのウェビナーでは、Adobe Journey Optimizerの機能を解説します。顧客とのやり取りを容易に設計、調整、最適化するのに役立つ、価値あるウェビナーをご覧ください。
 
-## 主なディスカッション・ポイント：
+## 主な内容：
 
-* Adobe Journey Optimizerを活用して、シームレスで魅力的なカスタマーエクスペリエンスを作成する方法を説明します。
-* 複数のタッチポイントをまたいだインタラクションを設計、調整、最適化するための主な戦略を説明します。
-* Adobeの強力なツールがエンゲージメントを効率化して最大の効果を得る方法に関するインサイトを得ます。
+* Adobe Journey Optimizerを活用して、シームレスで魅力的な顧客体験を実現する方法をご確認ください。
+* 複数の顧客接点をまたいだインタラクションを設計、調整、最適化するための主要な戦略をご確認ください。
+* Adobeの強力なツールがどのようにエンゲージメントを合理化し、最大の影響を与えるかをご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464440/?learn=on&enablevpops)

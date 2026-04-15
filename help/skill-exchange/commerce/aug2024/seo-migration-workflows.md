@@ -1,29 +1,31 @@
 ---
-title: 成功の検索 – 移行ワークフロー全体で SEO を最大化します
-description: Adobe Commerceを通じて、サイトの SEO の可能性を最大限に引き出し、移行ワークフローを効率化します。 電通の SEO 専門家 Kelly Rasmussen と Annie Whitney が、完全なプラットフォーム移行に関してお客様と協力する様子をご覧ください。 Adobeの Jon Gossett が参加し、SEO のベストプラクティスを深く掘り下げ、検索エンジンでのコンテンツのランクを高め、適切なオーディエンスを引き付ける方法を学びます。 URL 管理から構造化データまで、移行ワークフローをシームレスに処理する方法をより深く理解します。このセッションでは、次の内容について学習します。SEO CMSのベストプラクティスを理解する URL 管理ワークフローのサポート スキーマプロパティの変換
+title: 成功の検索 – 移行ワークフロー全体でSEOを最大化する
+description: Adobe Commerceを利用すれば、サイトのSEO対策を最大限に活用し、移行ワークフローを効率化できます。 電通のSEO専門家であるKelly Rasmussen氏とAnnie Whitney氏が、包括的なプラットフォーム移行によって、どのように顧客と連携するのかをご確認ください。 AdobeのJon Gossett氏が参加し、SEOのベストプラクティスを詳しく解説し、検索エンジンでコンテンツを上位に表示する方法を学び、適切なオーディエンスを惹きつけます。 URL管理から構造化データなど、移行ワークフローをシームレスに処理する方法について理解を深めます。このセッションでは、- SEO CMSのベストプラクティスの紹介URL管理ワークフローのサポート スキーマプロパティの変換について説明します
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Security, Migration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2176
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16081
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 887f8b6b-4a51-4291-b9ca-98b2bee2c5e0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
+# 成功を求める：移行ワークフロー全体でSEOを最大化する
 
-# 成功の検索：移行ワークフロー全体で SEO を最大化する
+Adobe Commerceを利用すれば、サイトのSEO対策を最大限に活用し、移行ワークフローを効率化できます。 電通のSEO専門家であるKelly Rasmussen氏とAnnie Whitney氏が、包括的なプラットフォーム移行によって、どのように顧客と連携するのかをご確認ください。 AdobeのJon Gossett氏が参加し、SEOのベストプラクティスを詳しく解説し、検索エンジンでコンテンツを上位に表示する方法を学び、適切なオーディエンスを惹きつけます。 URL管理から構造化データなど、移行ワークフローをシームレスに処理する方法について理解を深めます。
 
-Adobe Commerceを通じて、サイトの SEO の可能性を最大限に引き出し、移行ワークフローを効率化します。 電通の SEO 専門家 Kelly Rasmussen と Annie Whitney が、完全なプラットフォーム移行に関してお客様と協力する様子をご覧ください。 Adobeの Jon Gossett が参加し、SEO のベストプラクティスを深く掘り下げ、検索エンジンでのコンテンツのランクを高め、適切なオーディエンスを引き付ける方法を学びます。 URL 管理から構造化データに至るまで、移行ワークフローをシームレスに処理する方法をより深く理解します。
+このセッションでは、次のことを説明します。
 
-このセッションで学習する内容は次のとおりです。
-
-* SEO CMSのベストプラクティスを明らかにする
-* URL 管理ワークフローのサポート
+* SEO対策とCMSのベストプラクティス
+* URL管理ワークフローのサポート
 * スキーマプロパティの変換
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433145/?learn=on)

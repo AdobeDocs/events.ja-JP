@@ -1,8 +1,9 @@
 ---
-title: 影響の特定 – Workfront値の測定方法と共有方法
-description: このオンデマンドウェビナーでは、Synchrony の James Hill と Ellen Saltmarsh、EMMsphere の Daniel Clarke が、Workfrontの導入における「理由」の明確な示し、時間とコストの削減などの測定可能な成果の定義、関係者の賛同を得るための成功事例の伝達、価値実現のための段階的なプレイブックの使用といった戦略について説明します。
+title: 効果の明確さ：Workfrontの価値を測定および共有する方法
+description: このオンデマンドウェビナーでは、SynchronyのJames Hill氏とEllen Saltmarsh氏、EMMsphereのDaniel Clarke氏が、Workfront導入の「なぜ」を明確にするための戦略について解説します。時間とコストの削減などの測定可能な成果の定義、関係者の賛同を得るための成功事例の提供、価値実現のためのステップバイステップのプレイブックを活用します。
 topic: Administration
 solution: Workfront
+feature: Work Management, Workfront Fusion
 role: Admin, Leader
 level: Beginner
 doc-type: Event
@@ -10,24 +11,24 @@ duration: 3534
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17413
 exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# 影響の特定 – Workfront値の測定方法と共有方法
+# 効果の明確さ：Workfrontの価値を測定および共有する方法
 
 「価値」が主観的であることが多い場合、どのように価値を定義し、伝えますか？
 
-Adobe Workfrontのお客様にインタビューを行い、どのように価値を定義し、コミュニケーションを取り、成長と拡大を推進しているかを明らかにしました。 固有の課題もありますが、驚くほど多くの傾向と共通点を見つけました。
+アドビは、Adobe Workfront製品を利用している企業を対象に調査をおこない、どのようにビジネス価値を定義し、コミュニケーションを促進して、ビジネスの成長と成長を促進しているのかを明らかにしました。 特有の課題もいくつかありますが、驚くほど多くのトレンドと共通点が見られました。
 
-このオンデマンドウェビナーでは、Synchrony の James Hill と Ellen Saltmarsh、および EMMsphere の Daniel Clarke が、以下の戦略について説明します。
+このオンデマンドウェビナーでは、SynchronyのJames Hill氏とEllen Saltmarsh氏、EMMsphereのDaniel Clarke氏が、次の点について戦略を共有します。
 
-* Workfrontを採用する「理由」を明確にする
-* 時間やコストの削減など、測定可能な成果の定義
-* 関係者の賛同を得るための成功事例の伝達
-* 価値実現のためのステップバイステップのプレイブックの使用
+* Workfrontを導入した「理由」を明確にする
+* 時間やコスト削減などの測定可能な成果の定義
+* 関係者の賛同を得るために成功事例を伝える
+* ステップバイステップ形式のプレイブックを活用して価値を実現
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447501/?learn=on)

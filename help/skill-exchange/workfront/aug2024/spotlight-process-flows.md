@@ -1,28 +1,30 @@
 ---
-title: Experience Makers のスポットライト – プロセスフローのWorkfrontへの変換が優れています
-description: Accenture のAdobe Workfront ソリューションアーキテクトである Victoria Linn が、ビジネス要件を、マーケティングのクリエイティブチームやオペレーションチームに合わせた効果的なリクエストキューに変換する方法。  Quad のWorkfront コンサルタントである Madalyn Destafney 氏が、テンプレートを作成する際に考慮すべき点と一般的な落とし穴に関して説明します。これは、1 つのインスタンス内でも、万能のアプローチがないためです。
+title: Adobe Experience Makers スポットライト：プロセスフローをWorkfrontに変換することで勝利
+description: AccentureのAdobe WorkfrontソリューションアーキテクトであるVictoria Linn氏は、マーケティングにおけるクリエイティブ部門やオペレーション部門に合わせて、ビジネス要件を効果的なリクエストキューに変換しています。  クアッドのWorkfrontコンサルタントであるMadalyn Destafney氏による、テンプレートを作成する際に考慮すべき点と回避すべき一般的な落とし穴に関する専門家のヒント。単一のインスタンス内でも画一的なアプローチは存在しないからです。
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 2741
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16103
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: a3494fbd-803f-4ac3-8d40-c99d61b9d69e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
+# Adobe Experience Makers スポットライト：プロセスフローをWorkfrontに変換することで勝利
 
-# Experience Makers Spotlight：プロセスフローのWorkfrontへの移行が成功
+Workfrontのテンプレートを作成し、チームが実際に使用するリクエストキューを作成することに圧倒されていると感じたことはありませんか？ お前の背中は持っている！ AccentureとQuadの2人のWorkfrontコミュニティアドバイザーが、業務を効率化しながら、ビジネスニーズを満たす実用的なヒントと実例を紹介します。
 
-チームが実際に使用するWorkfront テンプレートやリクエストキューを作成しようとして圧倒されたことはありますか？ お前の背中だ！ アクセンチュアとクアッドの 2 人のWorkfrontコミュニティアドバイザーが、業務を合理化しながら、ビジネスニーズを満たす実用的なヒントや実例を紹介します。
+主な内容：
 
-このセッションでは、次の内容について説明します。
-
-* Accenture のAdobe Workfront ソリューションアーキテクトである Victoria Linn が、ビジネス要件を、マーケティングのクリエイティブチームやオペレーションチームに合わせた効果的なリクエストキューに変換する方法。
-* Quad のWorkfront コンサルタントである Madalyn Destafney 氏が、テンプレートを作成する際に考慮すべき点と一般的な落とし穴に関して説明します。これは、1 つのインスタンス内でも、万能のアプローチがないためです。
+* AccentureのAdobe WorkfrontソリューションアーキテクトであるVictoria Linn氏は、マーケティングにおけるクリエイティブ部門やオペレーション部門に合わせて、ビジネス要件を効果的なリクエストキューに変換しています。
+* クアッドのWorkfrontコンサルタントであるMadalyn Destafney氏による、テンプレートを作成する際に考慮すべき点と回避すべき一般的な落とし穴に関する専門家のヒント。単一のインスタンス内でも画一的なアプローチは存在しないからです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433218/?learn=on)

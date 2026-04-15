@@ -1,31 +1,33 @@
 ---
-title: Adobe Experience Manager Agents の探索
-description: AEM Agents が AI と GitHub の統合によりサイト移行を合理化し、デジタルエクスペリエンスを強化し、配信時間を短縮する方法をご覧ください。
+title: Adobe Experience Manager Agentsについて詳しく見る
+description: AEM Agentsで、AIとGitHubの統合を利用して、サイト移行を合理化し、デジタルエクスペリエンスを強化して、配信時間を短縮する方法をご確認ください。
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Integrations, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1170
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19974
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+exl-id: fb65b8a2-149b-4cb7-bb69-2605ad4b79f3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
 
+# Adobe Experience Manager Agentsの概要
 
-# Adobe Experience Manager Agents の概要
+Adobe Developers Live 2025: Building the Agentic Webでは、サンノゼ、シドニー、バンガロール、バーゼルの開発者、アーキテクト、技術者が集まり、AIとEdge Delivery ServicesがAdobe Experience ManagerやCommerceを活用して、デジタル体験をどのように再定義しているかを調査しました。
 
-Adobe Developers Live 2025: Building the Agentic Web には、サンノゼ、シドニー、バンガロール、バーゼルの開発者、アーキテクト、および技術者が集まり、Adobe Experience ManagerとCommerceで AI とEdge Delivery Servicesがどのようにデジタルエクスペリエンスを再定義しているかを探索しました。
+サンノゼ発のライブ動画を収録したこのセッションでは、web サイトの移行を変革するAIを活用した機能であるAdobe Experience Manager Agentsについて解説します。 AEM Agentsは、GitHubとのシームレスな連携により、ブロックマッピング、コンテンツのインポート、スタイル設定などを自動化し、クリーンでベストプラクティスに即したコードを作成でき、Edge Delivery Servicesへのオンボーディングが加速します。 開発者が移行を簡素化して、配信時間を短縮し、検索および生成エンジンに最適化されたサイトを立ち上げる方法について説明します。
 
-このセッションでは、サンノゼでライブ録画を行い、Web サイトの移行を AI を活用して変える機能であるAdobe Experience Manager エージェントについて紹介します。 シームレスな GitHub 統合により、AEM Agents は、ブロックマッピング、コンテンツの読み込み、スタイル設定を、クリーンでベストプラクティスのコードに自動化し、Edge Delivery Servicesへのオンボーディングを高速化します。 開発者が移行を簡素化し、配信時間を短縮し、検索エンジンや生成エンジン用に最適化されたサイトを開始する方法について説明します。
+>[!VIDEO](https://video.tv.adobe.com/v/3477620/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3477661/?captions=jpn&learn=on&enablevpops)
-
-Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
+Adobe Developers Live 2025を支援してくださったスポンサーのAlgoliaとEnsembleに感謝いたします。
 
 ## 次の手順
 
-* [Experience League](https://adobe.ly/47ss08A) で会話を続ける
-* Discover [&#x200B; 今後のイベント &#x200B;](https://developerevents.adobe.com)
+* [Experience League](https://adobe.ly/47ss08A)で会話を続ける
+* [今後のイベント ](https://developerevents.adobe.com)を見つける

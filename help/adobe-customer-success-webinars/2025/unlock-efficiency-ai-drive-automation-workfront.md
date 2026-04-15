@@ -1,28 +1,30 @@
 ---
-title: 効率化の実現 – Adobe Workfrontの AI 駆動型自動処理
-description: Adobe Workfrontの AI 駆動型オートメーションが、どのようにプロジェクト管理を合理化し、効率を高め、よりスマートでデータ駆動型の意思決定をサポートするかを説明します。
+title: Adobe WorkfrontのAIを活用した自動化で、効率を向上
+description: Adobe WorkfrontのAIを活用した自動化が、プロジェクト管理を合理化し、効率を高め、よりスマートでデータにもとづいた意思決定をサポートする方法をご確認ください。
+feature: Resource Management
+topic: Administration, Integrations
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3379
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18241
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 7d8d5e87-52d9-4b4a-a123-b9e2a3e4f065
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# 効率性を引き出す：Adobe WorkfrontのAIを活用した自動化
 
-# 効率化の扉を開く：Adobe Workfrontの AI 駆動型自動処理
+このセッションでは、Adobe WorkfrontのAIを利用した自動化が、プロジェクト管理を合理化し、手作業を削減して、全体的な効率を向上させる方法を解説します。 よりスマートに作業をおこない、Workfrontの潜在能力を最大限に引き出すためのベストプラクティスと高度な機能をご紹介します。
 
-このセッションでは、Adobe Workfrontの AI 駆動型オートメーションによって、プロジェクト管理を合理化し、手動タスクを排除し、全体的な効率を向上させる方法について説明します。 よりスマートに作業し、Workfrontの可能性を最大限に活用するのに役立つ、ベストプラクティスと高度な機能について説明します。
+主な討議ポイント
 
-主な議論のポイント
-
-* AI を活用した作業自動化：タスクの割り当てを自動化し、プロジェクトのリスクを予測し、リソース管理を最適化する方法
-* 自動化によるワークフローの合理化：自動化されたワークフロー、承認および通知の設定およびカスタマイズを行って、効率を高め、手動での作業を減らします
-* データに基づく意思決定：AI に基づくインサイトと分析を探索し、プロジェクト予測、ワークロードバランシング、リアルタイムの意思決定を改善します
+* AIを活用した作業の自動化：タスクの割り当てを自動化して、プロジェクトリスクを予測し、リソース管理を最適化する方法
+* 自動化によるワークフローの合理化：自動化されたワークフロー、承認、通知を設定およびカスタマイズして、効率を高め、手作業を削減します
+* データ主導の意思決定：AIを活用したインサイトと分析により、プロジェクトの予測、ワークロードのバランス、リアルタイムの意思決定を改善できます
 
 >[!VIDEO](https://video.tv.adobe.com/v/3463352/?learn=on&enablevpops)

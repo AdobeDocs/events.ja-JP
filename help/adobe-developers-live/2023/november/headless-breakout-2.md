@@ -1,7 +1,8 @@
 ---
-title: Adobe Developers Live - 11 月 23 日（PT） – ヘッドレスの概要 2
-description: Adobe Developers Liveによるこの有益なセッションでは、Gabriel Walt と Alex Tondo が、Adobe.comがAdobe Experience Managerのユニバーサルエディターをどのように使用してコンテンツ戦略を強化するかについて説明します。 2023 年 11 月 6 日（PT）に録画されたこの WYSIWYG エディターの、コンテンツ配信プロセスを合理化する際の機能と、コンテンツオーサリングを簡素化する際の役割について説明します。 このセッションは、AEMのコンテンツツールを効果的に使用して、動的で魅力的なデジタルエクスペリエンスを実現する方法を理解したいユーザーに最適です。
+title: Adobe Developers Live - 11月23日 – ヘッドレスブレイクアウト 2
+description: Adobe Developers Liveのこのセッションでは、Gabriel Walt氏とAlex Tondo氏が、Adobe.comがAdobe Experience Managerのユニバーサルエディターを使用してコンテンツ戦略を強化する方法についてインサイトを共有します。 2023年11月6日に記録されたこの記事では、WYSIWYGエディターがコンテンツ配信プロセスを合理化する能力と、コンテンツ編集を簡素化する役割について解説します。 このセッションは、ダイナミックで魅力的なデジタル体験を実現するために、AEMのコンテンツツールを効果的に使用する方法を理解したい方に最適です。
 solution: Experience Manager,Experience Manager Sites
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,17 +14,17 @@ jira: KT-14425
 thumbnail: 3425635.jpeg
 exl-id: ee24d39f-0440-459c-b5c8-b05f2ab2e6c3
 duration: 1963
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Adobe Developers Live ヘッドレスの概要 2 - 2023 年 11 月
+# Adobe Developers Live Headless Breakout 2 - 2023年11月
 
-Adobe Developers Liveによるこの有益なセッションでは、Gabriel Walt と Alex Tondo が、Adobe.comがAdobe Experience Managerのユニバーサルエディターをどのように使用してコンテンツ戦略を強化するかについて説明します。 2023 年 11 月 6 日（PT）に録画されたこの WYSIWYG エディターの、コンテンツ配信プロセスを合理化する際の機能と、コンテンツオーサリングを簡素化する際の役割について説明します。 このセッションは、AEMのコンテンツツールを効果的に使用して、動的で魅力的なデジタルエクスペリエンスを実現する方法を理解したいユーザーに最適です。
+Adobe Developers Liveのこのセッションでは、Gabriel Walt氏とAlex Tondo氏が、Adobe.comがAdobe Experience Managerのユニバーサルエディターを使用してコンテンツ戦略を強化する方法についてインサイトを共有します。 2023年11月6日に記録されたこの記事では、WYSIWYGエディターがコンテンツ配信プロセスを合理化する能力と、コンテンツ編集を簡素化する役割について解説します。 このセッションは、ダイナミックで魅力的なデジタル体験を実現するために、AEMのコンテンツツールを効果的に使用する方法を理解したい方に最適です。
 
-[Experience League コミュニティ &#x200B;](https://adobe.ly/46ELi7X) で会話を続けます。
+[Experience League Communities](https://adobe.ly/46ELi7X)でやり取りを続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

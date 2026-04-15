@@ -1,6 +1,8 @@
 ---
-title: リアルタイムデータ収集およびアクティベーション戦略の開発
-description: データ収集戦略を活用およびアクティブ化して、顧客や見込み客とのよりタイムリーなインタラクションを実現します。
+title: リアルタイムのデータ収集とアクティベーション戦略の策定
+description: データ収集戦略を活用し、活用することで、顧客や見込み顧客とよりタイムリーなやり取りを提供できます。
+feature: Data Governance, Identities
+topic: Development
 role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Event
@@ -9,20 +11,20 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14666
 thumbnail: 3426006.jpeg
 exl-id: 32fdeb70-9b5f-449c-8e96-da2bd3de7cc9
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# リアルタイムデータ収集およびアクティベーション戦略の開発
+# リアルタイムのデータ収集とアクティベーション戦略の策定
 
-データ収集戦略を活用してアクティブ化し、顧客や見込み客とのよりタイムリーなインタラクションを実現します。
+データ収集戦略を活用し、活用することで、顧客や見込み顧客とよりタイムリーなやり取りを提供できます。
 
-* Real-time CDP の用語のナビゲート
-* データ収集およびアクティベーション機能を最新化するメリット
+* Adobe Real-Time CDPの用語
+* データ収集とアクティベーション機能を近代化する利点
 * アーキテクチャの概要
-* データ収集およびアクティベーション戦略に関する考慮事項
+* データ収集とアクティベーション戦略を成功させるための検討事項
 
->[!VIDEO](https://video.tv.adobe.com/v/3456225/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)

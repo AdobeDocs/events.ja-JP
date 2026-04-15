@@ -1,35 +1,37 @@
 ---
-title: Experience Makers スポットライト
-description: プロジェクトで使用していない可能性のあるいくつかのWorkspace機能について説明します。これらの機能を使用して、ユーザーやWorkspace プロジェクトのエンドユーザーにインサイトを提供する方法を確認します。組織のWorkspace プロジェクトに適用できるユースケースの例をいくつか紹介します。
+title: Adobe Experience Makers スポットライト
+description: プロジェクトで使用できないWorkspace機能について説明します。これらの機能を使用して、ユーザーとWorkspace プロジェクトのエンドユーザーにインサイトを提供する方法について説明します。組織のWorkspace プロジェクトに適用できるユースケースの例をいくつか紹介します。
 solution: Analytics
+feature: Analysis Workspace, Visualizations
+topic: Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2569
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15972
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: b59ee10f-cc6e-4b85-8ea6-ce639e63bf5a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-
-# Experience Makers スポットライト
+# Adobe Experience Makers スポットライト
 
 ## 使用していない可能性のあるAnalysis Workspace機能
 
-ほとんどのビジュアライゼーションの使用方法を把握しています。 様々なコンポーネント（標準提供のコンポーネントとカスタムのコンポーネント）をよく理解しています。 Workspaceのレポートと分析を向上させるために使用できる機能について、あまり知られていないことがわかりましたか？
+ビジュアライゼーションの使用方法をほとんど知っています。 アドビでは、すぐに使えるカスタムコンポーネントを熟知しています。 Workspaceのレポート機能や分析機能には、あまり知られていない機能が多くあります。これらの機能を活用して、レポートを改善しましょう。
 
-このセッションでは、Kaya が以下を共有します。
+このセッションでは、Kayaが以下を共有します。
 
-* プロジェクトで使用していない可能性のあるいくつかのWorkspace機能について説明します
-* これらの機能を使用して、ユーザーとWorkspace プロジェクトのエンドユーザーにインサイトを提供する方法を説明します
+* プロジェクトで使用していないWorkspace機能について説明します
+* これらの機能を使用して、ユーザーとWorkspace プロジェクトのエンドユーザーにインサイトを提供する方法について説明します
 * 組織のWorkspace プロジェクトに適用できるユースケースの例をいくつか紹介します。
 
-## 知っておくべき、Adobe Analyticsの 3 つの隠された宝石
+## Adobe Analyticsの隠れた魅力の3つ
 
-Adobe Analyticsの経験豊富なユーザーでも、初心者でも、見過ごされがちな機能には、エクスペリエンスを大幅に向上させるものがあります。 Gipson は、これらのツールがインターフェイスを簡単にナビゲートし、日々の活動を合理化する方法を共有します。
+Adobe Adobe Analyticsの使い方を熟知しているユーザーにとっても、始めたばかりのユーザーにとっても、見落とされがちな機能のいくつかは、エクスペリエンスを大幅に向上させます。 Gipson氏は、これらのツールがインターフェイスをスムーズに操作し、日々の活動を合理化するのにどのように役立つかを共有します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432744/?learn=on)

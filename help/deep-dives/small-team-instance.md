@@ -1,6 +1,8 @@
 ---
-title: 小規模なチームがAdobeインスタンスを最大限に活用する方法  [!DNL Marketo Engage]  説明します
-description: 小規模なチームまたはチームで、Adobeのインスタンス  [!DNL Marketo Engage]  サポートする方法について話し合います。
+title: 小規模なチームがAdobe [!DNL Marketo Engage]  インスタンスを最大化する方法について説明します
+description: 小規模なチームまたは1つのチームでAdobe [!DNL Marketo Engage] のインスタンスをサポートする方法について説明します。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,17 +11,17 @@ jira: KT-13023
 thumbnail: 3417670.jpeg
 exl-id: bcba7f0e-8de0-47b3-adfc-75eb5b756031
 duration: 4002
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# 小規模なチームでインスタンスを最大化する方法を説明します
+# 小規模なチームがインスタンスを最大化する方法を学ぶ
 
-現在のAdobe[!DNL Marketo Engage] チャンピオンズ、ダーシル・シャー、ジェニー・ロバートソン、ジョイ・マルティネスが、Adobe[!DNL Marketo Engage] ームのインスタンスを少人数のチームまたはチームでどのようにサポートしてきたかについて話し合います。 また、当社のチャンピオンは、多くのリソースを必要とせずに成功を収めた方法、これが彼らのキャリアにどのように役立ったのか、彼らのインスタンス内で見ることができた肯定的な結果についても話します。
+現在のAdobe [!DNL Marketo Engage] チャンピオン、Darshil Shah、Jenny Robertson、Joy Martinezが、小規模なチームまたは1 チームでAdobe [!DNL Marketo Engage]のインスタンスをどのようにサポートしているかを話し合います。 チャンピオンは、多くのリソースを持たずに成功を収めた方法、これが彼らのキャリアにどのように役立ったのか、そして彼らがインスタンス内で見ることができた肯定的な結果についても話し合います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-セッションスライドの **[pdf バージョン](assets/small-team-instance.pdf){target="_blank"}** をダウンロードします。
+セッションスライドの&#x200B;**[pdf バージョン](assets/small-team-instance.pdf){target="_blank"}**&#x200B;をダウンロードします。

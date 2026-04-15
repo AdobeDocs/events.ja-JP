@@ -1,7 +1,8 @@
 ---
-title: ワークフローとプロセスデザインのウェビナー
-description: Workfrontでのスケーリングプロセスについて同業者から学びます。 Workfront外でのワークフローのドキュメント化とデザインが重要な理由を確認し、オンデマンドウェビナーで T-Mobile のエキスパートからヒントを得ることができます。
+title: ワークフローおよびプロセス設計のウェビナー
+description: Workfrontでプロセスを拡張する方法について、同業者から学びましょう。 Workfront以外でのワークフローのドキュメント化とデザインが重要な理由や、T-Mobileのエキスパートによるヒントをオンデマンドウェビナーでご確認ください。
 feature: Work Management
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,22 +11,22 @@ duration: 3714
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15817
 exl-id: 0355b630-0d15-460b-b434-79b846f216fd
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
-# ワークフローとプロセスデザインのウェビナー
+# ワークフローおよびプロセス設計のウェビナー
 
-Workfrontでのエクスペリエンスが増えるにつれて、自分自身やチーム（および他のチーム）がWorkfrontで管理したいプロセスも間違いなく増加します。 構築を開始する前に、最初にWorkfrontの外部で新しいプロセスをドキュメント化し設計することをお勧めします。 なぜそんな事を？ どんな風に見える？
+Workfrontの利用エクスペリエンスの拡大に伴い、Workfrontで管理したいと考えるプロセスも増えていくことは間違いありません。 構築を開始する前に、まずWorkfront以外で新しいプロセスを文書化して設計することをお勧めします。 訪ねてきましたが？ ではその企業文化とはどのようなものでしょうか？
 
-このオンデマンドウェビナーでは、Adobe Workfrontのプリンシパルコンサルタントである Didi Dunn と、T-Mobile の 2 人のWorkfront エキスパートが、以下について説明します。
+このオンデマンドウェビナーでは、Adobe WorkfrontのプリンシパルコンサルタントであるDidi Dunn氏と、T-Mobileの2人のWorkfront専門家が解説します。
 
 * Workfrontでワークフローを作成する前に考慮すべき重要な要素
-* プロセスの要件を完全に理解するために尋ねることができる、推奨される質問のリスト
-* この新しいプロセスに影響を与え、支持するための理想的なワーキンググループを結成するためのヒント
-* T-Mobile が毎年多数の戦略的実装を管理する方法に関する直接的な経験と教訓
+* プロセス要件を完全に理解するために必要な、推奨される質問のリスト
+* この新しいプロセスに影響を与え、支持するために理想的なワーキンググループを編成するためのヒント
+* T-Mobileは、自社が毎年どのように多くの戦略的実装を管理しているのか、その経験と教訓を共有しました
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431011/?learn=on)

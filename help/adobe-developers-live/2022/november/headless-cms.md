@@ -1,7 +1,8 @@
 ---
-title: Adobe Developers Live - 11 月 22 日（PT） – Adobe Experience Manager as a Headless CMS - 「場所/タイミング/理由」
-description: ヘッドレス CMS としてのAdobe Experience Manager – 導入場所/時期/理由このセッションでは、Adobe Experience Managerを使用してヘッドレス CMS を様々な方法で実装する方法を説明します。 SPAこのセッションでは、以下について説明します。エクスポーター/サーブレットを使用したコンテンツサービス アセット API を使用したコンテンツフラグメント（デモ） Graphql を使用したコンテンツフラグメント（デモ） コンテンツフラグメントの使用とそのアプローチに関するいくつかのリアルタイムのユースケース（選択時期に関するいくつかのソリューションアプローチ）（デモ）
+title: Adobe Developers Live - 11月22日 – Adobe Experience Manager as a Headless CMS - Where/When/Why?
+description: Adobe Experience Manager as a ヘッドレス CMS – どこで、いつ、なぜ？このセッションでは、Adobe Experience Managerを介してヘッドレス CMSを実装する方法を様々な方法で説明します。 このセッションでは、次の項目について説明します。エクスポーター/サーブレットを介したコンテンツサービス アセット APIを介したコンテンツフラグメント（デモ） Graphqlを介したコンテンツフラグメント（デモ）コンテンツフラグメントの使用に関するリアルタイムのユースケースとそのアプローチ SPA エディターの学習（選択するタイミングに関するいくつかのソリューションアプローチ） （デモ）
 solution: Experience Manager,Experience Manager Sites
+feature: Authoring, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,21 +14,21 @@ kt: 11475
 thumbnail: 3411299.jpeg
 exl-id: 5280276d-ce7d-401d-bc7a-3e37698b678d
 duration: 2356
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager as a Headless CMS – 場所/タイミング/理由
+# Adobe Experience Manager as a Headless CMS - Where/When/Why?
 
-このセッションでは、Adobe Experience Managerを使用してヘッドレス CMS を様々な方法で実装する方法を説明します。 このセッションの内容は次のとおりです。
+このセッションでは、Adobe Experience Managerを介してヘッドレスCMSを実装する方法について説明します。 主な内容：
 
-* エクスポーター/サーブレットを使用したコンテンツサービス
-* アセット API を使用したコンテンツフラグメント（デモ）
-* Graphql を使用したコンテンツフラグメント（デモ）
-* コンテンツフラグメントの使用とそのアプローチに関するいくつかのリアルタイムユースケース
-* SPA Editor の習得事項（選択時期に関するいくつかのソリューションアプローチ）（デモ）
+* エクスポーター/サーブレット経由のコンテンツサービス
+* アセット API経由のコンテンツフラグメント（デモ）
+* Graphql経由のコンテンツフラグメント（デモ）
+* コンテンツフラグメントの使用とそのアプローチに関するリアルタイムのユースケース
+* SPA エディターの学習内容（選択するタイミングに関する一部のソリューションアプローチ）（デモ）
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411299/?quality=12&learn=on)

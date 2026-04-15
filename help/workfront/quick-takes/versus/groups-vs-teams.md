@@ -1,7 +1,8 @@
 ---
-title: 対！ - グループとチーム
-description: 構造、共同作業、タスク管理を向上させるために、Adobe Workfrontのグループとチームの違いについて説明します。
+title: 対比！ - グループとチーム
+description: Adobe Workfrontのグループとチームの違いを説明し、より優れた構造、コラボレーション、タスク管理を実現します。
 feature: People Teams and Groups
+topic: Administration, Integrations
 role: Admin
 level: Beginner
 doc-type: Event
@@ -9,29 +10,29 @@ duration: 358
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18552
 exl-id: 1d935e6f-f1e6-4093-96b4-289fb779267f
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-# 対！ - グループとチーム
+# 対比！ - グループとチーム
 
-こんにちは、Workfronters の皆さん、これは「オンデマンドWorkfront CSM」です。 この対で エピソードでは、グループとチームを使用するためのアイデアと推奨事項をいくつか共有します。
+Adobe Workfrontは、「オンデマンドWorkfront CSM」です。 この対で！ エピソードでは、グループとチームの違いを解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3467354/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
 
-グループとチームの詳細を確認する
+グループとチームの概要？
 
-* [&#x200B; グループとチームの機能の比較 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
-* [&#x200B; グループの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
-* [&#x200B; チームの概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
+* [グループとチームの機能比較](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams)
+* [Groups Overview](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/manage-groups/groups/groups)
+* [チームの概要](https://experienceleague.adobe.com/en/docs/workfront/using/teams-groups/create-manage-teams/teams-overview)
 
-共有オブジェクト、アクセスレベルおよび権限に関するボーナス記事を以下に示します。
+オブジェクトの共有、アクセスレベル、権限に関するボーナス記事を以下に示します。
 
-* [&#x200B; オブジェクトに対する継承された権限の表示 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
-* [&#x200B; アクセスレベルと権限の連携方法 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
-* [&#x200B; アクセスレベルでの追加制限の設定 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
+* [オブジェクトに対する継承された権限の表示](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
+* [ アクセスレベルと権限の連携](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
+* [ アクセス レベルで追加の制限を設定](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-新しいアイデアやアプローチに興味がありますか？ [Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events?filters=Workfront) で今後のワークショップにご登録ください。 近いうちにお会いできるのを楽しみにしています。
+新しいアイデアやアプローチに興味がありますか？ 今後のワークショップに登録するには、[Experience League イベント ページ ](https://experienceleague.adobe.com/en/events?filters=Workfront)をご覧ください。 近いうちにお会いできるのを楽しみにしています。

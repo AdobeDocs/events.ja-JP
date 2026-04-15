@@ -1,8 +1,9 @@
 ---
-title: Marketoと Mochas - アトリビューションダッシュボードの記録の基本
-description: Marketoのアトリビューションモデルおよび Performance Insights （MPI）ダッシュボードの習得に関する詳細なセッションでは、Adobeのシニアビジネスアドバイザーである Cynthia Chang とテクニカルアドバイザーである James Leedom が、設定、プログラムトラッキング、データ同期について説明し、マーケティングが売上高と顧客獲得に与える影響を紹介します。
+title: MarketoとMochas：アトリビューションダッシュボードの基本的なレコーディング
+description: AdobeのシニアビジネスアドバイザーであるCynthia Chang氏とテクニカルアドバイザーであるJames Leedom氏が、Marketoのアトリビューションモデルとパフォーマンスインサイト（MPI）ダッシュボードの使い方について解説します。ここでは、設定、プログラムのトラッキング、データの同期、マーケティングが売上と顧客獲得に与える影響について解説します。
 feature-set: Marketo Engage
 feature: Performance Insights
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -11,17 +12,17 @@ last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14947
 thumbnail: 3427255.jpeg
 exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Marketoと Mocha：アトリビューションダッシュボードの記録の基本
+# Marketoとモカ：アトリビューションダッシュボードの基本的なレコーディング
 
-このセッションでは、Adobeのシニアビジネスアドバイザーである Cynthia Chang とテクニカルアドバイザーである James Leedom が、Marketoのアトリビューションモデルと、ネイティブのMarketo Performance Insights （MPI）ダッシュボードで実行できることについて知る必要のあるすべての概要を説明します。
+このセッションでは、Adobeのシニアビジネスアドバイザー、Cynthia Chang氏、テクニカルアドバイザーのJames Leedom氏が、Marketoのアトリビューションモデルについて知っておくべきことを解説します。また、Marketo独自のMPI （Performance Insights）ダッシュボードで達成できる目標についても解説します。
 
-アトリビューションダッシュボードを設定する場合、インサイトの価値と品質を最大限に高めるには、適切な設定が重要です。 プログラムトラッキングのベストプラクティスからデータの適切な同期まで、Cynthia と James はダッシュボードを構築するために知る必要のあるすべての事項を順を追って説明します。 これらのツールを活用するメリットを示し、売上高に対するマーケティングの貢献、顧客の獲得への影響、エンゲージメントによるキャンペーンパフォーマンスを紹介します。 いつものように、Q&amp;A 中にお客様の質問に答えます。
+アトリビューションダッシュボードを設定する際には、インサイトの価値と品質を最大化するために、適切な設定が不可欠です。 プログラムの追跡のベストプラクティスからデータの適切な同期まで、CynthiaとJamesは、ダッシュボードを構築するために必要なあらゆる知識を提供します。 これらのツールを活用する利点を紹介し、マーケティングが収益に与える影響、顧客獲得に与える影響、エンゲージメントごとのキャンペーン成果を明らかにします。 質疑応答では、お客様からの質問に答えます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427255/?learn=on)

@@ -1,35 +1,38 @@
 ---
-title: Commerce Intelligenceで休日に備えれる
-description: ホリデーシーズンに e コマースデータを成功に使用する方法については、このウェビナーをご覧ください。
-landing-page-description: ホリデーシーズンに e コマースデータを成功に使用する方法については、録画済みのウェビナーをご覧ください。
-short-description: ホリデーシーズンに e コマースデータを成功に使用する方法については、録画済みのウェビナーをご覧ください。
+title: Commerce Intelligenceによるホリデーシーズンへの対応
+description: このウェビナーでは、ホリデーシーズンにe コマースデータを活用して成功を収める方法を解説します。
+landing-page-description: この録画されたウェビナーでは、ホリデーシーズンにe コマースデータを活用して成功を収める方法を解説しています。
+short-description: この録画されたウェビナーでは、ホリデーシーズンにe コマースデータを活用して成功を収める方法を解説しています。
 kt: 10409
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Headless, Performance, Commerce
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 9c05e0c7-50cd-42e8-bf7a-7e278b7060bc
 duration: 3197
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 0%
+source-wordcount: '220'
+ht-degree: 4%
 
 ---
 
-# Commerce Intelligenceで休日に備えれる
+# Commerce Intelligenceによるホリデーシーズンへの対応
 
 >[!NOTE]
 >
->Adobe Commerce Intelligenceは、以前は [!DNL Magento Business Intelligence (MBI)] として知られていました。 過去のイベントの録画には、以前の名前が反映されます。
+>Adobe Commerce Intelligenceは以前[!DNL Magento Business Intelligence (MBI)]と呼ばれていました。 過去の出来事の記録は以前の名前を反映しています。
 
-ホリデーシーズン中に成功するために e コマースデータを使用します。 このウェビナーでは、季節分析の一般的なユースケースと、主要な MBI 機能を使用して対処するための方法について重点的に説明します。
+ホリデーシーズン中の成功に、e コマースデータを活用しましょう。 このウェビナーでは、以下のような主要なMBI機能を使用して、季節分析の一般的なユースケースとそれに対応する方法について解説します。
 
-- 新しい在庫トラッキングレポートを作成し、電子メールの概要を介して毎日更新を送信することで、在庫切れを回避します
-- 計算列を使用して、主要な日付（ブラックフライデーなど）の前年比パフォーマンスに関するレポートを作成することにより、今年の販売戦略の調整が及ぼす影響を判断します
-- 既存のレポートと新しいレポートを一元化されたホリデーレポートダッシュボードに組み合わせることで、複数の KPI をまたいでストアのホリデーパフォーマンスの注目すべき変更にすばやく対応します
+- 新しい在庫追跡レポートを作成し、電子メールの要約を通じて日々の最新情報を送信することで、在庫切れを回避します
+- 計算列を使用して、重要な日付（ブラックフライデーなど）に関する前年比パフォーマンスに関するレポートを作成することで、今年の販売戦略調整の影響を判断します
+- 既存のレポートと新しいレポートを一元化されたホリデーレポートダッシュボードに組み合わせることで、複数のKPIにまたがるストアのホリデーパフォーマンスの顕著な変化にすばやく対応できます
 
-## このビデオの目的は誰ですか。
+## この動画は誰のためのものでしょうか？
 
 - ビジネスユーザー
 - データアナリスト
@@ -38,7 +41,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342496?quality=12&learn=on)
 
-## 役に立つリソース
+## 役立つリソース
 
-[Commerce Intelligence ユーザーガイド &#x200B;](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)
-[Commerce Intelligence サポート &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=ja)
+[Commerce Intelligence ユーザーガイド](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=ja)
+[Commerce Intelligence サポート ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

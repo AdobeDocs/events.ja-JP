@@ -1,31 +1,33 @@
 ---
-title: Adobeの AI プロジェクト – 実践編
-description: Adobe プロジェクトの実際の AI アプリケーションを探索し、デジタルエクスペリエンスを強化し、コストを削減します。
+title: ADOBEプロジェクトのAI：実践的なストーリー
+description: Adobeプロジェクトで、実際のAIを活用して、デジタル体験を向上させ、コストを削減する方法をご紹介します。
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Migration, Content Supply Chain
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1138
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19972
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 6230722b-2cf7-45fd-9c5f-0a06d475309f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '162'
 ht-degree: 1%
 
 ---
 
+# ADOBEプロジェクトのAI：実践的な事例
 
-# Adobeの AI プロジェクト：実践編
+Adobeのプロジェクトで、AIを利用して、どのようにデジタル体験を変革できるのかを解説します。 AIがコンテンツ制作、サイト検証、プロジェクト計画をどのように強化し、効率性を高め、コストを削減するかを学びましょう。 Adobe Experience Manager、Adobe Commerce、Edge Delivery ServicesのAI ツールの革新的な用途を紹介する記事をご確認ください。
 
-AI が、実際のアプリケーションを通じて、Adobe プロジェクトのデジタルエクスペリエンスをどのように変革するかをご確認ください。 AI がコンテンツの作成、サイトの検証、プロジェクト計画を強化して、効率を高め、コストを削減する方法を説明します。 Adobe Experience Manager、Adobe Commerce、Edge Delivery Servicesでの AI ツールの革新的な使用方法を紹介するストーリーを掘り下げます。
+>[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3477626/?captions=jpn&learn=on&enablevpops)
+「Love Actually: Three Practical Stories of Using AI in Adobe Projects」では、Mark McConnell氏（Ensemble）が、生成AI サービス「Generative AI Services」を活用したプロトタイプとコンテンツSupply chainの高速化、「AEM Edge Delivery Services」のAIを活用した移行バリデーター、自動サイト評価とレポート作成のエージェント型アプローチという3つの実際のアプリケーションを紹介します。 サンノゼからライブ録音。
 
-このセッション「Love Actually: Three Practical Stories of Using AI in Adobe Projects」では、ジェネレーティブ AI サービスによるプロトタイプとコンテンツSupply chainの高速化、AEM Edge Delivery Services向けの AI を活用した移行バリデーター、自動化されたサイト評価とレポートへのエージェンティックなアプローチの 3 つの実世界のアプリケーションを紹介する Mark McConnell （Ensemble）を特集します。 サンノゼでライブ録画。
-
-Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
+Adobe Developers Live 2025を支援してくださったスポンサーのAlgoliaとEnsembleに感謝いたします。
 
 ## 次の手順
 
-* [Experience League](https://adobe.ly/47ss08A) で会話を続ける
-* Discover [&#x200B; 今後のイベント &#x200B;](https://developerevents.adobe.com)
+* [Experience League](https://adobe.ly/47ss08A)で会話を続ける
+* [今後のイベント ](https://developerevents.adobe.com)を見つける

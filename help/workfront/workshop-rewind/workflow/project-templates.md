@@ -1,42 +1,43 @@
 ---
-title: Workfrontクラウドソースチャレンジ – プロジェクトテンプレート
-description: Ologie が、設定をシンプル化、レポートを改善、プロセスの柔軟性を維持するための実用的なヒントを使用して、Adobe Workfront プロジェクトテンプレートを合理化する方法を説明します。
+title: Workfront Crowdsource Challenge - プロジェクトテンプレート
+description: OlogieがAdobe Workfront プロジェクトテンプレートを合理化する方法について、設定の簡素化、レポートの改善、プロセスの柔軟性の維持に関する実用的なヒントを紹介します。
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
 
+# Workfront Crowdsourceの課題：プロジェクトテンプレート
 
-# Workfrontクラウドソースの課題：プロジェクトテンプレート
-
-このワークショップは 2025 年 4 月 8 日に開催され、Workfrontのストーリーを語った Ross Barton と Lindsay Love が特集されました。  私たち Workfronters は、他のお客様がどのようにシステムを設定し、プロセスを管理しているかを常に見る機会を求めているので、これは素晴らしい機会でした。
+このワークショップは2025年4月8日に録音され、OlogieのRoss BartonとLindsay LoveがWorkfrontのストーリーを共有し、お客様の声に耳を傾けました。  「私たちはAdobe Workfrontを活用して、他のお客様がどのようにシステムを構成し、プロセスを管理しているかを常に把握する機会を探しています。この機会は素晴らしい機会でした」
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469962/?learn=on&enablevpops)
 
-オンデマンド録画に加えて、チャットで共有されたスライドデッキとヒントも含まれています。  
+オンデマンド録画に加えて、スライドデッキとチャットで共有されたヒントを含めました。  
 
-* [&#x200B; スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=ja)
+* [スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## ヒント
 
-* プログラムを使用し、フェーズと成果物を別々の小さなプロジェクトに分割します。 個別のカスタムフォームの「キャンペーン」フィールドを使用して、プロジェクトをさらに分類しますが、レポートのグループ化に使用できます。 
-* タスクの説明を使用して説明に詳しい情報を入力すると、一部のタスクの量を減らすことができます。  （ユーザーが「説明」フィールドを列として使用しているビューを使用していることを確認します）。 
-* 最初のプロジェクトテンプレートを小さく保ち、スコープが増加した場合に柔軟性を持たせるには、Bolt-on または Add-on Templates を使用します。 
-* ハンドオフがある場合、またはレポートに不可欠なタスクに対してのみ、異なるタスクを作成します。 
-* 「プロジェクト設定」作業を 1 つのタスクに制限し、必要に応じて、説明やカスタムFormsに情報を含めます。 
-* カスタムフォームをロジックと共に使用すると、プロジェクトを作成する際にクライアントに対して行う必要がある質問と、実行する必要があるすべての手順は、「実行者」が行うカスタムフォームの詳細になります。 テンプレートはシンプルにします。 
-* 完了とマークする必要があるタスクではなく、「何を行う必要があるか」をカスタムフォームフィールドに入力できるよう、カスタムフォームデータでビューを使用する。 
+* プログラムを使用し、フェーズと成果物を小さなプロジェクトに分割します。 別のカスタムフォーム「キャンペーン」フィールドを使用して、プロジェクトをさらに細分化しますが、レポートのグループ化には使用できます。 
+* タスクの説明を使用して、説明に詳細な情報を記載し、一部のタスクを削減できるようにします。  （ユーザーが説明フィールドを列として持つビューを使用していることを確認してください）。 
+* ボルトオンテンプレートまたはアドオンテンプレートを使用して、初期プロジェクトテンプレートを小さく抑え、範囲が拡大した場合に柔軟に対応します。 
+* ハンドオフがある場合や、レポートに不可欠なタスクの場合にのみ、異なるタスクを作成します。 
+* 「プロジェクト設定」の取り組みを1つのタスクに制限し、必要に応じて説明またはカスタム Formsに情報を含めます。 
+* カスタムフォームをロジックと共に使用すると、クライアントに対して行う必要があるプロジェクトを構築する際に、必要な質問をすべて実行する必要があります。実行する必要がある「Do-ers」のカスタムフォームの詳細に従って、必要な手順をすべて実行できます。 テンプレートはシンプルにする： 
+* カスタムフォームデータでビューを使用して、「完了」をマークする必要があるタスクではなく、カスタムフォームフィールドで「完了する必要がある」ことを確認します。 
 
-このチャットで見た最大のテーマの 1 つは、プロジェクトテンプレートをシンプルに保とうとしながら、労力を追跡し、チームがプロジェクトの完了に必要なすべての手順を確実に実行できるようにするという課題でした。  
+チャットで目にした最大のテーマのひとつは、プロジェクトテンプレートをシンプルにしつつ、その労力を追跡し、プロジェクトを完了するために必要なあらゆるステップをチームが確実に実行できるという課題でした。  
 
- 今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) を確認し、登録してください。
+ 今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント ](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。

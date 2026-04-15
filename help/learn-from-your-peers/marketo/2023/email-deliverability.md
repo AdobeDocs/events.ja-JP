@@ -1,9 +1,10 @@
 ---
-title: Marketo Engageによるメール配信品質の向上
-description: このウェビナーでは、メール配信品質に寄与する要因について説明します。  E メールのパフォーマンス・レポート、People のパフォーマンス・レポート、スマート・リストを使用して現在の状態を評価します。  検証プロトコル、データベース品質の維持、正確なターゲティングの使用など、メール配信品質に対するリスクを軽減するための手順。
+title: Marketo Engageで電子メールの配信品質を向上
+description: このウェビナーでは、メールの配信品質を左右する要因について解説します。  メールパフォーマンスレポート、人物パフォーマンスレポート、スマートリストを使用した現在の状況の評価。  検証プロトコル、データベース品質の維持、正確なターゲティングの使用など、メール配信のリスクを軽減するための手順を解説します。
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Smart Lists, Deliverability, Reporting
+topic: Performance
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -12,21 +13,21 @@ jira: KT-13911
 thumbnail: 3423966.jpeg
 exl-id: c6b9cb51-fb81-41e7-b100-9cb2029c43dc
 duration: 2563
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Marketo Engageによるメール配信品質の向上
+# Marketo Engageで電子メールの配信品質を向上
 
-この「仲間から学ぶ」ウェビナーにAdobe Marketo チャンピオンのベス massura が参加し、メールの配信品質に影響を与える要因の評価、危険信号に基づく行動、Marketo Engage内の組み込み機能を使用した優れた配信品質の確保について説明します。
+この「同業者から学ぶ」ウェビナーでは、Adobe Marketo ChampionのBeth Massura氏が、Marketo Engageの組み込み機能を使用して、メールの配信品質に影響を与える要因を評価し、レッドフラグに基づいて行動し、優れた配信品質を確保する方法を解説します。
 
-このウェビナーでは、以下について説明します。
+このウェビナーでは、次の項目について解説します。
 
-* メールの配信品質に影響する要因は何ですか。
-* E メールのパフォーマンス・レポート、People のパフォーマンス・レポート、スマート・リストを使用して現在の状態を評価します。
-* 検証プロトコル、データベース品質の維持、正確なターゲティングの使用など、メール配信品質に対するリスクを軽減するための手順。
+* 電子メールの配信品質を左右する要因。
+* メールパフォーマンスレポート、人物パフォーマンスレポート、スマートリストを使用した現在の状況の評価。
+* 検証プロトコル、データベース品質の維持、正確なターゲティングの使用など、メール配信のリスクを軽減するための手順を解説します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423966/?learn=on)

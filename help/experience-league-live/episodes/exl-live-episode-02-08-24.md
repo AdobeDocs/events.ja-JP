@@ -1,61 +1,62 @@
 ---
-title: ユースケースプレイブックやセルフサービステンプレートを使用して e コマースエンゲージメントを強化し、数回クリックするだけで e コマースユースケースをデプロイできます。
-description: Adobe Real-Time CDPとAdobe Journey Optimizerのユースケースプレイブックを簡単にデプロイし、e コマースのカスタマーエンゲージメントを向上させる可能性を活用する方法を説明します。
+title: ユースケースプレイブックやセルフサービステンプレートを利用して、数回クリックするだけでe コマースエンゲージメントを強化できます
+description: Adobe Real-Time CDPとAdobe Journey Optimizerのユースケースプレイブックを容易に導入し、デジタルコマースの顧客エンゲージメントを向上させる方法を解説します。
 jira: KT-14791
 solution: Experience Platform, Real-Time Customer Data Platform
 feature: Playbooks
+topic: Personalization, Commerce
 event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
 exl-id: 8e820234-2c73-46dc-aa85-f1f089e4ae8e
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '662'
-ht-degree: 0%
+source-wordcount: '719'
+ht-degree: 5%
 
 ---
 
-# ユースケースプレイブック、数クリックでユースケースをデプロイするセルフサービステンプレート
+# ユースケースプレイブック、セルフサービステンプレートにより、数回クリックするだけでユースケースを展開
 
-ユースケースプレイブックの紹介 – Real-Time CDPとJourney Optimizerにある、業界固有のユースケースプレイブックの実用的なカタログ。 ユースケースプレイブックと、それらがマーケティング目標を実装オブジェクトに翻訳する方法について説明します。 ビジネスへの影響とコラボレーションを加速させる、一般的なユースケースの構築とデプロイに向けて、組織をすぐに開始する方法を説明します。
+Introducing Use Case Playbooks - Real-Time CDPとJourney Optimizerに含まれる、業界固有のユースケースプレイブックカタログです。 ユースケースプレイブックについて学び、そのプレイブックがどのようにマーケティング目標を実装オブジェクトに変換するのかを学びます。 ここでは、一般的なユースケースの構築とデプロイに向けて、組織を活性化し、ビジネスへの影響やコラボレーションを加速させる方法を紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
->[!BEGINSHADEBOX  「ご質問がある場合」 ]
+>[!BEGINSHADEBOX  「質問がありますか？」 ]
 
-引き続き、このトピックに関するディスカッションをAdobe Experience League[&#x200B; コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=ja#M488) で行います。
+このトピックに関するディスカッションは、Adobe Experience League [ コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488)で続けてください。
 
 >[!ENDSHADEBOX]
 
-ユースケースプレイブックは、次の 2 つの主な課題に対処するために作成されました。
+ユースケースプレイブックは、CDPのふたつの主要な課題に，
 
-1. **空白ページ障害** – 多くのお客様、特に新規のお客様は、最初にAdobeエクスペリエンスプラットフォームにアクセスしたとき、どこから始めればよいのか、どのように活用すればよいのか分からないと圧倒されます。 ユースケースプレイブックは、特定のマーケティング目標の実装プロセスを通じて導くキュレートされた一連のユースケーステンプレートを提供することで、お客様がこの最初のハードルを克服するのに役立ちます。
+1. **空白ページの問題** – 多くのお客様、特に新規のお客様は、最初にAdobe Experience Platformにアクセスし、どこから始めればよいのか、その機能を活用する方法がわからない場合、圧倒されていると感じます。 ユースケースプレイブックは、特定のマーケティング目標を達成するプロセスをガイドする、ユースケースのテンプレートを厳選して提供することで、この最初の課題を克服するのに役立ちます。
 
-1. **より多くの導入とエンゲージメント** - プレイブックは、事前定義済みのテンプレートと技術ガイダンスを提供することで、お客様がAdobe製品にすばやく慣れ、投資を最大限に活用できるようにすることを目的としています。  これにより、お客様はユースケースをより迅速に実装し、関係者に価値を示し、IT チームとマーケティングチームの共同作業を促進できます。  最終的に、プレイブックは、お客様がAdobeエクスペリエンスプラットフォームから得る採用率と価値を最大限に高めることを目的としています。
+1. **導入とエンゲージメントの促進** - プレイブックは、事前定義済みのテンプレートと技術的なガイダンスを提供することで、お客様がAdobe製品を迅速に導入し、最大限に活用できるよう支援することを目的としています。  これにより、顧客はユースケースをより迅速に導入し、関係者に価値を示して、IT部門とマーケティング部門の連携を促進できます。  最終的に、プレイブックは、Adobe Experience Platformから顧客が得られる採用率と価値を最大化することを目的としています。
 
-このセッションで取り上げるユースケースの例としては、放棄された閲覧や商品のユースケースがあります。 このユースケースの目的は、購入を行う前に閲覧セッションを放棄する顧客の課題を解決することです。 このユースケースでは、結果として得られるオーディエンスセグメントは、購入を完了せずに閲覧セッションを放棄した顧客です。 その後、このセグメントを、パーソナライズされたメッセージやオファーでターゲットにして、購入に戻って完了するように促すことができます。
+このセッションで解説したユースケースの例としては、放棄された閲覧と商品のユースケースがあります。 このユースケースは、購入する前に閲覧セッションを放棄する顧客の課題に対処することを目的としています。 このユースケースの結果として得られるオーディエンスセグメントは、購入を完了せずにブラウジングセッションを放棄した顧客です。 このセグメントは、パーソナライズされたメッセージやオファーでターゲットを絞り込み、再訪問を促して購入を完了することができます。
 
-## 重要ポイント
+## 重要な留意点
 
-* ユースケースプレイブックは、Adobeが Experience Platform の機能を活用して見つけるのに役立つ、キュレートされた一連のユースケーステンプレートです。
-* ユースケースプレイブックが解決を目指す主な課題は、「空白のページ症候群」と、ツール全体でより多くの採用とエンゲージメントが必要であることです。
-* ユースケースプレイブックは、業界とアプリケーション別に分類されているので、お客様はニーズに合った特定のプレイブックを選択できます。
-* お客様は、開発用サンドボックスにプレイブックのインスタンスを作成し、ビジネス要件に合わせてカスタマイズしてから、実稼動用サンドボックスに移動できます。
-* 互換性を確保するために、ユースケースプレイブックから顧客の開発用サンドボックススキーマにスキーマをマッピングすることが重要です。
-* プレイブックは、ジャーニー、セグメント、メッセージの変更など、開発用サンドボックスでさらにカスタマイズできます。
-* ユースケースプレイブック機能は、特定の製品ライセンスに依存しませんが、特定の機能でJourney Optimizerまたは Real-time CDP のライセンスが必要になる場合があります。
-* 今後、お客様が自分でプレイブックを作成できるようにする予定です。
-* ユースケースプレイブック機能は、顧客のフィードバックと提案に基づいて継続的に改善されています。
-* Experience Leagueコミュニティは、ユースケースプレイブック機能に関する質問をしたり、アイデアを共有したり、フィードバックを提供したりするのに最適な場所です。
+* ユースケースプレイブックとは、Adobe Experience Platformの価値を最大限に引き出すための、一連のユースケーステンプレートです。
+* ユースケースプレイブックが対処することを目指す主な課題は、「空白ページ症候群」と、ツール間での導入とエンゲージメントの促進の必要性です。
+* ユースケースプレイブックは、業界とアプリケーションごとに分類されているため、顧客はニーズに合った特定のプレイブックを選択できます。
+* 顧客は、開発サンドボックスでプレイブックのインスタンスを作成し、ビジネス要件に合わせてカスタマイズしてから、実稼動サンドボックスに移動できます。
+* 互換性を確保するために、ユースケースプレイブックのスキーマを顧客の開発サンドボックススキーマにマッピングすることが重要です。
+* プレイブックは、ジャーニー、セグメント、メッセージの変更など、開発サンドボックスで詳細にカスタマイズできます。
+* ユースケースプレイブック機能は、特定の製品ライセンスには依存しませんが、特定の機能では、Journey OptimizerまたはReal-time CDPのライセンスが必要になる場合があります。
+* 将来的には、顧客が独自のプレイブックを作成できるようにする計画もあります。
+* ユースケースプレイブック機能は、顧客のフィードバックと提案にもとづいて継続的に改善されています。
+* Experience Leagueのコミュニティでは、質問をしたり、アイデアを共有したり、ユースケースプレイブック機能に関するフィードバックを提供したりできます。
 
 ## その他のリソース
 
-* **[ユースケースプレイブックの概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=ja){target="_blank"}**
-  *ユースケースプレイブックは、Real-Time CDPまたはAdobe Journey Optimizerを使い始めた際に、何から始めればよいかわからない場合や、目的のユースケースを達成するために適切なアセットを作成する方法がわからない場合に、問題を解決するのに役立ちます。*
+* **[ユースケースプレイブックの概要](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=ja){target="_blank"}**
+  *ユースケースプレイブックは、Real-Time CDPまたはAdobe Journey Optimizerを使い始める際に、何から始めればよいか、目的のユースケースを実現するために適切なアセットを作成する方法が正確にわからない場合に、問題を解決するのに役立ちます。*
 
-* **[ユースケースプレイブックの概要 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=ja){target="_blank"}**
-  *Real-time Customer Data PlatformとAdobe Journey Optimizer向けに設計されたユースケースプレイブック用のアカウントの設定方法を説明します。*
+* **[ユースケースプレイブックの基本を学ぶ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=ja){target="_blank"}**
+  *Real-Time Customer Data PlatformとAdobe Journey Optimizer用に設計されたユースケースプレイブックのアカウントを設定する方法について説明します。*
 
-* **[使用可能なユースケースプレイブック &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=ja){target="_blank"}**
-  *Real-time Customer Data PlatformとAdobe Journey Optimizerで見つけて使用できる、使用可能なすべてのプレイブックの概要については、このページを参照してください。*
+* **[使用可能なユースケースプレイブック](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=ja){target="_blank"}**
+  *このページでは、Real-time Customer Data PlatformおよびAdobe Journey Optimizerで検索して使用できるすべての使用可能なプレイブックの概要を説明します。*

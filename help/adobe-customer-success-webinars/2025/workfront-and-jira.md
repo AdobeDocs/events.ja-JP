@@ -1,22 +1,24 @@
 ---
-title: Workfrontと JIRA - マーケティング作業の管理システムと Development Execution Systems の接続
-description: 現在および将来のニーズに対応するために、レコードのシステム全体で接続されたワークフローをサポートするようにAdobe Workfrontと JIRA の統合を設定および拡張する方法について説明します。
+title: WorkfrontとJIRA：マーケティング業務管理と開発実行システムを連携
+description: 現在および将来のニーズに対応し、記録システム全体で連続性のあるワークフローをサポートするために、Adobe WorkfrontとJIRAの連携を設定および拡張する方法について説明します。
+feature: Work Management, Workfront Fusion
+topic: Integrations, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2435
 last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-18446
-source-git-commit: 062259db0862dc5fb1624932b40a9a6f43d9f0d0
+exl-id: 8e611864-2759-4c71-b563-3acff27ac9db
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
+# Workfront &lt;> JIRA：マーケティング作業管理と開発実行システムを連携する
 
-# Workfront &lt;> JIRA：マーケティング作業の管理と開発の実行システムの連携
-
-Workfrontと JIRA の間で初期統合を設定する方法に関する基本的な理解と、Adobe Workfrontと Atlassian JIRA の間の連携を拡張して、レコードのシステム間で接続されたワークフローについて現在および将来のニーズを満たす方法に関する知識を得ます。
+Adobe WorkfrontとJIRAの間で最初の統合を設定する方法や、Adobe WorkfrontとAtlassian JIRAの間の接続を拡大し、記録システムをまたいで連携したワークフローの現在および将来のニーズに対応する方法について、基礎となる知識を得ます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464442/?learn=on&enablevpops)

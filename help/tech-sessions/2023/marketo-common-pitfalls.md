@@ -1,8 +1,9 @@
 ---
-title: 高度なスマートリストのロジックと一般的な落とし穴
-description: 複雑で高度なスマート・リスト・ロジック、ALL、ANY および高度なフィルタ、複数のトリガー、負のフィルタおよび負の制約、一般的な問題、トラブルシューティングのヒントの概要
+title: 高度なスマートリストロジックと一般的な落とし穴
+description: 複雑で高度なスマートリストロジック、ALL、ANY、高度なフィルター、複数のトリガー、ネガティブフィルターとネガティブな制約、一般的な問題、トラブルシューティングのヒントの概要
 feature-set: Marketo Engage
 feature: Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-13817
 thumbnail: 3422531.jpeg
 exl-id: 334e7cb4-3417-448e-b209-e197bbf0b781
 duration: 2937
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -20,6 +21,6 @@ ht-degree: 0%
 
 # Marketo Engage – 高度なスマートリストロジックと一般的な落とし穴
 
-この最初のセッションでは、複雑で高度なスマートリストロジック、ALL、ANY および Advanced フィルター、複数のトリガー、負のフィルターと負の制約、一般的な問題、トラブルシューティングのヒントの概要について説明します
+この最初のセッションでは、複雑で高度なスマートリストロジック、ALL、ANYおよびAdvanced Filters、複数のトリガー、負のフィルターと負の制約、一般的な問題、トラブルシューティングのヒントについて説明します
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422531/?learn=on)

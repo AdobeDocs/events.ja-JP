@@ -1,29 +1,31 @@
 ---
-title: Workfrontガバナンスとは
-description: オンデマンドウェビナーでWorkfrontのガバナンスについて詳しく説明します。 メイヨークリニックの医学部とWorkfrontの専門家が、小規模で発展的なプラクティスの開始と、包括的なガバナンスへの移行について説明します。
+title: Workfront Governanceとは何ですか？
+description: オンデマンドウェビナーで、Workfrontのガバナンスをご確認ください。 Mayo Clinic College of MedicineとWorkfrontの専門家から、小規模で進化中の手法を始め、包括的なガバナンスを確立する方法について学びましょう。
 role: Admin
 level: Beginner, Intermediate, Experienced
 solution: Workfront
+feature: System Setup and Administration
+topic: Performance, Administration
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15810
 exl-id: bb1959ae-30cc-428c-957a-cb9264641b17
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Workfrontガバナンスとは
+# Workfront Governanceとは何ですか？
 
-ガバナンスは「リーダーシップの問題」に聞こえるかもしれませんが、Workfrontのシステム管理者すべてが対処する必要がある重要な概念です。 良いニュースは、用語の用語集や小さなワーキンググループから始めて、時間の経過と共にプラクティスを発展させることができることです。
+ガバナンスは、「リーダーシップの課題」のように聞こえるかもしれませんが、Workfrontのシステム管理者が対処すべき重要な概念です。 良い知らせとしては、用語集や小規模なワーキンググループをベースに、時間をかけてプラクティスを進化させることができることです。
 
-このオンデマンドウェビナーでは、Workfrontの Success Services 組織のコンサルタントである Tyler Holt と、Mayo Clinic College of Medicine のアプリケーションアナリストである Luke Ramlow が次の内容を説明します。
-* Workfrontのガバナンスの実際の意味
-* 各種ガバナンスの例
-* ガバナンスが時間の経過と共に進化し成熟する方法
-* メイヨークリニック医学部が本格的なガバナンスへの複数年にわたる取り組みを実施（スポイラー警告、それは一夜にして起こったことではない）
+このオンデマンドウェビナーでは、Workfrontのサクセスサービス組織のコンサルタントであるTyler Holt氏と、Mayo Clinic College of MedicineのアプリケーションアナリストであるLuke Ramlow氏がカバーします。
+* Workfrontにおけるガバナンスとは
+* ガバナンスの種類
+* ガバナンスを進化させ、成熟させる方法
+* Mayo Clinic College of Medicineの複数年にわたるガバナンスの本格的な取り組み（スポイラー警告、一夜にして起こるものではありません！）
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431003/?learn=on)

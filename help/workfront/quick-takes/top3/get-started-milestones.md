@@ -1,36 +1,36 @@
 ---
-title: マイルストーンから開始
-description: Workfrontでマイルストーンレポートを実装して、プロジェクトのトラッキングとレポートを効率的に行うための簡単な手順について説明します。
+title: マイルストーンから始める
+description: Workfrontにマイルストーンレポートを導入し、プロジェクトを効率的に追跡および報告する方法をご確認ください。
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Administration, Integrations
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 208
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18644
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: be789393-37e5-477c-b836-7e289e6cb17b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 4%
+source-wordcount: '200'
+ht-degree: 9%
 
 ---
 
+# トップ 3 - マイルストーンの始め方
 
-# 上位 3 - マイルストーンの使用を開始する方法
+マイルストーンパスについて話しましょう！ 「オンデマンドWorkfront CSM」のCynthia Boon氏に話を伺います。私のマイルストーンレポートへの愛情と、簡単に始められると思いました。
 
-マイルストーンパスについて説明します。 これは、オンデマンドWorkfront CSM の Cynthia Boon 氏です。私はマイルストーンレポートに対する愛情を伝えると思いましたし、簡単に使い始めることができると思いました。
+これは、プロジェクトのステータスを探している経営陣や依頼者にとっても最適なレポートです。しかし、プロジェクトの詳細を完全に確認する必要がない可能性があります。
 
-これは、プロジェクトのステータスを探しているが、プロジェクトの詳細を表示する必要がない可能性のある、より高レベルのリーダーシップやリクエスターにとっても優れたレポートです。
+プロジェクトダッシュボードにマイルストーンレポートを含めるか、このレポートを共有する（さらに良いことに、定期的な配信のために自動的にスケジュール設定します）ことは、関心を持つ関係者（Workfrontユーザーでなくても）がプロジェクトの進捗に関与し続けるための優れた方法です。
 
-プロジェクトダッシュボードにマイルストーンレポートを含めたり、このレポートを共有（さらに良いことに、通常の配信のために自動的にスケジュールを設定）したりすると、関係者（Workfront以外のユーザーも含む）がプロジェクトの進捗に関心を持ち続けることができます。
-
->[!VIDEO](https://video.tv.adobe.com/v/3470155/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
 
 ## その他のリソース
 
-マイルストーンについて詳しくは、次の無料リソースを参照してください。
+マイルストーンの詳細については、次の無料リソースをご覧ください。
 
-* [&#x200B; マイルストーンパスとマイルストーン手順の作成 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [&#x200B; マイルストーン ビューの使用 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [マイルストーンパスとマイルストーンステップの作成](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [マイルストーンビューの使用](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [レポートの送信と共有](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
-
-

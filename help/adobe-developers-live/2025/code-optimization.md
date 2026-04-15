@@ -1,31 +1,33 @@
 ---
 title: AEM Sites Optimizerでコードを最適化
-description: AEM Sites Optimizerを使用してコードの最適化を調べ、パフォーマンスと SEO を向上させます。 問題を効率的に検出し、修正する方法を説明します。
+description: AEM Sites Optimizerによるコードの最適化により、パフォーマンスとSEOの向上を実現します。 課題を効率的に検出して修正する方法を説明します。
+feature: Edge Delivery Services, Release Information
+topic: Security, Performance, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 714
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19980
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: ebe4558d-a2ca-4ea0-bad0-d44fd3a32ec9
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
 
+# エンジンの内部：Adobe Experience Manager Sites Optimizerによるコードの最適化
 
-# エンジン内部：Adobe Experience Manager Sites Optimizerによるコードの最適化
+Adobe Experience Manager Sites Optimizerを使用して、冗長なスクリプトや大量のDOM構造を検出することで、コードの品質を向上させる方法をご確認ください。 本セッションでは、Adobe Core Web Vitalsを活用して、技術的負債を低減し、パフォーマンスを向上させる方法を解説します。 レコメンデーションをワークフロー内でシームレスに適用し、より迅速な修正、強力なSEO、スムーズなユーザーエクスペリエンスを実現する方法をご確認ください。
 
-Adobe Experience Manager Sites Optimizerが、冗長なスクリプトと重い DOM 構造を検出してコード品質を向上させる方法を説明します。 このセッションでは、このツールを使用して、コア Web バイタルを改善し、技術的負債を減らし、パフォーマンスを向上させる方法を示します。 より迅速な修正、より強力な SEO、よりスムーズなユーザーエクスペリエンスのために、レコメンデーションをワークフロー内にシームレスに適用する方法を説明します。
+>[!VIDEO](https://video.tv.adobe.com/v/3477676/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3477718/?captions=jpn&learn=on&enablevpops)
+このセッション「Inside the Engine: Code Optimization with Adobe Experience Manager Sites Optimizer」では、Deck Reyesが、Sites Optimizerがフロントエンドとバックエンドの実装を分析して、冗長なスクリプト、大量のDOM構造、Core Web Vitalsのボトルネックを検出する方法を紹介します。 AEMで技術的負債を低減し、パフォーマンスを直接向上させるための推奨事項を適用する方法について説明します。 サンノゼからライブ録音。
 
-このセッション「エンジンの内部：Adobe Experience Manager Sites Optimizerによるコード最適化」の特長Sites Optimizerがフロントエンドとバックエンドの実装を分析して、冗長なスクリプト、大量の DOM 構造、Core Web Vitals のボトルネックを検出する方法を示すデッキレッスン。 AEMで技術負債を減らし、パフォーマンスを直接向上させるために、推奨事項を適用する方法を説明します。 サンノゼでライブ録画。
-
-Adobe Developers Live2025 にご協賛いただいたスポンサーのアルゴリアとアンサンブルに心より感謝申し上げます。
+Adobe Developers Live 2025を支援してくださったスポンサーのAlgoliaとEnsembleに感謝いたします。
 
 ## 次の手順
 
-* [Experience League](https://adobe.ly/47ss08A) で会話を続ける
-* Discover [&#x200B; 今後のイベント &#x200B;](https://developerevents.adobe.com)
+* [Experience League](https://adobe.ly/47ss08A)で会話を続ける
+* [今後のイベント ](https://developerevents.adobe.com)を見つける

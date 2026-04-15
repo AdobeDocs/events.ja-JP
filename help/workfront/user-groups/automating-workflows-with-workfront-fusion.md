@@ -1,21 +1,23 @@
 ---
-title: Workfront Fusion を使用したワークフローの自動化（2021 年 9 月 14 日）
-description: Workfront Fusion でワークフローを自動化する方法について説明します。
+title: Workfront Fusionによるワークフローの自動化（2021年9月14日）
+description: Workfront Fusionでワークフローを自動化する方法をご確認ください。
+feature: Workfront Fusion
+topic: Administration, Integrations
 role: Admin
 level: Experienced
 kt: 9991
 thumbnail: 341222.jpeg
 exl-id: 1e5dd093-1636-4b48-b317-e53dd5881d08
 duration: 5226
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Workfront Fusion を使用したワークフローの自動化（2021 年 9 月 14 日）
+# Workfront Fusionによるワークフローの自動化（2021年9月14日）
 
-Workfront Fusion でワークフローを自動化する方法について説明します。
+Workfront Fusionでワークフローを自動化する方法をご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341222/?quality=12&learn=on)

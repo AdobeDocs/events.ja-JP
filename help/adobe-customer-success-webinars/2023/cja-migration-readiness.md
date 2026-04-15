@@ -1,9 +1,10 @@
 ---
-title: Customer Journey Analytics移行への対応
-description: Customer Journey Analytics価値の概要、業界別のハイライト、推奨リソース
+title: Customer Journey Analyticsへの移行に対応
+description: Customer Journey Analyticsの価値の概要、業界別のハイライト、推奨事項
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics
+topic: Migration
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -12,17 +13,17 @@ jira: KT-13904
 thumbnail: 3423904.jpeg
 exl-id: d76db108-8011-4e01-8db2-e959c4f3b429
 duration: 2035
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 0%
 
 ---
 
-# Customer Journey Analytics移行への対応
+# Customer Journey Analyticsへの移行に対応
 
-* CJA 値の概要
-* 業界別の CJA のユースケースのハイライト
-* 推奨リソース
+* CJA Valueの概要
+* 業界別のCJAのユースケースのハイライト
+* 関連リソース
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423904/?learn=on)

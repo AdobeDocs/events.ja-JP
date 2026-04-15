@@ -1,39 +1,40 @@
 ---
-title: Adobe Workfrontでのメール通知のマスター
-description: Adobe Workfrontのメール通知を管理して、チームへの情報の提供、ノイズの軽減、コミュニケーションの効率化を図るためのベストプラクティスについて説明します。
+title: Adobe Workfrontでのメール通知の管理
+description: Adobe Workfrontの電子メール通知を管理するためのベストプラクティスを紹介します。これにより、チームは常に最新情報を入手し、円滑に連携して、コミュニケーション効率を向上できます。
 feature: Updates and Notifications
+topic: Performance
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3756
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18627
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 801730b2-2056-4f55-986a-6f06c7d27d27
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
+# Adobe Workfrontでのメール通知の管理
 
-# Adobe Workfrontでのメール通知のマスター
-
-この 1 時間のインタラクティブなワークショップは、2025 年 5 月 7 日（PT）に録画され、以下のディスカッションが取り上げられました  Workfrontで使用できる様々な通知タイプ、主要なメール通知、通知を管理するためのベストプラクティス、ユーザーやチームが圧倒されることなく情報を入手できるように支援する実用的な推奨事項があります。
+この1時間のインタラクティブなワークショップは、2025年5月7日に録画され、次のようなディスカッションが行われました  Workfrontで利用できるさまざまな通知タイプ、主要なメール通知、それらを管理するためのベストプラクティス、実行に移すためのレコメンデーションにより、マーケターとチームメンバーは負担を感じることなく情報を入手できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469963/?learn=on&enablevpops)
 
-オンデマンド録画に加えて、チャットで共有されたスライドデッキとヒントも含まれています。 
+オンデマンド録画に加えて、スライドデッキとチャットで共有されたヒントを含めました。 
 
-* [&#x200B; スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Experience League コミュニティへの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=ja)
+* [スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
 
-そして、チャットで共有されたヒントの概要を次に示します。 
+ここでは、チャットで共有されたヒントを簡単にまとめました。 
 
-* 設定/ メール / レビューと承認で「プルーフにコメントが作成されたらWorkfrontからメールを送信する」チェックボックスをオフにして、通知が重複しないようにします。 
-* 通知を見逃さないように、最初は過剰な通信を行い、ユーザーにメールフッターオプションを使用して受信したくないものをオフにするように指示します。 
-* うまく機能している部分と機能していない部分をユーザーに確認します。直接言うわけではありませんが、ミーティングで苦情や質問に耳を傾け、通知を調整して問題に対処することができます。  
-* メールまたはアプリ内通知が機能しない場合は、別の方法を試してください。一連のレポートを含むダッシュボードを作成したり、レポートの自動配信を利用して情報を取得したりします。  
-* ユーザーが（メール）通知を受信していない場合は、ユーザーとしてログインして、プロファイルで通知が有効になっていることを確認するオプションが常に用意されています。 スタックした場合は、カスタマーサポートにも問い合わせてください。   
-* ステータスの変更に関連するメールをオフにすることを検討してください。これらによって、情報アクションよりもノイズが多く発生していますか？  
+* 「プルーフにコメントが付いたときにWorkfrontから電子メールを送信」のチェックボックスをオフにして、設定/電子メール/レビューと承認を使用すると、通知の重複を避けることができます。 
+* 通知を見逃さないように最初にコミュニケーションを過剰に行ってから、ユーザーに電子メールフッターオプションを使用して、受信したくないものをオフにするように指示します。 
+* 何がうまくいっていて、何がうまくいっていないかをユーザーに尋ねましょう。 顧客は直接答えることはできませんが、苦情や質問に耳を傾け、それらの問題に対処するために通知を調整することは可能です。  
+* 電子メールやアプリ内通知が有効に機能しない場合は、別の方法を試してみてください。一連のレポートを使用してダッシュボードを構築したり、自動レポート配信を利用して情報を公開したりすることもできます。  
+* ユーザーが（メール）通知を受信しない場合は、常にログインして、通知がプロファイルでオンになっていることを確認するオプションがあります。 お困りの場合は、カスタマーサポートまでお問い合わせください。   
+* ステータスの変更に関連する電子メールをオフにすることを検討してください。これらは有益なアクションよりもノイズを引き起こしていますか？  
 
-今後のカスタマーサクセスワークショップでお会いできるのを楽しみにしています。  完全なリストについては、Experience Leagueの [Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront) を確認し、登録してください。
+今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント ](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。

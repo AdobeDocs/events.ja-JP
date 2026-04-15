@@ -1,7 +1,8 @@
 ---
-title: B2B の成功の実現
-description: Corey Gelato でAdobe Commerceの高度な B2B 機能を探索します。例えば、共有カタログ、見積もり、購買依頼リスト、承認ワークフローを作成すると同時に、進化する B2B コマース環境で成長を促進し、競争力を維持するための戦略を学びます。
+title: B2B ビジネスの成功を支援
+description: Corey Gelatoが提供する共有カタログ、見積もり、要求リスト、承認ワークフローなどのAdobe Commerceの高度なB2B機能を確認しながら、進化するB2B コマース環境で成長を促進し、競争力を維持するための戦略を学びましょう。
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,15 +12,15 @@ jira: KT-13688
 thumbnail: 3421687.jpeg
 exl-id: 38145136-4868-42ea-b279-7e74704e2b53
 duration: 3506
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# B2B の成功の実現
+# B2B ビジネスの成功を支援
 
-B2B コマースは近年驚くべき成長を遂げており、Adobe Commerceの B2B 機能もそれに続いています。 シニアCommerce戦略コンサルタントの Corey Gelato 氏は、B2B コマースにおける重要な変革をナビゲートしながら、競合に先立って成功するための戦略の概要を説明します。 Corey は、成長を加速し、B2B ビジネスを成功に導くための方法について説明します。 カタログ共有、見積もり、購買依頼リスト、クイックオーダー、発注書、承認ワークフロー、会社の設定などのデモを順を追って説明します。
+B2B コマースは、近年驚くべき成長を遂げており、Adobe CommerceのB2B機能も同様に向上しています。 シニアCommerce戦略コンサルタントのCorey Gelato氏は、B2B コマースの大きな変革を乗り切りながら、競争相手に一歩先んじながら成功するための戦略を策定します。 Coreyが、ビジネスの成長を加速し、B2B ビジネスを成功に導く方法を解説します。 共有カタログ、見積、要求リスト、クイックオーダー、発注、承認ワークフロー、会社の設定などのデモについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421687/?learn=on)

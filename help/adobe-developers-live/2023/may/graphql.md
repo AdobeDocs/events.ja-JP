@@ -1,6 +1,7 @@
 ---
-title: GraphQL API パフォーマンスオプションとクエリの最適化について
-description: GraphQL API パフォーマンスオプションとクエリの最適化について最近公開したベストプラクティスに基づいて、パフォーマンスの高いGraphQL クエリを作成する方法を説明します。 GraphQLに基づくヘッドレスコンテンツ配信は高速ですが、場合によってはパフォーマンスのボトルネックを引き起こす可能性があります。 すべては、GraphQL クエリの開発方法によって異なります。 このセッションでは、最新のAEM GraphQL機能の詳細と、それらを活用してGraphQL クエリを微調整し、コンテンツをパフォーマンスの高い方法で配信する方法を説明します。
+title: GraphQL APIのパフォーマンスオプションとクエリの最適化について
+description: GraphQL APIのパフォーマンスオプションとクエリの最適化最近公開したベストプラクティスにもとづいて、パフォーマンスの高いGraphQLクエリを作成する方法を説明します。 GraphQL上に構築されたヘッドレスコンテンツ配信は高速ですが、場合によってはパフォーマンスのボトルネックになる可能性もあります。 GraphQLクエリの作成方法を決定します。 このセッションでは、AEM GraphQLの最新機能の詳細と、それらを活用してGraphQL クエリを微調整し、コンテンツを効果的に配信する方法について説明します。
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,17 +13,17 @@ jira: KT-13362
 thumbnail: 3419948.jpeg
 exl-id: 47e32914-4899-48f5-91e7-598788adf361
 duration: 1713
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# GraphQL API パフォーマンスオプションとクエリの最適化について
+# GraphQL APIのパフォーマンスオプションとクエリの最適化について
 
-GraphQL API パフォーマンスオプションとクエリの最適化について
+GraphQL APIのパフォーマンスオプションとクエリの最適化について
 
-最近公開されたベストプラクティスに基づいて、パフォーマンスの高いGraphQL クエリを作成する方法を説明します。 GraphQLに基づくヘッドレスコンテンツ配信は高速ですが、場合によってはパフォーマンスのボトルネックを引き起こす可能性があります。 すべては、GraphQL クエリの開発方法によって異なります。 このセッションでは、最新のAEM GraphQL機能の詳細と、それらを活用してGraphQL クエリを微調整し、コンテンツをパフォーマンスの高い方法で配信する方法を説明します。 →次の場所で会話を続けてください：https://adobe.ly/3HyVxjE
+最近公開したベストプラクティスにもとづいて、パフォーマンスの高いGraphQL クエリを作成する方法について説明します。 GraphQL上に構築されたヘッドレスコンテンツ配信は高速ですが、場合によってはパフォーマンスのボトルネックになる可能性もあります。 GraphQLクエリの作成方法を決定します。 このセッションでは、AEM GraphQLの最新機能の詳細と、それらを活用してGraphQL クエリを微調整し、コンテンツを効果的に配信する方法について説明します。 →次の場所で会話を続けます：https://adobe.ly/3HyVxjE
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419948/?learn=on)

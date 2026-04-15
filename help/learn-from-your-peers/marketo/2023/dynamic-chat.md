@@ -1,9 +1,10 @@
 ---
-title: Marketo EngageとDynamic Chatを使用したサイロ化されたチャネルおよびデータへの対処
-description: クロスチャネルのカスタマーエクスペリエンスを提供するために、マーケティング自動化戦略に会話を追加する価値。  販売会議の予約、web サイトのコンテンツエンゲージメント、イベント/ウェビナーのプロモーションなど、主なユースケースの実装方法を説明します。  Dynamic ChatをMarketo Engage プログラムに統合する方法をすばやく開始するための、実用的なレシピとヒント。
+title: Marketo EngageとDynamic Chatによる、分断されたチャネルやデータへの対応
+description: クロスチャネルの顧客体験を提供するためには、マーケティングオートメーション戦略に会話を追加することが不可欠です。  セールスミーティングの予約、web サイトコンテンツのエンゲージメント、イベント/ウェビナーのプロモーションなど、主要なユースケースを実施する方法。  Dynamic ChatをMarketo Engage プログラムに組み込むための実用的なレシピとヒント。
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Dynamic Chat, Events, Programs
+topic: Integrations
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -12,21 +13,21 @@ jira: KT-14289
 thumbnail: 3425471.jpeg
 exl-id: b0496f78-40a4-4607-8c1c-5199e43fdb43
 duration: 3003
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-# Marketo EngageとDynamic Chatを使用したサイロ化されたチャネルおよびデータへの対処
+# Marketo EngageとDynamic Chatによる、分断されたチャネルやデータへの対応
 
-この「同僚から学ぶ」ウェビナーに参加します。Cornerstone OnDemand のマーケティングオペレーションマネージャー、Sara Barriuso 氏が、Marketo Engageのネイティブな会話型エンゲージメントチャネルであるDynamic Chatを使用して、自動インタラクションを導入し、クロスチャネルエンゲージメントの自動化を設計する方法を説明します。
+Cornerstone OnDemandのマーケティングオペレーションマネージャーであるSara Barriuso氏は、この「仲間から学ぶ」ウェビナーに参加して、Marketo Engage内のネイティブ会話型エンゲージメントチャネルであるDynamic Chatを利用して、自動化された会話を導入し、クロスチャネルエンゲージメントオートメーションを設計する方法を解説します。
 
-このウェビナーでは、以下について説明します。
+このウェビナーでは、次の項目について解説します。
 
-* クロスチャネルのカスタマーエクスペリエンスを提供するために、マーケティング自動化戦略に会話を追加する価値。
-* 販売会議の予約、web サイトのコンテンツエンゲージメント、イベント/ウェビナーのプロモーションなど、主なユースケースの実装方法を説明します。
-* Dynamic ChatをMarketo Engage プログラムに統合する方法をすばやく開始するための、実用的なレシピとヒント。
+* クロスチャネルの顧客体験を提供するためには、マーケティングオートメーション戦略に会話を追加することが不可欠です。
+* セールスミーティングの予約、web サイトコンテンツのエンゲージメント、イベント/ウェビナーのプロモーションなど、主要なユースケースを実施する方法。
+* Dynamic ChatをMarketo Engage プログラムに組み込むための実用的なレシピとヒント。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425471/?learn=on)

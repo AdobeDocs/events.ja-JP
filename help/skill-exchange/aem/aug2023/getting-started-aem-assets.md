@@ -1,10 +1,11 @@
 ---
-title: AEM Assetsの概要
-description: レンディションの使用とカスタムレンディションの作成デジタルアセットの切り抜き、編集、注釈の付け、デジタルアセットの作成または編集時の他のユーザーとの共同作業
+title: AEM Assetsの導入方法
+description: レンディションの使用とカスタムレンディションの作成デジタルアセットの切り抜き、編集、注釈の追加、デジタルアセットの作成や編集時の共同作業
 solution: Experience Manager Assets
 version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
 feature: Asset Management, Renditions, Assets Essentials, Collaboration
+topic: Content Management, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -13,19 +14,19 @@ jira: KT-14143
 thumbnail: 3424012.jpeg
 exl-id: 2ab8f8c7-bb0b-47cc-ac35-ebd3ff767c17
 duration: 2018
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# スキル交換イベント 2022 年 8 月 – AEM Web Track - AEM Assetsの基本を学ぶ
+# Skill Exchange Event 2022年8月 – AEM Web Track - AEM Assetsの概要
 
-このセッションでは、以下の方法を学びます。
+このセッションでは、次の方法について解説します。
 
 * レンディションの使用とカスタムレンディションの作成
 * デジタルアセットの切り抜き、編集、注釈
-* デジタルアセットを作成または編集する際の他のユーザーとの共同作業
+* デジタルアセットの制作や編集で他社とコラボレーションする
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424012/?learn=on)

@@ -1,36 +1,38 @@
 ---
-title: Workfront Fusion を使用した命名規則の自動化に関する 5 つのヒント
-description: ワークショップリワインド - Fusion
+title: Workfront Fusionを使用した命名規則の自動化に関する5つのヒント
+description: Workshop Rewind - Fusion
+feature: Workfront Fusion, Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3552
 last-substantial-update: 2025-11-20T00:00:00Z
 jira: KT-19791
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+exl-id: 26883731-1cae-4119-8c12-0d7e39f455ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 2%
 
 ---
 
+# Workfront Fusionを使用した命名規則の自動化に関する5つのヒント
 
-# Workfront Fusion を使用した命名規則の自動化に関する 5 つのヒント
+Workfrontを整理整頓するには、一貫した命名規則が必要です。しかし、手動での適用には時間がかかり、ミスが生じやすい場合があります。 Adobe Professional ServicesとField Engineeringが主催するこのウェビナーでは、Workfront Fusionを活用して、プロジェクト、タスク、イシューなどにまたがる命名標準を自動的に適用する方法を紹介します。
 
-Workfront環境を整理するには、まず一貫した命名規則を使用しますが、手動で適用すると時間がかかり、エラーが発生しやすくなります。 このウェビナーは、Adobe Professional Servicesおよびフィールドエンジニアリングと協力してホストされ、Workfront Fusion を活用して、プロジェクト、タスク、イシューなどに命名規則を自動的に適用する方法を説明します。
+この記事では、Adobe Workfront Fusionの活用方法を実例を交えて解説します。
 
-Fusion を使用して以下を行う方法について、実際の例を見ていきます。
+- フォームの入力やメタデータにもとづいて、プロジェクト名を動的に生成
+- タスク名と問題名を標準化することで、レポートと可視性が容易になります
+- 増分数を利用してオブジェクトにラベルを付け、インスタンス全体で一意性を確保します
 
-- フォームの入力またはメタデータに基づいてプロジェクト名を動的に生成する
-- タスク名と問題名を標準化して、レポートと表示を容易にする
-- 増分する数値を利用してオブジェクトにラベルを付け、インスタンス全体で一意性を確保します
-
-Fusion を使い始めたばかりの場合でも、自動化を拡大しようとしている場合でも、Workfrontの設定を合理化するための実践的な例とインスピレーションを紹介します。
+これからFusionを使い始める場合でも、自動化を拡大したい場合でも、Workfrontの設定を合理化するための実用的な例とインスピレーションを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477162/?learn=on&enablevpops)
 
 ## リソース
 
-- [&#x200B; スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
-- [Zip ファイル &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip) と後続の資料
-- 毎月、新しいイベントが追加されるので、最新のセッションについては、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) を確認してください。
+- [スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+Fusion+Naming+Conventions+-+Nov+19.pdf)
+- 後に続く資料を含む[Zip ファイル ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Webinar+-+Naming+Conventions+-+111825.zip)
+- 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

@@ -1,29 +1,30 @@
 ---
-title: AI 採用の拡大 – 承認用のプレイブック
-description: Adobe Experience Maker Award 受賞者である Anish Raul 氏が、イノベーションを減速させることなく、規制対象の企業に AI を安全に導入する実証済みの戦略をご覧ください。
+title: AIの導入を拡大 – 承認のためのプレイブック
+description: Adobe Experience Maker Awardの受賞者であるAnish Raul氏が、規制が厳しい業界において、イノベーションを遅らせることなくAIを安全に導入するための方法を解説します。
+feature: Analytics Basics, Analysis Workspace
+topic: Personalization, Security, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3436
 last-substantial-update: 2025-09-25T00:00:00Z
 jira: KT-19299
-source-git-commit: 0b30b0e24ec582efcd79bde3c1d7fedeef01f312
+exl-id: 315b5fa6-91a6-4038-aa9f-657a77f5fdad
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
+# AIの導入を拡大：承認のためのプレイブック
 
-# AI 採用の拡大：承認用のプレイブック
-
-**Adobe Experience Maker Award 受賞者の Anish Raul** が、規制の厳しい大規模な企業において、コンプライアンスを低下させたり妥協したりすることなく AI を導入する方法を率直に説明します。 単に結果を示すだけでなく、AI のアイデアをコンセプトから企業全体の承認に移行するための実証済みのプレイブックを明らかにします。 長年にわたる主要なパーソナライゼーションと AI の取り組みに基づいて、繰り返し可能なプロセスを分類します。つまり、影響力の高いユースケースの優先順位付け、法的およびセキュリティによる信頼の構築、大規模な安全な実験のための原則の埋め込み方法です。Anish は、Adobe TargetとAdobe Experience Platform AI アシスタントを例として、独自のユースケースを提供します。 
+**Adobe Experience Maker Awardの受賞者であるAnish Raul**&#x200B;が、AIを規制の厳しい大規模企業に導入する際に、スピードを落としたりコンプライアンスを損なったりすることなく、率直なやり取りを行います。 アニッシュは、単に結果を示すのではなく、AIのアイデアをコンセプトから企業全体の承認に移すための実証済みのプレイブックを公開します。 長年にわたるパーソナライゼーションとAIの取り組みを活用して、反復可能なプロセスである、インパクトの大きいユースケースを優先する方法、法務とセキュリティを重視して信頼を構築する方法、安全な大規模な検証のための原則を組み込む方法について解説します。Anish氏は、Adobe TargetとAdobe Experience Platform AI アシスタントを例に、独自のユースケースを提供します。この戦略と教訓は、AIに関して法的な整合性が取れている企業すべてに関連しています。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475270/?learn=on&enablevpops)
 
-## Session details:
+## セッションの詳細：
 
-* **Creative第一の AI の考え方：** パートナーとしての AI の位置づけにより、社内の認識がどのようにシフトし、法務、セキュリティ、およびビジネスの関係者との信頼を構築したか。
-* **機能を超えたフレームワーク：** 意思決定原則に焦点を当てることで、ツールではより安全な AI の採用が可能になったわけではありません。
-* **学ぶ：** 実世界のインサイトと反射を活用して、チームが一般的な落とし穴を回避し、企業 AI の導入を促進するのに役立ちます。
-
+* **Creative初のAIに関する考え方：** パートナーとしてのAIの構築が、社内での認識をどのように変化させ、法務、セキュリティ、ビジネスの関係者との信頼関係を構築するのか。
+* **機能よりもフレームワーク：** ツールではなく決定原則に焦点を当てることで、AIの導入をより安全にする方法。
+* **学習：**&#x200B;実際のインサイトと振り返りを通じて、チームが陥りがちな落とし穴を回避し、企業におけるAIの導入を加速できるようにします。

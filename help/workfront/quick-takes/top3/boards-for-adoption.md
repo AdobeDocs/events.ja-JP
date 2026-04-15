@@ -1,37 +1,37 @@
 ---
-title: Workfront ボードを使用する 3 つの理由
-description: Workfront ボードで簡単な設定、テンプレート、トラッキングを使用して、ユーザーの導入を促進する方法を説明します。 チームを簡単に参加させます。
+title: Workfront ボードを使用する3つの理由
+description: Workfront ボードの簡単な設定、テンプレート、トラッキング機能を利用して、ユーザーの導入を促進する方法をご覧ください。 容易にチームとエンゲージ。
+feature: System Setup and Administration, Work Management
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 223
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18652
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 3eba141f-fda3-4688-a82a-91e8ebc543d9
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
+# 掲示板を導入する3つの理由
 
-# ボードを採用する 3 つの理由
+それはまた私です、あなたの「オンデマンドWorkfrontCSM」シンシアは別の「トップ 3」ビデオでブーン！
 
-「オンデマンドWorkfrontCSM」 Cynthia Boon と別の「トップ 3」ビデオです。
+導入の話をしよう！ 新しいユーザーをWorkfrontにログインさせる方法について、新しいアイデアを求めています。Boardsを検討してみましょう。
 
-それでは、養子縁組について話しましょう。 新しいユーザーをWorkfrontにログインすることにワクワクさせる方法に関する新しいアイデアをお探しなので、Boards を検討してみてはいかがでしょうか。
+ボード機能を試す機会がない場合でも、心配はいりません。 動画では、ユーザーにアクセス権を付与する方法と、すぐに始められるいくつかの方法を共有します。
 
-ボード機能を試す機会がなければ、心配はいりません。 このビデオでは、ユーザーにアクセス権を付与する方法と、すぐに使い始められる方法をいくつか説明します。
+>[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3470088/?captions=jpn&learn=on&enablevpops)
+## 関連トピックス
 
-## 追加リソース
+ビデオでお約束したように、記事や短いビデオのデモなど、共有するリソースがたくさんあります。
 
-ビデオで約束したように、記事や短いビデオデモなど、共有すべきリソースが多数あります。
-
-* [Adobe Workfrontでのボードの概要 &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=ja)
-* [Adobe Workfront ボードの早期機能オプトイン &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=ja)
-* [&#x200B; ボードを作成または編集 – 各ボードテンプレートの説明が含まれます &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=ja)
-* [Adobe Workfrontボード – 短いビデオデモ &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=ja)
-
-
+* [Adobe Workfrontのボードの基本を学ぶ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
+* [Adobe Workfront ボードの早期機能オプトイン](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
+* [ボードの作成または編集 – 各ボードテンプレートの説明が含まれます](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
+* [Adobe Workfront ボード – 短いビデオ デモ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)

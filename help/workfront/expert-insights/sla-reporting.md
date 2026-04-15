@@ -1,7 +1,8 @@
 ---
-title: Madalyn Destafney を使用したWorkfrontでのSLA レポート
-description: ステップバイステップのガイダンス、計算されたフィールドの例、カスタムフォームのベストプラクティスなど、Madalyn Destafney のエキスパートのヒントを使用して、Adobe Workfrontでサービスレベル契約（SLA）を実装および測定する方法を説明します。
+title: Madalyn DestafneyによるWorkfrontでのSLA レポート
+description: ステップバイステップのガイダンス、計算されたフィールドの例、カスタムフォームのベストプラクティスなど、Adobe WorkfrontのSLAの導入と測定方法について、Madalyn Destafneyの専門家によるヒントを交えて解説します。
 feature: Reports and Dashboards
+topic: Performance, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 speaker-name-1: Madalyn Destafney
@@ -12,41 +13,41 @@ duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
 exl-id: 0d870372-4605-4d42-b539-5de2943a2682
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
 
-# Expert Insights:Madalyn Destafney によるWorkfrontでのSLA レポート
+# エキスパートインサイト：WorkfrontとMadalyn DestafneyのSLAレポート
 
-エキスパートインサイトの新たな取り組みへようこそ。  オンデマンドのWorkfront CSM である Cynthia Boon と申します。この度、Madalyn Destafney という唯一のパートナーが、Workfrontを使用したサービスレベル契約（SLA）の導入と測定を支援する彼女の豊富な経験を紹介します。 
+Expert Insightsの別の記事へようこそ！  Workfrontのオンデマンド CSMであるCynthia Boonです。Madalyn Destafneyは、Workfrontを使用してサービスレベル契約（SLA）の導入と測定を支援する豊富な経験を紹介します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469979/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
-ビデオでお約束したとおり、Madalyn のプレゼンテーションは、手順、計算式、レポート例とリンクされています。 
+ビデオで約束したように、マダリンのプレゼンテーションは彼女のステップ、計算された式、およびレポート例とリンクされています。 
 
-* [&#x200B; マダリンのスライドデッキPDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
+* [マダリンズスライドデッキPDF](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/SLA+Reporting.pdf)
 
 ## リソース
 
-プレゼンテーション中に、Madalyn はカスタムフォームと計算フィールドを共有しました。これらの機能を使い始めたばかりの場合は、正しい方向を示すリンクをいくつかご覧ください。 
+プレゼンテーションの間、Madalynはカスタムフォームと計算フィールドを共有しました。これらの機能を使い始めたばかりであれば、次のリンクを使用して正しい方向に誘導できます。 
 
-* チュートリアルプレイリスト - [&#x200B; カスタムFormsの作成と共有 &#x200B;](https://experienceleague.adobe.com/ja/playlists/workfront-create-and-manage-custom-forms)
+* チュートリアルプレイリスト - [ カスタム Formsの作成と共有](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* 記事 – [&#x200B; 計算フィールドと式の概要 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 記事 – [計算フィールドと式の使用を開始する](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* ヒントとコツ [&#x200B; 誰もが知っておくべき計算フィールドとそのレポート方法 &#x200B;](https://experienceleague.adobe.com/ja/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* ヒントとテクニック - [誰もが知っておくべき計算フィールドとそのレポート方法！](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
-Madalyn からの他のヒントに興味がありますか？ Workfront Community で彼女の一連のヒントとテクニックをご覧ください。 
+Madalynのヒントに興味がありますか？ Workfront コミュニティで彼女の一連のヒントとテクニックをご覧ください。 
 
-* [&#x200B; 火曜日テクニカル バイト &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=ja#M2742)
+* [Tuesday Tech Bytes](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
-## スピーカーについて 
+## 講演者について 
 
-Madalyn は 10 年以上にわたってWorkfrontを熱心に利用しており、複数の認定資格を保持しています。 同氏は、上場企業や Fortune 500 に選ばれた企業がWorkfrontの可能性を最大限に引き出し、どこからでもWorkfrontを宣伝できるように支援してきました。 しかし、人生は仕事だけではありません。マダリンは生涯ランナーで、旅行や美味しい食事を楽しみ、晴れたフロリダ州で一年中海岸を楽しむことを愛しています。 
+Madalynは、10年以上にわたってWorkfrontの熱心なユーザーであり、複数の認定資格を持っています。 彼女は、上場企業やフォーチュン 500企業がWorkfrontの潜在能力を最大限に引き出し、Workfrontをできる限り広く普及させるのを支援してきました。 しかし、人生は仕事だけではありません – マダリンは旅行し、素晴らしい食べ物を食べ、晴れたFLでほぼ一年中ビーチを楽しむのが大好きな生涯のランナーです。 
 
 ## 何か共有するものはありますか？
 
-イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください。
+イベント中やエキスパートインサイトの動画で、素晴らしいストーリーを共有したいですか？ [CSatScale@adobe.com](mailto:CSatScale@adobe.com)で当社のチームにお問い合わせください。

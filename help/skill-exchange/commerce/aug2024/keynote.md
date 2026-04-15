@@ -1,23 +1,25 @@
 ---
-title: Adobe Commerceオープニング基調講演
-description: Adobe Commerceオープニング基調講演
+title: Adobe Commerce開会基調講演
+description: Adobe Commerce開会基調講演
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Commerce, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 832
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16080
-source-git-commit: 3c7bc97f1eea265d36b018322d2f201f65645c0b
+exl-id: c24f3559-90de-4040-8796-6c54a77e0c7e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
 
 ---
 
+# Adobe Commerce開会基調講演
 
-# Adobe Commerceオープニング基調講演
+Adobe Commerce開会基調講演
 
-Adobe Commerceオープニング基調講演
-
->[!VIDEO](https://video.tv.adobe.com/v/3453940/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)

@@ -1,7 +1,8 @@
 ---
-title: エキスパートインサイト - Danielle Johnston によるガバナンスとセンターオブエクセレンス
-description: Workfrontを使用して、採用とポジティブな変化を推進するガバナンスとセンターオブエクセレンスを構築する方法を、Danielle Johnston が紹介します。
+title: Expert Insights - Governance & Centers of Excellence ダニエル・ジョンストン
+description: Danielle Johnston氏が、Workfrontを活用してガバナンスとセンターオブエクセレンスを構築し、導入と変革を推進する戦略をご紹介します。
 feature: Strategic Planning
+topic: Performance, Administration
 speaker-name-1: Danielle Johnston
 speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
@@ -11,36 +12,35 @@ doc-type: Event
 duration: 942
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18619
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: d7ebb12d-102d-41a4-86a6-95f49384172f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
+# Expert Insights - Governance &amp; Centers of Excellence ダニエル・ジョンストン
 
-# エキスパートインサイト - Danielle Johnston によるガバナンスとセンターオブエクセレンス
+Expert Insightsへようこそ！  このエピソードでは、Danielle Johnston氏と共に、「オンデマンド」WorkfrontCSMのCynthia Boon氏に登場します。  彼女は、Workfrontを使ってガバナンスとセンターオブエクセレンスの取り組みをサポートする方法についてアイデアを共有し、Workfrontで見たいポジティブな変化を私たちに促します。 
 
-Expert Insights へようこそ。  「オンデマンド」WorkfrontCSM のシンシア・ブーンですが、今回は Danielle Johnston が参加します！  彼女は、どのように始めるのか、ガバナンスとセンターオブエクセレンスの取り組みをサポートするためにWorkfrontを使用する方法に関する彼女のアイデアを紹介し、Workfrontで見たい前向きな変化になるよう私たちを励まします。 
-
->[!VIDEO](https://video.tv.adobe.com/v/3470006/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
 
 ## ヒント
 
-* 小さく始めます。 コミュニケーションこそが変革の鍵！ 
-* 「Workfrontを使用する理由 – エレベータースピーチ」に備えましょう。 あなたの幹部とあなたのユーザーが尋ねるので、明確な話し合いポイントを持つことはそれらの驚きの会話のためにあなたを準備します。 
-* Workfrontを使用して、ガバナンスとセンターオブエクセレンスの取り組みをサポートし、トラッキングします。 
+* 小規模に始める： 変革の鍵はコミュニケーション！ 
+* 「なぜ私たちはWorkfrontを使っているのか – エレベータースピーチ」の準備をしましょう！ 経営陣や顧客から質問されることもあるため、明確なストーリーポイントを設定することで、驚きの会話に備えることができます。 
+* Workfrontを使用して、ガバナンスとセンターオブエクセレンスの取り組みをサポートし、追跡します。 
 
 ## リソース
 
-* [&#x200B; お客様の主なユースケース &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
-* [&#x200B; 作業管理手法の成熟度の評価 &#x200B;](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) 
+* [最も重要なお客様の使用例](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Top+Customer+Use+Cases.png) 
+* [作業管理プラクティスの成熟度の評価](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Assessing+the+Maturity+of+Work+Management+Practices.png) 
 
-## スピーカーについて
+## 講演者について
 
-Danielle は、昨年、複数のお客様が作業管理プラクティスを実装して組織を拡大するのを支援したカスタマーサクセスマネージャーです。 ガバナンスは彼女の情熱ですが、その他のトピックの専門知識には、戦略的計画やユースケースの最適化/採用が含まれます。 Danielle の外では、読書、家族との時間を過ごし、料理が大好きです。 
+Danielleは、複数の顧客が過去1年間に組織の規模を拡大するために作業管理手法を導入するのを支援したカスタマーサクセスマネージャーです。 ガバナンスに情熱を注いでいますが、その他のトピックの専門知識には、戦略的プランニングやユースケースの最適化/導入などが含まれます。 ダニエルの外では、読書、家族と過ごす時間、料理が大好きです。 
 
 ## 何か共有するものはありますか？
 
-イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください。
-
+イベント中やエキスパートインサイトの動画で、素晴らしいストーリーを共有したいですか？ [CSatScale@adobe.com](mailto:CSatScale@adobe.com)で当社のチームにお問い合わせください。

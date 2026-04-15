@@ -1,60 +1,62 @@
 ---
-title: キャサリンランニングによるマスターテキストモード
-description: Katherine Lanning のエキスパートインサイトで、Workfrontのテキストモードの機能を確認してください。
+title: Katherine Lanningによるマスターテキストモード
+description: Katherine Lanningの専門家のインサイトを活用して、Workfrontでテキストモードの威力を体験してください。
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
 
+# Workfrontのエキスパートによるインサイト：Katherine Lanningのテキストモード
 
-# Workfront Expert Insights：キャサリンランニングによるテキストモード
+最先端のエキスパートインサイトへようこそ！  私はシンシア・ブーンです，あなたの“オンデマンド” WorkfrontCSMそして、このエピソードのために我々はWorkfrontテキストモードジェダイを持っています，キャサリン・ラニング，IQVIQからWorkfrontソリューションエンジニア！  このエピソードでは、Katherine氏は自身のストーリー、テキストモードレポートのすべてに対する情熱、そして「サニティ管理」ダッシュボードの構築方法についてデモを行います。
 
-最新のエキスパートインサイトへようこそ。  オンデマンドのWorkfront CSM を担当する Cynthia Boon と申します。このエピソードでは、Workfront Text Mode Jedi、Katherine Lanning、IQVIQ のWorkfront ソリューションエンジニアが参加します。  このエピソードでは、キャサリンは自分のストーリーや、あらゆる物事に対する情熱をテキストモードレポートで紹介し、彼女が「健全性の管理」ダッシュボードをどのように構築したかをデモで紹介します。
+テキストモードは難しいかもしれませんが、報酬は素晴らしいものです。  キャサリンのアドバイスを思い出そう！
 
-テキストモードは難しい場合もありますが、報酬は素晴らしいです。  キャサリンのアドバイスを思い出せ！
+* 「もし見ることができれば、それを変えることが出来る。」  – 標準レポートのテキストモードに切り替えて、列の作成方法を確認します。
+* 考え方を学ぶ。 - フィールドを追加し、テキストモードに切り替え、データの原動力を理解するために実験します。
+* わかりやすい言葉を使う：  – 管理者以外のユーザーが簡単に解釈できるように、列を質問または明確なステートメントとしてタイトル付けします。
+* 説明を追加します。 - データを説明し、ユーザーを導くために、テキストモードでホバーテキストをカスタマイズします。
+* ビジュアルをアクセスしやすくする。  – 色（例：赤/緑）だけに頼らないでください。 明確なアイコンやラベルの使用：
+* コミュニティの活用： - Experience League、cookbook、API Explorer、およびピアに依存します。 一から作り直すのではなく。
+* 持続しますが、休憩を取ります。  – 立ち往生した場合は、ラップトップを閉じて、散歩をして、新鮮な目で戻ります。
 
-* 「見ることができれば、変更できます」。  – 標準レポートをテキストモードに切り替えて、列の作成方法を確認します。
-* 試しによって学ぶ。 - フィールドを追加し、テキストモードに切り替えて、何がデータを促進するのかを理解するために実験します。
-* プレーンな言語を使用します。  – 管理者以外のユーザーが簡単に解釈できるように、質問や明確なステートメントとしてのタイトル列。
-* 説明を追加します。 - テキストモードでホバーテキストをカスタマイズして、データの説明とユーザーのガイドを行います。
-* ビジュアルをアクセシブルにします。  – 色のみに依存しない（例：赤/緑）。 個別のアイコンまたはラベルを使用します。
-* コミュニティを活用します。 - Experience League、クックブック、API エクスプローラー、ピアに依存します。 車輪を作り直すな。
-* 永続化しますが、休憩を取ります。  – 立ち往生した場合は、ノートパソコンを閉じて散歩し、新鮮な目で戻ります。
-
->[!VIDEO](https://video.tv.adobe.com/v/3477135/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
 
 
 ## リソース
 
-その他のリソースをお探しですか？ 奴らだ！
-* [&#x200B; お客様パネル：ベテランのWorkfront管理者から学んだ教訓 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=ja#M3487) - Katherine 氏がより多くのインサイトを共有
-* [&#x200B; レポート内のコレクションの参照 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API エクスプローラー](https://experienceleague.adobe.com/ja/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [&#x200B; レポートクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ja#M1406)
-* レポート機能を初めて使用する場合は、Nichole の Perspective 記事「[Adobe Workfrontでシンプルで効果的なレポートを作成するための 8 つの手順 &#x200B;](https://experienceleague.adobe.com/ja/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront) から始めましょう。
+関連リソースをお探しですか？ 手に入れました！
+* [お客様パネル：ベテランのWorkfront管理者から学んだ教訓](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine氏は、さらに多くのインサイトを共有しました。
+* [レポート内の参照コレクション](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API エクスプローラー](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [レポート用クックブック](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* また、レポートを初めて使用する場合は、Adobe Workfrontでシンプルで効果的なレポートを作成するための[8つの手順に関するNicholeのPerspectiveの記事をご覧ください](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
 
-テキストモードのコピー/貼り付けなど、その他のリソースについては、[Experience League Community の投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=ja#M4848) をご覧ください。
+テキストモードのコピー/ペーストなど、その他の情報については、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)を参照してください。
 
 
-## スピーカーについて
+## 講演者について
 
-Katherine は、IQVIA Digital のWorkfront ソリューションエンジニア兼 Fusion デベロッパーです。 生計の仕事について聞かれると、「私は誰か」と答える。「誰かが本当にもっと良い方法を見つけられるはずだよ」と答える。 同氏の経歴は、企業金融、IT、システム管理など、成人向け飲料、マーケティング、広告、さらにはプライベート・セキュリティまで多岐にわたります。
+Katherineは、IQVIA DigitalのWorkfront Solutions Engineer兼Fusion developerです。 彼女は生活のために何をしているのか尋ねられると、「誰かがより良い方法を見つけることができるべきだ」のように、「私は誰か」と答えます。 彼女のバックグラウンドは、成人飲料、マーケティング、広告、さらにはプライベートセキュリティなどの業界における企業金融、IT、システム管理に及んでいます。
 
-彼女は偶然の夫、彼らの犬「ベティス」、2 台のオートバイ、そして 3 人のための十分な趣味と一緒にオハイオ南西部に住んでいます。 理想的な週末には、鍛冶屋の会議、嵐山の探索、Xbox との品質時間、または新しいチーズケーキのレシピを焼くことがあります。
+彼女は偶発的な夫、彼らの犬「ベティス」、2台のオートバイ、そして3人のための十分な趣味と一緒にオハイオ州南西部に住んでいます。 理想的な週末には、鍛冶屋の会議、嵐山の探索、Xboxでの質の高い時間、新しいチーズケーキのレシピを焼くことができます。
 
-（そして、はい、これらすべては完全に真実です。 あの砕氷船で「二真理と嘘」ゲームをやるやつじゃないんだ。）
+（もちろん、これらはすべて正しいです。 あの砕氷船「二つの真実と嘘」ゲームをプレイするのは彼女ではない）。
 
 
 ## 何か共有するものはありますか？
 
-イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください。
+イベント中やエキスパートインサイトの動画で、素晴らしいストーリーを共有したいですか？ [CSatScale@adobe.com](mailto:CSatScale@adobe.com)で当社のチームにお問い合わせください。
 
-新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience League イベントページ &#x200B;](https://experienceleague.adobe.com/ja/events) で今後のワークショップにご登録ください。
+また、新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience Leagueのイベントページ ](https://experienceleague.adobe.com/ja/events)で今後のワークショップに登録することを忘れないでください。

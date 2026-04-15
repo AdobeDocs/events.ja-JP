@@ -1,49 +1,49 @@
 ---
-title: Edge Delivery Servicesへの実際のジャーニー
-description: Ensemble と PGA Tour のコラボレーションは、Adobe Experience Managerのヘッドレスとエッジ配信サービスを活用して、16 のアクティブなサイトを効率的に管理および更新し、モジュール化、再利用性、迅速な導入を強調し、今後は Helix 5 とユニバーサルエディターを使用してコンテンツ管理を強化する計画です。
+title: Edge Delivery Servicesのリアルタイムジャーニー
+description: EnsembleとPGA Tourとのコラボレーションでは、Adobe Experience Manager ヘッドレスおよびエッジ配信サービスを活用して、16のアクティブなサイトを効率的に管理および更新し、モジュール性、再利用性、迅速なデプロイメントを強化し、Helix 5とユニバーサルエディターを使用してコンテンツ管理を強化する今後の計画を進めています。
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Headless, Integrations, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 820
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16538
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 8f972775-9641-475d-83dc-f8d7e7e19a89
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
+# Edge Delivery Servicesのリアルタイムジャーニー
 
-# Edge Delivery Servicesへの実際のジャーニー
-
-Adobeパートナー Ensemble のリードソフトウェアデベロッパーである Mark McConnell が、Edge Delivery Servicesエコシステムにお客様を導入する例を紹介します。 このイノベーションがAdobe Experience Managerの投資を補完し、実際の成功を実現する仕組みについて説明します。
+Adobe Partner EnsembleのリードソフトウェアデベロッパーであるMark McConnell氏が、Edge Delivery Servicesのエコシステムにユーザーを参加させた事例を紹介します。 そうしたイノベーションが、Adobe Experience Managerの投資をどのように補完し、ビジネスの成功を実現するのかをご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439421/?learn=on&enablevpops)
 
-## コミュニティ ディスカッション
+## コミュニティ議論
 
-Adobe Developers Live コミュニティで会話を続けます [&#x200B; ディスカッション &#x200B;](https://adobe.ly/4ffJtT8)。
+Adobe Developers Live コミュニティ [ ディスカッション ](https://adobe.ly/4ffJtT8)で引き続きディスカッションを行います。
 
-## 重要ポイント
+## 重要な留意点
 
-* **発表者と背景** アンサンブル社のソフトウェア開発会社である Mark McConnell 氏は、Adobeを使った PGA Tour の取り組みについて話してくれました。
-* **プロジェクト概要** Ensemble は 3 年以上にわたり PGA Tour と協力し、主要な Web サイト、モバイルアプリ、およびトーナメント固有の様々な Web サイトを開発してきました。
-* **使用されているテクノロジー** ここでは、Adobe Experience Manager（AEM）のヘッドレスとエッジ配信サービスを使用して、PGA Tour のニーズを満たすことに重点を置きました。
+* **プレゼンターと背景** Ensembleのソフトウェア開発者であるMark McConnell氏は、Adobe製品を使用してPGA Tourで自身の作品について話しました。
+* **プロジェクトの概要** アンサンブルは、3年以上にわたってPGA ツアーと協力し、主要なweb サイト、モバイルアプリ、およびトーナメント固有の様々なweb サイトを開発してきました。
+* **使用済みのテクノロジー** PGA ツアーのニーズを満たすために、Adobe Experience Manager（AEM）のヘッドレスおよびエッジ配信サービスを使用することに重点が置かれました。
 * **Edge Delivery Services**
-   * 約 500 ページの 16 のアクティブなサイトをサポートするために使用されます。
-   * 開発リソースを最小限に抑えながら、クイックセットアップと頻繁なアップデートを有効にしました。
-   * 異なるサイト間でのコードブロックのモジュール性と再利用性を強調しました。
+   * 約500 ページの16のアクティブなサイトをサポートするために使用されます。
+   * 最小限の開発リソースで、クイックセットアップと頻繁な更新を実現しました。
+   * 様々なサイトをまたいだコードブロックのモジュール性と再利用性を強調した。
 * **開発効率**
-   * サイトの作成とオーサリングの準備は数時間で完了し、わずか 1 週間で稼働できます（パートタイムの開発リソースは 1 つのみ）。
-   * モジュラー設計の原則とブロックの再利用性により、効率的な開発と導入に役立ちます。
+   * Adobe Experience Manager Sitesでは、わずか数時間でサイトを制作し、オーサリングの準備を整え、パートタイムの開発リソースを利用して、わずか1週間でサイトを構築できます。
+   * モジュール設計の原則とブロックの再利用性は、効率的な開発と展開に役立ちます。
 * **AEM ヘッドレスとの統合**
-   * より複雑なデータモデリングと配信が必要なページに使用します。
-   * Edge配信サービスは、開発のオーバーヘッドを削減するために、より静的なページに使用されます。
+   * より複雑なデータモデリングと配信を必要とするページに使用します。
+   * Edgeの配信サービスは、より静的なページに使用され、開発のオーバーヘッドを削減します。
 * **今後の計画**
-   * 新しい AMP ページおよび AMP ライブドメインへのサイトの更新。
-   * より良いコンテンツ管理のための Helix 5 とユニバーサルエディターの使用を調査する。
-* **成功要因** Ensemble のCollaboration、PGA Tour、Adobe、およびAEM サイトと Edge 配信サービスの相乗効果が成功に貢献しました。
-
+   * 新しいAMP ページとAMP ライブドメインへのサイトの更新。
+   * Helix 5とユニバーサルエディターを使用して、より優れたコンテンツ管理を実現。
+* **成功要因** Ensemble、PGA ツアー、AdobeのCollaborationと、AEM サイトとEdge Delivery Servicesの相乗効果が、その成功に貢献しました。

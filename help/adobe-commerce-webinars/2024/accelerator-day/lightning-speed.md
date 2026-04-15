@@ -1,6 +1,7 @@
 ---
-title: ライトニングスピード - AdobeEdge Delivery Services
-description: Adobe Experience ManagerとAdobe Commerceによる、Adobeの超高速Edge Delivery Servicesに関する最新の詳細とデモ。
+title: 稲妻の速度 – AdobeのEdge Delivery Services
+description: Adobeの稲妻の高速Edge Delivery Servicesに関する最新の詳細とデモ（Adobe Experience ManagerとAdobe Commerceを介して）。
+feature: Edge Delivery Services
 topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
@@ -9,21 +10,21 @@ duration: 1619
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15544
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce加速器の日" type="positive" url="https://experienceleague.adobe.com/ja/docs/events/apac-commerce-recordings/2024/overview"
+badgeEvent: label="Adobe Commerce Accelerator Day" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
 exl-id: c3ed0893-24ed-49cd-9ce6-a4da79db89d2
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# 稲妻の速さ：AdobeEdge Delivery Services
+# 稲妻のスピード：AdobeのEdge Delivery Services
 
-Adobe Experience ManagerとAdobe Commerceによる、Adobeの超高速Edge Delivery Servicesに関する最新の詳細とデモ。
+Adobeの稲妻の高速Edge Delivery Servicesに関する最新の詳細とデモ（Adobe Experience ManagerとAdobe Commerceを介して）。
 
-+ Adobe、シニアソリューションエンジニア、Kam Radhakrishnan が発表
++ プレゼンター：Kam Radhakrishnan （Adobe、シニアソリューションエンジニア）
 
->[!VIDEO](https://video.tv.adobe.com/v/3455312/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
 
-[&lt; Adobe Commerceアクセラレータの日に戻る](./overview.md)
+[&lt; Adobe Commerce Accelerator Dayに戻る](./overview.md)

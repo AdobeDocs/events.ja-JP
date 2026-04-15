@@ -1,30 +1,32 @@
 ---
-title: Workfrontのマーケティングコンテンツのサプライチェーン
-description: Mattel がコンテンツサプライチェーンプロセスをWorkfrontにマッピングした経緯エンドツーエンドのパフォーマンスを測定するために特定した KPI 資産生産のための 1 対多の関係の設定   Workfront Planning を使用して、マーケティングキャンペーン戦略プロセスをさらに発展させる方法に注目します
+title: Adobe Workfrontのマーケティングコンテンツ管理システム（Supply chain）
+description: Mattel社が、Content Supply chainプロセスをAdobe Workfrontにマッピングした方法。エンドツーエンドのパフォーマンスを測定するためのKPI アセット制作における1対多の関係の設定   Workfront Planningを活用して、マーケティングキャンペーン戦略プロセスをさらに進化させる方法を紹介します
 solution: Workfront
+feature: System Setup and Administration, Strategic Planning
+topic: Integrations, Performance, Content Supply Chain
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 1727
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16100
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: 9a35284f-fed1-4d00-bf6a-ec90c9ecef37
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
+# Adobe Workfrontのマーケティングコンテンツ管理システム（Supply chain）
 
-# Workfrontのマーケティングコンテンツのサプライチェーン
+マーケティング部門には、コンテンツの品質を維持し、予算を抑えながら、制作を迅速化することが求められます。 2年前、Mattel社はこの現実的なプレッシャーを感じ、Workfrontと提携してクラス最高のソリューションを構築しました。
 
-マーケティングを担当している場合、品質を維持し、予算内にありながら、コンテンツ制作を高速化しなければならないというプレッシャーは高まり続けます。 2 年前、Mattel はこの非常に現実的なプレッシャーを感じ、Workfrontと提携してクラス最高のソリューションを確立しました。
+同社のIntegrated Marketing Communications グループのプロセスおよびプラットフォーム管理担当シニアマネージャーであるGardnerは、同社がこのプロセスの変化にどのように取り組み、マーケターがMattel Marketing Content Supply chainを計画、実行、測定するための効果的なソリューションを構築したかを紹介します。 具体的には、Neal氏は次のような内容を共有します。
 
-Mattel の統合マーケティングコミュニケーショングループのプロセスおよびプラットフォーム管理のシニアマネージャーである Gardner が、このプロセスの変化にどのように取り組んだかを説明し、マーケターが Mattel マーケティングコンテンツサプライチェーンを計画、実行、測定するための効果的なソリューションを作成しました。 特に、Neal は以下を共有します。
-
-* Mattel がコンテンツサプライチェーンプロセスをWorkfrontにマッピングした方法
-* エンドツーエンドのパフォーマンスを測定するために特定した KPI
-* アセット作成用の 1 対多の関係の設定
-* Workfront Planning を使用して、マーケティングキャンペーン戦略プロセスをさらに発展させる方法に注目します
+* Mattel社がContent Supply chainプロセスをWorkfrontにマッピングした方法
+* エンドツーエンドのパフォーマンスを測定するために特定したKPI
+* アセット制作における1対多の関係を
+* Workfront Planningを活用して、マーケティングキャンペーン戦略プロセスをさらに進化させる方法を紹介します
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433205/?learn=on)

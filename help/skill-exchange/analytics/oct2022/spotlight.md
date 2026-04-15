@@ -1,7 +1,9 @@
 ---
-title: Analytics Grow Experience Makers のスポットライト
-description: 2 人のエキスパートのお客様である Andy Lunsford と Tyler Scott、およびAdobe Analytics ユーザーにご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。 セッションの後には、ライブで質問する機会があります。 あなたはこれを見逃したくないです。
+title: Adobe AnalyticsによるExperience Makersの成長
+description: アドビのエキスパートであるAndy Lunsford氏とTyler Scott氏、そしてAdobe Analyticsのユーザーにスポットライトを当てます。 各自がAdobe Analyticsのヒントやコツを共有します。 そのセッションの後、質問をする機会がライブで提供されます。 このチャンスを逃したくはありません。
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,15 +12,15 @@ kt: 11533
 thumbnail: 3411896.jpeg
 exl-id: 66655de0-0a98-4b94-bc95-f86348d0d2de
 duration: 2731
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # トラックを拡大 – スポットライト
 
-Meghan R. Powers （CarMax）と Gitai Ben-Ammi （Concentrix）、2 人のエキスパートのお客様、Adobe Analyticsのお客様にご注目ください。 それぞれが最高のAdobe Analyticsのヒントやコツを共有します。
+Meghan R. Powers （CarMax）とGitai Ben-Ammi （Concentrix）の両社、およびAdobe Analytics ユーザーを紹介します。 各自がAdobe Analyticsのヒントやコツを共有します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411896/?quality=12&learn=on)

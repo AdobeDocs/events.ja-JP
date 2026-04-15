@@ -1,7 +1,9 @@
 ---
-title: テンプレート、トークン、チームワーク – コンテンツをスケーラブルにします
-description: ' [!DNL Marketo Engage] でのトークンとテンプレートの使用について説明します。 既存のコンテンツライブラリを最大限に活用するためのヒントをご確認ください。'
+title: テンプレート、トークン、チームワーク – コンテンツをスケーラブルにする
+description: ' [!DNL Marketo Engage]でのトークンとテンプレートの使用について説明します。 既存のコンテンツライブラリを最大限に活用するためのヒントをご確認ください。'
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,22 +12,22 @@ jira: KT-12415
 thumbnail: 3416250.jpeg
 exl-id: 2526c088-08da-4839-a1f4-27aa1f620340
 duration: 3440
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# テンプレート、トークン、チームワーク - Adobeをコンテンツ [!DNL Marketo Engage] 拡張性に優れたものにします
+# テンプレート、トークン、チームワーク - Adobe [!DNL Marketo Engage] コンテンツをスケーラブルにする
 
-マーケティングプログラムのコンテンツ作成には長い時間がかかります。 テンプレートとトークンを適用すると、チームをまたいで拡張性の高いプロセスを構築でき、より少ない [!DNL Marketo Engage] ールでより多くの成果を上げることができます。 受賞歴のあるマーケティングリーダーであり、Adobe [!DNL Marketo Engage] チャンピオンの 2 倍を務める Lauren McCormack 氏の話を聞いて、[!DNL Marketo Engage] しいコンテンツを拡張性に優れたものにするための長年の知恵を紹介します。
+マーケティングプログラムのコンテンツ制作は長引きます。 テンプレートとトークンを適用することで、チーム間のスケーラブルなプロセスを構築し、[!DNL Marketo Engage]の削減でより多くの成果を達成することができます。 受賞歴のあるマーケティングリーダーで、2度のAdobe [!DNL Marketo Engage] Championを受賞しているLauren McCormack氏の話を聞きます。長年の知見を活かして、[!DNL Marketo Engage] コンテンツの拡張性を高めましょう。
 
-以下について説明します。
+内容：
 
-* トークンとテンプレートを使用して、より効果的かつ効率的にプログラムを作成する
+* トークンとテンプレートを使用して、より効率的にプログラムを構築
 * 既存のコンテンツライブラリを最大限に活用するためのヒント
 * キャンペーンリクエストプロセスを効率化するためのベストプラクティス
-* 社内チームをコンテンツ戦略に合わせる効果的なコミュニケーション戦略
+* コンテンツ戦略に関して社内の各部門の足並みを揃えるための、効果的なコミュニケーション戦略
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416250/?quality=12&learn=on)

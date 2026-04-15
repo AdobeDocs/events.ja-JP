@@ -1,6 +1,8 @@
 ---
-title: Marketoと Mocha - リードスコアリング
-description: Marketo&モカスの Cynthia Chang と Kelvin Ieng が、戦略、セットアップ、Marketo Engageでのライブデモ、主要な留意点、ライブ Q&A を通じてリードスコアリングのメリットを説明します。
+title: MarketoとMochas - リードスコアリング
+description: MarketoとMochasのCynthia Chang氏とKelvin Ieng氏と共に、Marketo Engageの戦略、設定、ライブデモ、重要なポイント、ライブ Q&Aなど、リードスコアリングの利点を学びましょう。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,15 +12,15 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Marketoと Mocha - リードスコアリング
+# MarketoとMochas - リードスコアリング
 
-Marketo&amp;モカスの最初のセッションでは、マーケティングオートメーションのビジネスアドバイザー、シンシア・チャンとケルヴィン・イエンが参加します。 このセッションでは、リードスコアリングのメリット、リードスコアリングモデルの設定、戦略およびレビュー方法について説明します。 Kelvin は、[!DNL Marketo Engage] 内でリードスコアリングモデルを設定する方法のライブデモを実行し、3 つの重要な留意点を挙げて締めくくります。 プレゼンテーションとデモには、ケルヴィンとシンシアとのライブ Q&amp;A が付属しています。
+MarketoとMochasの最初のセッションでは、Marketing Automation Business Advisors、Cynthia Chang、Kelvin Iengが参加しました。 このセッションでは、リードスコアリングの利点、リードスコアリングモデルの設定、戦略化、レビューの方法について説明します。 Kelvin氏は、[!DNL Marketo Engage]内でリードスコアリングモデルを設定する方法のライブデモを行い、3つの重要ポイントで締めくくりました。 プレゼンテーションとデモには、Kelvin氏とCynthia氏によるライブ Q&amp;Aが伴います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412722/?quality=12&learn=on)

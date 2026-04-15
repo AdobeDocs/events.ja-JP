@@ -1,6 +1,8 @@
 ---
-title: 2023 年 8 月 Grow Track - Adobe Analyticsを使用したナビゲーションの修正
-description: ナビゲーションは、訪問者がサイト内を移動する方法を見つけ、コンバージョンファネルに参加するための鍵となります。 Adobe Analyticsでナビゲーションの効果をトラッキングする方法と改善する方法について説明します。
+title: 2023年8月Grow Track - Adobe Analyticsを使用したナビゲーションの修正
+description: ナビゲーションは、訪問者がサイト内で好みの経路を見つけ、コンバージョンファネルに誘導するための鍵となります。 Adobe Analyticsを利用して、ナビゲーションの効果を追跡する方法と、それを向上させる方法をご紹介します。
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,15 +11,15 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14658
 thumbnail: 3425992.jpeg
 exl-id: ed3a25c1-bd52-4c44-a807-5ccecc8f40aa
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Skill Exchange Event 2023 年 8 月 – Grow Track - Adobe Analytics:Adobe Analyticsを使用したナビゲーションの修正
+# Skill Exchange Event 2023年8月 – Grow Track - Adobe Analytics:Adobe Analyticsを使ってナビゲーションを修正
 
-ナビゲーションは、訪問者がサイト内を移動する方法を見つけ、コンバージョンファネルに参加するための鍵となります。 Adobe Analyticsでナビゲーションの効果をトラッキングする方法と改善する方法について説明します。
+ナビゲーションは、訪問者がサイト内で好みの経路を見つけ、コンバージョンファネルに誘導するための鍵となります。 Adobe Analyticsを利用して、ナビゲーションの効果を追跡する方法と、それを向上させる方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457368/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)

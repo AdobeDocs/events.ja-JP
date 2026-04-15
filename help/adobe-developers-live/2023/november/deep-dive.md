@@ -1,9 +1,10 @@
 ---
 title: Edge Deliveryとドキュメントベースのオーサリングの詳細
-description: Adobe Developers Liveのこのディープダイブセッションでは、Amol Anand と Darin Kuntze が、Adobe Experience Manager（AEM）の革新的なEdge Delivery Servicesと最新のドキュメントベースオーサリングについて説明します。 2023 年 11 月 6 日（PT）に録画されたこれらのツールが、コンテンツ作成に革命を起こし、迅速かつシンプルにする方法と、継続的な最適化でエンゲージメントとコンバージョンを促進する方法について説明します。 このセッションは、AEM GraphQL API やその他の柔軟なツールを使用して web 開発戦略を強化しようとしている開発者に最適です。
+description: Adobe Developers Liveのこのセッションでは、Amol Anand氏とDarin Kuntze氏が、Adobe Experience Manager（AEM）の革新的なEdge Delivery Servicesと最新のドキュメントベースオーサリングについて解説します。 2023年11月6日に録音された本記事では、これらのツールがコンテンツ制作にどのような革命をもたらし、より迅速かつシンプルにする方法、継続的な最適化でエンゲージメントとコンバージョンを促進する方法について解説します。 AEMのGraphQL APIなどの柔軟性の高いツールを利用して、web開発戦略を強化したい開発者に最適です。
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
 feature: Edge Delivery Services
+topic: Headless, Integrations, Development
 product: experience manager
 sub-product: sites
 role: Developer
@@ -14,17 +15,17 @@ jira: KT-14420
 thumbnail: 3425622.jpeg
 exl-id: c9f694de-d684-43ec-a5ae-570d738b4bb0
 duration: 2881
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Edge Deliveryとドキュメントベースのオーサリングの詳細 – 2023 年 11 月
+# Adobe Developers Live Edge Deliveryとドキュメントベースのオーサリングの詳細 – 2023年11月
 
-Adobe Developers Liveのこのディープダイブセッションでは、Amol Anand と Darin Kuntze が、Adobe Experience Manager（AEM）の革新的なEdge Delivery Servicesと最新のドキュメントベースオーサリングについて説明します。 2023 年 11 月 6 日（PT）に録画されたこれらのツールが、コンテンツ作成に革命を起こし、迅速かつシンプルにする方法と、継続的な最適化でエンゲージメントとコンバージョンを促進する方法について説明します。 このセッションは、AEM GraphQL API やその他の柔軟なツールを使用して web 開発戦略を強化しようとしている開発者に最適です。
+Adobe Developers Liveのこのセッションでは、Amol Anand氏とDarin Kuntze氏が、Adobe Experience Manager（AEM）の革新的なEdge Delivery Servicesと最新のドキュメントベースオーサリングについて解説します。 2023年11月6日に録音された本記事では、これらのツールがコンテンツ制作にどのような革命をもたらし、より迅速かつシンプルにする方法、継続的な最適化でエンゲージメントとコンバージョンを促進する方法について解説します。 AEMのGraphQL APIなどの柔軟性の高いツールを利用して、web開発戦略を強化したい開発者に最適です。
 
-[Experience League コミュニティ &#x200B;](https://adobe.ly/46KMTsh) で会話を続けます。
+[Experience League Communities](https://adobe.ly/46KMTsh)でやり取りを続けます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425622/?learn=on)

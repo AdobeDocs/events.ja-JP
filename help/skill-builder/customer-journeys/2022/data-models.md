@@ -1,24 +1,26 @@
 ---
-title: Adobeでのデータモデルの開発とカスタマイズ  [!DNL Campaign Classic]
-description: ' [!DNL Campaign Classic] の場所にあるデータモデル内でデータスキーマを開発する方法を説明します。'
+title: Adobe [!DNL Campaign Classic]でのデータモデルの開発とカスタマイズ
+description: ' [!DNL Campaign Classic]内のデータモデル内でデータスキーマを開発する方法について説明します'
 solution: Campaign Classic v7
+feature: SMS, Deliverability
+topic: Development
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10575
 thumbnail: 343829.jpeg
 exl-id: 1284cd37-5357-4210-ad90-ba5951d82df0
 duration: 1857
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Classic] でのデータモデルの開発とカスタマイズ
+# Adobe [!DNL Campaign Classic]でのデータモデルの開発とカスタマイズ
 
-[!DNL Campaign] トレーナーと共にこのセッションに参加して、[!DNL Campaign Classic] 内のデータモデル内のデータスキーマを開発する方法を学習してください。
+このセッションでは、[!DNL Campaign] トレーナーが、[!DNL Campaign Classic]内のデータモデル内でデータスキーマを開発する方法について説明します。
 
-*カミリア・タジ* トレーニングコンサルタント/Adobe
+*Kamilia Tazi* トレーニングコンサルタント / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343829/?quality=12&learn=on)

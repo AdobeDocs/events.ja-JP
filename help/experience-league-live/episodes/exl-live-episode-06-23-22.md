@@ -1,27 +1,28 @@
 ---
 title: エキスパートに質問 – Real-Time CDP Connections
-description: このセッションでは、エキスパートが、サーバーサイドタグ管理システムを使用してAdobe以外の宛先にイベントを転送できる、AdobeのRTCDP Connections 製品を詳細に紹介します。
+description: このセッションでは、エキスパートがAdobeのRTCDP Connections製品を詳しく説明します。この製品では、お客様がサーバーサイドのタグ管理システムを使用してAdobe以外の宛先にイベントを転送できます。
 solution: Data Collection,Experience Platform
 feature: Event Forwarding
+topic: Development
 kt: 10490
 event-cta-text: Watch the replay
 event-start-time: 2022-06-23 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: 63dadfa3-edfa-4901-ab22-1f721a2a7b7d
 duration: 3518
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# エキスパートに質問する：Real-Time CDP Connections
+# エキスパートに質問：Real-Time CDP Connections
 
-このセッションでは、エキスパートが、サーバーサイドタグ管理システムを使用してAdobe以外の宛先にイベントを転送できる、AdobeのRTCDP Connections 製品を詳細に紹介します。
+このセッションでは、エキスパートがAdobeのRTCDP Connections製品を詳しく説明します。この製品では、お客様がサーバーサイドのタグ管理システムを使用してAdobe以外の宛先にイベントを転送できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
 ## 関連コンテンツ
 
-* [エキスパートに質問する – Web SDKの基本](exl-live-episode-05-26-22.md)
+* [エキスパートに質問 – Web SDKの基本](exl-live-episode-05-26-22.md)

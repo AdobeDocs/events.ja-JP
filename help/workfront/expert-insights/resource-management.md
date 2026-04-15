@@ -1,7 +1,8 @@
 ---
-title: エキスパートインサイト - Corinna Jevons によるリソース管理
-description: Workfront Resource Management の使用を開始し、処理能力を最適化し、ワークロードを効果的にバランスさせる方法について、Corinna Jevons が説明します。
+title: Expert Insights - リソース管理とCorinna Jevons
+description: Corinna Jevons氏が、Adobe Workfrontのリソース管理の基本を学び、キャパシティを最適化し、ワークロードのバランスを効果的に取る方法を解説します。
 feature: Resource Management
+topic: Performance
 speaker-name-1: Corinna Jevons
 speaker-title-1: Team Lead, Customer Success Architect Team
 speaker-company-1: Adobe
@@ -11,42 +12,42 @@ doc-type: Event
 duration: 901
 last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18613
-source-git-commit: 384788055c6dd25a55cf78409ee1b01756aa69ab
+exl-id: 56779a36-f8f1-42ca-aeaa-b21fc9b64e94
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
 
+# Expert Insights - リソース管理とCorinna Jevons
 
-# エキスパートインサイト - Corinna Jevons によるリソース管理
+リソース管理の概要と導入に関するアドバイスをご覧ください。 オンデマンドWorkfront CSMに参加して、アドビのAdobe Workfront Resource ManagementのエキスパートであるCorinna Jevonsへのインタビューを行い、このWorkfront機能を実装するための一般的な質問とベストアプローチをご紹介します。
 
-リソース管理の概要に関するアドバイスをお探しですか？ オンデマンドWorkfront CSM に参加して、アドビのAdobe Workfront Resource Management エキスパートである Corinna Jevons とのインタビューに参加し、このWorkfront機能を実装するための一般的な質問と最適なアプローチを探索してください。
-
->[!VIDEO](https://video.tv.adobe.com/v/3469904/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
 
 ## リソース
 
-機能アラート  [&#x200B; 新しい作業時間フィールド &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=ja#M519) の詳細を確認：ユーザーの処理能力を調整し、ユーザーのスケジュールに基づいて空き時間を計算できるようになりました。
+機能アラート！  新しい作業時間フィールド [の詳細を確認してください](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519)：ユーザーのキャパシティを調整し、ユーザーのスケジュールに基づいて可用性を計算できます。
 
-データをより適切に分析して、準備ができていることを確認する方法をお探しですか？ すぐにインストール可能なブループリントのカタログをチェックしてください。
+データを適切に分析し、準備が整っているかどうかを確認する方法をお探しですか？ すぐにインストール可能なブループリントのカタログをご覧ください。
 
-[Workfront ブループリントを使用した作業管理環境の最適化 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=ja)
+[Adobe Workfrontのブループリントを活用して、作業管理環境を最適化しましょう。](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
 
-リソースプランナーとワークロードバランサーの違いを探している場合は、 次に、短いビデオを示します。
+リソースプランナーとワークロードバランサーの違いを探していますか？ 主な内容：
 
-* [&#x200B; リソースプランナーとは &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=ja)
-* [&#x200B; ワークロードバランサーでの作業の割り当て &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=ja)
+* [リソースプランナーとは？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
+* [ワークロードバランサーでの作業の割り当て](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
 
-リソースプランナーとワークロードバランサーはリソース管理機能内の 2 つの異なるツールなので、両方のフィルターを理解することが重要です。 詳しくは、こちらを参照してください。
+リソースプランナーとワークロードバランサーはリソース管理機能の2つの異なるツールであるため、両方のフィルターを理解することが重要です。 詳細については、こちらをご覧ください：
 
-* [&#x200B; リソースプランナーでの情報のフィルタリング &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=ja)
-* [&#x200B; ワークロードバランサーでの情報のフィルタリング &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=ja)
+* [リソースプランナーでの情報のフィルタリング](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
+* [ワークロードバランサーでの情報のフィルタリング](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
 
-## スピーカーについて
+## 講演者について
 
-Corinna Jevons は、カスタマーサクセスアーキテクトチームのチームリーダーです。  10 年以上Workfrontで働き、最初はカスタマー、次にパートナーのコンサルタント、そして現在はAdobeで働いています。  彼女は生まれ育った北カリフォルニアに住んでいる。
+Corinna Jevons氏は、カスタマーサクセスアーキテクトチームのチームリーダーです。  同氏は10年以上にわたりWorkfrontと仕事をしており、最初は顧客として、次にパートナーとのコンサルタントとして、そして現在はAdobeに勤務しています。  彼女は生まれ育った北カリフォルニアに住んでいる。
 
 ## 何か共有するものはありますか？
 
-イベント中やエキスパートインサイトのビデオで共有するべき素晴らしいストーリーはありますか？ チーム （[CSatScale@adobe.com](mailto:CSatScale@adobe.com)）にお問い合わせください
+イベント中やエキスパートインサイトの動画で、素晴らしいストーリーを共有したいですか？ [CSatScale@adobe.com](mailto:CSatScale@adobe.com)に連絡してください

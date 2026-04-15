@@ -1,6 +1,8 @@
 ---
-title: Marketoと Mocha – 配信品質（パート 1）
-description: Marketo&Mochas と共に、Sean Wirt と Cynthia Chang によるメール配信のベストプラクティスを探索してください。評判の管理、データ品質、共有 IP と専用 IP、Marketo Engageでの配信品質プログラムのデモについて説明しています。
+title: MarketoとMochas – 配信品質（パート 1）
+description: MarketoとMochasのパートナーシップにより、Sean Wirt氏とCynthia Chang氏によるメール配信のベストプラクティスの紹介に加えて、レピュテーション管理、データ品質、共有IPと専用IPの比較、Marketo Engageの配信品質プログラムのデモも行います。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,15 +12,15 @@ thumbnail: 3416666.jpeg
 event-start-time: 2023-3-24 08:30-8
 exl-id: 4a21fc22-0bd0-46a2-9edb-bb3d1031ed79
 duration: 3537
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Marketoと Mocha – 配信品質（パート 1）
+# MarketoとMochas – 配信品質（パート 1）
 
-Marketoと Mochas によるこのセッションでは、Marketo Deliverability Manager、Sean Wirt およびシニアマーケティングオートメーションビジネスアドバイザーの Cynthia Chang が参加します。 このセッションでは、Sean が配信品質のベストプラクティスを掘り下げ、評判、データ品質要因、エンゲージメントの種類、共有 IP と専用 IP の長所と短所の要素を重点的に説明します。 次に、Cynthia は [!DNL Marketo Engage] で配信品質プログラムを読み込む方法を実演します。 イベントの最後にはライブ Q&amp;A が行われ、Sean が登録者や出席者からの質問に回答します。
+MarketoとMochasのセッションでは、Marketo Deliverability ManagerのSean Wirt氏と、Cynthia Chang氏のシニアマーケティングオートメーション担当ビジネスアドバイザーを特集します。 このセッションでは、Sean氏が配信品質のベストプラクティスについて詳しく説明し、レピュテーションのコンポーネント、データ品質要因、エンゲージメントの種類、共有IPと専用IPの長所と短所を強調します。 次に、Cynthiaは、[!DNL Marketo Engage]に配信品質プログラムを読み込む方法を示します。 イベントの最後にはライブ Q&amp;Aが行われ、Seanは登録者や参加者からの質問に答えます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416666/?quality=12&learn=on)

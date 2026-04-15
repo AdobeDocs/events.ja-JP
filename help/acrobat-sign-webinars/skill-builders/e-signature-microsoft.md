@@ -1,7 +1,8 @@
 ---
-title: Microsoft アプリでの電子サインの操作
-description: 既存のワークフローにMicrosoftを追加することで、Word、Outlook、Sharepoint などのAdobe Acrobat Sign アプリの使用方法を広げることができます。
+title: Microsoft アプリケーションでの電子サインの操作
+description: 既存のワークフローにAdobe Acrobat Signを追加して、Word、Outlook、SharepointなどのMicrosoft アプリケーションの使用方法を拡大します。
 feature: Sign, Integrations
+topic: Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -9,38 +10,38 @@ duration: 1352
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15294
 exl-id: cee60efb-793c-45d5-bfe4-bfede95c357c
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# Microsoft アプリでの電子サインの操作
+# Microsoft アプリケーションでの電子サインの操作
 
-既存のワークフローにMicrosoftを追加することで、Word、Outlook、Sharepoint などのAdobe Acrobat Sign アプリの使用方法を広げることができます。 このセッションでは、一般的なMicrosoft アプリでドキュメントプロセスの合理化を開始する方法を説明するので、署名の取得やステータスの確認のためだけにコンテキストを切り替える必要はありません。
+既存のワークフローにAdobe Acrobat Signを追加して、Word、Outlook、SharepointなどのMicrosoft アプリケーションの使用方法を拡大します。 このセッションでは、一般的なMicrosoft アプリケーションでドキュメントプロセスの合理化を開始する方法を説明します。これにより、署名を取得したり、ステータスを確認したりするためだけにコンテキストを切り替える必要がなくなります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455049/?learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
 
-## Acrobat Sign統合はどのアプリケーションをサポートしていますか？
+## Acrobat Sign統合はどのようなアプリケーションをサポートしていますか？
 
-Acrobat Sign統合は、次のアプリケーションをサポートしています。
+Acrobat Signとの連携では、次のアプリケーションをサポートしています，
 
 * Microsoft Outlook
 * Microsoft Word
-* MicrosoftSharePoint
+* Microsoft SharePoint
 
-## Outlook 用Acrobat Sign アドインをインストールして使用する方法
+## Outlook用Acrobat Sign アドインをインストールして使用する方法
 
-Outlook 用Acrobat Sign アドインをインストールして使用するには、次の手順に従います。
+Outlook用Acrobat Sign アドインをインストールして使用するには、次の手順に従います。
 
-* Outlook を開き、ホーム リボンに移動します。
+* Outlookを開き、ホーム リボンに移動します。
 * ホームリボンから「アドインを取得」をクリックします。
-* 「アドインの取得」ウィンドウで、検索バーの「Acrobat Sign」を検索します。
+* 「アドインを入手」ウィンドウで、検索バーで「Acrobat Sign」を検索します。
 * 「Acrobat Sign」アドインをクリックし、「追加」を選択してインストールします。
-* インストールが完了したら、「使用を開始」をクリックしてアドインにアクセスします。
-* アドインでは、Outlook のホーム リボンに [ 入力して署名 ]、[Send for Signature]、[ 契約の状態 ] などのオプションが表示されます。
-* これらのオプションを使用して、Outlook から直接ドキュメントへの署名、署名ワークフローの開始、および契約書の状態の追跡を行います。
-* アドインを構成するには、アドイン ウィンドウの [ その他のオプション ] をクリックして、追加の設定とカスタマイズ オプションにアクセスします。
-* アドインの指示に従って、インストールおよびセットアップのプロセスを完了します。
-* 詳細な手順やガイダンスが必要な場合は、helpx.adobe.comにアクセスして、Outlook 用Acrobat Sign アドインのインストールとユーザーガイドを参照してください。
+* インストールが完了したら、「開始」をクリックしてアドインにアクセスします。
+* アドインは、Outlookのホーム リボンに「入力して署名」、「署名用に送信」、「契約書ステータス」などのオプションを提供します。
+* これらのオプションを使用して、文書に署名し、署名ワークフローを開始し、Outlookから直接契約書のステータスを追跡します。
+* アドインを設定するには、アドインウィンドウの「その他のオプション」をクリックして、追加の設定とカスタマイズオプションにアクセスします。
+* アドインのプロンプトと指示に従って、インストールとセットアップのプロセスを完了します。
+* 詳しい手順やガイダンスが必要な場合は、helpx.adobe.comにアクセスして、Outlook用Acrobat Sign アドインのインストールおよびユーザーガイドを参照してください。

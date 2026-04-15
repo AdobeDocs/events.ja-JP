@@ -1,21 +1,23 @@
 ---
-title: システム管理のベストプラクティス（2020 年 9 月 29 日）
-description: FCB の Anthony Imgrund 氏が、組織のグローバルシステム管理者である際のベストプラクティスをいくつか紹介します。
+title: システム管理者のベストプラクティス（2020年9月29日（PT））
+description: グローバルなシステム管理者であれば、FCBのAnthony Imgrund氏にベストプラクティスを共有してもらいましょう。
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate, Experienced
 kt: 10009
 thumbnail: 341227.jpeg
 exl-id: b2e12a9b-3ada-497e-8fbc-8ecdbfa4fef2
 duration: 3087
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# システム管理のベストプラクティス（2020 年 9 月 29 日）
+# システム管理者のベストプラクティス（2020年9月29日（PT））
 
-FCB の Anthony Imgrund 氏が、組織のグローバルシステム管理者である際のベストプラクティスをいくつか紹介します。
+グローバルなシステム管理者であれば、FCBのAnthony Imgrund氏にベストプラクティスを共有してもらいましょう。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341227/?quality=12&learn=on)

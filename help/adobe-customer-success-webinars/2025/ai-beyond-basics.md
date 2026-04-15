@@ -1,29 +1,31 @@
 ---
-title: AI アシスタント – 基本を超える
-description: AEPで AI アシスタントを自信を持って使用する方法を説明します。これには、ワークフローの効率とマーケティングへの影響を高めるための設定、主なユースケース、実用的なヒント、今後の機能が含まれます。
+title: AI アシスタント – 基本を超えて
+description: AEPのAI アシスタントを自信を持って使用する方法を学びましょう。設定、主要なユースケース、実用的なヒント、ワークフローの効率とマーケティングの影響を高めるための新機能などを紹介します。
 role: Developer, Leader, User
 solution: Experience Platform
+feature: AI Assistant
+topic: Performance
 level: Intermediate
 doc-type: Event
 duration: 2324
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18247
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: ad9ca09b-6cb2-4118-af19-da395a5d19b2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
+# AI アシスタント – 基本を超えて
 
-# AI アシスタント – 基本を超える
+このセッションでは、参加者はAI アシスタントを自信を持って使用し始め、ワークフロー効率やマーケティングのパフォーマンスにつながる習熟度を高めることができました。 AI アシスタントの主なユースケース、ツール機能の適用方法、AI アシスタントの利用拡大の方法を確認する。
 
-このセッションでは、参加者が自信を持って AI アシスタントの使用を開始し、ワークフローの効率とマーケティングパフォーマンスに翻訳する熟練度を構築できるようになりました。 AI アシスタントの主なユースケース、ツール機能の適用方法、および AI アシスタントの使用を拡大する方法を概説します。
+主な討議ポイント
 
-主な議論のポイント
+* AEPでのAI アシスタントの基本コンセプトと初期設定について説明します。
+* 主要なユースケース、機能の用途、成熟度を高めるためのヒントとコツを検証しましょう。
+* Workfrontの今後の機能と機能強化について
 
-* AEPの基本概念と AI アシスタントの初期設定について説明します。
-* 主なユースケース、機能の応用、成熟度進行のヒントとテクニックを調べます。
-* の今後の機能や機能強化についても話し合う
-
->[!VIDEO](https://video.tv.adobe.com/v/3463359/?learn=on&enablevpops&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)

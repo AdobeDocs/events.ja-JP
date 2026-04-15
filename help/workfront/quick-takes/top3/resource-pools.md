@@ -1,35 +1,35 @@
 ---
-title: リソース プールの上位の理由
-description: プロジェクトの管理とレポートを効率的に行うために、Adobe Workfrontのリソースプールを使用するクリエイティブな方法を探索します。
+title: リソースプールの主な理由
+description: Adobe Workfrontのリソースプールを使用して、効率的なプロジェクト管理とレポート作成を実現するクリエイティブな方法を解説します。
+feature: Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 271
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18648
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: f0f8a3ea-d7db-47b0-ba63-b25cbfb7ca15
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '210'
+ht-degree: 10%
 
 ---
 
+# リソースプールの上位3つの理由
 
-# リソース プールの上位 3 つの理由
-
-お客様の「オンデマンドWorkfront CSM」が新しいトップ 3 ビデオで復活しました。 今回は、リソースプールと、それを使用するクリエイティブな方法について説明します。 このトピックは常に議論を刺激するので、ビデオをチェックしてください。
+あなたの&quot;オンデマンドWorkfrontのCSM&quot;は、新しいトップ 3 ビデオで戻ってきました！ 今回は、リソースプールとその使用方法について説明します。 このトピックは常に議論を刺激するので、ビデオをチェックしてください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470071/?learn=on&enablevpops)
 
-リソース プールを使い始めたばかりでも、 まず最初に、彼らは何ですか？
+リソースプールを使い始めましょう？ まず第一に、彼らは何ですか？
 
-* リソースプールは、プロジェクトの完了に同時に必要なユーザーの集まりです。
-* リソースプールは、プログラムおよびポートフォリオ内のすべてのプロジェクトに関連付けられている場合、複数のプロジェクト、プログラムまたはポートフォリオにわたって共有できます。
-* リソース プールにユーザーを設定した後、リソース プールをプロジェクトおよびテンプレートに関連付けることができます。また、必要な数のリソース プールをプロジェクト、テンプレート、またはユーザーに関連付けることができます。
+* リソースプールとは、プロジェクトの完了に同時に必要なユーザーのコレクションです。
+* リソースプールは、プログラムおよびポートフォリオ内のすべてのプロジェクトに関連付けられている場合、複数のプロジェクト、プログラム、またはポートフォリオ間で共有できます。
+* リソースプールにユーザーを設定したら、プロジェクトとテンプレートに関連付けることができ、必要に応じてプロジェクト、テンプレート、またはユーザーにリソースプールを関連付けることができます。
 
 ## その他のリソース
 
-* 詳しくは、[&#x200B; リソースプールの概要の記事 &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools) を参照してください。
-* 詳細を見る？ [Experience League コミュニティの投稿 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=ja) をご覧ください。
-
-
+* 詳しくは、[ リソースプールの概要に関する記事](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools)を参照してください。
+* 詳細をご確認ください。 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)をご覧ください。

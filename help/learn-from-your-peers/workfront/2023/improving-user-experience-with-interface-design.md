@@ -1,30 +1,32 @@
 ---
-title: インターフェイスデザインのウェビナーによるユーザーエクスペリエンスの向上
-description: オンデマンドウェビナーで、Workfront インターフェイスをカスタマイズするためのベストプラクティスをご確認ください。 JP Morgan Chase およびAdobe Workfrontのエキスパートが、レイアウトテンプレート、ピン、ボードを使用したユーザーエクスペリエンスの最適化、およびユーザーからのフィードバックの収集について説明します。
+title: インターフェイスデザインウェビナーによるユーザー体験の向上
+description: Workfrontのインターフェイスをカスタマイズするためのベストプラクティスを、オンデマンドウェビナーでご確認ください。 JP Morgan ChaseとAdobe Workfrontの専門家から、レイアウトテンプレート、ピン、ボード、ユーザーフィードバックの収集によるユーザーエクスペリエンスの最適化について学びます。
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: Work Management
+topic: Administration, Integrations
 duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15821
 exl-id: 49248573-9997-4dcd-b618-7af7264e7982
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
 # インターフェイスデザインによるユーザーエクスペリエンスの向上
 
-Workfront インターフェイスは、パワーユーザーや、たまにしかログインしない個人（およびその間のすべてのユーザー）に最適なエクスペリエンスを提供するようにカスタマイズされていますか。
+Workfrontのインターフェイスは、一時的にしかログインしないパワーユーザーや個人（およびその間のすべてのユーザー）に最適なエクスペリエンスを提供するようにカスタマイズされていますか？
 
-このオンデマンドウェビナーでは、JP Morgan Chase のマーケティングデリバリーリード担当バイスプレジデントである Kurt Jones と、Adobe Workfrontのシニアプロダクトマネージャーである Jeremy Flores が、Workfront インターフェイスのカスタマイズが理想的なエンドユーザーエクスペリエンスの鍵を握る方法を説明します。 説明する内容は次のとおりです。
+このオンデマンドウェビナーでは、JP Morgan Chaseのマーケティングデリバリーリード担当バイスプレジデントのKurt Jones氏とAdobe Workfrontのシニア製品マネージャーのJeremy Flores氏が、Workfrontインターフェイスのカスタマイズが理想的なエンドユーザーエクスペリエンスの鍵となる理由を解説します。 主な内容：
 
-* ユーザーのニーズと好みの働き方を理解するためのヒント
-* カスタマイズされたレイアウトテンプレート、ピンおよびボードで、即座にユーザーエクスペリエンスを向上させる方法
-* ユーザーフィードバックを収集して実装する方法
-* JP Morgan Chase が様々なグループやエンドユーザー向けに作成したユニークなエクスペリエンスの例
+* 利用者のニーズと作業方法を把握するためのヒント
+* カスタマイズされたレイアウトテンプレート、ピン、ボードを使用して、ユーザーエクスペリエンスを即座に向上させる方法
+* ユーザーからのフィードバックを収集して実装する方法
+* JP Morgan Chaseが様々なグループやエンドユーザー向けに作成したユニークな体験の例
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431015/?learn=on)

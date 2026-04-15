@@ -1,8 +1,9 @@
 ---
-title: AEM as a Cloud Service デプロイメントのエラー分析
-description: AEM as a Cloud Service デプロイメントの内部情報とトラブルシューティング。
+title: AEM as a Cloud Serviceのデプロイメントエラーの分析
+description: AEM as a Cloud Serviceのデプロイメントの内部構造とトラブルシューティングを示します。
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
+topic: Development, Headless
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -11,15 +12,15 @@ jira: KT-13816
 thumbnail: 3422532.jpeg
 exl-id: 8099bdbf-d26b-4483-aec3-95e313e3f455
 duration: 2767
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# AEM as a Cloud Service デプロイメントのエラー分析
+# AEM as a Cloud Serviceのデプロイメントエラーの分析
 
-このセッションでは、AEM as a Cloud Service デプロイメントの内部構造とトラブルシューティングについて説明します。
+このセッションでは、AEM as a Cloud Service デプロイメントの内部とトラブルシューティングについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

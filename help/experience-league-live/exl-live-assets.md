@@ -1,23 +1,26 @@
 ---
-title: Experience League ライブ Assets
-description: このページには、Experience Leagueライブのアセットが格納されます
+title: EXPERIENCE LEAGUE LIVE ASSETS
+description: Experience League LIVEのアセットが格納されています
+solution: Experience Cloud
+feature: Developer Tools
+topic: Development
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: f9033744-4b73-4081-ae7b-af6bec257359
 duration: 7
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%
 
 ---
 
-# Experience League ライブ Assets
+# EXPERIENCE LEAGUE LIVE ASSETS
 
-このページには、Experience Leagueライブのアセットが格納されます
+Experience League LIVEのアセットが格納されています
 
-![&#x200B; エピソード 6 サイドバーの画像 &#x200B;](assets/exl-live-ep6-sidebar.jpg)
+![ エピソード 6 サイドバー画像](assets/exl-live-ep6-sidebar.jpg)
 
-![Experience Leagueのライブ ロゴ &#x200B;](assets/exl-live-logo.png)
+![Experience League Live Logo](assets/exl-live-logo.png)
