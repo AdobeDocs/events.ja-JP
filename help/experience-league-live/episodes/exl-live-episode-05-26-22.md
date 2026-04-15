@@ -25,8 +25,8 @@ Web SDKを活用したWeb データ収集の「未来」について紹介しま
 ## 役に立つリンク
 
 * [チュートリアル：Web SDKを使用したAdobe Experience Cloudの実装](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja){target="_blank"}
-* [Web SDKでの自動収集](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [Web SDKでの自動収集](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=ja){target="_blank"}
 * [無料のWeb SDK プロビジョニング](https://adobe.ly/websdkaccess){target="_blank"}
-* [Web SDKのファーストパーティデバイス IDに関する情報](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debuggerの概要とダウンロード](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Web SDKのファーストパーティデバイス IDに関する情報](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=ja){target="_blank"}
+* [Adobe Experience Platform Debuggerの概要とダウンロード](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=ja){target="_blank"}
 * [Mobile SDK Docs](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}

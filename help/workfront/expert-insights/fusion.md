@@ -28,19 +28,19 @@ Expert Insightsへようこそ！  あなたの「オンデマンド」Workfront
 
 ## 助けが必要です！
 
-ビデオで言及したように、彼はFusionのベストプラクティスガイドに取り組んでおり、彼はあなたから聞くのが大好きです！  Fusionを使用してプロセスをサポートする場合は、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)でアドバイス、推奨事項、ヒントを共有してください。可能な限り多くの情報を含めるようにしてください。
+ビデオで言及したように、彼はFusionのベストプラクティスガイドに取り組んでおり、彼はあなたから聞くのが大好きです！  Fusionを使用してプロセスをサポートする場合は、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=ja)でアドバイス、推奨事項、ヒントを共有してください。可能な限り多くの情報を含めるようにしてください。
 
 ## 助言
 
 * Adobe Workfront Fusionでは、プロセスを視覚的に表現できます。 ドキュメントは味方です！ ドキュメントといえば、プロセスの構築方法の詳細を保存します。  さらに良いことに、自分で歩くビデオを自分で撮ってください！
 * 反復作業の労力と時間を測定
-* Ewanが言及したAdobe Workfront ROI計算機は、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)に添付されています。
+* Ewanが言及したAdobe Workfront ROI計算機は、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=ja)に添付されています。
 * Adobe Workfront Fusionを使用して、部門横断的な課題を解決し、時間（およびコスト）を節約し、エラーを防ぎます。
 
 ## リソース
 
-* [使用可能なFusion テンプレートのリスト &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
-* [Adobe Workfront Fusion ビデオの概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
+* [使用可能なFusion テンプレートのリスト &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=ja)
+* [Adobe Workfront Fusion ビデオの概要](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=ja)
 
 ## 講演者について
 

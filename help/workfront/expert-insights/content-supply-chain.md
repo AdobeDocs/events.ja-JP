@@ -38,12 +38,12 @@ Expert Insightsへようこそ！  このエピソードでは、Adobeのプリ
 
 ### Summit セッション
 
-* [AdobeによるコンテンツのSupply chainの最適化方法 – S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html)：独自のマーケティング組織にContent Supply chainをデプロイするAdobeのアプローチについて説明します 
-* [Adobeによるコンテンツ制作の革新 – S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) :Adobeでコンテンツ supply chainを最大限に活用し、クリエイティブワークフローを高速化する方法をご覧ください 
+* [AdobeによるコンテンツのSupply chainの最適化方法 – S316](https://business.adobe.com/jp/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html)：独自のマーケティング組織にContent Supply chainをデプロイするAdobeのアプローチについて説明します 
+* [Adobeによるコンテンツ制作の革新 – S305](https://business.adobe.com/jp/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) :Adobeでコンテンツ supply chainを最大限に活用し、クリエイティブワークフローを高速化する方法をご覧ください 
 
 ### 製品デモ
 
-* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - インタラクティブな[製品デモ ]が、エンタープライズ作業管理ソリューション内に存在できる内容の範囲を説明するために必要であるため。  
+* [Workfront](https://business.adobe.com/jp/product-demos/workfront/interactive-tour.html) - インタラクティブな[製品デモ ]が、エンタープライズ作業管理ソリューション内に存在できる内容の範囲を説明するために必要であるため。  
 * [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) – お客様が現在Adobeに存在するソリューションにニーズを結びつけ始めるにあたり、これがいかに包括的なものであるか、私は気に入っています。
 
 ## 講演者について 

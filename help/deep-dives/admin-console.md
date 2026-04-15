@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Adobe IdentityでのMarketo Engageの準備
 
-これは、[Adobe Marketo Engage サブスクリプションをAdobe Identity Management System](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)と統合するための移行に関するトレーニングです。 この内容は、Marketo Engage管理者に最適です。 このトレーニングでは、組織を部門横断的に準備し、この今後の変化について社内ユーザーを教育するための基本的な知識を習得できます。
+これは、[Adobe Marketo Engage サブスクリプションをAdobe Identity Management System](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)と統合するための移行に関するトレーニングです。 この内容は、Marketo Engage管理者に最適です。 このトレーニングでは、組織を部門横断的に準備し、この今後の変化について社内ユーザーを教育するための基本的な知識を習得できます。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)

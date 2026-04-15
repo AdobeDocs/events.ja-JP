@@ -25,6 +25,6 @@ Myka Bohnsack氏とWarren Barton氏が、WorkfrontとAEMのネイティブ連携
 
 ライブイベントを見逃した場合は、[&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/AEM-WF_Native_Integration_10-23-25.pdf)を確認し、オンデマンド録画を視聴してください。 このイベントでは、統合の概要、準備方法に関するインサイト（マッピングプロセス、メタデータの調整、適切な権限の確保など）を提供します。 基本的な設定方法を説明しました。
 
-イベントで共有したいアイデアやフォローアップの質問はありますか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361)のコメントに自由に投稿してください。
+イベントで共有したいアイデアやフォローアップの質問はありますか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361?profile.language=ja)のコメントに自由に投稿してください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

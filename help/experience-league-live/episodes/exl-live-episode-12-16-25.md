@@ -29,4 +29,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[引き続きコミュニティの議論を行います！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[引き続きコミュニティの議論を行います！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=ja#M1909){target="_blank"}

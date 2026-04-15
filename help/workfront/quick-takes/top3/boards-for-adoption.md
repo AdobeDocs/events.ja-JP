@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ビデオでお約束したように、記事や短いビデオのデモなど、共有するリソースがたくさんあります。
 
-* [Adobe Workfrontのボードの基本を学ぶ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Adobe Workfront ボードの早期機能オプトイン](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [ボードの作成または編集 – 各ボードテンプレートの説明が含まれます](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront ボード – 短いビデオ デモ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Adobe Workfrontのボードの基本を学ぶ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=ja)
+* [Adobe Workfront ボードの早期機能オプトイン](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=ja)
+* [ボードの作成または編集 – 各ボードテンプレートの説明が含まれます](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=ja)
+* [Adobe Workfront ボード – 短いビデオ デモ](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=ja)

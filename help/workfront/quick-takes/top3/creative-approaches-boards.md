@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Boardsの例をお探しですか？ 2024年のAdobe Summitで開催されたMattel社のプレゼンテーションに加え、ご覧ください。  
 
-[2024 Summit セッション：MattelがWorkfront ボードを活用している方法](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[2024 Summit セッション：MattelがWorkfront ボードを活用している方法](https://business.adobe.com/jp/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)

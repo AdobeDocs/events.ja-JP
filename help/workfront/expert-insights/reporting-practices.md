@@ -42,15 +42,15 @@ ht-degree: 0%
 
 ## リソース
 
-* **ブログ** - [計算カスタムフィールドを使用して時間を節約](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
-* **記事** - [計算データ式] （https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=新しいフィールドを生成するデータ式を使用できます。&amp;text=カスタムフォームへのデータの作成について詳しくは、）
-* **イベントフォローアップ** - [計算カスタムフィールドワークショップ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
-* **コミュニティ** - [&#x200B; レポート用クックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* **ブログ** - [Workfront ブループリントを使用して作業管理の環境を最適化する！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+* **ブログ** - [計算カスタムフィールドを使用して時間を節約](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=ja)
+* **記事** - [計算データ式] （https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=ja#:~:text=新しいフィールドを生成するデータ式を使用できます。&amp;text=カスタムフォームへのデータの作成について詳しくは、）
+* **イベントフォローアップ** - [計算カスタムフィールドワークショップ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=ja)
+* **コミュニティ** - [&#x200B; レポート用クックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ja#M1406)
+* **ブログ** - [Workfront ブループリントを使用して作業管理の環境を最適化する！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=ja)
    * *はじめに* – このブログでは、システムメンテナンスダッシュボードとレポートの使用状況ダッシュボードバンドルに関する詳細情報を確認できます。 
    * *ボーナスヒント！* – 新しいブループリントがリリースされたときの通知をブログに登録します。 
-* **記事** - [&#x200B; ワイルドカードフィルター変数](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
-* **記事** - [&#x200B; ビューに基本的な条件付き書式を追加](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* **記事** - [&#x200B; ワイルドカードフィルター変数](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=ja)
+* **記事** - [&#x200B; ビューに基本的な条件付き書式を追加](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=ja)
 
 ## 講演者について
 

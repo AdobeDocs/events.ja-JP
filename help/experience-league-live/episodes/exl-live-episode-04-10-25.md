@@ -28,8 +28,8 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**Experience League [&#x200B; コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**&#x200B;に関するディスカッションを続けます
+**Experience League [&#x200B; コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le?profile.language=ja[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**&#x200B;に関するディスカッションを続けます
 
 ## その他のリソース
 
-[Real-Time CDP Collaboration ビデオ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[Real-Time CDP Collaboration ビデオ](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

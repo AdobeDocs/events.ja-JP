@@ -28,21 +28,21 @@ ht-degree: 0%
 
 ## リソース
 
-機能アラート！  新しい作業時間フィールド [の詳細を確認してください](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519)：ユーザーのキャパシティを調整し、ユーザーのスケジュールに基づいて可用性を計算できます。
+機能アラート！  新しい作業時間フィールド [の詳細を確認してください](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=ja#M519)：ユーザーのキャパシティを調整し、ユーザーのスケジュールに基づいて可用性を計算できます。
 
 データを適切に分析し、準備が整っているかどうかを確認する方法をお探しですか？ すぐにインストール可能なブループリントのカタログをご覧ください。
 
-[Adobe Workfrontのブループリントを活用して、作業管理環境を最適化しましょう。](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[Adobe Workfrontのブループリントを活用して、作業管理環境を最適化しましょう。](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=ja)
 
 リソースプランナーとワークロードバランサーの違いを探していますか？ 主な内容：
 
-* [リソースプランナーとは？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [ワークロードバランサーでの作業の割り当て](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [リソースプランナーとは？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=ja)
+* [ワークロードバランサーでの作業の割り当て](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=ja)
 
 リソースプランナーとワークロードバランサーはリソース管理機能の2つの異なるツールであるため、両方のフィルターを理解することが重要です。 詳細については、こちらをご覧ください：
 
-* [リソースプランナーでの情報のフィルタリング](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [ワークロードバランサーでの情報のフィルタリング](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [リソースプランナーでの情報のフィルタリング](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=ja)
+* [ワークロードバランサーでの情報のフィルタリング](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=ja)
 
 ## 講演者について
 

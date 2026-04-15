@@ -28,6 +28,6 @@ ht-degree: 0%
 * 将来の自分（および将来の管理者）を成功に導くために、すべての管理者が今日やるべきこと
 * インスタンスの監査と文書化のプロセスをガイドする、質問、リソース、リンクを含むダウンロード可能なチェックリスト
 
-また、継承されたインスタンスのチェックリストとブループリントも確認してください。https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+また、継承されたインスタンスのチェックリストとブループリントも確認してください。https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

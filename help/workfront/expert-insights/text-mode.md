@@ -37,13 +37,13 @@ ht-degree: 0%
 ## リソース
 
 関連リソースをお探しですか？ 手に入れました！
-* [お客様パネル：ベテランのWorkfront管理者から学んだ教訓](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine氏は、さらに多くのインサイトを共有しました。
-* [レポート内の参照コレクション](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API エクスプローラー](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [レポート用クックブック](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* また、レポートを初めて使用する場合は、Adobe Workfrontでシンプルで効果的なレポートを作成するための[8つの手順に関するNicholeのPerspectiveの記事をご覧ください](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
+* [お客様パネル：ベテランのWorkfront管理者から学んだ教訓](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=ja#M3487) - Katherine氏は、さらに多くのインサイトを共有しました。
+* [レポート内の参照コレクション](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API エクスプローラー](https://experienceleague.adobe.com/ja/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [レポート用クックブック](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=ja#M1406)
+* また、レポートを初めて使用する場合は、Adobe Workfrontでシンプルで効果的なレポートを作成するための[8つの手順に関するNicholeのPerspectiveの記事をご覧ください](https://experienceleague.adobe.com/ja/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
 
-テキストモードのコピー/ペーストなど、その他の情報については、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)を参照してください。
+テキストモードのコピー/ペーストなど、その他の情報については、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=ja#M4848)を参照してください。
 
 
 ## 講演者について

@@ -28,5 +28,5 @@ Adobe [!DNL Analytics]&#x200B;**で、いつでもどこでもスムーズにイ
 
 このライブストリームイベントを見るには、上記のビデオをご覧ください。Adobe [!DNL Analytics]のエキスパートが、Analysis Workspaceと[!DNL Analytics] ダッシュボードアプリでインサイトをカスタマイズしてアクセスするためのヒントを提供しました。
 
-よくある質問と？ このトピックに関するディスカッションは、Adobe Experience League [&#x200B; コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037)で続けてください。
+よくある質問と？ このトピックに関するディスカッションは、Adobe Experience League [&#x200B; コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=ja#M3037)で続けてください。
 

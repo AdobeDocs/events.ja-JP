@@ -23,14 +23,14 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
 
-オフィスアワーは、Workfrontコミュニケーションプラン全体の重要な一部です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [&#x200B; エンドユーザーコミュニケーションクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)をご覧ください。
+オフィスアワーは、Workfrontコミュニケーションプラン全体の重要な一部です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [&#x200B; エンドユーザーコミュニケーションクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ja)をご覧ください。
 
 ありがとうございました。Workfrontの導入を楽しくする方法について、Expert Insightsでアイデアを共有しました。 
 
-[Workfront Expert Insights - Leslie Spierの導入](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[Workfront Expert Insights - Leslie Spierの導入](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=ja#M2588)
 
 ボーナスリソース！ 素晴らしいお客様の多くがお気に入りの導入のヒントを共有するコミュニティコーヒーブレークを開催しました。 
 
-[Workfrontのコーヒーブレイクコミュニケーション手法](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[Workfrontのコーヒーブレイクコミュニケーション手法](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=ja)
 
-Workfrontのオフィスアワーに取り組んだ例はありますか？ この[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391)で、ベストプラクティスをお知らせください。
+Workfrontのオフィスアワーに取り組んだ例はありますか？ この[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=ja)で、ベストプラクティスをお知らせください。

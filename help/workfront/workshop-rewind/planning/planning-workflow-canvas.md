@@ -23,6 +23,6 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-セッション中に共有されたスライドデッキなど、イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160)をご覧ください。
+セッション中に共有されたスライドデッキなど、イベントのリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=ja)をご覧ください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

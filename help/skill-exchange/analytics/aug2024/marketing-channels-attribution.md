@@ -27,7 +27,7 @@ ht-degree: 0%
 * マーケティングチャネル入門：デジタルプレゼンスに対する様々なマーケティングチャネルの影響を把握するために、それらのチャネルを特定し、分類する重要性を説明します。
 * Adobe Analyticsの設定：キャンペーントラッキングコードの設定、関連データの取得、Adobe Launchを使用した効率的なデータ収集の実践的な知識を習得します。
 
-  このセッションで紹介されているキャンペーントラッキングコードジェネレーターツールをダウンロードするには、[Experience Leagueの視点でAdobe Analyticsとマーケティングのチャネルとアトリビューションを習得](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution)するをご覧ください。
+  このセッションで紹介されているキャンペーントラッキングコードジェネレーターツールをダウンロードするには、[Experience Leagueの視点でAdobe Analyticsとマーケティングのチャネルとアトリビューションを習得](https://experienceleague.adobe.com/ja/perspectives/mastering-adobe-analytics-marketing-channels-attribution)するをご覧ください。
 
 * 分類と処理ルール：分類ルールビルダーの使用方法と、正確なトラフィックソース分類のためのマーケティングチャネル処理ルールの設定方法について説明します。
 * アトリビューションモデル：Adobe Analyticsで利用できるさまざまなアトリビューションモデルを検討し、それらを活用してマーケティング活動の効果を測定し、最適化する方法を探ります。

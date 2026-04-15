@@ -31,23 +31,23 @@ ht-degree: 2%
    * [2025年に知っておくべき5つの機能](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **ターゲットアカウント管理**
-   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [よくある質問](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [ヒントとテクニック ビデオ](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **予測オーディエンス**
-   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [ユースケース](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **高度なジャーニー分析**
-   * [レポートの概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [Lifecyle Modelerの概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [レポートの概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Lifecyle Modelerの概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **サンドボックス**
-   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **ワークスペースとパーティション**
-   * [概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## 重要な留意点
 

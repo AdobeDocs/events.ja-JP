@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-[Adobe Journey Optimizer Community Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477)に参加しましょう **水曜日、10月15日（PT）午前8時から午前9時まで** Adobe Journey OptimizerのエキスパートであるNikhil Sharma （@snikhil） - Sr. Engineering Manager、Travis Jordan （@Travis_Jordan） - Principal Product Manager、Sandra Hausmann （@SHausmann） - Sr Technical Marketing Engineerが参加します。
+[Adobe Journey Optimizer Community Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=ja)に参加しましょう **水曜日、10月15日（PT）午前8時から午前9時まで** Adobe Journey OptimizerのエキスパートであるNikhil Sharma （@snikhil） - Sr. Engineering Manager、Travis Jordan （@Travis_Jordan） - Principal Product Manager、Sandra Hausmann （@SHausmann） - Sr Technical Marketing Engineerが参加します。
 
 ライブチャットでお答えします。

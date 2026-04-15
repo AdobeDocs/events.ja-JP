@@ -33,7 +33,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-[Adobe Journey Optimizer Community Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252)に参加しましょう 11月12日（水）午前8時から午前9時まで。 Adobe Journey Optimizerのエキスパートが参加します：Cole Connelly （@coleconnelly） - Sr Product Manager, Huong Vu （@HuongVu） - Product Marketing Manager, Namita Krishnan （@Namita_Krishnan） - Product Manager, Brent Kostak （@bkostak） - Sr Product Marketing Manager, David Arbor （@user03474） - Sr Research Scientist, Justin Grover （@justin_grover） - Principal Product Manager, Sandra Hausmann （@SHausmann） - Sr Technical Marketing Engineer and Daniel Wright （@dwright） - Sr Technical Marketing Engineer.
+[Adobe Journey Optimizer Community Ask Me Anything!](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=ja)に参加しましょう 11月12日（水）午前8時から午前9時まで。 Adobe Journey Optimizerのエキスパートが参加します：Cole Connelly （@coleconnelly） - Sr Product Manager, Huong Vu （@HuongVu） - Product Marketing Manager, Namita Krishnan （@Namita_Krishnan） - Product Manager, Brent Kostak （@bkostak） - Sr Product Marketing Manager, David Arbor （@user03474） - Sr Research Scientist, Justin Grover （@justin_grover） - Principal Product Manager, Sandra Hausmann （@SHausmann） - Sr Technical Marketing Engineer and Daniel Wright （@dwright） - Sr Technical Marketing Engineer.
 
 ライブチャットでお答えします。
 

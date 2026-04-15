@@ -22,5 +22,5 @@ Summit のステージで彼を目にしたことがある方や、 Adobe イン
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-このセッションについて詳しくは、[Experience League コミュニティのディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}をご覧ください。
+このセッションについて詳しくは、[Experience League コミュニティのディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498?profile.language=ja){target="_blank"}をご覧ください。
 

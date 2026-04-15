@@ -23,6 +23,6 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
 
-詳しくは、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)を参照してください。
+詳しくは、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=ja#M313)を参照してください。
 
 新しいアイデアやクリエイティブなアプローチについて学びたい場合は、[Experience Leagueのイベントページ &#x200B;](https://experienceleague.adobe.com/ja/events)で今後のワークショップに登録することを忘れないでください。

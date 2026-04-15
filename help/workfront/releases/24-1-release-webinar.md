@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 
-リリースに関する質問に答え、[Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en)でリリースについて話し合います。
+リリースに関する質問に答え、[Adobe Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=ja)でリリースについて話し合います。

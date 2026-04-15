@@ -37,7 +37,7 @@ ht-degree: 0%
 * [Workfront管理者チャット - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfrontユーザー導入調査](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-導入と一般的なオンボーディングについて詳しくは、 ブログをご覧ください！ - [Workfrontのお客様！ Adobe Workfront カスタマーサクセスオンボーディングブログへようこそ！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+導入と一般的なオンボーディングについて詳しくは、 ブログをご覧ください！ - [Workfrontのお客様！ Adobe Workfront カスタマーサクセスオンボーディングブログへようこそ！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=ja)
 
 ## 講演者について
 

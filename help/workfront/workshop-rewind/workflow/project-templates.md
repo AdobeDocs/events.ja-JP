@@ -26,7 +26,7 @@ ht-degree: 0%
 オンデマンド録画に加えて、スライドデッキとチャットで共有されたヒントを含めました。  
 
 * [スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=ja)
 
 ## ヒント
 
@@ -40,4 +40,4 @@ ht-degree: 0%
 
 チャットで目にした最大のテーマのひとつは、プロジェクトテンプレートをシンプルにしつつ、その労力を追跡し、プロジェクトを完了するために必要なあらゆるステップをチームが確実に実行できるという課題でした。  
 
- 今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。
+ 今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。

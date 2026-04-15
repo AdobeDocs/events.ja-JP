@@ -30,7 +30,7 @@ Marketo Engageでは、リクエスト施策や実行可能な施策など、さ
 
 ## その他のリソース
 
-* [実行可能なキャンペーン](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [実行可能なキャンペーン](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [Marketo Engageの新しい実行可能なキャンペーンの種類について知っておくべきことを解説します](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [実行可能なキャンペーン：実行可能なキャンペーンが効率と影響をどのように促進できるかをご確認ください](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -42,6 +42,6 @@ Marketo Engageでは、リクエスト施策や実行可能な施策など、さ
 
 * [メールだけにとどまらない詳細：アプリ通知、Dynamic Chat、メッセージングアプリによるマルチチャネルマーケティング](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [オムニチャネルエンゲージメント](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [アプリ内メッセージの作成方法](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [プッシュ通知の作成方法](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [アプリ内メッセージの作成方法](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [プッシュ通知の作成方法](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [WhatsApp テンプレートの作成方法](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

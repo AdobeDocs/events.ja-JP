@@ -23,7 +23,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430515/?quality=12&learn=on)
 
-**引き続きディスカッションを行うには、[Experience League コミュニティに関するディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150#M67){target="_blank"}をご覧ください。**
+**引き続きディスカッションを行うには、[Experience League コミュニティに関するディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-how-the-latest/m-p/685150?profile.language=ja#M67){target="_blank"}をご覧ください。**
 
 **詳細を表示**：現在Real-Time CDPを利用している実務担当者で、製品の新機能、重要な理由、Adobeを利用して顧客データ管理戦略を強化する方法について、insightの導入を検討していますか？ もう見てごらん。君は正しい位置に来たんだね。 このシリーズでは、Real-Time CDPで最近公開された機能を詳しく説明し、新しい機能をすぐに活用して、組織にインパクトを与えることができるようにします。\
 このセッションでは、過去数か月間にリリースされた5つの新機能について説明し、紹介します。

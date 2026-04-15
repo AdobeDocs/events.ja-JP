@@ -27,6 +27,6 @@ ht-degree: 1%
 
 ライブに参加できなかった場合でも、心配はいりません。[&#x200B; スライドデッキ &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf)を確認し、オンデマンド録画をご覧ください。
 
-ダウンロード可能な資料については、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029)を参照してください。トレーニング資料のzip ファイルに従ってください。
+ダウンロード可能な資料については、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029?profile.language=ja)を参照してください。トレーニング資料のzip ファイルに従ってください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

@@ -25,7 +25,7 @@ ht-degree: 48%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464052/?quality=12&learn=on)
 
-6月25日（水）午前8時から午前9時（PT）まで、[Adobe Journey Optimizer Community Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-[...]with-journey-optimizer-product-experts/ev-p/757473)に参加して、引き続きお話しください。
+6月25日（水）午前8時から午前9時（PT）まで、[Adobe Journey Optimizer Community Ask Me Anything](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-?profile.language=ja[...]with-journey-optimizer-product-experts/ev-p/757473)に参加して、引き続きお話しください。
 
 ## 詳細情報：
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**引き続きディスカッションを行うには、[Experience League コミュニティに関するディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}をご覧ください。**
+**引き続きディスカッションを行うには、[Experience League コミュニティに関するディスカッション &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=ja#M636){target="_blank"}をご覧ください。**
 
 **詳細を表示**:
 企業のデータウェアハウスに幅広くアクセスして、オーディエンスを構成し、ブランド主導のリアルタイムの体験を実現できます。

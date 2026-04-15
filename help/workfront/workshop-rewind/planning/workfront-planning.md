@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # 成果の召喚：Workfront計画の最新情報を入手
 
-2025年6月26日（PT）に開催されたこのワークショップでは、Adobe WorkfrontのプロダクトチームがWorkfront計画の最新機能を発表しました。 Workfront計画の次の予定について詳しくは、Experience Leagueの[Adobe Workfront計画リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) ページを必ずブックマークしてください。 
+2025年6月26日（PT）に開催されたこのワークショップでは、Adobe WorkfrontのプロダクトチームがWorkfront計画の最新機能を発表しました。 Workfront計画の次の予定について詳しくは、Experience Leagueの[Adobe Workfront計画リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) ページを必ずブックマークしてください。 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469860/?learn=on&enablevpops)
 
 ご不明な点がございましたら、スライドデッキとExperience Leagueコミュニティへの投稿へのリンクをご用意しています。
 
 * [スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/062625+Summoning+Success+-+Unlocking+the+Latest+in+Workfront+Planning.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676?profile.language=ja)
 
 まだ始まったばかりですか？  [&#x200B; ガイドブック - Workfront計画のGPSを確認してください！](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 
-新しいイベントが常に追加されるので、Experience League[&#128279;](https://experienceleague.adobe.com/events/?filters=Workfront)のEvents ページを定期的に確認してください。お見逃しなく！
+新しいイベントが常に追加されるので、Experience League[&#128279;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront)のEvents ページを定期的に確認してください。お見逃しなく！

@@ -31,6 +31,6 @@ ht-degree: 9%
 
 マイルストーンの詳細については、次の無料リソースをご覧ください。
 
-* [マイルストーンパスとマイルストーンステップの作成](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [マイルストーンビューの使用](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [マイルストーンパスとマイルストーンステップの作成](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [マイルストーンビューの使用](https://experienceleague.adobe.com/ja/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [レポートの送信と共有](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
