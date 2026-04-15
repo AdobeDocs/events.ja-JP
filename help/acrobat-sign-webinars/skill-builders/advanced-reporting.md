@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Acrobat Signが提供する分析とレポートをご紹介します。ビジネスを成長させるために必要なインサイトを獲得するために、どのようにデータを活用できるのかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454406/?captions=jpn&learn=on)
 
 ## 新しいレポートおよび書き出し機能
 

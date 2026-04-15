@@ -28,4 +28,4 @@ ht-degree: 0%
 * チェックすべき内容、頻度、重要な理由などの監査証跡を使用するためのベストプラクティスと、最新の2024年6月リリースの追加のメリットを紹介します。
 * Campaign Inspectorを使用して、スマートキャンペーンを定期的にレビューする方法（ボリューム、バッチ対トリガー、インスタンスの速度を低下させる可能性のある高遅延トリガーキャンペーンなど）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456952/?captions=jpn&learn=on)

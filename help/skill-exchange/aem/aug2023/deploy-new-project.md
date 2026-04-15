@@ -24,4 +24,4 @@ ht-degree: 0%
 
 このSkill Exchangeでは、新しいAEM開発者が新しいプロジェクトを開始してデプロイする方法に焦点を当てます。 AEMプロジェクトアーキタイプ、Cloud Managerの設定、開発ツールなどのトピックに焦点を当てます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480801/?captions=jpn&learn=on)

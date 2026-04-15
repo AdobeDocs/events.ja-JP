@@ -31,4 +31,4 @@ ht-degree: 0%
 * 休暇トラッキングの組み込み方法
 * Mayo ClinicがAnalyticsとリソースマネージャーを使用して、チームに透明性を提供し、新しい作業を計画する方法の例
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457097/?captions=jpn&learn=on)

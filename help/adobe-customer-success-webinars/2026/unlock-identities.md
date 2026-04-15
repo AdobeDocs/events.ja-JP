@@ -22,7 +22,7 @@ ht-degree: 1%
 
 このセッションでは、Customer Journey Analytics（CJA）が、どのようにデータの分断を解消し、チャネルやデバイスをまたいでIDをつなぎ合わせることを可能にすることで、統合された顧客インサイトを実現するのかを解説します。 顧客データをつなぎ合わせ、アトリビューションの精度を高め、よりスマートなビジネス上の意思決定を促進するための実用的な戦略を理解したい人に最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480153/?captions=jpn&learn=on&enablevpops)
 
 ## 重要な留意点
 

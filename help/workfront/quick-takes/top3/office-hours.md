@@ -21,7 +21,7 @@ ht-degree: 0%
 
 「オンデマンドWorkfrontCSM」のCynthia Boon氏に話を伺います。  勤務時間の設定を始めたばかりでも、その時間を新たに設定したい場合でも、次の動画をご覧ください。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470143/?captions=jpn&learn=on&enablevpops)
 
 オフィスアワーは、Workfrontコミュニケーションプラン全体の重要な一部です。 ユーザーとのコミュニケーションに関するより多くのアイデアをお探しですか？ [&#x200B; エンドユーザーコミュニケーションクックブック &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=ja)をご覧ください。
 

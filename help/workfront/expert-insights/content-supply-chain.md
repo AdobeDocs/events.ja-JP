@@ -32,7 +32,7 @@ Expert Insightsへようこそ！  このエピソードでは、Adobeのプリ
 * まず、プロセスのペイントポイントを特定し、そこから始めます。 テクノロジーが目的を上回らないようにしましょう。
 * コミュニティやイベントで同じようなジャーニーを辿る他の顧客とつながりましょう。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469995/?captions=jpn&learn=on&enablevpops)
 
 ## リソース
 

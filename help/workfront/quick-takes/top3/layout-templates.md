@@ -21,7 +21,7 @@ ht-degree: 3%
 
 レイアウトテンプレートを利用すれば、Adobe Workfront インスタンスをシステム管理者のニーズに合わせてカスタマイズできます。レイアウトテンプレートを利用すべき3つの理由をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477041/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=ja#M313)を参照してください。
 

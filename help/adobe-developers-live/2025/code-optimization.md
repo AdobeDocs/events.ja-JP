@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Adobe Experience Manager Sites Optimizerを使用して、冗長なスクリプトや大量のDOM構造を検出することで、コードの品質を向上させる方法をご確認ください。 本セッションでは、Adobe Core Web Vitalsを活用して、技術的負債を低減し、パフォーマンスを向上させる方法を解説します。 レコメンデーションをワークフロー内でシームレスに適用し、より迅速な修正、強力なSEO、スムーズなユーザーエクスペリエンスを実現する方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477676/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477718/?captions=jpn&learn=on&enablevpops)
 
 このセッション「Inside the Engine: Code Optimization with Adobe Experience Manager Sites Optimizer」では、Deck Reyesが、Sites Optimizerがフロントエンドとバックエンドの実装を分析して、冗長なスクリプト、大量のDOM構造、Core Web Vitalsのボトルネックを検出する方法を紹介します。 AEMで技術的負債を低減し、パフォーマンスを直接向上させるための推奨事項を適用する方法について説明します。 サンノゼからライブ録音。
 

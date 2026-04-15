@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Adobe Experience ManagerとMicrosoft SharePointを連携することで、官公庁のデジタルサービスを変革する方法をご確認ください。 アダプティブフォームを使用して、送信、検証、サービス配信を簡素化し、住民の体験と効率性を向上させる方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477752/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477798/?captions=jpn&learn=on&enablevpops)
 
 このセッションでは、EnsembleのシニアソフトウェアエンジニアであるCristian Bota氏が、Baselの生中継で録画しています。AIとAdobeとMicrosoftの連携を活用して、官公庁のデジタルサービスを合理化する方法について解説します。 Adobe Experience Manager Forms、Sites、Acrobat Sign for GovernmentをMicrosoft SharePoint Listsと統合して活用し、公開プログラムへのアクセスをどのように変革しているかをご覧ください。 AIがAutomated Forms Generatorを通じてクライアント要件を解釈し、AdobeとMicrosoftのエコシステム全体で送信、検証、サービス提供を簡素化するアダプティブフォームを実現する方法をご覧ください。
 

@@ -27,4 +27,4 @@ ht-degree: 0%
 * 組織としてビジネスのユースケースを調整する方法を学ぶ
 * Adobe Real-Time CDPに関する関連情報
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457064/?captions=jpn&learn=on)

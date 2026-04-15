@@ -26,7 +26,7 @@ ht-degree: 0%
 
 最後に、Adobe Marketo Engageで収集したインサイトを、ジャーニーキャンバスで得られた結果をより詳細なダッシュボードに結び付けて組織全体に拡大し、あらゆる顧客接点で継続的に最適化するための戦略について解説します。 CJAを初めて導入する場合でも、実務担当者の経験を問わず、このセッションでは、ジャーニーキャンバスを使用してCX プログラムを向上させ、具体的な成果を導くための明確な手法を紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471215/?captions=jpn&learn=on&enablevpops)
 
 ## ジャーニーキャンバス：分析からアクティベーションまで
 

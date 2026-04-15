@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Adobe Commerce開会基調講演
 
->[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453940/?captions=jpn&learn=on)

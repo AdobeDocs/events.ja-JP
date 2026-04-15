@@ -25,6 +25,6 @@ Adobe Adobe Commerceの事例を通じて、最先端のテクノロジーを紹
 
 + プレゼンター：Carl Screwvala （Adobe、シニアソリューションエンジニア）
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455489/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerce Accelerator Dayに戻る](./overview.md)

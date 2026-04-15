@@ -21,7 +21,7 @@ ht-degree: 0%
 
 「オンデマンドWorkfront CSM」からこんにちは。Cynthia Boon! Workfront Boardsの活用に興味があるものの、どこから始めればよいかわからないという方は、 最も簡単に始められるのは、事前定義済みのテンプレートです。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470132/?captions=jpn&learn=on&enablevpops)
 
 ステップバイステップの手順を説明した記事があります。
 

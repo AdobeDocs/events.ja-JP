@@ -25,4 +25,4 @@ ht-degree: 0%
 
 ユニバーサルエディターは、次世代のAEM インコンテキストページエディターであり、AEM ページエディターまたはSPA エディターの現在の制限を解決します。 フレームワーク、レンダリングエンジン、データソースとは独立しているため、開発者が求める自由をすべて提供し、真に普遍的なものにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456468/?captions=jpn&learn=on)

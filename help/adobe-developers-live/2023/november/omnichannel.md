@@ -23,4 +23,4 @@ ht-degree: 0%
 
 インバウンドとアウトバウンドのチャネル間でコンテンツを調整することは、容易なことではありません。 Adobe Experience Managerなら、インバウンドとアウトバウンドの両方のコンテンツを制作し、カスタマージャーニー全体で活用できます。 このセッションでは、Adobe Target、Adobe Campaign、Adobe Journey Optimizerなどの統合パターンについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455014/?captions=jpn&learn=on)

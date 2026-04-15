@@ -21,7 +21,7 @@ ht-degree: 1%
 
 AlgoliaのAIを活用した検索および検索機能が、Adobe Experience Manager、Adobe Commerce、Edge Delivery Servicesをどのように変革するかをご確認ください。 これらのツールが、Adobeのエコシステム全体でパーソナライゼーションを強化し、ユーザーエクスペリエンスを向上させる方法をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477674/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477704/?captions=jpn&learn=on&enablevpops)
 
 このセッション「AI Agents: Play, Build, Retrieve with Algolia」では、AlgoliaのDebanshi BhedaとSajid Mominが、San Joseからライブで録画されています。 Algoliaの高速な読み込みおよび拡張読み込み（RAG）機能により、AEM、Edge Delivery Services、Adobe Commerceが、お客様とAI担当者の両方にコンテンツと商品を提供する方法をどのように再定義できるのかをご確認ください。 Adobe Experience Platformがパーソナライゼーションを促進する方法と、Algoliaの高度な検索および取得がAdobeのエコシステム全体でスピード、スケーラビリティ、インテリジェンスをどのように引き出すかをご覧ください。
 

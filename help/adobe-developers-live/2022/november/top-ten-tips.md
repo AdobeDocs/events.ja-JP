@@ -25,4 +25,4 @@ ht-degree: 0%
 
 優れたエクスペリエンスのパフォーマンスは、エクスペリエンスの成功の鍵となります。 このセッションでは、Adobe Experience Managerのweb サイトをより迅速に構築するためのベストプラクティスのトップ 10を解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457176/?captions=jpn&quality=12&learn=on)

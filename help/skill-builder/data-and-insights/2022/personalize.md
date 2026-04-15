@@ -23,4 +23,4 @@ ht-degree: 0%
 
 *Matthias Kolitsch* シニアマルチソリューショントレーナーEMEA / Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457456/?captions=jpn&quality=12&learn=on)

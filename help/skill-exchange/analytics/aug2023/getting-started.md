@@ -22,4 +22,4 @@ ht-degree: 0%
 
 スキル交換の「はじめに」セグメントは、Adobe Analyticsを使い始めたばかりの人を対象としています。 セッションの最後には、Analysis Workspaceの用語とツールについて理解を深めるとともに、Adobe Analyticsの主な機能について初心者レベルで説明する必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480563/?captions=jpn&learn=on)

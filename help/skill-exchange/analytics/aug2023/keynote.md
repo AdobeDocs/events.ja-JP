@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Adobe Analyticsがどこに向かっているのか興味がありますか？ Customer Journey AnalyticsおよびAdobe Analyticsのプロダクトマネジメント担当ディレクターであるBen Gainesが、今後期待できることについて少しお話します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425984/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454417/?captions=jpn&learn=on)

@@ -21,7 +21,7 @@ ht-degree: 12%
 
 ドキュメントの署名を迅速に開始するためのAcrobat Signの基本について説明します。 電子サイン用に文書を準備して送信する署名者に表示される内容を表示する契約書の管理と進行状況の追跡を行う独自の署名の作成など、様々な方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455466/?captions=jpn&learn=on)
 
 ## キーポイント
 

@@ -27,4 +27,4 @@ ht-degree: 0%
 * アーキテクチャの概要
 * データ収集とアクティベーション戦略を成功させるための検討事項
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456225/?captions=jpn&learn=on)

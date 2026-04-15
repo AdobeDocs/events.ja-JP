@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Adobeのプロジェクトで、AIを利用して、どのようにデジタル体験を変革できるのかを解説します。 AIがコンテンツ制作、サイト検証、プロジェクト計画をどのように強化し、効率性を高め、コストを削減するかを学びましょう。 Adobe Experience Manager、Adobe Commerce、Edge Delivery ServicesのAI ツールの革新的な用途を紹介する記事をご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477626/?captions=jpn&learn=on&enablevpops)
 
 「Love Actually: Three Practical Stories of Using AI in Adobe Projects」では、Mark McConnell氏（Ensemble）が、生成AI サービス「Generative AI Services」を活用したプロトタイプとコンテンツSupply chainの高速化、「AEM Edge Delivery Services」のAIを活用した移行バリデーター、自動サイト評価とレポート作成のエージェント型アプローチという3つの実際のアプリケーションを紹介します。 サンノゼからライブ録音。
 

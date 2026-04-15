@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Adobe Analyticsには、その機能と性能の数が無限に広がっています。 アドビでは、さまざまなクライアントや業界の中から、最も普及が不十分でありながら強力なものを選択しました。 このセッションでは、これらのインサイトを分析ワークフローに適用し、インサイトの価値を迅速に組織に引き上げる方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425990/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456586/?captions=jpn&learn=on)

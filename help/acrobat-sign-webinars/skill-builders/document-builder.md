@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Salesforceから直接、データにもとづいたドキュメントを作成する作業を自動化することで、提案、契約書、請求書などを数秒で事前に入力し、営業部門の優位性を確保できます。 Document Builderを使用すると、署名用に送信する前にSalesforce データを使用して文書を動的に生成できるため、かつては面倒だったプロセスがよりシンプルで合理的になります。 時間と労力の節約に役立つステップバイステップのプロセスを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454914/?captions=jpn&learn=on)
 
 ## Acrobat SignのDocument Builderの目的は何ですか？
 

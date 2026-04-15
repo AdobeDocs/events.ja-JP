@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Adobe Experience Manager開会基調講演
 
->[!VIDEO](https://video.tv.adobe.com/v/3433161/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454958/?captions=jpn&learn=on)

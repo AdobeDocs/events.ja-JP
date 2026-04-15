@@ -23,4 +23,4 @@ ht-degree: 0%
 
 レベルアップ – カジュアルなWorkspaceユーザーへのエデュケーション
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456685/?captions=jpn&learn=on)

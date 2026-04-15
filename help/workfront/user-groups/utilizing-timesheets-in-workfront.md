@@ -20,4 +20,4 @@ ht-degree: 0%
 
 WalgreensのNicholas Twillie氏とAlma Martinez氏が、Workfrontでタイムシートを利用して、時間を追跡する方法を解説します。 Christian Barnesがタイムシートの技術的な面を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457332/?captions=jpn&quality=12&learn=on)

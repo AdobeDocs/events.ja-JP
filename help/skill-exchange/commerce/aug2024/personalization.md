@@ -28,4 +28,4 @@ ht-degree: 0%
 * Adobe Commerceのセグメンテーションと動的コンテンツの活用に関するベストプラクティス
 * 顧客エンゲージメントを強化するための効果的なコンテンツ管理戦略
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456941/?captions=jpn&learn=on)

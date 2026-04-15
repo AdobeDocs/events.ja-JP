@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Acrobat Signのオーサリング環境で利用可能なオプションについて詳しく説明します。 Acrobat、テキストタグ付け、Acrobat Sign オーサリング環境を使用したAcrobat Sign ドキュメントテンプレートの準備の概要について説明します。 オーサリング環境を深く掘り下げ、フィールドの複製とコピー、特殊フィールドの追加、フィールドの割り当て、条件フィールドと計算フィールドの設定について説明します。 文書テンプレートとフォームフィールドテンプレートを比較して、署名用にテンプレートを送信する方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455895/?captions=jpn&learn=on)
 
 ## キーポイント
 

@@ -27,4 +27,4 @@ ht-degree: 0%
 - 長期的な成功への道筋を立てる
 - 戦略的な施策を効果的に推進
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456784/?captions=jpn&learn=on)

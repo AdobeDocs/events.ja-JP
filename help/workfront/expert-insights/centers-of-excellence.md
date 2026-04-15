@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Expert Insightsへようこそ！  このエピソードでは、Danielle Johnston氏と共に、「オンデマンド」WorkfrontCSMのCynthia Boon氏に登場します。  彼女は、Workfrontを使ってガバナンスとセンターオブエクセレンスの取り組みをサポートする方法についてアイデアを共有し、Workfrontで見たいポジティブな変化を私たちに促します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470006/?captions=jpn&learn=on&enablevpops)
 
 ## ヒント
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Workfrontは、「オンデマンドWorkfront CSM」です。 この対で！ エピソードでは、グループとチームの違いを解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467354/?captions=jpn&learn=on&enablevpops)
 
 グループとチームの概要？
 

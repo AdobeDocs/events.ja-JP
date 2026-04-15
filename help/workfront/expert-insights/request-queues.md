@@ -24,7 +24,7 @@ ht-degree: 3%
 
 Expert Insightsへようこそ！  あなたの「オンデマンド」Workfront CSMのシンシア・ブーンです。このエピソードでは、Workfrontの有名人[@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=ja)が登場します。 ここでは、LyndsyのWorkfront Storyについて解説した後、ヘルプデスクのリクエストキューを詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469290/?captions=jpn&learn=on&enablevpops)
 
 チャットの中で、Lyndsyは，
 

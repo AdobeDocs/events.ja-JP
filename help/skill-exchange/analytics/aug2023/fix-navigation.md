@@ -22,4 +22,4 @@ ht-degree: 0%
 
 ナビゲーションは、訪問者がサイト内で好みの経路を見つけ、コンバージョンファネルに誘導するための鍵となります。 Adobe Analyticsを利用して、ナビゲーションの効果を追跡する方法と、それを向上させる方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457368/?captions=jpn&learn=on)

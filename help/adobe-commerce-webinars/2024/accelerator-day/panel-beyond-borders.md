@@ -29,6 +29,6 @@ AdobeのAllyce Truscott氏が主催し、現在の経済情勢の中でオンラ
 + カロリーナ・デ・フィゲリド – クリスピー・クリーム
 + フセイン・ムスタファ
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457231/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerce Accelerator Dayに戻る](./overview.md)

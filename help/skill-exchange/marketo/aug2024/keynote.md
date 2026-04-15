@@ -22,4 +22,4 @@ ht-degree: 0%
 
 オープニング基調講演：Raj Patel氏
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453056/?captions=jpn&learn=on)

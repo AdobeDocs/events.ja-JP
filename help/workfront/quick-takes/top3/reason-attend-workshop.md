@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Adobe Workfront Workshopは、当社の製品に慣れるための優れた方法です。 あなたが私たちのワークショップに参加すべき3つの理由について、簡単なビデオをご覧ください！
 
->[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477028/?captions=jpn&learn=on&enablevpops)
 
 完了したら、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events?filters=Workfront)に移動して、今後のワークショップに登録します。

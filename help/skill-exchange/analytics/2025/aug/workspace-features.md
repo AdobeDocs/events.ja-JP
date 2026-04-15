@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Adobe Analytics Workspaceなら、効果的な分析機能を利用して、多くの場面で見落とされがちな機能を発見できます。これらの機能を活用すれば、分析を強化し、優れた成果を生み出すことができます。 このセッションでは、insightの活用に役立つ実践的なユースケースとシンプルなテクニックを紹介します。 経験のあるアナリストであれ、これから取り組むアナリストであれ、データの価値を最大化するための実用的なアイデアを残します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471252/?captions=jpn&learn=on&enablevpops)
 
 ## 高度な分析手法を実現
 

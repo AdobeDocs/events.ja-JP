@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ハイパーパーソナライゼーションの新時代の到来を告げる。 パーソナライゼーションの成熟度モデルに基づいて基盤を構築し、一般的な課題について議論し、開始するための戦術的なヒントを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457346/?captions=jpn&learn=on)
 
 ## 主な議論ポイント
 

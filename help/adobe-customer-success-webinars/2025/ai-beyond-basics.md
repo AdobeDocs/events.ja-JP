@@ -28,4 +28,4 @@ ht-degree: 0%
 * 主要なユースケース、機能の用途、成熟度を高めるためのヒントとコツを検証しましょう。
 * Workfrontの今後の機能と機能強化について
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463359/?captions=jpn&learn=on&enablevpops)

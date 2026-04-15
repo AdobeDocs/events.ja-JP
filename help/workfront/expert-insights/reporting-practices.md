@@ -28,7 +28,7 @@ ht-degree: 0%
 
 オンデマンドWorkfrontのCSMである私と一緒に、Nicholeがレポートの達人になった経緯、彼女のお気に入りの機能とヒント、そして私たち全員が「Nicholeのようになる」方法について話します。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469966/?captions=jpn&learn=on&enablevpops)
 
 ## ヒント
 

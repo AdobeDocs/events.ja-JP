@@ -28,4 +28,4 @@ ht-degree: 1%
 * 適切なコンテキストを提供し、効果的なデータ使用を保証するためのベストプラクティスを説明します。
 * Adobe AnalyticsとCustomer Journey Analyticsが、どのようにデータ管理に役立つのかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453588/?captions=jpn&learn=on)

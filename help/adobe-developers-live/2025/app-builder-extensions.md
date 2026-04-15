@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Adobe CommerceでAIを活用してアプリ開発を変革し、カスタマイズを効率化する方法をご確認ください。 自動コード分析、インテリジェントな移行レポート、JavaScriptコードを迅速に生成する自然言語プロンプトについて説明します。 このセッションでは、Adobe Commerceのツールエコシステムにおけるイノベーションを明らかにし、レガシーシステムを効率的に近代化し、技術的負債を低減するのに役立ちます。 アドビのコミュニティへのお問い合わせは、Adobe Commerceのコンサルティングサービスがどのように役立つのかをご確認ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477672/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477682/?captions=jpn&learn=on&enablevpops)
 
 AdobeのAIを活用した開発：CommerceにおけるApp Builderの拡張機能に関するセッションでは、Commerce CloudのシニアプロダクトマネージャーであるMatt Johnsonが、Adobe Commerceを利用して、AIを活用したツールエコシステムを構築し、従来のカスタマイズをより迅速に特定して近代化する方法を紹介します。 自動化されたコード分析、インテリジェントな移行レポート、自然言語プロンプトにより、App Builderと互換性のあるJavaScriptコードを数分で生成し、近代化を合理化して技術的負債を低減する方法をご確認ください。 サンノゼからライブ録音。
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 基調講演を開く
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471125/?captions=jpn&learn=on&enablevpops)
 
 ## アナリストの能力を引き出す：必須のスキル
 

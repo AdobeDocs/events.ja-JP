@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Acrobat Signの「一括送信」機能が、時間を節約する方法をご紹介します。 企業全体のポリシー更新、NDAまたはその他のドキュメントの一意のコピーに署名するために複数の個人が必要な場合は、一括送信を使用すると、一度ファイルを準備し、ワンクリックで複数の署名者に送信し、簡単に応答を追跡できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454892/?captions=jpn&learn=on)
 
 ## キーポイント
 

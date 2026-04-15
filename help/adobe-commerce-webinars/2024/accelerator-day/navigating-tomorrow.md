@@ -25,6 +25,6 @@ Adobe Summit 2024でのAdobe Commerceのセッションの振り返り。Adobe C
 
 + Adobe CommerceプロダクトマネージャーJAPAC、Scott Rigby氏
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454560/?captions=jpn&learn=on)
 
 [&lt; Adobe Commerce Accelerator Dayに戻る](./overview.md)

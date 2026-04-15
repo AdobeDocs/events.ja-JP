@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Commerceの現在の状況と、過去数年間の機能強化について説明します。 Adobe Commerceは、複数の業界やユースケースに対応する最新のエンタープライズソリューションです。このライブディスカッションでは、複数の既存顧客と、Adobe Commerceを使用してコマース体験を向上させた方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425803/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455202/?captions=jpn&learn=on)

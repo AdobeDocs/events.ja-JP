@@ -25,7 +25,7 @@ ht-degree: 0%
 調査方法とStorytelling Craft: データから得た知見を、関係者に語りかける説得力のあるストーリーに変換します。
 技術的能力と感情的知性：技術的スキルだけでなく、共感を呼ぶサポートとソリューションを提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471182/?captions=jpn&learn=on&enablevpops)
 
 ## 人間の影響に関する分析を活用
 

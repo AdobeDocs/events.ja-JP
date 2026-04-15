@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Microsoftのローコード/ノーコード型ソリューションであるPower AutomateをAdobe Acrobat Signで直接利用することで、あらゆる自動化機能を活用できます。 開発者以外の担当者でも、次世代のワークフローを作成するパワーと柔軟性を手に入れることができます。 このセッションでは、次の方法について説明します。ワークフロー統合を設定して開始する事前定義済みのテンプレートを使用してワークフロー作成を迅速に開始するコネクターの大規模なエコシステムを活用して、Acrobat Signをパッケージアプリケーションやカスタムアプリケーションに統合します。生産性を向上させ、Acrobat Signの機能を拡張します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454925/?captions=jpn&learn=on)
 
 ## Power Automateの詳細
 

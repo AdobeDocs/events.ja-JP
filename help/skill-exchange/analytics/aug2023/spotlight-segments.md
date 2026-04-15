@@ -22,4 +22,4 @@ ht-degree: 0%
 
 セグメントのすべて – データをスライスして分析し、インサイトを得る方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456608/?captions=jpn&learn=on)

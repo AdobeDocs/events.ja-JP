@@ -31,7 +31,7 @@ ht-degree: 0%
 * コミュニティの活用： - Experience League、cookbook、API Explorer、およびピアに依存します。 一から作り直すのではなく。
 * 持続しますが、休憩を取ります。  – 立ち往生した場合は、ラップトップを閉じて、散歩をして、新鮮な目で戻ります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477135/?captions=jpn&learn=on&enablevpops)
 
 
 ## リソース

@@ -21,7 +21,7 @@ ht-degree: 1%
 
 AI コーディングエージェントが、実際のEdge Delivery Servicesプロジェクトでどのように機能するかをご確認ください。 それらの強み、課題、開発者エクスペリエンスへの影響について説明します。 Adobe Developers Live 2025のこのセッションでは、AIが優れている点と苦慮している点を取り上げ、実用的なオートメーションと「バイブコーディング」の比較を紹介します。 Lars Trieloff氏がエージェント型エンジニアリングをテストし、主要なAI コーディングエージェントを比較して、デジタル体験の未来に関するインサイトを明らかにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477619/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477649/?captions=jpn&learn=on&enablevpops)
 
 このセッション、「Coding Agent Showdown: The Good, the Bad, and the Ugly」では、エージェンティックエンジニアリングをテストしています。 Lars Trieloffは、主要なAI コーディングエージェントと実例のEdge Delivery Servicesプロジェクトを比較し、開発者の体験と担当者の体験が、どのように合致しているかを明らかにしています。 AIが輝く場所、苦労する場所、実用的な自動化と「バイブコーディング」の違いを見てみましょう。 サンノゼからライブ録音。
 

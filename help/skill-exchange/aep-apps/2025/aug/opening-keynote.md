@@ -32,4 +32,4 @@ Adobe Experience PlatformとAgentic AIが、デジタル体験の構築をどの
 これらのインサイトを活用してワークフローを合理化し、パーソナライゼーションを強化して、デジタル体験管理に関する専門知識の将来性を確保します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471356/?captions=jpn&learn=on&enablevpops)

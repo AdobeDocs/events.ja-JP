@@ -23,7 +23,7 @@ ht-degree: 2%
 
 今回は、スケジューリングレポートを最大限に活用するための私のお気に入りの方法を共有します。 ビデオでは、この機能を使用して、構築するすべての素晴らしいレポートからさらに多くを得る方法の例を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477075/?captions=jpn&learn=on&enablevpops)
 
 詳しくは、[Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=ja)を参照してください。
 

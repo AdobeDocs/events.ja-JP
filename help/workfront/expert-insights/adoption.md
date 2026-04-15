@@ -26,7 +26,7 @@ ht-degree: 0%
 
 オンデマンドWorkfrontのCSMである私とLeslieが、なぜ導入が重要なトピックなのか、また私たちの好きな戦略について話します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469928/?captions=jpn&learn=on&enablevpops)
 
 ## デジタルコマース入門
 

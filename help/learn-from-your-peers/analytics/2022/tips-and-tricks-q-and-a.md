@@ -22,4 +22,4 @@ ht-degree: 0%
 
 世界中から5人の[!DNL Adobe Analytics] チャンピオンが集まり、[!DNL Adobe Analytics]を習得するのに役立つヒントやコツを共有しました。 イベントでは、世界中の[!DNL Adobe Analytics]人のユーザーから90以上の質問がありました。 ライブ Q&amp;A中、[!DNL Adobe Analytics]人のエキスパートがこれらの質問のすべてに答えることができなかったため、グループを集めてフォローアップ Q&amp;A セッションを開催し、Championsが質問に答え、さらに多くのエキスパートのヒントとコツを共有しました。
 
->[!VIDEO](https://video.tv.adobe.com/v/3414192/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456998/?captions=jpn&quality=12&learn=on)

@@ -22,7 +22,7 @@ ht-degree: 1%
 
 このウェビナーでは、これらの概念を統合することで、効率性を向上させ、顧客体験を向上させ、企業におけるデータ主導の意思決定をサポートする方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457009/?captions=jpn&learn=on)
 
 ## 重要な留意点
 

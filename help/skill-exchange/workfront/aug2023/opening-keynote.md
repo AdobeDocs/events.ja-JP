@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このセッションでは、プロダクトマーケティングディレクターのRichard Whiteheadが、Workfrontの進化を解説します。概要、新機能、利用可能な機能について説明し、最後に製品イノベーションを紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453830/?captions=jpn&learn=on)

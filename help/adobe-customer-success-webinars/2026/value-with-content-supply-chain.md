@@ -22,4 +22,4 @@ ht-degree: 0%
 
 コンテンツサプライチェーンを最適化するための実用的なロードマップを見つけましょう。 ワークフローとプランニング、制作、アセット管理、配信とアクティベーション、レポートとインサイトの統合が、どのように測定可能な成果をもたらすのかをご確認ください。 一般的な業界パターンを把握し、Adobeソリューションに目標をマッピングし、ロードマップを利用して次のステップを導き、影響を測定しましょう。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479087/?captions=jpn&learn=on&enablevpops)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 データ主導の文化を構築する[!DNL Adobe Analytics] ウェビナーでは、世界中の[!DNL Adobe Analytics]人のユーザーから35以上の質問が寄せられました。 ライブ Q&amp;A中、[!DNL Adobe Analytics] Championは、これらの質問のすべてに答えることができなかったため、私たちは彼らを呼び戻し、フォローアップ Q&amp;A セッションを開催して、質問に答え、さらに多くの専門知識を共有しました。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455121/?captions=jpn&quality=12&learn=on)
