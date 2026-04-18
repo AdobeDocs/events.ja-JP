@@ -34,12 +34,12 @@ ht-degree: 7%
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ja
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=ja}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=ja
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=ja}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html?lang=ja
   {title = Adobe Commerce Webinars}
@@ -49,27 +49,27 @@ ht-degree: 7%
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ja
   {title = Adobe Customer Success Webinars}
   {description = Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=ja}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=ja
   {title = Behind the Brew}
   {description = Behind the Brew, the companion series to Commerce & Coffee, is tailored for technically inclined customers seeking to master back-end best practices, integrations, and advanced functionalities to enhance their eCommerce experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=ja}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=ja
   {title = Commerce and Coffee}
   {description = The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=ja}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=ja}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=ja  
   {title = CX Analytics On-demand Webinars}
   {description = Browse on-demand CX Analytics videos covering product updates, integrations, onboarding, and real-world success stories to stay current and build expertise.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png?lang=ja}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=ja
   {title = Data Drip}
@@ -196,7 +196,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=ja" title="Acrobat Sign Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign Webinars"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=ja" alt="Acrobat Sign Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=ja" title="アドビ開発者ライブ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="アドビ開発者ライブ"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=ja" alt="アドビ開発者ライブ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=ja" title="Adobeカスタマーサクセスウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png" alt="Adobeカスタマーサクセスウェビナー"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=ja" alt="Adobeカスタマーサクセスウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -288,7 +288,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=ja" title="ビハインド・ザ・ブルー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png" alt="ビハインド・ザ・ブルー"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=ja" alt="ビハインド・ザ・ブルー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +311,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=ja" title="Commerceとコーヒー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerceとコーヒー"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=ja" alt="Commerceとコーヒー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -334,7 +334,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=ja" title="顧客データ管理の声" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="顧客データ管理の声"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=ja" alt="顧客データ管理の声"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -357,7 +357,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/cx-analytics-ondemand-webinars/overview.html?lang=ja" title="CX Analytics On-demand Webinars" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png" alt="CX Analytics On-demand Webinars"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-cx-analytics-on-demand-webinars.png?lang=ja" alt="CX Analytics On-demand Webinars"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
