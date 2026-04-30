@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 1%
       + [エグゼクティブスポンサーシップの確保](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [成功に対する独学](workshop-rewind/workflow/self-taught-to-success.md)
       + [Workfront レポートによる春のクリーンアップ](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [Team of One](workshop-rewind/workflow/team-of-one.md)
       + [コミュニケーションのヒント](workshop-rewind/workflow/10-communication-tips.md)
       + [テキストモードに関する10のヒント](workshop-rewind/workflow/text-mode-tips.md)
       + [テキストモードに関する10のヒント](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -109,6 +110,7 @@ ht-degree: 1%
          + [Workfrontのワーカー向け3つの機能](quick-takes/top3/watch-me-work-3.md)
    + 対比！ {#versus}
       + [グループとチームの比較](quick-takes/versus/groups-vs-teams.md)
+      + [イシューとプロジェクト](quick-takes/versus/issues-vs-projects.md)
 + 専門家のインサイト {#expert-insights}
    + [導入](expert-insights/adoption.md)
    + [導入調査](expert-insights/adoption-surveys.md)
