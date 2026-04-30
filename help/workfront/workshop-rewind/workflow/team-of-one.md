@@ -23,7 +23,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484927/?learn=on&enablevpops)
 
-イベント中に共有されたその他のリソースをお探しですか？  [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?tid=250238)をご覧ください。
+イベント中に共有されたその他のリソースをお探しですか？  [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?profile.language=ja&tid=250238)をご覧ください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
 
