@@ -26,6 +26,6 @@ ht-degree: 9%
 * お客様が[Power テンプレートを使用して作業を管理する方法：IDEXXがグローバルな成功のためにプロジェクトテンプレートを再構成した方法](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)
 * 問題の管理に関するカスタムレポートを[作成する方法について説明します。](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) （プロのユーザーと同じ）を参照してください。
 
-新しいアイデアやアプローチに興味がありますか？ 今後のワークショップに登録するには、[Experience League イベント ページ ](https://experienceleague.adobe.com/en/events?filters=Workfront)をご覧ください。 近いうちにお会いできるのを楽しみにしています。
+新しいアイデアやアプローチに興味がありますか？ 今後のワークショップに登録するには、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront)をご覧ください。 近いうちにお会いできるのを楽しみにしています。
 
 

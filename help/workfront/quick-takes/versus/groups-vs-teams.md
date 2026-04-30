@@ -32,7 +32,7 @@ Adobe Workfrontは、「オンデマンドWorkfront CSM」です。 この対で
 オブジェクトの共有、アクセスレベル、権限に関するボーナス記事を以下に示します。
 
 * [オブジェクトに対する継承された権限の表示](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/view-inherited-permissions-on-objects)
-* [ アクセスレベルと権限の連携](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
-* [ アクセス レベルで追加の制限を設定](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
+* [&#x200B; アクセスレベルと権限の連携](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
+* [&#x200B; アクセス レベルで追加の制限を設定](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-新しいアイデアやアプローチに興味がありますか？ 今後のワークショップに登録するには、[Experience League イベント ページ ](https://experienceleague.adobe.com/en/events?filters=Workfront)をご覧ください。 近いうちにお会いできるのを楽しみにしています。
+新しいアイデアやアプローチに興味がありますか？ 今後のワークショップに登録するには、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront)をご覧ください。 近いうちにお会いできるのを楽しみにしています。
