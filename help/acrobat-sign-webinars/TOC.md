@@ -3,10 +3,10 @@ user-guide-title: Acrobat Sign webinars
 user-guide-description: Adobeのエキスパートから、Acrobat Signで新しい電子サインワークフローを習得する方法を学びます。
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: c7127e3ce7b0215d208bdd53db3d881e9bfb83d1
+source-git-commit: 23f0005edc68e39508f2435c5e633e9eb82456de
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '121'
+ht-degree: 5%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 6%
    + [2025年10月](skill-builders/acrobat-sign-october-2025-release.md)
    + [2025年7月](skill-builders/acrobat-july-release.md)
 + イノベーション – 新機能のハイライト {#newfeatures}
+   + [カスタムワークフローの基本を学ぶ](./skill-builders/custom-workflows.md)
    + [IDの検証とセキュリティ](./skill-builders/identity-verification-security.md)
    + [モバイル電子サインの最適化](./skill-builders/mobile-e-signing.md)
 + 101 - ユーザー向けの基本を学ぶ {#getstartedusers}
