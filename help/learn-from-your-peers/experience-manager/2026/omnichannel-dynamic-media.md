@@ -29,7 +29,7 @@ Adobe Adobe Experience Manager ChampionのVengadesh Shanmugavelu氏が、Adobe E
 
 [セッションのプレゼンテーションをダウンロードするには、ここをクリックしてください。](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
 
->[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481546/?captions=jpn&learn=on&enablevpops)
 
 * Adobe Experience Manager Dynamic Mediaで、プロファイル設定、スマートレンディション、リアルタイム最適化を使用したインテリジェントなメディア配信を実現する方法。
 * AEMのコアコンポーネントを通じてDynamic Mediaをアクティベートし、Dynamic Media Open APIを使用して企業全体にそのパワーを拡大する方法。
