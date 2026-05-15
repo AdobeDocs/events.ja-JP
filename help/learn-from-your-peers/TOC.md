@@ -70,7 +70,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [持続可能なWorkfrontの導入](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [メタデータメイヘム](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [メタデータメイヘム](https://experienceleague.adobe.com/ja/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [効果の明確さ：Workfrontの価値を測定および共有する方法](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [リソースプランニングを自動化で簡素化](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024年 {#2024}
