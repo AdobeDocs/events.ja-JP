@@ -1,36 +1,38 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
-description: Adobeのエキスパートや同業者を対象に、Adobe ソリューションを最大限に活用する方法について説明します。は、ソリューションの詳細  [!DNL Experience Makers - Learn from your peers]  掘り下げることに重点を置いた、グローバルシリーズのバーチャルカスタマー  [!DNL Adobe Experience Cloud]  ラーニングイベントです。
+description: Adobeのエキスパートや同業者から、Adobe ソリューションを最大限に活用する方法について学びます。 [!DNL Experience Makers - Learn from your peers] は、 [!DNL Adobe Experience Cloud]  ソリューションの詳細に焦点を当てたグローバルなバーチャルカスタマーラーニングイベントです。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: 584c23cf94997392ef06cab7a1d94323aed06fd1
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '1464'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-Adobeの専門家から学び、Adobe ソリューションを最大限に活用する方法を同業者に紹介します。 実務担当者向けに選択されたトピックを使用して _実務担当者向けに_ 選択されたインタラクティブセッションでは、「考えられる」ユースケース、ベストプラクティス、ヒントとコツのアートを共有します。
+Adobeの専門家や他のユーザーから、Adobeソリューションを最大限に活用する方法を学びましょう。 実務担当者（_by_）向けに選択されたトピックを使用して、これらのインタラクティブセッションでは、「可能性のあるアート」のユースケース、ベストプラクティス、ヒントとテクニックを共有します。
 
 ## 全般
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta  = Watch event}
 
-* ./adobe-user-groups.md
+* ./unlock-the-adobe-champion-advantage.md
 * ./adobe-champion-application.md
+* ./adobe-user-groups.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore Adobe User Groups across Experience Cloud">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock Benefits Of Adobe Champion Program">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./adobe-user-groups.md" title="Experience CloudをまたいだAdobe ユーザーグループの調査" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1773334467947" alt="Experience CloudをまたいだAdobe ユーザーグループの調査"
+                    <a href="./unlock-the-adobe-champion-advantage.md" title="Adobe Champion プログラムのメリットを活用" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491065/?format=jpeg&nocache=1778868398960" alt="Adobe Champion プログラムのメリットを活用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,12 +40,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./adobe-user-groups.md" target="_blank" rel="referrer" title="Experience CloudをまたいだAdobe ユーザーグループの調査">Experience CloudをまたいだAdobe ユーザーグループの調査 </a>
+                        <a href="./unlock-the-adobe-champion-advantage.md" target="_blank" rel="referrer" title="Adobe Champion プログラムのメリットを活用">Adobe Champion プログラムのメリットを活用</a>
                     </p>
-                    <p class="is-size-6">Adobe ユーザーグループが共同作業をどのように促進し、ピア主導の問題解決を提供し、AEM、Analytics、Marketo Engage、Workfront全体でリーダーシップの機会を提供するかについて説明します。</p>
+                    <p class="is-size-6">Adobe Champion プログラムが、ビジネス成長、コミュニティエンゲージメント、プロフェッショナルネットワークの促進にどのように役立つのかをご確認ください。 優れたアプリケーションを今すぐ活用するためのヒントをご確認ください。</p>
                 </div>
-                <a href="./adobe-user-groups.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                <a href="./unlock-the-adobe-champion-advantage.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -52,8 +54,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./adobe-champion-application.md" title="チャンピオンの資格を申請して際立つ方法を学ぶ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1773334467959" alt="チャンピオンの資格を申請して際立つ方法を学ぶ"
+                    <a href="./adobe-champion-application.md" title="チャンピオンとして応募し、際立つ方法を学びましょう" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1778868398964" alt="チャンピオンとして応募し、際立つ方法を学びましょう"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -61,12 +63,35 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./adobe-champion-application.md" target="_blank" rel="referrer" title="チャンピオンの資格を申請して際立つ方法を学ぶ"> 応募する方法とチャンピオンとして際立つ方法を学ぶ </a>
+                        <a href="./adobe-champion-application.md" target="_blank" rel="referrer" title="チャンピオンとして応募し、際立つ方法を学びましょう"> チャンピオンとして応募し、際立つ方法を学ぶ</a>
                     </p>
-                    <p class="is-size-6">Adobeの導入マーケティングチームと現在のAdobe Champions が、このプログラムの概要と傑出したアプリの送信に関するヒントを説明する排他的なウェビナーに参加します。</p>
+                    <p class="is-size-6">Adobe Adobeのアダプションマーケティングチームと現在のAdobe Championが開催するウェビナーでは、プログラムを紹介し、優れたアプリケーションを提出するためのヒントを共有します。</p>
                 </div>
                 <a href="./adobe-champion-application.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Explore Adobe User Groups across Experience Cloud">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./adobe-user-groups.md" title="Experience CloudのAdobeユーザーグループについて詳しく見る" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1778868398971" alt="Experience CloudのAdobeユーザーグループについて詳しく見る"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./adobe-user-groups.md" target="_blank" rel="referrer" title="Experience CloudのAdobeユーザーグループについて詳しく見る">Experience Cloud全体でAdobe ユーザーグループを検索</a>
+                    </p>
+                    <p class="is-size-6">Adobeのユーザーグループが、AEM、Analytics、Marketo Engage、Workfrontをまたいで連携を促進し、同僚が主導する問題解決を提供して、リーダーシップを発揮する機会を提供する方法をご確認ください。</p>
+                </div>
+                <a href="./adobe-user-groups.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -76,7 +101,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 
 ## GenAI
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta  = Watch event}
 
 * genai/2025/scale-ai-adoption-a-playbook-for-approvals.md
@@ -87,8 +113,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" title="AI 採用の拡大 – 承認用のプレイブック" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1773334468178" alt="AI 採用の拡大 – 承認用のプレイブック"
+                    <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" title="AIの導入を拡大 – 承認のためのプレイブック" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1778868399371" alt="AIの導入を拡大 – 承認のためのプレイブック"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,12 +122,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" title="AI 採用の拡大 – 承認用のプレイブック">AI の採用を拡大 – 承認用のプレイブック </a>
+                        <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" title="AIの導入を拡大 – 承認のためのプレイブック">AIの導入を拡大 – 承認のためのプレイブック </a>
                     </p>
-                    <p class="is-size-6">Adobe Experience Maker Award 受賞者である Anish Raul 氏が、イノベーションを減速させることなく、規制対象の企業に AI を安全に導入する実証済みの戦略をご覧ください。</p>
+                    <p class="is-size-6">Adobe Experience Maker Awardの受賞者であるAnish Raul氏が、規制が厳しい業界において、イノベーションを遅らせることなくAIを安全に導入するための方法を解説します。</p>
                 </div>
                 <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -112,7 +138,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 
 ## Commerce
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * commerce/2026/product-recommendations-from-setup-to-strategic-growth.md {cta  = Watch event}
 * commerce/2025/commerce-and-app-builder.md {cta  = Watch event}
@@ -124,8 +151,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" title="Adobe Commerceの推奨事項 – 設定から戦略的な成長まで" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481370/?format=jpeg&nocache=1773334468328" alt="Adobe Commerceの推奨事項 – 設定から戦略的な成長まで"
+                    <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" title="Adobe Commerceに関する推奨事項：設定から戦略的成長まで" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481370/?format=jpeg&nocache=1778868399625" alt="Adobe Commerceに関する推奨事項：設定から戦略的成長まで"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,12 +160,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" target="_blank" rel="referrer" title="Adobe Commerceの推奨事項 – 設定から戦略的な成長まで">Adobe Commerceの推奨事項 – 設定から戦略的な成長まで </a>
+                        <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" target="_blank" rel="referrer" title="Adobe Commerceに関する推奨事項：設定から戦略的成長まで">Adobe Commerceの推奨事項 – セットアップから戦略的成長まで</a>
                     </p>
-                    <p class="is-size-6">Adobe Commerceの推奨製品を最適化して、AOV、在庫消去、顧客維持などの KPI を推進する方法を説明します。</p>
+                    <p class="is-size-6">Adobe Adobe Commerceの商品レコメンデーションを最適化して、AOV、在庫管理、顧客維持などのKPIを向上させる方法をご確認ください。</p>
                 </div>
                 <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -147,8 +174,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="commerce/2025/commerce-and-app-builder.md" title="Adobe CommerceとApp Builder Essentials – 基本から影響まで" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1773334468337" alt="Adobe CommerceとApp Builder Essentials – 基本から影響まで"
+                    <a href="commerce/2025/commerce-and-app-builder.md" title="Adobe CommerceとApp Builder Essentials：基本から影響まで" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1778868399633" alt="Adobe CommerceとApp Builder Essentials：基本から影響まで"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,12 +183,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="commerce/2025/commerce-and-app-builder.md" target="_blank" rel="referrer" title="Adobe CommerceとApp Builder Essentials – 基本から影響まで">Adobe CommerceとApp Builder Essentials – 基本から影響まで </a>
+                        <a href="commerce/2025/commerce-and-app-builder.md" target="_blank" rel="referrer" title="Adobe CommerceとApp Builder Essentials：基本から影響まで">Adobe CommerceとApp Builder Essentials – 基本から影響まで</a>
                     </p>
-                    <p class="is-size-6">柔軟性、俊敏性、コスト削減を実現する、Adobe CommerceにおけるApp Builderの役割について説明します。 ベストプラクティス、統合、クラウドネイティブのメリットについて説明します。</p>
+                    <p class="is-size-6">柔軟性、俊敏性、コスト削減におけるAdobe CommerceのApp Builderの役割をご覧ください。 ベストプラクティス、統合機能、クラウドネイティブな利点をご紹介します。</p>
                 </div>
                 <a href="commerce/2025/commerce-and-app-builder.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -170,8 +197,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="commerce/2024/agile-sdlc.md" title="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1773334468347" alt="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ"
+                    <a href="commerce/2024/agile-sdlc.md" title="アジャイル SDLCにおけるコミュニケーション、要件、テストに関する重点アプローチ" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1778868399618" alt="アジャイル SDLCにおけるコミュニケーション、要件、テストに関する重点アプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,12 +206,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="commerce/2024/agile-sdlc.md" target="_blank" rel="referrer" title="アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ"> アジャイル SDLC のコミュニケーション、要件、テストに重点を置いたアプローチ </a>
+                        <a href="commerce/2024/agile-sdlc.md" target="_blank" rel="referrer" title="アジャイル SDLCにおけるコミュニケーション、要件、テストに関する重点アプローチ"> アジャイル SDLCにおけるコミュニケーション、要件、テストに焦点を当てたアプローチ </a>
                     </p>
-                    <p class="is-size-6">要件の分析、バックログの管理、プロジェクトの計画、テスト戦略をカバーし、実行を成功させるために透明性と説明責任を持つコミュニケーションを促進するというアジャイルな SDLC プラクティスを使用して、e コマースの開発を合理化します。</p>
+                    <p class="is-size-6">アジャイル SDLC手法により、e コマース開発を合理化します。要件分析、バックログ管理、プロジェクト計画、テスト戦略をカバーし、透明性のある責任あるコミュニケーションを促進することで、プロジェクトを成功に導きます。</p>
                 </div>
                 <a href="commerce/2024/agile-sdlc.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -194,7 +221,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 
 ## Adobe Experience Manager
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -209,8 +237,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/2025/metadata-mayhem.md" title="メタデータメイヘムを習得" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1773334468502" alt="メタデータメイヘムを習得"
+                    <a href="experience-manager/2025/metadata-mayhem.md" title="Metadata Mayhem to Mastery" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1778868399833" alt="Metadata Mayhem to Mastery"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -218,12 +246,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" title="メタデータメイヘムを習得"> メタデータのメイヘムを習得 </a>
+                        <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" title="Metadata Mayhem to Mastery"> メタデータメイヘムからマスター</a>
                     </p>
-                    <p class="is-size-6">AEM AssetsとWorkfront コネクタの実装、メタデータのマッピング、ロールアウトを成功させるための役割の関連付けについて、エキスパートがヒントを説明します。</p>
+                    <p class="is-size-6">AEM AssetsとWorkfront コネクタを実装し、メタデータをマッピングし、ロールアウトを成功させるために役割を調整するためのエキスパートのヒントを説明します。</p>
                 </div>
                 <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -232,8 +260,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/2025/smart-tags.md" title="AEM スマートタグ – コンテンツの合理化と検出性の向上" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1773334468513" alt="AEM スマートタグ – コンテンツの合理化と検出性の向上"
+                    <a href="experience-manager/2025/smart-tags.md" title="AEM Smart Tags - コンテンツの合理化と見つけやすさの向上" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1778868399841" alt="AEM Smart Tags - コンテンツの合理化と見つけやすさの向上"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,12 +269,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="experience-manager/2025/smart-tags.md" target="_blank" rel="referrer" title="AEM スマートタグ – コンテンツの合理化と検出性の向上">AEM スマートタグ – コンテンツの合理化と検出性の向上 </a>
+                        <a href="experience-manager/2025/smart-tags.md" target="_blank" rel="referrer" title="AEM Smart Tags - コンテンツの合理化と見つけやすさの向上">AEM スマートタグ – コンテンツの合理化と見つけやすさの向上</a>
                     </p>
-                    <p class="is-size-6">このAEM ウェビナーでは、スマートタグを使用して、AI 駆動のタグ付け戦略によりコンテンツの検出性、メタデータ、DAM の拡張性を向上させる方法について説明します。</p>
+                    <p class="is-size-6">AEMのウェビナーでは、スマートタグが、AIを活用したタグ付け戦略により、コンテンツの見つけやすさ、メタデータ、DAMの拡張性をどのように向上させるのかを解説します。</p>
                 </div>
                 <a href="experience-manager/2025/smart-tags.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -255,8 +283,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/2024/global-digital-presence.md" title="グローバルな組み合わせによる大規模な成功の実現" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1773334468538" alt="グローバルな組み合わせによる大規模な成功の実現"
+                    <a href="experience-manager/2024/global-digital-presence.md" title="グローバルな組み合わせで大規模な成功を実現" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1778868399837" alt="グローバルな組み合わせで大規模な成功を実現"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -264,12 +292,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="experience-manager/2024/global-digital-presence.md" target="_blank" rel="referrer" title="グローバルな組み合わせによる大規模な成功の実現"> グローバルな組み合わせによる大規模な成功の実現 </a>
+                        <a href="experience-manager/2024/global-digital-presence.md" target="_blank" rel="referrer" title="グローバルな組み合わせで大規模な成功を実現"> グローバルな組み合わせで大規模な成功を実現</a>
                     </p>
-                    <p class="is-size-6">カスタムコンポーネント、ブループリント、ワークフロー、フラグメントを使用してAEMでグローバルコンテンツを拡張し、効率的な制御、承認、地域ごとの柔軟性を実現します。</p>
+                    <p class="is-size-6">AEMでカスタムコンポーネント、ブループリント、ワークフロー、フラグメントを使用して、グローバルコンテンツを拡張し、効率的な制御、承認、地域の柔軟性を実現します。</p>
                 </div>
                 <a href="experience-manager/2024/global-digital-presence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -279,7 +307,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 
 ## Marketo
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -297,8 +326,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2025/data-hygiene-strategy.md" title="Marketo Engageと CRM 同期のデータハイジーン戦略の構築" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1773334468773" alt="Marketo Engageと CRM 同期のデータハイジーン戦略の構築"
+                    <a href="marketo/2025/data-hygiene-strategy.md" title="Marketo EngageとCRM Syncのデータハイジーン戦略の構築" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1778868399983" alt="Marketo EngageとCRM Syncのデータハイジーン戦略の構築"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -306,12 +335,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2025/data-hygiene-strategy.md" target="_blank" rel="referrer" title="Marketo Engageと CRM 同期のデータハイジーン戦略の構築">Marketo Engageと CRM 同期のデータハイジーン戦略の構築 </a>
+                        <a href="marketo/2025/data-hygiene-strategy.md" target="_blank" rel="referrer" title="Marketo EngageとCRM Syncのデータハイジーン戦略の構築">Marketo EngageとCRM Syncのデータハイジーン戦略の構築</a>
                     </p>
-                    <p class="is-size-6">Marketo チャンピオンの Miray Vu が、実証済みのデータハイジーン戦術を学び、CRM データのクリーン化、パイプラインベロシティの加速、信頼性の高い売上高の増加を実現します。</p>
+                    <p class="is-size-6">Marketo ChampionのMiray Vuが提供する実証済みのデータハイジーン戦術により、クリーンなCRM データを確保し、パイプラインベロシティを加速させ、信頼できる売上増加を促進できます。</p>
                 </div>
                 <a href="marketo/2025/data-hygiene-strategy.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -320,8 +349,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2025/interactive-webinars.md" title="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1773334468762" alt="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける"
+                    <a href="marketo/2025/interactive-webinars.md" title="ウェビナー体験に革新をもたらす – インタラクティブウェビナーの効果を紹介" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1778868399986" alt="ウェビナー体験に革新をもたらす – インタラクティブウェビナーの効果を紹介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,12 +358,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2025/interactive-webinars.md" target="_blank" rel="referrer" title="ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を見つける"> ウェビナーエクスペリエンスの革新 – インタラクティブウェビナーの影響を発見 </a>
+                        <a href="marketo/2025/interactive-webinars.md" target="_blank" rel="referrer" title="ウェビナー体験に革新をもたらす – インタラクティブウェビナーの効果を紹介"> ウェビナー体験に革命を起こす – インタラクティブウェビナーの影響を見る</a>
                     </p>
-                    <p class="is-size-6">Marketo チャンピオンの Maria Cruz がインタラクティブウェビナーを使用して、エンゲージメントを強化し、インサイトを得て、MRM でのマーケティングを強化する方法を説明します。 オンデマンドで今すぐ視聴</p>
+                    <p class="is-size-6">Marketo ChampionのMaria Cruz氏が、インタラクティブウェビナーを活用して、MRMでのエンゲージメントを高め、インサイトを獲得し、マーケティングを強化した方法をご覧ください。 オンデマンドでご覧ください。</p>
                 </div>
                 <a href="marketo/2025/interactive-webinars.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -343,8 +372,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2024/advanced-segmentation.md" title="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1773334468876" alt="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保"
+                    <a href="marketo/2024/advanced-segmentation.md" title="高度なセグメンテーション監査 – Marketo Engageでの精度とパフォーマンスの確保" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1778868399991" alt="高度なセグメンテーション監査 – Marketo Engageでの精度とパフォーマンスの確保"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,12 +381,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2024/advanced-segmentation.md" target="_blank" rel="referrer" title="高度なセグメント化監査 – Marketo Engageでの精度とパフォーマンスの確保"> 高度なセグメント化監査 – Marketo Engageでの正確さとパフォーマンスの確保 </a>
+                        <a href="marketo/2024/advanced-segmentation.md" target="_blank" rel="referrer" title="高度なセグメンテーション監査 – Marketo Engageでの精度とパフォーマンスの確保">高度なセグメント化の監査 – Marketo Engageでの精度とパフォーマンスの確保</a>
                     </p>
-                    <p class="is-size-6">Adobe Marketo Engage チャンピオンの Darshil Shah が、高度なセグメント化監査をマスターし、セグメント化戦略を最適化し、お客様の行動と連携し、GDPR コンプライアンスを維持し、ベストプラクティスとリアルタイムの更新を通じてマーケティングパフォーマンスを向上させる方法を学びます。</p>
+                    <p class="is-size-6">Adobe Adobe Marketo Engage ChampionのDarshil Shah氏とともに、高度なセグメンテーション監査をマスターし、セグメンテーション戦略の最適化、顧客行動の整合性の維持、GDPRへの準拠、ベストプラクティスやリアルタイムの更新を通じたマーケティングパフォーマンスの向上を図ることができます。</p>
                 </div>
                 <a href="marketo/2024/advanced-segmentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -366,8 +395,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2024/multi-stream-engagement-programs.md" title="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1773334468863" alt="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター"
+                    <a href="marketo/2024/multi-stream-engagement-programs.md" title="マルチストリームエンゲージメントプログラムで複雑なカスタマージャーニーをマスター" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1778868400008" alt="マルチストリームエンゲージメントプログラムで複雑なカスタマージャーニーをマスター"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -375,12 +404,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" title="マルチストリームエンゲージメントプログラムによる複雑なカスタマージャーニーのマスター"> マルチストリームエンゲージメントプログラムを使用した複雑なカスタマージャーニーのマスター</a>
+                        <a href="marketo/2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" title="マルチストリームエンゲージメントプログラムで複雑なカスタマージャーニーをマスター"> マルチストリームのエンゲージメントプログラムを使用して複雑なカスタマージャーニーをマスター</a>
                     </p>
-                    <p class="is-size-6">ジャーニーのすべてのステップで、マルチタッチ、マルチストリームのエンゲージメントプログラムを使用して、体系的に顧客関係を結び、育成する方法を調べます。 エンゲージメントプログラムを使用すると、顧客のニーズや行動を聞き、関連するジャーニーや必要なコンテンツを提供できます。</p>
+                    <p class="is-size-6">カスタマージャーニーのあらゆる段階で、マルチタッチとマルチストリームのエンゲージメントプログラムを利用して、顧客との関係を体系的に築き、育成する方法を学びましょう。 エンゲージメントプログラムは、顧客のニーズや行動に耳を傾け、適切なジャーニーと必要なコンテンツを提供する力を提供します。</p>
                 </div>
                 <a href="marketo/2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -389,8 +418,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2024/marketers-map-marketo-campaigns.md" title="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1773334468783" alt="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド"
+                    <a href="marketo/2024/marketers-map-marketo-campaigns.md" title="マーケティングマップ：Marketo施策の戦略を策定して構築し、分析するための包括的なガイド" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1778868399979" alt="マーケティングマップ：Marketo施策の戦略を策定して構築し、分析するための包括的なガイド"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -398,12 +427,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" title="マーケターズマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド"> マーケターのマップ - Marketo キャンペーンを戦略、構築、分析するための包括的なガイド </a>
+                        <a href="marketo/2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" title="マーケティングマップ：Marketo施策の戦略を策定して構築し、分析するための包括的なガイド"> マーケター向けマップ - Marketo キャンペーンの戦略、構築および分析に関する包括的なガイド </a>
                     </p>
-                    <p class="is-size-6">読み込み、クローン作成、ゼロからの構築など、Marketo Engage プログラムを効率的に作成する方法について説明します。 Marketo Engage テンプレートをカスタマイズしてブランド標準を満たし、アセットと期間のコストを管理します。</p>
+                    <p class="is-size-6">インポート、複製、ゼロから構築するなど、Marketo Engageプログラムを効率的に作成する方法をご紹介します。 Marketo Engageテンプレートをカスタマイズしてブランド基準を満たし、アセットと期間コストを管理できます。</p>
                 </div>
                 <a href="marketo/2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -412,8 +441,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" title="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1773334468838" alt="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション"
+                    <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" title="強力なワークフローオートメーション機能の実現 – Marketo Engage REST APIの実用的なアプリケーション" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1778868399999" alt="強力なワークフローオートメーション機能の実現 – Marketo Engage REST APIの実用的なアプリケーション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -421,12 +450,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" title="強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション"> 強力なワークフロー自動処理のロック解除 – Marketo Engage REST API の実用的なアプリケーション </a>
+                        <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" title="強力なワークフローオートメーション機能の実現 – Marketo Engage REST APIの実用的なアプリケーション">強力なワークフローオートメーションのロック解除 – Marketo Engage REST APIの実用的なアプリケーション </a>
                     </p>
-                    <p class="is-size-6">Marketo Engage REST API の可能性を最大限に活用して、マーケティングワークフローの自動化、Zapier などのツールの統合、一括アクションでの Python の活用、リード結合、UTM トラッキング、アクティビティデータ抽出などのタスクの効率化を行うことができます。</p>
+                    <p class="is-size-6">Marketo Engage REST APIの可能性を引き出して、マーケティングワークフローの自動化、Zapierなどのツールの統合、Pythonを活用したバルクアクション、リード結合、UTM トラッキング、アクティビティデータ抽出などのタスクの合理化を実現します。</p>
                 </div>
                 <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -435,8 +464,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/2024/person-scoring-mastery.md" title="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1773334468851" alt="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物"
+                    <a href="marketo/2024/person-scoring-mastery.md" title="Marketo Engageで習得した人のスコアリング：グローバルなフレームワークでローカライズされたニュアンス" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1778868400017" alt="Marketo Engageで習得した人のスコアリング：グローバルなフレームワークでローカライズされたニュアンス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -444,12 +473,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/2024/person-scoring-mastery.md" target="_blank" rel="referrer" title="Marketo Engage - グローバルフレームワークにおけるローカライズされたニュアンスのスコアリングに精通した人物">Marketo Engageのスコアリングに精通している人物 – グローバルフレームワークにおけるローカライズされたニュアンス </a>
+                        <a href="marketo/2024/person-scoring-mastery.md" target="_blank" rel="referrer" title="Marketo Engageで習得した人のスコアリング：グローバルなフレームワークでローカライズされたニュアンス">Marketo Engageを使用した人物スコアリングの習得 – グローバルなフレームワークにおけるローカライズされたニュアンス </a>
                     </p>
-                    <p class="is-size-6">管理者は、スコアリング・エレメントの相互に比較した実際のビジネス価値に基づいて、Marketo Engageのユーザー・スコアリング・モデルを作成します。 しかし、そのビジネス価値が市場によって異なる場合はどうでしょうか。 組織全体の一貫性を損なうことなく、ローカルの影響をどのように考慮すればよいでしょうか？ スコアリングモデルにローカルの柔軟性を組み込み、バランスを見つける方法を説明します。</p>
+                    <p class="is-size-6">管理者は、スコアリング要素の実際のビジネス価値に基づいて、Marketo Engageの人物スコアリングモデルを相互に比較して開発します。 しかし、そのビジネス価値が市場によって異なる場合はどうでしょうか？ 組織全体の一貫性を損なうことなく、ローカルの影響を考慮するにはどうすればよいか？ スコアリングモデルにローカルの柔軟性を組み込むことで、どのようにバランスを取るかを説明します。</p>
                 </div>
                 <a href="marketo/2024/person-scoring-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -459,7 +488,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
 
 ## Workfront
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -475,8 +505,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/2025/metadata-mayhem.md" title="メタデータメイヘムを習得" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1773334469198" alt="メタデータメイヘムを習得"
+                    <a href="experience-manager/2025/metadata-mayhem.md" title="Metadata Mayhem to Mastery" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1778868400398" alt="Metadata Mayhem to Mastery"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -484,12 +514,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" title="メタデータメイヘムを習得"> メタデータのメイヘムを習得 </a>
+                        <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" title="Metadata Mayhem to Mastery"> メタデータメイヘムからマスター</a>
                     </p>
-                    <p class="is-size-6">AEM AssetsとWorkfront コネクタの実装、メタデータのマッピング、ロールアウトを成功させるための役割の関連付けについて、エキスパートがヒントを説明します。</p>
+                    <p class="is-size-6">AEM AssetsとWorkfront コネクタを実装し、メタデータをマッピングし、ロールアウトを成功させるために役割を調整するためのエキスパートのヒントを説明します。</p>
                 </div>
                 <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -498,8 +528,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workfront/2025/simplify-resource-planning-with-automation.md" title="自動化によるリソース・プランニングの合理化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1773334469165" alt="自動化によるリソース・プランニングの合理化"
+                    <a href="workfront/2025/simplify-resource-planning-with-automation.md" title="リソースプランニングを自動化で簡素化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1778868400408" alt="リソースプランニングを自動化で簡素化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -507,12 +537,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workfront/2025/simplify-resource-planning-with-automation.md" target="_blank" rel="referrer" title="自動化によるリソース・プランニングの合理化"> 自動化によるリソース計画のシンプル化 </a>
+                        <a href="workfront/2025/simplify-resource-planning-with-automation.md" target="_blank" rel="referrer" title="リソースプランニングを自動化で簡素化">自動化によるリソース計画の簡素化</a>
                     </p>
-                    <p class="is-size-6">Deloitte が Fusion を使用して、Workfrontでリソースの計画と PTO のトラッキングを自動化する方法を説明します。 精度、可視性、チームの採用を高めるための実際のヒントを紹介します。</p>
+                    <p class="is-size-6">DeloitteがFusionを使用して、WorkfrontでリソースプランニングとPTO トラッキングを自動化する方法について説明します。 正確性、可視性、チームの採用率を向上させるための実際のヒントをご確認ください。</p>
                 </div>
                 <a href="workfront/2025/simplify-resource-planning-with-automation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -521,8 +551,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="影響の特定 – Workfront値の測定方法と共有方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1773334469180" alt="影響の特定 – Workfront値の測定方法と共有方法"
+                    <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="効果の明確さ：Workfrontの価値を測定および共有する方法" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1778868400404" alt="効果の明確さ：Workfrontの価値を測定および共有する方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -530,12 +560,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" target="_blank" rel="referrer" title="影響の特定 – Workfront値の測定方法と共有方法"> 影響の特定 – Workfront値の測定方法と共有方法 </a>
+                        <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" target="_blank" rel="referrer" title="効果の明確さ：Workfrontの価値を測定および共有する方法">効果の関連付け – Workfrontの値を測定および共有する方法</a>
                     </p>
-                    <p class="is-size-6">このオンデマンドウェビナーでは、Synchrony の James Hill と Ellen Saltmarsh、EMMsphere の Daniel Clarke が、Workfrontの導入における「理由」の明確な示し、時間とコストの削減などの測定可能な成果の定義、関係者の賛同を得るための成功事例の伝達、価値実現のための段階的なプレイブックの使用といった戦略について説明します。</p>
+                    <p class="is-size-6">このオンデマンドウェビナーでは、SynchronyのJames Hill氏とEllen Saltmarsh氏、EMMsphereのDaniel Clarke氏が、Workfront導入の「なぜ」を明確にするための戦略について解説します。時間とコストの削減などの測定可能な成果の定義、関係者の賛同を得るための成功事例の提供、価値実現のためのステップバイステップのプレイブックを活用します。</p>
                 </div>
                 <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -544,8 +574,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="Workfront システム管理業務のスタッフの配置のウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1773334469189" alt="Workfront システム管理業務のスタッフの配置のウェビナー"
+                    <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="Workfrontシステム管理者向けウェビナーのスタッフ配置" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1778868400401" alt="Workfrontシステム管理者向けウェビナーのスタッフ配置"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -553,12 +583,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="Workfront システム管理業務のスタッフの配置のウェビナー">Workfront システム管理者の手順に関するウェビナー </a>
+                        <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="Workfrontシステム管理者向けウェビナーのスタッフ配置">Workfront システム管理者実習ウェビナーへのスタッフ配置</a>
                     </p>
-                    <p class="is-size-6">デルとAdobe Workfrontのエキスパートが、オンデマンドウェビナーにおけるシステム管理者の戦略的重要性について説明します。 グループ管理者の役割の活用、Adobe Workfrontでの効果的なセットアップとスケーラビリティのためのロールプロファイルの定義など、フルタイムの人材の確保に関するヒントを紹介します。</p>
+                    <p class="is-size-6">オンデマンドウェビナーでは、システム管理者の戦略的重要性について、デルとAdobe Workfrontの専門家から学ぶことができます。 Adobe Workfrontでフルタイムの人員を確保し、グループ管理者ロールを活用して、効果的なセットアップとスケーラビリティを実現するためのロールプロファイルを定義する方法を説明します。</p>
                 </div>
                 <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>
@@ -569,8 +599,8 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="Workfront システム管理業務のスタッフの配置のウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1773334468288" alt="Workfront システム管理業務のスタッフの配置のウェビナー"
+                    <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="Workfrontシステム管理者向けウェビナーのスタッフ配置" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1773334468288" alt="Workfrontシステム管理者向けウェビナーのスタッフ配置"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -578,12 +608,12 @@ Adobeの専門家から学び、Adobe ソリューションを最大限に活用
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="Workfront システム管理業務のスタッフの配置のウェビナー">Workfront システム管理者の手順に関するウェビナー </a>
+                        <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="Workfrontシステム管理者向けウェビナーのスタッフ配置">Workfront システム管理者実習ウェビナーへのスタッフ配置</a>
                     </p>
-                    <p class="is-size-6">デルとAdobe Workfrontのエキスパートが、オンデマンドウェビナーにおけるシステム管理者の戦略的重要性について説明します。 グループ管理者の役割の活用、Adobe Workfrontでの効果的なセットアップとスケーラビリティのためのロールプロファイルの定義など、フルタイムの人材の確保に関するヒントを紹介します。</p>
+                    <p class="is-size-6">オンデマンドウェビナーでは、システム管理者の戦略的重要性について、デルとAdobe Workfrontの専門家から学ぶことができます。 Adobe Workfrontでフルタイムの人員を確保し、グループ管理者ロールを活用して、効果的なセットアップとスケーラビリティを実現するためのロールプロファイルを定義する方法を説明します。</p>
                 </div>
                 <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントをウォッチ </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> イベントを見る</span>
                 </a>
             </div>
         </div>

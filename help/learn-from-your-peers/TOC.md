@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]からの録音のコレクション'
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 7%
 
 ---
@@ -64,13 +64,13 @@ ht-degree: 7%
       + [Marketo EngageとDynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engageで電子メールの配信品質を向上](marketo/2023/email-deliverability.md)
       + [マーケティングキャンペーンの追跡、分析、最適化](marketo/2023/marketing-campaigns.md)
-      + [&#x200B; [!DNL Marketo Engage]を使用したPersonalizationの大規模コードのクラック](marketo/2023/personalization-at-scale.md)
-      + [&#x200B; [!DNL Adobe Marketo Engage]  コンテンツをスケーラブルにする方法](marketo/2023/templates-tokens-teamwork.md)
+      + [ [!DNL Marketo Engage]を使用したPersonalizationの大規模コードのクラック](marketo/2023/personalization-at-scale.md)
+      + [ [!DNL Adobe Marketo Engage]  コンテンツをスケーラブルにする方法](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2026 {#2026}
       + [持続可能なWorkfrontの導入](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [メタデータメイヘム](https://experienceleague.adobe.com/ja/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [メタデータメイヘム](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [効果の明確さ：Workfrontの価値を測定および共有する方法](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [リソースプランニングを自動化で簡素化](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024年 {#2024}
@@ -93,5 +93,6 @@ ht-degree: 7%
       + [オペレーショナルレポートの基礎](workfront/2022/foundations-of-operational-reporting.md)
       + [グループ管理者を活用](workfront/2022/leveraging-the-group-admin.md)
       + [Workfrontのガバナンスとは何ですか？](workfront/2022/what-is-workfront-governance.md)
-+ [Experience CloudのAdobeユーザーグループについて詳しく見る](./adobe-user-groups.md)
++ [Adobe Adobe Championのアドバンテージを活用](./unlock-the-adobe-champion-advantage.md)
 + [チャンピオンとして応募し、際立つ方法を学びましょう](./adobe-champion-application.md)
++ [Experience CloudのAdobeユーザーグループについて詳しく見る](./adobe-user-groups.md)
