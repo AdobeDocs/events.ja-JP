@@ -1,7 +1,8 @@
 ---
 title: CX Analytics オンデマンドウェビナー
-description: 製品リリース、機能アップデート、Adobeソリューションの統合、オンボーディングウェビナー、実際の顧客やパートナーの成功事例などを紹介するオンデマンドのCX Analyticsのビデオをご覧いただき、専門知識を構築し、最新のCX Analyticsイノベーションを入手することができます。
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: 製品リリース、機能アップデート、Adobeソリューションの統合、オンボーディングウェビナー、実際の顧客やパートナーの成功事例などを紹介するオンデマンドのCX分析ビデオを探索して、専門知識を構築し、最新のCX分析技術に関する最新情報を入手できます。
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # CX Analytics オンデマンドウェビナー {#cx-analytics-ondemand-webinars}
 
-商品リリースや機能リリース、CX Analyticsソリューションをまたいだより優れたコンバージョン事例、入門ウェビナー、パートナー/カスタマーサクセスストーリーなど、Adobe Adobeの動画ライブラリをご確認ください。 オンデマンド動画で分析の専門知識を深め、CX Analyticsのポートフォリオ全体で最新のイノベーションを把握し、新しいコンテンツを定期的に追加しています。
+製品や機能のリリース、Adobeソリューションをまたいだ優れた顧客体験の事例、入門ウェビナー、パートナー企業/ユーザー企業の成功事例など、CX分析ビデオの厳選されたライブラリをご確認ください。 オンデマンド動画で分析の専門知識を深め、新しいコンテンツを定期的に追加しながら、CX分析ポートフォリオ全体で最新のイノベーションを把握しましょう。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

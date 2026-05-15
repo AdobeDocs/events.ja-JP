@@ -1,22 +1,23 @@
 ---
-title: Marketoとモカス
-description: Marketo オンデマンドイベントは、エキスパートや同業者がAdobe Marketoの最適な使用方法に関する考えやアイデアを共有できるビデオライブラリです。
+title: Marketoとモハス
+description: Marketo On-Demand Eventsは、Adobe Marketoの活用方法について、専門家や同業者が考えやアイデアを共有するビデオライブラリです。
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 2%
 
 ---
 
-# Marketoとモカス
+# Marketoとモハス
 
-Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe Marketo [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja) および [&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja) と組み合わせると、Adobe Marketoをビジネスのサポートに使用する方法をより深く理解することができます。
+MarketoとMochasの録音へようこそ。 これらの資料とAdobe Marketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html)および[ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)を組み合わせることで、Adobe Marketoを使用してビジネスをサポートする方法をより深く理解できます。
 
-## 2025 年録画
+## 2025年レコーディング
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -32,8 +33,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/harness-gen-ai.md" title="Marketoと Mochas - Adobe Marketo Engageでの GenAI の活用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476273/?format=jpeg&nocache=1761670494728" alt="Marketoと Mochas - Adobe Marketo Engageでの GenAI の活用"
+                    <a href="2025/harness-gen-ai.md" title="MarketoとMochas - Adobe Marketo Engageで生成AIを活用" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476273/?format=jpeg&nocache=1761670494728" alt="MarketoとMochas - Adobe Marketo Engageで生成AIを活用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -41,12 +42,12 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/harness-gen-ai.md" target="_blank" rel="referrer" title="Marketoと Mochas - Adobe Marketo Engageでの GenAI の活用">Marketoと Mochas - Adobe Marketo Engageでの GenAI の活用 </a>
+                        <a href="2025/harness-gen-ai.md" target="_blank" rel="referrer" title="MarketoとMochas - Adobe Marketo Engageで生成AIを活用">MarketoとMochas - Adobe Marketo Engageで生成AIを活用</a>
                     </p>
-                    <p class="is-size-6">Adobe Marketo Engageの GenAI が、キャンペーンの作成を促進し、パーソナライゼーションを強化し、チームが戦略とクリエイティビティに集中できるようにする方法を説明します。</p>
+                    <p class="is-size-6">Adobe Marketo EngageのGenAIがキャンペーン作成を加速させ、パーソナライゼーションを高め、チームを戦略とクリエイティビティに集中させる方法をご覧ください。</p>
                 </div>
                 <a href="2025/harness-gen-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -55,8 +56,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/inheriting-bizible-instance.md" title="Marketo Measureと Mocha – 新規または現在の Bizible インスタンスの継承" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1761670494755" alt="Marketo Measureと Mocha – 新規または現在の Bizible インスタンスの継承"
+                    <a href="2025/inheriting-bizible-instance.md" title="Marketo MeasureとMochas – 新規または現在のBizible インスタンスの継承" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1761670494755" alt="Marketo MeasureとMochas – 新規または現在のBizible インスタンスの継承"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,12 +65,12 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" title="Marketo Measureと Mocha – 新規または現在の Bizible インスタンスの継承">Marketo Measureと Mocha – 新規または現在の Bizible インスタンスの継承 </a>
+                        <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" title="Marketo MeasureとMochas – 新規または現在のBizible インスタンスの継承">Marketo MeasureとMochas – 新規または現在のBizible インスタンスの継承</a>
                     </p>
-                    <p class="is-size-6">Marketo Measure &amp; Mochas のウェビナーで Carly Gaver と Kate Colbert がMarketo Measure（Bizible）インスタンスのセットアップ、設定、チャネル、レポートの監査と最適化のベストプラクティスについて説明します。</p>
+                    <p class="is-size-6">Marketo MeasureとMochasのウェビナーでは、Carly Gaver氏とKate Colbert氏がMarketo Measure（Bizible）インスタンスの設定、設定、チャネル、レポートを監査し、最適化するためのベストプラクティスを解説しています。</p>
                 </div>
                 <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -78,8 +79,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/auditing-inherited-instance.md" title="Marketoと Mocha – 継承されたインスタンスまたは現在のインスタンスの監査" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1761670494721" alt="Marketoと Mocha – 継承されたインスタンスまたは現在のインスタンスの監査"
+                    <a href="2025/auditing-inherited-instance.md" title="MarketoとMochas – 継承または現在のインスタンスの監査" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1761670494721" alt="MarketoとMochas – 継承または現在のインスタンスの監査"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,12 +88,12 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" title="Marketoと Mocha – 継承されたインスタンスまたは現在のインスタンスの監査">Marketoおよび Mocha – 継承されたインスタンスまたは現在のインスタンスの監査 </a>
+                        <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" title="MarketoとMochas – 継承または現在のインスタンスの監査">MarketoとMochas – 継承または現在のインスタンスの監査</a>
                     </p>
-                    <p class="is-size-6">Marketo インスタンスを継承しましたか、または監査しますか？ Adobe アドバイザーの Cynthia Chang と Carly Gaver が、Marketo Engageの監査と最適化のための 5 つの主な手順を説明します。</p>
+                    <p class="is-size-6">Marketo インスタンスを継承しましたか、それとも監査しますか？ AdobeアドバイザーのCynthia Chang氏とCarly Gaver氏が、Marketo Engageを監査および最適化するための5つの重要なステップについて解説します。</p>
                 </div>
                 <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -101,8 +102,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/5-features-to-know.md" title="Marketoと Mocha - 2025 年に知っておくべき 5 つのMarketoの機能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1761670494708" alt="Marketoと Mocha - 2025 年に知っておくべき 5 つのMarketoの機能"
+                    <a href="2025/5-features-to-know.md" title="MarketoとMochas - 2025年に知っておくべき5つのMarketo機能" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1761670494708" alt="MarketoとMochas - 2025年に知っておくべき5つのMarketo機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,12 +111,12 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/5-features-to-know.md" target="_blank" rel="referrer" title="Marketoと Mocha - 2025 年に知っておくべき 5 つのMarketoの機能">Marketoと Mocha - 2025 年に知っておくべき 5 つのMarketoの機能 </a>
+                        <a href="2025/5-features-to-know.md" target="_blank" rel="referrer" title="MarketoとMochas - 2025年に知っておくべき5つのMarketo機能">MarketoとMochas - 2025年に知っておくべき5つのMarketo機能</a>
                     </p>
-                    <p class="is-size-6">Marketo Engageのエキスパートであるカーリー・ガーバーとケイト・コルバートによる、今年の初めてのMarketo&amp;モカス セッションをご覧ください。 Carly と Kate は、2025 年のカスタマーエクスペリエンスを向上させ、需要を促進するのに役立つ、Marketo パッケージの 5 つの機能豊富な機能を調べました。 Marketo プラットフォームの可能性を最大限に引き出しましょう。</p>
+                    <p class="is-size-6">アドビとMarketo EngageのエキスパートであるCarly Gaver氏とKate Colbert氏による初のMarketoとMochasのセッションをご覧ください。 Carly氏とKate氏は、2025年に顧客体験の向上と需要の喚起に役立つ、5つ以上の機能豊富な機能をMarketoパッケージに組み込みました。 Marketoプラットフォームの可能性を最大限に引き出しましょう。</p>
                 </div>
                 <a href="2025/5-features-to-know.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -124,8 +125,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/salesforce-sync.md" title="Marketoと Mochas - Salesforce Sync" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470624/?format=jpeg&nocache=1761670494717" alt="Marketoと Mochas - Salesforce Sync"
+                    <a href="2025/salesforce-sync.md" title="MarketoとMochas - Salesforce Sync" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470624/?format=jpeg&nocache=1761670494717" alt="MarketoとMochas - Salesforce Sync"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,12 +134,12 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/salesforce-sync.md" target="_blank" rel="referrer" title="Marketoと Mochas - Salesforce Sync">Marketoと Mochas - Salesforce同期 </a>
+                        <a href="2025/salesforce-sync.md" target="_blank" rel="referrer" title="MarketoとMochas - Salesforce Sync">MarketoとMochas - Salesforce Sync</a>
                     </p>
-                    <p class="is-size-6">MarketoとSalesforceの同期をマスターし、権限、フィールドの可視性、管理者の共同作業、ベストプラクティスに関するエキスパートガイダンスを提供して、統合をスムーズかつ最適化します。</p>
+                    <p class="is-size-6">権限、フィールドの可視化、管理者の共同作業、ベストプラクティスに関する専門家のガイダンスを利用して、MarketoとSalesforceの連携をマスターし、スムーズで最適化された統合を実現できます。</p>
                 </div>
                 <a href="2025/salesforce-sync.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
                 </a>
             </div>
         </div>
@@ -146,9 +147,10 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 2024 年録画
+## 2024年レコーディング
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -166,8 +168,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/ask-me-anything.md" title="何でも質問する" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1761670495412" alt="何でも質問する"
+                    <a href="2024/ask-me-anything.md" title="何でも聞く" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1761670495412" alt="何でも聞く"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -175,9 +177,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" title="何でも質問する"> 何でも聞いて </a>
+                        <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" title="何でも聞く">質問</a>
                     </p>
-                    <p class="is-size-6">Adobeの Kate Kolbert と James Letham が開催する、今年の最終インタラクティブウェビナーにご参加ください。ウェビナーの最適化、プログラムの更新、使用率の低いMarketoの機能、メールマーケティングのベストプラクティス、データベース管理、ユーザーの権限、Marketo - Salesforceとの同期、ダイナミックチャットエンゲージメント、ライフサイクルステージについて説明します。</p>
+                    <p class="is-size-6">Adobeによる今年の最後のインタラクティブウェビナーとして、Kate Kolbert氏とJames Letham氏が参加します。ウェビナーの最適化、プログラムの更新、利用頻度の低いMarketoの機能、メールマーケティングのベストプラクティス、データベース管理、ユーザー権限、MarketoとSalesforceの同期、ダイナミックチャットエンゲージメント、ライフサイクルのステージについて解説します。</p>
                 </div>
                 <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -189,8 +191,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/attribution-dashboard-recording.md" title="Marketoと Mochas - アトリビューションダッシュボードの記録の基本" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1761670495417" alt="Marketoと Mochas - アトリビューションダッシュボードの記録の基本"
+                    <a href="2024/attribution-dashboard-recording.md" title="MarketoとMochas：アトリビューションダッシュボードの基本的なレコーディング" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1761670495417" alt="MarketoとMochas：アトリビューションダッシュボードの基本的なレコーディング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -198,9 +200,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" title="Marketoと Mochas - アトリビューションダッシュボードの記録の基本">Marketoと Mochas - アトリビューションダッシュボードの記録の基本 </a>
+                        <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" title="MarketoとMochas：アトリビューションダッシュボードの基本的なレコーディング">MarketoとMochas - アトリビューションダッシュボードの記録の基礎</a>
                     </p>
-                    <p class="is-size-6">Adobeのシニアビジネスアドバイザーである Cynthia Chang とテクニカルアドバイザーの James Leedom が、Marketoのアトリビューションモデルと Performance Insights （MPI）ダッシュボードの習得に関する詳細なセッションに参加します。これには、セットアップ、プログラムトラッキング、データ同期および売上高と顧客獲得に対するマーケティングの影響に関する説明が含まれます。</p>
+                    <p class="is-size-6">AdobeのシニアビジネスアドバイザーであるCynthia Chang氏とテクニカルアドバイザーであるJames Leedom氏が、Marketoのアトリビューションモデルとパフォーマンスインサイト（MPI）ダッシュボードの使い方について解説します。ここでは、設定、プログラムのトラッキング、データの同期、マーケティングが売上と顧客獲得に与える影響について解説します。</p>
                 </div>
                 <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -212,8 +214,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/drive-growth-with-reporting.md" title="Marketoと Mocha - レポートによる成長促進（成熟度 Pt 3）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1761670495424" alt="Marketoと Mocha - レポートによる成長促進（成熟度 Pt 3）"
+                    <a href="2024/drive-growth-with-reporting.md" title="MarketoとMochas：レポート機能でビジネスの成長を促進（成熟度パート 3）" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1761670495424" alt="MarketoとMochas：レポート機能でビジネスの成長を促進（成熟度パート 3）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -221,9 +223,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/drive-growth-with-reporting.md" target="_blank" rel="referrer" title="Marketoと Mocha - レポートによる成長促進（成熟度 Pt 3）">Marketoと Mocha - レポートによる成長の促進（成熟度 Pt 3） </a>
+                        <a href="2024/drive-growth-with-reporting.md" target="_blank" rel="referrer" title="MarketoとMochas：レポート機能でビジネスの成長を促進（成熟度パート 3）">MarketoとMochas - レポート機能で成長を促進（成熟度パート 3） </a>
                     </p>
-                    <p class="is-size-6">Adobeのビジネスアドバイザー、Cynthia Chang および Carly Gaver が、Marketo Maturity ウェビナーシリーズの第 3 部に参加します。Marketoのレポートツールを活用して、ビジネスの成長を促進し、パフォーマンスをモニタリングし、効果的な指標を提供する方法を、ライブ Q&amp;A で調べます。</p>
+                    <p class="is-size-6">Marketoの成熟度に関するウェビナーシリーズのパート 3で、AdobeのビジネスアドバイザーであるCynthia Chang氏とCarly Gaver氏が参加します。Marketoのレポートツールを活用して、ライブのQ&amp;Aを通じてビジネスの成長を促進し、パフォーマンスを監視してインパクトのある指標を配信する方法を解説します。</p>
                 </div>
                 <a href="2024/drive-growth-with-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -235,8 +237,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/lead-nurture-success.md" title="Marketo&amp;モカス – 鉛育成を支える基盤づくり" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1761670495429" alt="Marketo&amp;モカス – 鉛育成を支える基盤づくり"
+                    <a href="2024/lead-nurture-success.md" title="MarketoとMochas：リードナーチャリングの成功の基盤を築く" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1761670495429" alt="MarketoとMochas：リードナーチャリングの成功の基盤を築く"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,9 +246,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/lead-nurture-success.md" target="_blank" rel="referrer" title="Marketo&amp;モカス – 鉛育成を支える基盤づくり">Marketo&amp;モカス – リード育成の成功の基盤を築く </a>
+                        <a href="2024/lead-nurture-success.md" target="_blank" rel="referrer" title="MarketoとMochas：リードナーチャリングの成功の基盤を築く">MarketoとMochas - リードナーチャリングの成功の基盤を築く</a>
                     </p>
-                    <p class="is-size-6">ビジネスアドバイザーの Cynthia Chang と Carly Gaver が、Adobe Marketo Engageでのリード育成を最大化する方法、コンテンツ配信のエンゲージメントプログラムを探索する方法、ライブ Q&amp;A を含むベストプラクティステンプレートを使用したエンゲージメントプログラムの設定に関するライブデモをご覧ください。</p>
+                    <p class="is-size-6">ビジネスアドバイザーのCynthia Chang氏とCarly Gaver氏が、Adobe Adobe Marketo Engageでリードナーチャリングを最大限に活用する方法、コンテンツ配信のためのエンゲージメントプログラムを紹介する方法、ベストプラクティステンプレートを使用したエンゲージメントプログラムの設定に関するライブデモをライブ Q&amp;A付きで紹介します。</p>
                 </div>
                 <a href="2024/lead-nurture-success.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -258,8 +260,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Marketo Measureと Mochas のアクティビティとカスタムモデル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1761670495432" alt="Marketo Measureと Mochas のアクティビティとカスタムモデル"
+                    <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Marketo Measure &amp; Mochas アクティビティとカスタムモデル" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1761670495432" alt="Marketo Measure &amp; Mochas アクティビティとカスタムモデル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -267,9 +269,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" target="_blank" rel="referrer" title="Marketo Measureと Mochas のアクティビティとカスタムモデル">Marketo Measureと Mochas のアクティビティとカスタムモデル </a>
+                        <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" target="_blank" rel="referrer" title="Marketo Measure &amp; Mochas アクティビティとカスタムモデル">Marketo MeasureとMochas アクティビティとカスタムモデル </a>
                     </p>
-                    <p class="is-size-6">Adobe ビジネスアドバイザーの Kate Colbert とカスタマーテクニカルアドバイザーの James Leedom が、Adobe Marketo Measureでカスタムアトリビューションモデルとアクティビティアトリビューションを活用する戦略を探索し、実際の例を示し、ライブ Q&amp;A セッションで締めくくります。</p>
+                    <p class="is-size-6">AdobeのビジネスアドバイザーであるKate Colbert氏とカスタマーテクニカルアドバイザーのJames Leedom氏が、Adobe Marketo Measureでカスタムアトリビューションモデルとアクティビティアトリビューションを活用する戦略について解説します。実際の例を紹介し、ライブのQ&amp;A セッションで締めくくります。</p>
                 </div>
                 <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -281,8 +283,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/maturity-part1-foundation.md" title="Marketoとモカス – 成熟度パート 1 – 基盤の構築" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1761670495435" alt="Marketoとモカス – 成熟度パート 1 – 基盤の構築"
+                    <a href="2024/maturity-part1-foundation.md" title="Marketoとモーカス – 成熟度パート 1 – 基礎を築く" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1761670495435" alt="Marketoとモーカス – 成熟度パート 1 – 基礎を築く"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,9 +292,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/maturity-part1-foundation.md" target="_blank" rel="referrer" title="Marketoとモカス – 成熟度パート 1 – 基盤の構築">Marketoとモチャ – 成熟度パート 1 – 基盤の構築 </a>
+                        <a href="2024/maturity-part1-foundation.md" target="_blank" rel="referrer" title="Marketoとモーカス – 成熟度パート 1 – 基礎を築く">Marketoとモーカス – 成熟度パート 1 – 基盤を築く</a>
                     </p>
-                    <p class="is-size-6">Adobeのビジネスアドバイザー、Cynthia Chang および Carly Gaver が、プログラムテンプレートライブラリのライブデモを使用して、Marketoの成熟度カーブを探索し、技術設定の最適化、ベストプラクティスの実装、効果的なドキュメントとプラットフォームガバナンスの維持に関するインサイトを提供します。</p>
+                    <p class="is-size-6">AdobeのビジネスアドバイザーであるCynthia Chang氏とCarly Gaver氏が、Marketoの成熟度について解説します。プログラムテンプレートライブラリのライブデモを通じて、技術設定の最適化、ベストプラクティスの導入、効果的なドキュメント管理とプラットフォームガバナンスの維持に関するインサイトを提供します。</p>
                 </div>
                 <a href="2024/maturity-part1-foundation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -304,8 +306,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/new-discover-dashboard.md" title="新しい Discover ダッシュボード" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1761670495448" alt="新しい Discover ダッシュボード"
+                    <a href="2024/new-discover-dashboard.md" title="新しい「もっと知る」ダッシュボード" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1761670495448" alt="新しい「もっと知る」ダッシュボード"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -313,9 +315,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/new-discover-dashboard.md" target="_blank" rel="referrer" title="新しい Discover ダッシュボード"> 新しい Discover ダッシュボード </a>
+                        <a href="2024/new-discover-dashboard.md" target="_blank" rel="referrer" title="新しい「もっと知る」ダッシュボード">新しい「もっと知る」ダッシュボード </a>
                     </p>
-                    <p class="is-size-6">Adobeのシニアビジネスアドバイザーである Kate Colbert とテクニカルアドバイザーである James Leedom が、Marketo Measureの 9 つの新しい Discover ダッシュボードについて説明します。ライブデモと Q&amp;A セッションで、売上高、ROI、エンゲージメント、リードベロシティなどの指標に関する動的なインサイトを提供します。</p>
+                    <p class="is-size-6">AdobeのシニアビジネスアドバイザーであるKate Colbert氏とテクニカルアドバイザーであるJames Leedom氏が、Marketo Measureに新たに導入された9つのDiscover ダッシュボードについて解説します。ライブデモとQ&amp;A セッションを実施し、売上、ROI、エンゲージメント、リードベロシティなどの指標に関する動的なインサイトを獲得できます。</p>
                 </div>
                 <a href="2024/new-discover-dashboard.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -327,8 +329,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/optimize-marketo-usage.md" title="Marketoと Mocha – 成熟度パート 2 - Marketo使用の最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1761670495459" alt="Marketoと Mocha – 成熟度パート 2 - Marketo使用の最適化"
+                    <a href="2024/optimize-marketo-usage.md" title="MarketoとMochas – 成熟度パート 2 - Marketoの使用を最適化する" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1761670495459" alt="MarketoとMochas – 成熟度パート 2 - Marketoの使用を最適化する"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -336,9 +338,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/optimize-marketo-usage.md" target="_blank" rel="referrer" title="Marketoと Mocha – 成熟度パート 2 - Marketo使用の最適化">Marketoと Mocha – 成熟度パート 2 - Marketoの使用の最適化 </a>
+                        <a href="2024/optimize-marketo-usage.md" target="_blank" rel="referrer" title="MarketoとMochas – 成熟度パート 2 - Marketoの使用を最適化する">MarketoとMochas – 成熟度パート 2 - Marketoの使用状況の最適化</a>
                     </p>
-                    <p class="is-size-6">Adobe ビジネスアドバイザー、Cynthia Chang および Carly Gaver が、Marketo Maturity シリーズの第 2 部で、データ管理、CRM 統合、キャンペーンの最適化に焦点を当て、ライブ Q&amp;A を通じてMarketoの使用状況を強化します。</p>
+                    <p class="is-size-6">Marketo成熟度シリーズのパート 2では、AdobeのビジネスアドバイザーであるCynthia Chang氏とCarly Gaver氏が、データ管理、CRM統合、キャンペーンの最適化に焦点を当て、ライブ Q&amp;Aを通じてMarketoの利用状況を向上させます。</p>
                 </div>
                 <a href="2024/optimize-marketo-usage.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -349,9 +351,10 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 2023 年録画
+## 2023年の録音
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md
@@ -369,8 +372,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/attribution.md" title="Marketoと Mocha - Marketo Measure アトリビューション" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1761670496141" alt="Marketoと Mocha - Marketo Measure アトリビューション"
+                    <a href="2023/attribution.md" title="Marketoとモハス - Marketo Measureアトリビューション" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1761670496141" alt="Marketoとモハス - Marketo Measureアトリビューション"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -378,9 +381,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/attribution.md" target="_blank" rel="referrer" title="Marketoと Mocha - Marketo Measure アトリビューション">Marketoと Mocha - Marketo Measure アトリビューション </a>
+                        <a href="2023/attribution.md" target="_blank" rel="referrer" title="Marketoとモハス - Marketo Measureアトリビューション">MarketoとMochas - Marketo Measure アトリビューション </a>
                     </p>
-                    <p class="is-size-6">Marketo &amp; Mochas のこのセッションで Elizabeth Lundberg と Kate Colbert が、ストックモデル、適切なモデルの選択に関するベストプラクティス、マーケティングインサイトを強化するためのライブ Q&amp;A など、Marketo Measureのアトリビューションについて説明します。</p>
+                    <p class="is-size-6">このMarketoとMochasのセッションでは、Elizabeth Lundberg氏とKate Colbert氏がMarketo Measureのアトリビューション、例えば、ストックモデル、適切なモデルを選ぶためのベストプラクティス、マーケティングインサイトを強化するためのライブ Q&amp;Aを解説します。</p>
                 </div>
                 <a href="2023/attribution.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -392,8 +395,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/deliverability-part-one.md" title="Marketoと Mocha – 配信品質（パート 1）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1761670496144" alt="Marketoと Mocha – 配信品質（パート 1）"
+                    <a href="2023/deliverability-part-one.md" title="MarketoとMochas – 配信品質（パート 1）" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1761670496144" alt="MarketoとMochas – 配信品質（パート 1）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -401,9 +404,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/deliverability-part-one.md" target="_blank" rel="referrer" title="Marketoと Mocha – 配信品質（パート 1）">Marketoと Mocha – 配信品質（パート 1） </a>
+                        <a href="2023/deliverability-part-one.md" target="_blank" rel="referrer" title="MarketoとMochas – 配信品質（パート 1）">MarketoとMochas – 配信品質（パート 1） </a>
                     </p>
-                    <p class="is-size-6">Marketoと Mocha が、Sean Wirt と Cynthia Chang とのメール配信品質のベストプラクティスを探索します。評判の管理、データ品質、共有 IP と専用 IP、Marketo Engageの配信品質プログラムのデモについて説明します。</p>
+                    <p class="is-size-6">MarketoとMochasのパートナーシップにより、Sean Wirt氏とCynthia Chang氏によるメール配信のベストプラクティスの紹介に加えて、レピュテーション管理、データ品質、共有IPと専用IPの比較、Marketo Engageの配信品質プログラムのデモも行います。</p>
                 </div>
                 <a href="2023/deliverability-part-one.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -415,8 +418,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/deliverability-part-two.md" title="Marketoと Mocha – 配信品質（パート 2）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1761670496147" alt="Marketoと Mocha – 配信品質（パート 2）"
+                    <a href="2023/deliverability-part-two.md" title="MarketoとMochas – 配信品質（パート 2）" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1761670496147" alt="MarketoとMochas – 配信品質（パート 2）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -424,9 +427,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/deliverability-part-two.md" target="_blank" rel="referrer" title="Marketoと Mocha – 配信品質（パート 2）">Marketoと Mocha – 配信品質（パート 2） </a>
+                        <a href="2023/deliverability-part-two.md" target="_blank" rel="referrer" title="MarketoとMochas – 配信品質（パート 2）">MarketoとMochas – 配信品質（パート 2） </a>
                     </p>
-                    <p class="is-size-6">Gmail の戦略、Marketoのメールプライバシー、共有型 IP と専用型 IP の比較、Marketo Engageの配信品質ツール、シードリスト、スマートリスト、レポートなどの、Apple配信品質マネージャーの Sean Wirt によるメール配信のベストプラクティスについて説明します。</p>
+                    <p class="is-size-6">Gmail戦略、Marketoメールプライバシー、共有IPと専用IPの比較、Marketo Engageの配信品質ツール、シードリスト、スマートリスト、レポートの詳細なデモなど、Apple Deliverability Manager Sean Wirtが提供するメール配信品質のベストプラクティスをご紹介します。</p>
                 </div>
                 <a href="2023/deliverability-part-two.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -438,8 +441,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/lead-scoring.md" title="Marketoと Mocha - リードスコアリング" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1761670496165" alt="Marketoと Mocha - リードスコアリング"
+                    <a href="2023/lead-scoring.md" title="MarketoとMochas - リードスコアリング" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1761670496165" alt="MarketoとMochas - リードスコアリング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -447,9 +450,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/lead-scoring.md" target="_blank" rel="referrer" title="Marketoと Mocha - リードスコアリング">Marketoと Mocha - リードスコアリング </a>
+                        <a href="2023/lead-scoring.md" target="_blank" rel="referrer" title="MarketoとMochas - リードスコアリング">MarketoとMochas - リードスコアリング </a>
                     </p>
-                    <p class="is-size-6">Marketo &amp; Mochas の Cynthia Chang と Kelvin Ieng が、戦略、セットアップ、Marketo Engageでのライブデモ、主要な留意点やライブ Q&amp;A を通じてリードスコアリングのメリットを説明します。</p>
+                    <p class="is-size-6">MarketoとMochasのCynthia Chang氏とKelvin Ieng氏と共に、Marketo Engageの戦略、設定、ライブデモ、重要なポイント、ライブ Q&amp;Aなど、リードスコアリングの利点を学びましょう。</p>
                 </div>
                 <a href="2023/lead-scoring.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -461,8 +464,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/lifecycle-modeling.md" title="カスタマージャーニー管理 – ライフサイクルモデリング" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1761670496151" alt="カスタマージャーニー管理 – ライフサイクルモデリング"
+                    <a href="2023/lifecycle-modeling.md" title="顧客ジャーニー管理 – ライフサイクルモデリング" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1761670496151" alt="顧客ジャーニー管理 – ライフサイクルモデリング"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -470,9 +473,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/lifecycle-modeling.md" target="_blank" rel="referrer" title="カスタマージャーニー管理 – ライフサイクルモデリング"> カスタマージャーニー管理 – ライフサイクルモデリング </a>
+                        <a href="2023/lifecycle-modeling.md" target="_blank" rel="referrer" title="顧客ジャーニー管理 – ライフサイクルモデリング"> カスタマージャーニー管理 – ライフサイクルモデリング </a>
                     </p>
-                    <p class="is-size-6">Cynthia Chang と James Leedom が、ライフサイクルの設定、ジャーニーのセグメント化、Marketo Engageのライフサイクルモデラー、レポートおよび分析ツールのデモを行う際に、透明性がマーケティングの信頼性をどのように構築するかについて説明します。</p>
+                    <p class="is-size-6">透明性が、Cynthia Chang氏とJames Leedom氏とともにマーケティングの信頼性をどのように構築し、ライフサイクルの設定とジャーニーセグメンテーションに関する戦略を共有しているのか、またMarketo Engageのライフサイクルモデラー、レポーティング、分析ツールの実例を紹介します。</p>
                 </div>
                 <a href="2023/lifecycle-modeling.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -484,8 +487,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/msi-best-practices.md" title="MSI のベストプラクティスと最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1761670496154" alt="MSI のベストプラクティスと最適化"
+                    <a href="2023/msi-best-practices.md" title="MSIのベストプラクティスと最適化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1761670496154" alt="MSIのベストプラクティスと最適化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -493,9 +496,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/msi-best-practices.md" target="_blank" rel="referrer" title="MSI のベストプラクティスと最適化">MSI のベストプラクティスと最適化 </a>
+                        <a href="2023/msi-best-practices.md" target="_blank" rel="referrer" title="MSIのベストプラクティスと最適化">MSIのベストプラクティスと最適化</a>
                     </p>
-                    <p class="is-size-6">Marketo Sales Insights （MSI）の可能性を最大限に引き出すために、Cynthia Chang 氏と James Leedom 氏が、Salesforceとの統合、ライセンス管理、セールスとマーケティングの効率性を高めるための戦略など、主な機能を詳しく解説します。</p>
+                    <p class="is-size-6">Cynthia Chang氏とJames Leedom氏がMarketo Sales Insights （MSI）を利用して、セールスとマーケティングの効率性を向上させるための主要機能、Salesforceとの連携、ライセンス管理、戦略を解説します。</p>
                 </div>
                 <a href="2023/msi-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -507,8 +510,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/online-offline.md" title="オンラインチャネルとオフラインチャネル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1761670496157" alt="オンラインチャネルとオフラインチャネル"
+                    <a href="2023/online-offline.md" title="オンラインとオフラインのチャネル" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1761670496157" alt="オンラインとオフラインのチャネル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -516,9 +519,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/online-offline.md" target="_blank" rel="referrer" title="オンラインチャネルとオフラインチャネル"> オンラインチャネルとオフラインチャネル </a>
+                        <a href="2023/online-offline.md" target="_blank" rel="referrer" title="オンラインとオフラインのチャネル"> オンライン チャネルとオフライン チャネル </a>
                     </p>
-                    <p class="is-size-6">Adobeのマーケティングオートメーションビジネスアドバイザーである Kate Colbert と Elizabeth Lundberg が、戦略的設定、ベストプラクティス、ライブ Q&amp;A を取り上げ、Marketo Measure Attribution を使用したオンラインおよびオフラインチャネルの最適化に関する 90 分の詳細なセッションに参加します。</p>
+                    <p class="is-size-6">AdobeのマーケティングオートメーションビジネスアドバイザーであるKate Colbert氏とElizabeth Lundberg氏が、Marketo Measure Attributionを利用したオンラインとオフラインのチャネルの最適化について解説します。90分間のセッションで、戦略的な設定、ベストプラクティス、ライブ Q&amp;Aを紹介します。</p>
                 </div>
                 <a href="2023/online-offline.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
@@ -530,8 +533,8 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2023/program-management.md" title="Marketoと Mocha - プログラム管理のベストプラクティス" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1761670496161" alt="Marketoと Mocha - プログラム管理のベストプラクティス"
+                    <a href="2023/program-management.md" title="MarketoとMochas - プログラム管理のベストプラクティス" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1761670496161" alt="MarketoとMochas - プログラム管理のベストプラクティス"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -539,9 +542,9 @@ Marketoと Mochas の録画へようこそ。 これらのリソースをAdobe M
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/program-management.md" target="_blank" rel="referrer" title="Marketoと Mocha - プログラム管理のベストプラクティス">Marketoと Mocha - プログラム管理のベストプラクティス </a>
+                        <a href="2023/program-management.md" target="_blank" rel="referrer" title="MarketoとMochas - プログラム管理のベストプラクティス">MarketoとMochas - プログラム管理のベストプラクティス </a>
                     </p>
-                    <p class="is-size-6">プログラムライブラリテンプレート、クリエイティブアセット、ベストプラクティスデモンストレーションの最新のアップデートにより、フォルダーの設定、命名規則、メンバーの検索、プログラムのステータスチェックなど、Marketo プログラムの基本的な要素について説明します。</p>
+                    <p class="is-size-6">プログラムライブラリテンプレート、クリエイティブアセット、ベストプラクティスデモの最新アップデートにより、フォルダー設定、命名規則、メンバー検索、プログラムステータスチェックなど、Marketoプログラムに不可欠な要素を確認できます。</p>
                 </div>
                 <a href="2023/program-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">詳細情報</span>
