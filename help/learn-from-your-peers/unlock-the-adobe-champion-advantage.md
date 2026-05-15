@@ -31,6 +31,6 @@ ht-degree: 1%
 **追加リソース** 
 
 * [2026-2027 Adobe Champion プログラムに申し込む](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other) 
-* [Adobe Experience LeagueのAdobe Champion プログラムページにアクセス ](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other) 
+* [Adobe Experience LeagueのAdobe Champion プログラムページにアクセス &#x200B;](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other) 
 * [ChampionsによるAdobe Experience Leagueへの貢献をご覧ください](https://experienceleague.adobe.com/ja/perspectives)
 
