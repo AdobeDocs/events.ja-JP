@@ -26,5 +26,5 @@ ht-degree: 1%
 ## 追加情報
 
 *[顧客データ管理の人物とプロセスのベストプラクティス](people-and-process.md)
-*[&#x200B; ファーストパーティデータを活用して優れたエクスペリエンスを構築](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
-*[&#x200B; ユーザー事例 – TSB銀行、あらゆる顧客にリアルタイムでデータをパーソナライズ。](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[&#x200B; ファーストパーティデータを活用して優れたエクスペリエンスを構築](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=ja)
+*[&#x200B; ユーザー事例 – TSB銀行、あらゆる顧客にリアルタイムでデータをパーソナライズ。](https://business.adobe.com/jp/customer-success-stories/tsb-case-study.html)

@@ -32,8 +32,8 @@ ht-degree: 16%
 
 ## 追加情報
 
-[セグメントマッチの概要](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[セグメントマッチの概要](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=ja)
 
-[データバイヤー向けAudience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[データバイヤー向けAudience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=ja)
 
 [ピープルベースの配信先](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja)

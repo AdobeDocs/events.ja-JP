@@ -26,5 +26,5 @@ ht-degree: 1%
 ## 追加情報
 
 * [データ管理の最初のマイルを合理化](first-mile.md)
-* [データスチュワードとしてのマーケターの役割を高める](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
-* [責任ある顧客データ管理のための10の考慮事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+* [データスチュワードとしてのマーケターの役割を高める](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=ja)
+* [責任ある顧客データ管理のための10の考慮事項](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ja)
