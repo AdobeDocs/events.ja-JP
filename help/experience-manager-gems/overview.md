@@ -298,11 +298,11 @@ CARDS
 
 ## 常に把握
 
-AEM GEMの新しい配信先はいつか？  [AdobeのAEM ユーザーグループ ](https://aem-augs.adobe.com/)に登録して、通知を受け取ってください。
+AEM GEMの新しい配信先はいつか？  [AdobeのAEM ユーザーグループ &#x200B;](https://aem-augs.adobe.com/)に登録して、通知を受け取ってください。
 
 ## 話し合いを続ける
 
-[Experience Manager コミュニティ ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)では、他の開発者とつながり、AEMに関するディスカッションを続けることができます。  実装から製品利用の拡大に至るまで、ガイダンスやベストプラクティスを提供するために、他のチームやAdobeの従業員と連携することができます。  質問に素早く回答し、Adobeに商品アイデアと貴重なフィードバックを提供します。
+[Experience Manager コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=ja)では、他の開発者とつながり、AEMに関するディスカッションを続けることができます。  実装から製品利用の拡大に至るまで、ガイダンスやベストプラクティスを提供するために、他のチームやAdobeの従業員と連携することができます。  質問に素早く回答し、Adobeに商品アイデアと貴重なフィードバックを提供します。
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 

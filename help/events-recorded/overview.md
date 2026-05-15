@@ -15,7 +15,7 @@ ht-degree: 7%
 
 ## Experience Leagueでは、学習はイベントです。
 
-限定イベントやウェビナーを通じて、常に最新情報を入手し、学習を拡充できます。 このスペースには、Experience League LIVE、Skill Builders、Developers Liveなどの過去のイベントの記録を頻繁に確認できます。 今後のイベントに登録する場合は、Experience Leagueの[今後のイベント ](https://%65xperienceleague.adobe.com/events/?lang=en)をご覧ください。
+限定イベントやウェビナーを通じて、常に最新情報を入手し、学習を拡充できます。 このスペースには、Experience League LIVE、Skill Builders、Developers Liveなどの過去のイベントの記録を頻繁に確認できます。 今後のイベントに登録する場合は、Experience Leagueの[今後のイベント &#x200B;](https://%65xperienceleague.adobe.com/events/?lang=en)をご覧ください。
 
 ## イベントシリーズ
 

@@ -13,7 +13,7 @@ ht-degree: 2%
 # Experience Cloud Tech Sessions Recordings
 
 
-![Experience Cloud技術セッション ](./assets/tech-sessions-banner.png){align="center"}
+![Experience Cloud技術セッション &#x200B;](./assets/tech-sessions-banner.png){align="center"}
 
 ライブおよびオンデマンドのテクノロジーセッションで、Adobe Experience Cloudの潜在能力を最大限に引き出します。 これらのウェビナーは、従来のサポートを超えて、細部に至るまで配慮されています。 Adobe Adobeのエキスパートが参加するこのセッションでは、陥りがちな落とし穴を回避しながら、技術的なソリューションを自信を持って進めるための貴重なヒント、コツ、戦略を提供します。 Adobeのエキスパートは、最も重要な懸念事項に対処し、日々のケースに積極的に取り組むテクニカルサポートエンジニアです。 ライブオプションとオンデマンド両方に対応し、必要なときにいつでも情報に柔軟にアクセスできるため、シームレスな学習体験を実現できます。
 
