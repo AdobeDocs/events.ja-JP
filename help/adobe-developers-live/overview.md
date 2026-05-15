@@ -95,7 +95,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="ADOBEプロジェクトのAI：実践的なストーリー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="ADOBEプロジェクトのAI：実践的なストーリー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477626/?captions=jpn&format=jpeg&nocache=1765499677692" alt="ADOBEプロジェクトのAI：実践的なストーリー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -118,7 +118,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="AI コーディングによる対決：The Good, Bad &amp; Ugly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="AI コーディングによる対決：The Good, Bad &amp; Ugly"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477649/?captions=jpn&format=jpeg&nocache=1765499677608" alt="AI コーディングによる対決：The Good, Bad &amp; Ugly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,7 +164,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="AI Commerce Development Innovations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="AI Commerce Development Innovations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477682/?captions=jpn&format=jpeg&nocache=1765499677619" alt="AI Commerce Development Innovations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +187,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="ADOBE EXPERIENCE MANAGERによるAI コンテンツの発見" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="ADOBE EXPERIENCE MANAGERによるAI コンテンツの発見"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477741/?captions=jpn&format=jpeg&nocache=1765499677611" alt="ADOBE EXPERIENCE MANAGERによるAI コンテンツの発見"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -233,7 +233,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="大規模なドキュメント作成：AIを活用したインテリジェントなエクスペリエンスの基盤" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="大規模なドキュメント作成：AIを活用したインテリジェントなエクスペリエンスの基盤"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477809/?captions=jpn&format=jpeg&nocache=1765499677631" alt="大規模なドキュメント作成：AIを活用したインテリジェントなエクスペリエンスの基盤"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +279,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Adobe Experience Manager Agentsについて詳しく見る" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="Adobe Experience Manager Agentsについて詳しく見る"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477661/?captions=jpn&format=jpeg&nocache=1765499677627" alt="Adobe Experience Manager Agentsについて詳しく見る"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -302,7 +302,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="AEM Sites Optimizerでコードを最適化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="AEM Sites Optimizerでコードを最適化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477718/?captions=jpn&format=jpeg&nocache=1765499677637" alt="AEM Sites Optimizerでコードを最適化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

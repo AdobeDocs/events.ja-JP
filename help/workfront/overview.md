@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="オフィスアワーに対する3つのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="オフィスアワーに対する3つのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470143/?captions=jpn&format=jpeg&nocache=1778106659577" alt="オフィスアワーに対する3つのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights - Content Supply chainとCorre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chainとCorre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469995/?captions=jpn&format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chainとCorre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -277,7 +277,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Expert Insights - Governance &amp; Centers of Excellence ダニエル・ジョンストン" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Expert Insights - Governance &amp; Centers of Excellence ダニエル・ジョンストン"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470006/?captions=jpn&format=jpeg&nocache=1778106659848" alt="Expert Insights - Governance &amp; Centers of Excellence ダニエル・ジョンストン"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
