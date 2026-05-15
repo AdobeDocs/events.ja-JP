@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Experience Makers The Skill Exchange {#overview}
 
-<img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
+<img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=ja" />
 
 Experience Makers The Skill Exchangeは、Adobe Experience Cloudのソリューションをより深く掘り下げることに焦点を当てた、バーチャル顧客ラーニングイベントのグローバルシリーズです。 このプログラムでは、Adobeのプロダクトエキスパートやエキスパートから、ベストプラクティスやヒントやコツを共有することで学ぶことができます。
 
