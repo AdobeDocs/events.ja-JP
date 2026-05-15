@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Experience League LIVEのアセットが格納されています
 
-![ エピソード 6 サイドバー画像](assets/exl-live-ep6-sidebar.jpg)
+![&#x200B; エピソード 6 サイドバー画像](assets/exl-live-ep6-sidebar.jpg)
 
 ![Experience League Live Logo](assets/exl-live-logo.png)
