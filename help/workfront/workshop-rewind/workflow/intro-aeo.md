@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491318/?learn=on&enablevpops)
 
-詳細をご確認ください。 アドビの[ アドバンスドエンタープライズオペレーションイベントシリーズExperience League投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546)を購読すると、新しいセッション、登録リンク、録画、およびリソースが追加された際に、通知を自動受信できます。
+詳細をご確認ください。 アドビの[&#x200B; アドバンスドエンタープライズオペレーションイベントシリーズExperience League投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546)を購読すると、新しいセッション、登録リンク、録画、およびリソースが追加された際に、通知を自動受信できます。
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/en/events?lang=en)を必ず確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/en/events?lang=en)を必ず確認してください。
