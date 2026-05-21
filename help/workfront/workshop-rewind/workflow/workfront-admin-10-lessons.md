@@ -24,7 +24,7 @@ AramarkのAdobe WorkfrontアプリケーションオーナーであるJen Mancin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491410/?learn=on&enablevpops)
 
-イベント中に共有されたその他のリソースをお探しですか？ [Experience League コミュニティの投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661)を確認して、視点[Workfrontを通じた成長：実際の管理者レッスン ](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)を必ずブックマークしてください。
+イベント中に共有されたその他のリソースをお探しですか？ [Experience League コミュニティの投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661)を確認して、視点[Workfrontを通じた成長：実際の管理者レッスン &#x200B;](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)を必ずブックマークしてください。
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/en/events?lang=en)を確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/en/events?lang=en)を確認してください。
 
