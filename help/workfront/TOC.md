@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 008061527b5d34bc29fe9a79554f4cbeadcfaea6
+source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '555'
 ht-degree: 1%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 1%
       + [Workfront ボードのロック解除](workshop-rewind/workflow/unlock-boards.md)
       + [Workfront Data Connectの強力な機能を活用](workshop-rewind/workflow/data-connect.md)
       + [Workfrontを使用した効果的なレポート](workshop-rewind/workflow/effective-reorgs.md)
+      + [Workfront Admin - 10 Lessons](workshop-rewind/workflow/workfront-admin-10-lessons.md)
       + [WorkfrontとAEMのネイティブ連携](workshop-rewind/workflow/aem-native-integration.md)
       + [Workfrontレポート – 年末の戦略](workshop-rewind/workflow/reporting-year-end-strategies.md)
 + クイックテイク {#quicktakes}
