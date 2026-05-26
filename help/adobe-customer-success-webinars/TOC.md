@@ -2,9 +2,9 @@
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
 user-guide-description: Adobeのウェビナーは、Adobe Experience Cloudの価値を最大限に引き出すための機能です。 Adobe製品の価値を最大限に引き出し、その採用を促進するための貴重なインサイトを見つけましょう。
-source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
+source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '666'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 5%
       + [Content Supply chainの変更管理戦略](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
       + [Content Supply chainの基盤アーキテクチャ](2026/csc-architecture.md)
+      + [GenAI トラフィックアップデート（2026年第2四半期）](2026/gen-ai-traffic-update-q2.md)
       + [生成AI トラフィックの更新](2026/gen-ai-traffic-update.md)
       + [Content Supply chainの運用モデル](2026/csc-operating-model.md)
    + Workfront {#workfront2026}
