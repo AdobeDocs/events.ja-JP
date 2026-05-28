@@ -35,12 +35,12 @@ ht-degree: 5%
 
 ## その他のリソース
 
-* [メールDesignerの概要](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI アシスタント](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [カスタマイズ可能なフラグメント](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [条件付きコンテンツ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [メールDesignerの概要](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI アシスタント](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [カスタマイズ可能なフラグメント](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [条件付きコンテンツ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
 * [ブランドのテーマ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [機能の比較旧バージョンと新バージョンのメールDesigner](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [機能の比較旧バージョンと新バージョンのメールDesigner](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [リリースノート](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/current)
-* [Championの詳細：Marketo Engageでの新しい電子メールDesignerの詳細](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Championの詳細：Marketo Engageでの新しい電子メールDesignerの詳細](https://experienceleague.adobe.com/ja/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [Q&amp;A付きのコミュニティに関する会話に参加する](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)
