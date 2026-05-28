@@ -714,18 +714,18 @@ CARDS
 
 
 
->>
+&#x200B;>>
     &lt;div class=&quot;card-image&quot;>
     &lt;figure class=&quot;image x-is-16by9&quot;>
     &lt;a href=&quot;2024/workfront-mastery.md&quot; title=&quot;Workfront Mastery - Strategies for Success&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot;>
-    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success&quot;&lt;ph=&#39;342&#39;/>style=&quot;width: 100%; aspect-ratio: / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;&quot;>
+    &lt;img class=&quot;is-bordered-r-small&quot; src=&quot;https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754&quot; alt=&quot;Workfront Mastery - Strategies for Success&quot;&lt;ph=&#39;342&#39;/>style=&quot;width: 100%; aspect-ratio: / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;&quot;>
     &lt;/a>
     &lt;/figure>
     &lt;/div>
     &lt;div class=&quot;card-content is-padded-small&quot; style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;&quot;>
     &lt;div class=&quot;top-card-content&quot;>
     &lt;p=&quot;headline is-size-6 has-text-weight-bold&quot;>
-    &lt;a} href=&quot;2024/workfront-mastery.md&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot; title=&quot;Workfront Mastery - Strategies for Success&quot;>Workfront Mastery - Strategies for Success&lt;/a>
+    &lt;a&rbrace; href=&quot;2024/workfront-mastery.md&quot; target=&quot;_blank&quot; rel=&quot;referrer&quot; title=&quot;Workfront Mastery - Strategies for Success&quot;>Workfront Mastery - Strategies for Success&lt;/a>
     &lt;/p>
     &lt;p class=&quot;is-size-6&quot;>Adobe Workfrontを最大限に活用するための戦略でチームを強化しましょう。 
     このセッションでは、価値を提供し、ガバナンスを簡素化し、導入を促進するベストプラクティスを紹介します。&lt;/p>
