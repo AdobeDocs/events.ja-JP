@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Marketoとモハス
 
-MarketoとMochasの録音へようこそ。 これらの資料とAdobe Marketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html)および[ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)を組み合わせることで、Adobe Marketoを使用してビジネスをサポートする方法をより深く理解できます。
+MarketoとMochasの録音へようこそ。 これらの資料とAdobe Marketo [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html)および[&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)を組み合わせることで、Adobe Marketoを使用してビジネスをサポートする方法をより深く理解できます。
 
 ## 2025年レコーディング
 
