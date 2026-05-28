@@ -28,7 +28,7 @@ ht-degree: 2%
 * コンテンツの実験と最適化
 * 生成 AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444460/?captions=jpn&learn=on&enablevpops)
 
 ## 重要な留意点
 
