@@ -37,4 +37,4 @@ ht-degree: 0%
 * ユーザーが（メール）通知を受信しない場合は、常にログインして、通知がプロファイルでオンになっていることを確認するオプションがあります。 お困りの場合は、カスタマーサポートまでお問い合わせください。   
 * ステータスの変更に関連する電子メールをオフにすることを検討してください。これらは有益なアクションよりもノイズを引き起こしていますか？  
 
-今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント ](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。
+今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。
