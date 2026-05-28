@@ -1,7 +1,7 @@
 ---
-user-guide-title: Marketoの詳細
+user-guide-title: Marketoについて
 user-guide-breadcrumb: Marketo Deep Dives
-user-guide-description: 詳細な録画のリスト
+user-guide-description: ディープダイブの録音一覧
 type: Event
 solution: Marketo Engage
 mini-toc-levels: 2
@@ -12,33 +12,33 @@ event-cta-text-live: Join live
 doc-type: live event
 source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 2%
 
 ---
 
 
-# Marketoの詳細 {#deep-dives-recordings}
+# Marketoについて {#deep-dives-recordings}
 
 + [概要](overview.md)
-+ Marketoのディープダイブ {#deep-dives-marketo}
-   + [Admin Consoleの移行](admin-console.md)
++ Marketoについて {#deep-dives-marketo}
+   + [Admin Consoleへの移行](admin-console.md)
    + [API](api.md)
-   + [Marketoでの AI の適用](applying-ai.md)
-   + [Webhook とセルフサービスフローの手順でスマートなフローを実現](building-smarter-flows.md)
-   + [Marketo API を使用したキャンペーン操作の自動化と効率化](campaign-operations.md)
+   + [MarketoでのAIの活用](applying-ai.md)
+   + [Webhookとセルフサービスのフローステップによるスマートなフロー](building-smarter-flows.md)
+   + [Marketo APIを使用したキャンペーン運用の自動化と合理化](campaign-operations.md)
    + [認定制度](certification.md)
-   + [Marketo Engageの新しいメールDesignerを確認する](email-designer.md)
-   + [メール育成](email-nurture.md)
+   + [Adobe Marketo Engageの新しい電子メールDesignerをご確認ください](email-designer.md)
+   + [メールナーチャリング](email-nurture.md)
    + [実行可能なキャンペーン](executable-campaigns.md)
-   + [IMS 移行の展開](ims-migration.md)
+   + [IMS移行のアンパック](ims-migration.md)
    + [インスタンスの継承](inheriting-an-instance.md)
-   + [リード ライフサイクル](lead-lifecycles.md)
-   + [スケーラビリティのための PMCF フィールドの活用](pmcf-fields.md)
-   + [Marketo forms とAEM Forms](marketo-forms-aem-forms.md)
-   + [メールの配信品質の最大化](maximize-email-deliverability.md)
-   + [少人数のチームでインスタンスを最大化](small-team-instance.md)
-   + [アクティビティログでの複雑なプロセスの確認](activity-log.md)
-   + [Salesforce バックグラウンド同期のアップグレードと使用状況の監視](salesforce-background-sync.md)
-   + [グローバルマーケティングの解放](global-marketing.md)
-   + [Webhook を使用したデータ転送](webhooks.md)
+   + [リードライフサイクル](lead-lifecycles.md)
+   + [PMCF フィールドを活用したスケーラビリティ](pmcf-fields.md)
+   + [Marketo formsとAEM Forms](marketo-forms-aem-forms.md)
+   + [メールの配信品質を最大化](maximize-email-deliverability.md)
+   + [小規模なチームでインスタンスを最大化](small-team-instance.md)
+   + [アクティビティログでの複雑なプロセスの表示](activity-log.md)
+   + [Salesforceのバックグラウンド同期アップグレードと使用状況モニタリング](salesforce-background-sync.md)
+   + [グローバルマーケティングを実現](global-marketing.md)
+   + [Webhookを使用したデータ転送](webhooks.md)
