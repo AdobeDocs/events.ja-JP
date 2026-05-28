@@ -29,6 +29,6 @@ ht-degree: 1%
 
 ストーリーやユースケースの共有にご興味のある方は、csatscale@adobe.comにメールをお送りください。
 
-イベントで共有したいアイデアやフォローアップの質問はありますか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174)のコメントに自由に投稿してください。
+イベントで共有したいアイデアやフォローアップの質問はありますか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-from-self-taught-to-success-how-kyndryl-scaled/td-p/785174?profile.language=ja)のコメントに自由に投稿してください。
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。

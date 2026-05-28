@@ -26,7 +26,7 @@ ht-degree: 0%
 オンデマンド録画に加えて、スライドデッキとチャットで共有されたヒントを含めました。 
 
 * [スライドデッキPDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Mastering+Email+Notifications+in+Adobe+Workfront+050725.pdf)
-* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-mastering-email-notifications-in-adobe-workfront/td-p/752745?profile.language=ja)
 
 ここでは、チャットで共有されたヒントを簡単にまとめました。 
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 * ユーザーが（メール）通知を受信しない場合は、常にログインして、通知がプロファイルでオンになっていることを確認するオプションがあります。 お困りの場合は、カスタマーサポートまでお問い合わせください。   
 * ステータスの変更に関連する電子メールをオフにすることを検討してください。これらは有益なアクションよりもノイズを引き起こしていますか？  
 
-今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。
+今後のカスタマーサクセスワークショップでお会いできればと思います！  Experience Leagueの[Workfront イベント &#x200B;](https://experienceleague.adobe.com/events/?lang=ja&filters=Workfront)を必ず確認して、完全なリストと登録を行ってください。
