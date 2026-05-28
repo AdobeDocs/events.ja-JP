@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Experience Makers The Skill Exchange {#overview}
 
-<img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=ja" />
+<img alt="Experience Makers The Skill Exchange" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers The Skill Exchangeは、Adobe Experience Cloudのソリューションをより深く掘り下げることに焦点を当てた、バーチャル顧客ラーニングイベントのグローバルシリーズです。 このプログラムでは、Adobeのプロダクトエキスパートやエキスパートから、ベストプラクティスやヒントやコツを共有することで学ぶことができます。
 
@@ -55,7 +55,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics開会基調講演" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471182/?captions=jpn&format=jpeg&nocache=1757465008519" alt="Adobe Analytics開会基調講演"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757465008519" alt="Adobe Analytics開会基調講演"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -239,7 +239,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="Workspaceの機能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471252/?captions=jpn&format=jpeg&nocache=1757465008539" alt="Workspaceの機能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757465008539" alt="Workspaceの機能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -281,7 +281,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics開会基調講演" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471125/?captions=jpn&format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics開会基調講演"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757465009661" alt="Customer Journey Analytics開会基調講演"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -304,7 +304,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="CJAで料理 – 古典的なAA レシピを取り入れる" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471241/?captions=jpn&format=jpeg&nocache=1757465009634" alt="CJAで料理 – 古典的なAA レシピを取り入れる"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757465009634" alt="CJAで料理 – 古典的なAA レシピを取り入れる"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -350,7 +350,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="Adobe Customer Journey Analyticsのジャーニーキャンバスで顧客体験の成功を促進" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471215/?captions=jpn&format=jpeg&nocache=1757465009648" alt="Adobe Customer Journey Analyticsのジャーニーキャンバスで顧客体験の成功を促進"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757465009648" alt="Adobe Customer Journey Analyticsのジャーニーキャンバスで顧客体験の成功を促進"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -507,7 +507,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/scalable-asset-management.md" title="分類と構造 – AEMのスケーラブルな資産管理の秘密" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471422/?captions=jpn&format=jpeg&nocache=1757465010621" alt="分類と構造 – AEMのスケーラブルな資産管理の秘密"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757465010621" alt="分類と構造 – AEMのスケーラブルな資産管理の秘密"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -549,7 +549,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Skill Exchange基調講演 – AIを活用したエクスペリエンス構築の未来、Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471356/?captions=jpn&format=jpeg&nocache=1757465011389" alt="Skill Exchange基調講演 – AIを活用したエクスペリエンス構築の未来、Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757465011389" alt="Skill Exchange基調講演 – AIを活用したエクスペリエンス構築の未来、Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -683,7 +683,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="基調講演を開く" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471476/?captions=jpn&format=jpeg&nocache=1757465012333" alt="基調講演を開く"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757465012333" alt="基調講演を開く"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -729,7 +729,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="グローバルなマーケティングオペレーションにDesign Studioのパワーをフル活用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471420/?captions=jpn&format=jpeg&nocache=1757465012342" alt="グローバルなマーケティングオペレーションにDesign Studioのパワーをフル活用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757465012342" alt="グローバルなマーケティングオペレーションにDesign Studioのパワーをフル活用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -867,7 +867,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="センターオブエクセレンスのためのWorkfront組織の準備" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471585/?captions=jpn&format=jpeg&nocache=1757465013254" alt="センターオブエクセレンスのためのWorkfront組織の準備"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757465013254" alt="センターオブエクセレンスのためのWorkfront組織の準備"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -890,7 +890,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="新機能でユーザーを有効にする – 興奮は人生です" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471539/?captions=jpn&format=jpeg&nocache=1757465013227" alt="新機能でユーザーを有効にする – 興奮は人生です"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757465013227" alt="新機能でユーザーを有効にする – 興奮は人生です"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -913,7 +913,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="FusionでWorkfrontユーザーアカウントの作成を自動化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471572/?captions=jpn&format=jpeg&nocache=1757465013265" alt="FusionでWorkfrontユーザーアカウントの作成を自動化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757465013265" alt="FusionでWorkfrontユーザーアカウントの作成を自動化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Marketoの詳細イベント
 
-Deep Dives on-demand eventsの録画へようこそ。 これらの資料とAdobe Marketo [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=ja)および[&#x200B; チュートリアル &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja)を組み合わせることで、Adobe Marketoを使用してビジネスをサポートする方法をより深く理解できます。
+Deep Dives on-demand eventsの録画へようこそ。 これらの資料とAdobe Marketo [ ドキュメント ](https://experienceleague.adobe.com/docs/marketo-engage.html)および[ チュートリアル ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)を組み合わせることで、Adobe Marketoを使用してビジネスをサポートする方法をより深く理解できます。
 
 <!-- 
 CARDS
@@ -71,7 +71,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Adobe IdentityでのMarketo Engageの準備" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432372/?captions=jpn&format=jpeg&nocache=1772063850796" alt="Adobe IdentityでのMarketo Engageの準備"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1772063850796" alt="Adobe IdentityでのMarketo Engageの準備"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +94,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432503/?captions=jpn&format=jpeg&nocache=1772063850782" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1772063850782" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
