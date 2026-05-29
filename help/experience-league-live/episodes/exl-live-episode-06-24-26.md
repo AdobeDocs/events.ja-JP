@@ -19,6 +19,6 @@ ht-degree: 0%
 
 今回のExperience League LIVE エピソードでは、新しいTarget MCPでエージェンティック時代を迎えるAdobe Targetの最新の画期的なイノベーションを、Targetのエキスパートが紹介します。 Dynamicsの機能やアクセス方法、実際の機能についてご紹介します。 また、新しいAdobe Targetのリリースをすべて紹介し、ユースケースの拡大や、インテリジェンスとエクスペリエンスの改善を紹介するデモも行います。
 
-[![ExL ライブ （2026年6月24日） ](/help/experience-league-live/assets/WebBannerExlLive-June24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[![ExL ライブ （2026年6月24日） &#x200B;](/help/experience-league-live/assets/WebBannerExlLive-June24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
 [YouTube リマインダーを設定する](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
