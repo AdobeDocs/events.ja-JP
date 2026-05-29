@@ -10,9 +10,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: a7585dae52e0499645518c31bba406d8dee45323
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 2%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 2%
    + [Admin Consoleへの移行](admin-console.md)
    + [API](api.md)
    + [MarketoでのAIの活用](applying-ai.md)
-   + [Webhookとセルフサービスのフローステップによるスマートなフロー](building-smarter-flows.md)
    + [Marketo APIを使用したキャンペーン運用の自動化と合理化](campaign-operations.md)
    + [認定制度](certification.md)
    + [Adobe Marketo Engageの新しい電子メールDesignerをご確認ください](email-designer.md)
    + [メールナーチャリング](email-nurture.md)
    + [実行可能なキャンペーン](executable-campaigns.md)
+   + [AIの基本](fundamentals-for-ai.md)
    + [IMS移行のアンパック](ims-migration.md)
    + [インスタンスの継承](inheriting-an-instance.md)
    + [リードライフサイクル](lead-lifecycles.md)
@@ -40,5 +40,6 @@ ht-degree: 2%
    + [小規模なチームでインスタンスを最大化](small-team-instance.md)
    + [アクティビティログでの複雑なプロセスの表示](activity-log.md)
    + [Salesforceのバックグラウンド同期アップグレードと使用状況モニタリング](salesforce-background-sync.md)
+   + [Webhookとセルフサービスのフローステップによるスマートなフロー](building-smarter-flows.md)
    + [グローバルマーケティングを実現](global-marketing.md)
    + [Webhookを使用したデータ転送](webhooks.md)
