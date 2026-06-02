@@ -3,10 +3,10 @@ title: Adobe Workfrontオンデマンドワークショップ
 description: Workfront Eventsは、Workfrontを使用して自社の業務を強化する方法について、専門家や同僚が考えやアイデアを共有するビデオライブラリです。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -53,11 +53,11 @@ CARDS
 
 ## ワークショップ巻き戻し
 
-5月は卒業シーズンの始まりであり、以前に行ったことがある人から新しい視点と学びのための時間です。 この特別イベントでは、Adobe Adobe Workfrontの熟練したお客様から、実践的なアドバイス、実践的な経験、すぐに活用できるインサイトを共有する、さまざまなセッションを特集します。 今月の注目ビデオには、まったく新しいコンテンツと過去の傑出したセッションのミックスが含まれており、今日も同様に関連性があります。
+6月が到着し、最新版の[Workfront電信送金](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)が届きました。 このニュースレターでは、Workfrontに関する最新ニュースや最新情報、イベントなど、あらゆることを一元的に入手できます。
 
 詳細をご確認ください。 厳選されたオンデマンドイベントを通じて、Adobe Workfrontコミュニティの最新情報をご確認ください。 左側のナビゲーションメニューを使用して、Workshop巻き戻しの下のトピックを参照します。セッションは、Fusion、プランニング、ワークフローごとにグループ化されており、ニーズに合わせたコンテンツをすばやく見つけることができます。
 
-また、今後のライブイベントに参加し、質問したり、インサイトを共有したり、他のメンバーと協力したりすることも重要です。 今後の予定については、[Experience League Workfront イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events?filters=Workfront)に定期的にアクセスしてください。
+また、今後のライブイベントに参加し、質問したり、インサイトを共有したり、他のメンバーと協力したりすることも重要です。 今後の予定については、[Experience League Workfront イベント ページ ](https://experienceleague.adobe.com/en/events?filters=Workfront)に定期的にアクセスしてください。
 
 <!-- 
 CARDS 
@@ -110,7 +110,7 @@ CARDS
                     <p class="is-size-6">Adobe Workfrontの上級管理職が、ワークフローの適切な管理とシステムの効果的な導入にどのように役立つのかを解説します。</p>
                 </div>
                 <a href="workshop-rewind/workflow/lessons-learned-admins.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">視聴</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">所要時間</span>
                 </a>
             </div>
         </div>
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="オフィスアワーに対する3つのアプローチ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470143/?captions=jpn&format=jpeg&nocache=1778106659577" alt="オフィスアワーに対する3つのアプローチ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="オフィスアワーに対する3つのアプローチ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,7 +196,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="VS. - イシューとプロジェクト">対。 - イシューとプロジェクト </a>
+                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="VS. - イシューとプロジェクト">VS. - イシューとプロジェクト </a>
                     </p>
                     <p class="is-size-6">Adobe Workfrontの課題とプロジェクトの違いを確認し、チームのワークフローとレポートのニーズに適したアプローチを見つけましょう。</p>
                 </div>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Expert Insights - Content Supply chainとCorre Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469995/?captions=jpn&format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chainとCorre Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Expert Insights - Content Supply chainとCorre Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -277,7 +277,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Expert Insights - Governance &amp; Centers of Excellence ダニエル・ジョンストン" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470006/?captions=jpn&format=jpeg&nocache=1778106659848" alt="Expert Insights - Governance &amp; Centers of Excellence ダニエル・ジョンストン"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Expert Insights - Governance &amp; Centers of Excellence ダニエル・ジョンストン"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
