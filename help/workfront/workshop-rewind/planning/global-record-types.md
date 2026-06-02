@@ -21,6 +21,6 @@ Lilit MkrtchyanのシニアプロダクトマネージャーであるLilit Mkrtc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-イベント中に共有されたその他のリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827)をご覧ください。
+イベント中に共有されたその他のリソースをお探しですか？ [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827?profile.language=ja)をご覧ください。
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/en/events?lang=en)を確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events?lang=en)を確認してください。
