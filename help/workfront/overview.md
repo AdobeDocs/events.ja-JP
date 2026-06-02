@@ -53,11 +53,11 @@ CARDS
 
 ## ワークショップ巻き戻し
 
-6月が到着し、最新版の[Workfront電信送金](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)が届きました。 このニュースレターでは、Workfrontに関する最新ニュースや最新情報、イベントなど、あらゆることを一元的に入手できます。
+6月が到着し、最新版の[Workfront電信送金](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?profile.language=ja&tid=250880)が届きました。 このニュースレターでは、Workfrontに関する最新ニュースや最新情報、イベントなど、あらゆることを一元的に入手できます。
 
 詳細をご確認ください。 厳選されたオンデマンドイベントを通じて、Adobe Workfrontコミュニティの最新情報をご確認ください。 左側のナビゲーションメニューを使用して、Workshop巻き戻しの下のトピックを参照します。セッションは、Fusion、プランニング、ワークフローごとにグループ化されており、ニーズに合わせたコンテンツをすばやく見つけることができます。
 
-また、今後のライブイベントに参加し、質問したり、インサイトを共有したり、他のメンバーと協力したりすることも重要です。 今後の予定については、[Experience League Workfront イベント ページ &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront)に定期的にアクセスしてください。
+また、今後のライブイベントに参加し、質問したり、インサイトを共有したり、他のメンバーと協力したりすることも重要です。 今後の予定については、[Experience League Workfront イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events?filters=Workfront)に定期的にアクセスしてください。
 
 <!-- 
 CARDS 
