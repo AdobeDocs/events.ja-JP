@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobeカスタマーサクセスウェビナー
 breadcrumb-title: Adobeカスタマーサクセスウェビナー
-user-guide-description: Adobeのウェビナーは、Adobe Experience Cloudの価値を最大限に引き出すための機能です。 Adobe製品の価値を最大限に引き出し、その採用を促進するための貴重なインサイトを見つけましょう。
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+user-guide-description: Adobeでは、Adobe Experience Cloudへの投資を最大限に活用できるように設計された、カスタマーサクセス主導のウェビナーを開催します。 Adobe製品の価値を最大限に引き出し、その採用を促進するための貴重なインサイトを見つけましょう。
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 5%
       + [CUSTOMER JOURNEY ANALYTICS用BRD-SDR ファイルの作成](2026/brd-sdr-file-best-practices.md)
       + [Idのロック解除](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [AI エージェントとアシスタントでAEMを変革](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [Edge Delivery Servicesでのオーサリング](2026/authoring-eds.md)
       + [コンテンツサプライチェーンを最大化](2026/value-with-content-supply-chain.md)
       + [AEM Sitesの最新の配信モデル](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 5%
    + Experience Platform {#aep2026}
       + [組み込みのインテリジェンスシフト](2026/embedded-intelligence.md)
    + 全般 {#general2026}
+      + [エージェンティック AIのパワーを活用](2026/unlock-the-power-of-agentic-ai.md)
       + [ホリデーシーズンの成功に役立つAI戦略](2026/2025-holiday-results.md)
       + [Content Supply chainの変更管理戦略](2026/csc-change-management.md)
       + [Content Supply chain Executive Sponsorship](2026/csc-executive-sponsorship.md)
