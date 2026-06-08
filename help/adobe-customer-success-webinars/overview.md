@@ -59,7 +59,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/unlock-identities.md" title="シームレスなジャーニー- CJAでIDを開放" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480150/?format=jpeg&nocache=1780935935864" alt="シームレスなジャーニー- CJAでIDを開放"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480153/?captions=jpn&format=jpeg&nocache=1780935935864" alt="シームレスなジャーニー- CJAでIDを開放"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -171,7 +171,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="コンテンツサプライチェーンを最大化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1780935936122" alt="コンテンツサプライチェーンを最大化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479087/?captions=jpn&format=jpeg&nocache=1780935936122" alt="コンテンツサプライチェーンを最大化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -194,7 +194,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/modern-delivery-model-aem.md" title="AEM Sitesの最新の配信モデル" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1780935936094" alt="AEM Sitesの最新の配信モデル"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478776/?captions=jpn&format=jpeg&nocache=1780935936094" alt="AEM Sitesの最新の配信モデル"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -373,7 +373,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/csc-change-management.md" title="VRA Session 5 - Change Management Strategies to Operate your Content Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1780935936521" alt="VRA Session 5 - Change Management Strategies to Operate your Content Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479818/?captions=jpn&format=jpeg&nocache=1780935936521" alt="VRA Session 5 - Change Management Strategies to Operate your Content Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -665,7 +665,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Adobe Customer Journey Analytics Success支援のためのエグゼクティブスポンサーシップの構築" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1780935937011" alt="Adobe Customer Journey Analytics Success支援のためのエグゼクティブスポンサーシップの構築"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470855/?captions=jpn&format=jpeg&nocache=1780935937011" alt="Adobe Customer Journey Analytics Success支援のためのエグゼクティブスポンサーシップの構築"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -711,7 +711,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-shared-audiences.md" title="CJAを使用して30分でオファーを作成" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477449/?format=jpeg&nocache=1780935937041" alt="CJAを使用して30分でオファーを作成"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477455/?captions=jpn&format=jpeg&nocache=1780935937041" alt="CJAを使用して30分でオファーを作成"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1064,7 +1064,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="AEM Sitesを使いこなす – テンプレート、ナビゲーション、SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1780935937222" alt="AEM Sitesを使いこなす – テンプレート、ナビゲーション、SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464316/?captions=jpn&format=jpeg&nocache=1780935937222" alt="AEM Sitesを使いこなす – テンプレート、ナビゲーション、SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1270,7 +1270,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI アシスタント – 基本を超えて" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1780935937440" alt="AI アシスタント – 基本を超えて"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463359/?captions=jpn&format=jpeg&nocache=1780935937440" alt="AI アシスタント – 基本を超えて"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1402,7 +1402,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Supply chainとAdobe GenStudio as a Product Suiteのコンテンツについて" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1780935937676" alt="Supply chainとAdobe GenStudio as a Product Suiteのコンテンツについて"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472980/?captions=jpn&format=jpeg&nocache=1780935937676" alt="Supply chainとAdobe GenStudio as a Product Suiteのコンテンツについて"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1585,7 +1585,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ajo-adobe-campaign.md" title="Adobe Adobe Journey OptimizerとAdobe Adobe Campaignを活用してキャンペーンを最新化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477880/?format=jpeg&nocache=1780935937785" alt="Adobe Adobe Journey OptimizerとAdobe Adobe Campaignを活用してキャンペーンを最新化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477894/?captions=jpn&format=jpeg&nocache=1780935937785" alt="Adobe Adobe Journey OptimizerとAdobe Adobe Campaignを活用してキャンペーンを最新化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1786,7 +1786,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="AJOにおける生成AIの実験とAdobe Targetとの関係" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1780935938080" alt="AJOにおける生成AIの実験とAdobe Targetとの関係"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444460/?captions=jpn&format=jpeg&nocache=1780935938080" alt="AJOにおける生成AIの実験とAdobe Targetとの関係"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2336,7 +2336,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Real-Time Customer Data PlatformとMarketoの連携の基本" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1780935938738" alt="Real-Time Customer Data PlatformとMarketoの連携の基本"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433669/?captions=jpn&format=jpeg&nocache=1780935938738" alt="Real-Time Customer Data PlatformとMarketoの連携の基本"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2497,7 +2497,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="データストリームの優先順位付け" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1780935938760" alt="データストリームの優先順位付け"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456806/?captions=jpn&format=jpeg&nocache=1780935938760" alt="データストリームの優先順位付け"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2681,7 +2681,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Personalizationの成熟度：ハイパーパーソナライゼーションの実現" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1780935938795" alt="Personalizationの成熟度：ハイパーパーソナライゼーションの実現"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457346/?captions=jpn&format=jpeg&nocache=1780935938795" alt="Personalizationの成熟度：ハイパーパーソナライゼーションの実現"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2727,7 +2727,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="効率の最大化 – リーンチームとCustomer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1780935938862" alt="効率の最大化 – リーンチームとCustomer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457009/?captions=jpn&format=jpeg&nocache=1780935938862" alt="効率の最大化 – リーンチームとCustomer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2842,7 +2842,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="戦略的リーダーシップ" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1780935938844" alt="戦略的リーダーシップ"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456784/?captions=jpn&format=jpeg&nocache=1780935938844" alt="戦略的リーダーシップ"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -3003,7 +3003,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="「Maximizing Efficiency with Adobe Workfront - Lean Teams」ウェビナー" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1780935938915" alt="「Maximizing Efficiency with Adobe Workfront - Lean Teams」ウェビナー"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456707/?captions=jpn&format=jpeg&nocache=1780935938915" alt="「Maximizing Efficiency with Adobe Workfront - Lean Teams」ウェビナー"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
