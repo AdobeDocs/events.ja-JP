@@ -6,16 +6,17 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
-source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
+source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Target MCPおよびAdobe Targetのその他の主要な新リリースを活用する方法
 
-このExperience League LIVEのエピソードでは、Adobe TargetがTarget MCPを提供し、プログラムのインサイトを分析し、エージェントの助けを借りてアクティビティを構築および編集する方法や、最適化を拡張するためのその他の新機能を紹介します。
+次回のExperience League LIVEでは、アドビのエキスパートがAdobe Targetの最新イノベーションを解説し、エージェンティック時代へと歩み出します。 新しいTarget MCPの概要、アクセス方法、プログラムインサイトの分析、エージェントとのアクティビティの構築と編集の仕組みなどを紹介します。 また、最適化を拡張するために設計された追加新機能や機能強化のデモも共有します。
 
 このセッションでは、次のことについて解説します。
 
@@ -27,7 +28,6 @@ ht-degree: 0%
 
 エージェント型の最適化の最新情報や、アドビのエキスパートによる質問にお答えします。
 
-
-[![ExL ライブ （2026年6月24日） &#x200B;](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
 [YouTube リマインダーを設定する](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+
+[![ExL ライブ （2026年6月24日） ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
