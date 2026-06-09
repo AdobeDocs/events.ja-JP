@@ -30,4 +30,4 @@ ht-degree: 0%
 
 **[お申し込みください！](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}**
 
-[![ExL ライブ （2026年6月24日） ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
+[![ExL ライブ （2026年6月24日） &#x200B;](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
