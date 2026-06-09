@@ -30,4 +30,4 @@ ht-degree: 0%
 
 [YouTube リマインダーを設定する](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
-[![ExL ライブ （2026年6月24日） ](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
+[![ExL ライブ （2026年6月24日） &#x200B;](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
