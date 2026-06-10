@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
+source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '565'
 ht-degree: 1%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 1%
       + [データ収集](workshop-rewind/workflow/data-collection.md)
       + [Workfrontの価値の定義と伝達](workshop-rewind/workflow/workfront-value.md)
       + [Workfrontの効果的なコミュニケーションのヒント](workshop-rewind/workflow/communication-tips.md)
+      + [カスタムFormsとローカライズの強化](workshop-rewind/workflow/enhanced-logic-localization.md)
       + [ガバナンス、実行、導入のヒント](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Group Admin Essentials](workshop-rewind/workflow/group-admins.md)
       + [高度なエンタープライズ運用の導入](workshop-rewind/workflow/intro-aeo.md)
