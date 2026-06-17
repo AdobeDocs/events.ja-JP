@@ -23,6 +23,6 @@ Chris Perez氏（デジタルマーケティング担当シニアディレクタ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492389/?learn=on&enablevpops)
 
-詳細をご確認ください。 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-scaling-marketing-operations-mckesson-s-automation-journey-with-workfront-fusion-june-16-2026-251162)で話題を続けましょう！
+詳細をご確認ください。 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-scaling-marketing-operations-mckesson-s-automation-journey-with-workfront-fusion-june-16-2026-251162?profile.language=ja)で話題を続けましょう！
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
