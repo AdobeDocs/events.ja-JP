@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
+source-git-commit: 259802ff23ae19444b03976becefe4fabeff38aa
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '569'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,7 @@ ht-degree: 1%
       + [Fusion デコード済み](workshop-rewind/fusion/fusion-decoded.md)
       + [Fusion デコード済みパート 2 – 構築を開始](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Workfront Fusionが人間を支援する仕組み](workshop-rewind/fusion/inside-mayo-clinic.md)
+      + [McKesson Fusionのリソース管理の自動化](workshop-rewind/fusion/mckesson-fusion-automation.md)
       + [複数選択フィールドの変更を簡単に操作する](workshop-rewind/fusion/mulit-select-fields.md)
       + [プロアクティブな例外処理](workshop-rewind/fusion/proactive-exception-handling.md)
       + [Schneider Electric、Workfrontの効率化を推進](workshop-rewind/fusion/schneider-electric-efficiency.md)
