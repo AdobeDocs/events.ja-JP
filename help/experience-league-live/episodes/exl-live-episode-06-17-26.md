@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492438/?learn=on&enablevpops)
 
-[Experience League Community](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138)で、アドビのエキスパートが待機してお客様の質問にお答えします。
+[Experience League Community](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138?profile.language=ja)で、アドビのエキスパートが待機してお客様の質問にお答えします。
