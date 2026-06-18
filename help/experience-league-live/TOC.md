@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 50b5538ac3ad157286a0ba23b548e6d05eaa22b3
+source-git-commit: 5c9d0425f08771e901052fffb0c62a640d4de6f9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '407'
 ht-degree: 15%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 15%
 
 + [概要](overview.md)
 + エピソード {#episodes}
+   + [Adobe Journey OptimizerのAEM コンテンツフラグメント：新機能とその使用方法](episodes/exl-live-episode-07-16-26.md)
    + [Target MCPおよびAdobe Targetのその他の主要な新リリースを活用する方法](episodes/exl-live-episode-06-24-26.md)
    + [本番稼働前に、ジャーニーを効率的にテスト、シミュレート、検証できます](episodes/exl-live-episode-06-17-26.md)
    + [顧客エンゲージメントの新しいユースケース：iOS ライブアクティビティ、web プッシュ、永続的なメッセージ](episodes/exl-live-episode-04-08-26.md)
