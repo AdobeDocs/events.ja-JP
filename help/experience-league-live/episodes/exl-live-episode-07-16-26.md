@@ -7,7 +7,7 @@ feature: Deliverability
 event-cta-url-live: https://youtube.com/live/lrdorB0LgFo
 event-start-time: 2026-07-16 08:30-7
 event-guests: Sandra Hausmann, Jyothitha Chandran, Tyson Wai, Chris Ivory
-source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
+source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -40,3 +40,4 @@ Managed Servicesを利用している場合は、AJOから直接AEM コンテン
 AEMの作成者とAJOの実務担当者が、共同作業によってコンテンツを管理し、チーム間の引き継ぎのつまずきを減らしたい場合に最適です。
 
 **上の画像をクリックして、番組のリマインダーを設定してください！**
+
