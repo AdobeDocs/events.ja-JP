@@ -25,5 +25,5 @@ TD BankのEnterprise Workfront Platform Lead &amp; Product OwnerであるNuria M
 
 詳細をご確認ください。 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?tid=251357)で話題を続けましょう！
 
-毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ ](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
+毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
 
