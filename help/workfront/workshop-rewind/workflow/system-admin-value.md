@@ -23,7 +23,7 @@ TD BankのEnterprise Workfront Platform Lead &amp; Product OwnerであるNuria M
 
 このセッションでは、Nuriaが、小規模で意図的な設定によって、コスト削減、効率性向上、Workfront System Adminの役割強化をどのように可視化できるのか、実例を紹介します。 Adobe Workfrontを初めて導入する場合でも、経験豊富な管理者であっても、より効果的に支援し、成長の機会を見出して、戦略的パートナーになるための実践的なアイデアを提供します。
 
-詳細をご確認ください。 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?tid=251357)で話題を続けましょう！
+詳細をご確認ください。 [Experience League コミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?profile.language=ja&tid=251357)で話題を続けましょう！
 
 毎月新しいイベントが追加されるので、最新のセッションについては、[Experience League イベント ページ &#x200B;](https://experienceleague.adobe.com/ja/events)を必ず確認してください。
 
