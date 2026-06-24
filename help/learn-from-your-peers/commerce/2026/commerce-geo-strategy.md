@@ -8,9 +8,9 @@ duration: 5
 last-substantial-update: 2026-05-26T00:00:00Z
 jira: KT-21383
 exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
-source-git-commit: 059d7a6869a7b223ffa67dd878c6db5b35249a37
+source-git-commit: 259cd7b663537c646c7c928dc4a5ee0aa0fed4ab
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Memoは、複数の市場にまたがるD2C業務に携わる、世界で最も�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491452/?learn=on&enablevpops)
 
-[*セッションスライド*](../../assets/commerce/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
+[セッションスライド](https://expleague.blob.core.windows.net/thumb/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
 
 ## 学習すること
 
