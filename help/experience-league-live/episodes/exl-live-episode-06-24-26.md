@@ -1,15 +1,14 @@
 ---
 title: Target MCPおよびAdobe Targetのその他の主要な新リリースを活用する方法
-description: 新しいジャーニーシミュレーション機能を利用して、導入前にカスタマージャーニーを検証し、さらに進化させる方法を学びましょう。
-kt: 21226
+description: 新しいAdobe Target MCP サーバーを活用して、エージェントを使用してアクティビティを構築および分析する方法に加えて、ベイズ テスト、機能フラグ、およびCDN実験について説明します。
 solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
+source-git-commit: b0680eb53b3b68243cda9d1f2681f72d67b88511
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -28,4 +27,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-[Adobe Target MCP server](https://experienceleague.adobe.com/ja/docs/target/using/mcp/target-mcp)の詳細については、製品ドキュメントを参照してください。
+[Adobe Target MCP server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)の詳細については、製品ドキュメントを参照してください。
+よくある質問と？[ コミュニティフォーラム ](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358)で質問してください。アドビのエキスパートがこのエピソードのディスカッションスレッドを積極的に監視しています。
