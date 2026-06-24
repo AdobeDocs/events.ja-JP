@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-[Adobe Target MCP server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)の詳細については、製品ドキュメントを参照してください。
+[Adobe Target MCP server](https://experienceleague.adobe.com/ja/docs/target/using/mcp/target-mcp)の詳細については、製品ドキュメントを参照してください。
