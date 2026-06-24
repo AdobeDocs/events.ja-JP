@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: b4b48b83a52b48c67d0d514600045b138ed24f36
+source-git-commit: 218fd488296922bf242f13ede602ae50896fedab
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -85,6 +85,7 @@ ht-degree: 1%
       + [コミュニケーションのヒント](workshop-rewind/workflow/10-communication-tips.md)
       + [テキストモードに関する10のヒント](workshop-rewind/workflow/text-mode-tips.md)
       + [テキストモードに関する10のヒント](workshop-rewind/workflow/10-more-text-mode-tips.md)
+      + [システム管理者値の追跡](workshop-rewind/workflow/system-admin-value.md)
       + [ユーザーの混乱を自信に変える](workshop-rewind/workflow/avalara-user-transformation.md)
       + [Workfront計算フィールドのトラブルシューティング](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
       + [ブループリントをトレーニングプログラムに変換](workshop-rewind/workflow/blueprints-to-planning.md)
