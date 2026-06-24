@@ -27,5 +27,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-[Adobe Target MCP server](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)の詳細については、製品ドキュメントを参照してください。
-よくある質問と？[&#x200B; コミュニティフォーラム &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358)で質問してください。アドビのエキスパートがこのエピソードのディスカッションスレッドを積極的に監視しています。
+[Adobe Target MCP server](https://experienceleague.adobe.com/ja/docs/target/using/mcp/target-mcp)の詳細については、製品ドキュメントを参照してください。
+よくある質問と？[&#x200B; コミュニティフォーラム &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-target-14/experience-league-live-june-24-2026-how-to-leverage-target-mcp-and-other-major-new-releases-in-adobe-target-watch-the-recording-251358?profile.language=ja)で質問してください。アドビのエキスパートがこのエピソードのディスカッションスレッドを積極的に監視しています。
