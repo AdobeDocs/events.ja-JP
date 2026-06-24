@@ -3,9 +3,9 @@ user-guide-title: Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Workfront Events
 solution: Workfront
-source-git-commit: 259802ff23ae19444b03976becefe4fabeff38aa
+source-git-commit: b4b48b83a52b48c67d0d514600045b138ed24f36
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '572'
 ht-degree: 1%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 1%
       + [Workfront Fusionでブランド付きPDFを自動化](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [命名規則の自動化](workshop-rewind/fusion/automating-naming-conventions.md)
       + [作業プロセスの自動化](workshop-rewind/fusion/automate-work-processes.md)
+      + [基本的なWorkfront API](workshop-rewind/fusion/basic-workfront-apis.md)
       + [Fusionのメリットとベストプラクティス](workshop-rewind/fusion/benefits-best-practices.md)
       + [データ読み込み](workshop-rewind/fusion/data-imports.md)
       + [Fusionのメリットとユースケース](workshop-rewind/fusion/case-for-fusion.md)
