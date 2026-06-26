@@ -3,9 +3,9 @@ user-guide-title: Marketo Engageの基盤
 breadcrumb-title: Marketo Engageの基盤
 user-guide-description: 基本Marketo ユーザーグループに参加して、初心者向けのサポートセッションを通じて、Adobe Marketo Engageの自信とコアスキルを築きましょう。
 solution: Marketo Engage
-source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
+source-git-commit: a62b7c342f31cfc7a4fc858d84d6cf149f725545
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 2%
 
 + [Marketo Engage Webinarsの基盤](overview.md)
 + 2026 {#2026}
+   + [新しい製品や機能を発表する](2026/new-product.md)
    + [月刊ニュースレターを展開する](2026/monthly-newsletter.md)
    + [Marketo Engageの基本](2026/fundamentals.md)
 + 2025 {#2025}

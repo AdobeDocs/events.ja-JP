@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: ' [!DNL Experience Makers Learn from your peers]からの録音のコレクション'
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+source-git-commit: a62b7c342f31cfc7a4fc858d84d6cf149f725545
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 7%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 7%
       + [アジャイル SDLCでのコミュニケーション、要件、テスト](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 2026 {#2026}
+      + [AEMとEDSでAIを適切に活用](experience-manager/2026/ai-aem-eds.md)
       + [ダイナミックメディアを利用したオムニチャネル体験の拡張](experience-manager/2026/omnichannel-dynamic-media.md)
    + 2025 {#2025}
       + [Metadata Mayhem to Mastery](experience-manager/2025/metadata-mayhem.md)
@@ -65,13 +66,13 @@ ht-degree: 7%
       + [Marketo EngageとDynamic Chat](marketo/2023/dynamic-chat.md)
       + [Marketo Engageで電子メールの配信品質を向上](marketo/2023/email-deliverability.md)
       + [マーケティングキャンペーンの追跡、分析、最適化](marketo/2023/marketing-campaigns.md)
-      + [&#x200B; [!DNL Marketo Engage]を使用したPersonalizationの大規模コードのクラック](marketo/2023/personalization-at-scale.md)
-      + [&#x200B; [!DNL Adobe Marketo Engage]  コンテンツをスケーラブルにする方法](marketo/2023/templates-tokens-teamwork.md)
+      + [ [!DNL Marketo Engage]を使用したPersonalizationの大規模コードのクラック](marketo/2023/personalization-at-scale.md)
+      + [ [!DNL Adobe Marketo Engage]  コンテンツをスケーラブルにする方法](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2026 {#2026}
       + [持続可能なWorkfrontの導入](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [メタデータメイヘム](https://experienceleague.adobe.com/ja/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [メタデータメイヘム](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [効果の明確さ：Workfrontの価値を測定および共有する方法](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [リソースプランニングを自動化で簡素化](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024年 {#2024}
@@ -96,4 +97,4 @@ ht-degree: 7%
       + [Workfrontのガバナンスとは何ですか？](workfront/2022/what-is-workfront-governance.md)
 + [Adobe Adobe Championのアドバンテージを活用](./unlock-the-adobe-champion-advantage.md)
 + [チャンピオンとして応募し、際立つ方法を学びましょう](./adobe-champion-application.md)
-+ [Experience CloudのAdobeユーザーグループについて詳しく見る](./adobe-user-groups.md)
++ [Adobe Experience CloudのAdobeユーザーグループについて詳しく見る](./adobe-user-groups.md)
